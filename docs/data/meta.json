@@ -1,8 +1,10 @@
 {
  "generated_at": "2026-10-28",
- "field": "Ecosystem services valuation and governance in the Global South",
- "sample": true,
- "errors": {},
+ "field": "This field studies how ecosystem valuation and governance shape land use and human well-being in the Global South.",
+ "sample": false,
+ "errors": {
+  "radar": "AttributeError: 'list' object has no attribute 'get'"
+ },
  "version": 1,
  "sections": [
   "today",

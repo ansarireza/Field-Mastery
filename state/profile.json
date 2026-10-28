@@ -1,0 +1,91 @@
+{
+ "field_summary": "This field studies how ecosystem valuation and governance shape land use and human well-being in the Global South.",
+ "areas": [
+  "Ecosystem services valuation",
+  "Environmental governance",
+  "Land use change",
+  "Human well-being",
+  "Payments for ecosystem services",
+  "Global South development",
+  "Nature contributions to people",
+  "Conservation policy",
+  "Socioecological systems",
+  "Natural resource management"
+ ],
+ "queries": [
+  "ecosystem services valuation",
+  "payments for ecosystem services",
+  "land use change",
+  "environmental governance",
+  "human well-being",
+  "nature contributions to people",
+  "conservation policy",
+  "global south development"
+ ],
+ "must_terms": [
+  "ecosystem service",
+  "valuation",
+  "governance",
+  "land-use",
+  "well-being",
+  "global south",
+  "payment",
+  "conservation",
+  "sustainability",
+  "biodiversity",
+  "livelihood",
+  "policy"
+ ],
+ "region_terms": [
+  "africa",
+  "asia",
+  "latin america",
+  "global south",
+  "developing country",
+  "sub-saharan",
+  "southeast asia",
+  "south asia",
+  "tropics",
+  "low-income"
+ ],
+ "policy_queries": [
+  "ecosystem services policy regulation",
+  "biodiversity conservation funding treaty",
+  "payments for ecosystem services law",
+  "land use change regulation",
+  "environmental governance policy reform",
+  "global south conservation funding"
+ ],
+ "event_queries": [
+  "ecosystem services conference call for papers",
+  "environmental governance workshop 2024",
+  "global south land use conference"
+ ],
+ "debates": [
+  {
+   "title": "Do payments for ecosystem services actually improve long-term human well-being in the Global South?",
+   "query": "payments for ecosystem services well-being"
+  },
+  {
+   "title": "Does economic valuation of nature lead to better conservation outcomes?",
+   "query": "economic valuation ecosystem services conservation"
+  },
+  {
+   "title": "How does community-based environmental governance compare to state-led regulation?",
+   "query": "environmental governance community based conservation"
+  },
+  {
+   "title": "Are nature's contributions to people frameworks replacing ecosystem services effectively?",
+   "query": "natures contributions to people framework"
+  },
+  {
+   "title": "Does land-use zoning in developing regions disadvantage local livelihoods?",
+   "query": "land use change local livelihoods"
+  },
+  {
+   "title": "Can market-based conservation prevent deforestation in tropical regions?",
+   "query": "market based conservation deforestation tropics"
+  }
+ ],
+ "_sig": "be328ff9f5"
+}

@@ -2,25 +2,24 @@
  "enabled": true,
  "date": "2026-10-28",
  "today": {
-  "id": "2b04bea7fa",
+  "id": "c6b5dafff4",
   "scope": "the whole thesis",
-  "q": "[SAMPLE] Question 1: why did you choose this approach?",
+  "q": "How does your theoretical framework integrate both valuation and governance of ecosystem services?",
   "type": "theory",
   "outline": [
-   "[SAMPLE] State your reason",
-   "[SAMPLE] Name the alternative",
-   "[SAMPLE] Explain the trade-off"
+   "Define ecosystem valuation and governance clearly",
+   "Explain how both concepts interact in your study",
+   "Show how this integration supports your research question"
   ],
-  "pitfall": "[SAMPLE] Do not overclaim."
+  "pitfall": "Treating valuation and governance as totally separate topics without showing how they work together."
  },
  "bank_total": 6,
  "asked": 1,
  "upcoming": [
-  "[SAMPLE] Question 2: why did you choose this approach?",
-  "[SAMPLE] Question 3: why did you choose this approach?",
-  "[SAMPLE] Question 4: why did you choose this approach?",
-  "[SAMPLE] Question 5: why did you choose this approach?",
-  "[SAMPLE] Question 6: why did you choose this approach?"
- ],
- "sample": true
+  "Since methods are not given, how did you measure land-use decisions and human well-being?",
+  "What are the main limitations of studying the Global South as a single broad category?",
+  "What is the primary contribution of this thesis to the study of ecosystem valuation?",
+  "How generalisable are your conclusions across different ecological and political contexts in the Global South?",
+  "What alternative explanations could account for changes in human well-being besides ecosystem governance?"
+ ]
 }

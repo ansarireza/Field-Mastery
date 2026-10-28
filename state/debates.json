@@ -1,0 +1,70 @@
+{
+ "week": "2026-W44",
+ "index": 0,
+ "current": {
+  "title": "Do payments for ecosystem services actually improve long-term human well-being in the Global South?",
+  "question": "Do payments for ecosystem services improve long-term well-being in the Global South?",
+  "side_a": {
+   "claim": "Not stated by sources",
+   "argument": "The provided papers do not cover the impacts of payments for ecosystem services on long-term human well-being in the Global South.",
+   "cites": []
+  },
+  "side_b": {
+   "claim": "Not stated by sources",
+   "argument": "The provided papers do not cover this side of the debate.",
+   "cites": []
+  },
+  "middle": "The provided literature does not cover ecosystem valuation or payments for ecosystem services, so no common ground from these sources is available.",
+  "committee": "How can you debate a topic when the provided literature contains no evidence or sources addressing ecosystem valuation or payments for ecosystem services?",
+  "sources": [
+   {
+    "n": 0,
+    "title": "The socio-economic implications of the coronavirus pandemic (COVID-19): A review",
+    "year": "2020",
+    "url": "https://doi.org/10.1016/j.ijsu.2020.04.018"
+   },
+   {
+    "n": 1,
+    "title": "Digital transformation: A multidisciplinary reflection and research agenda",
+    "year": "2019",
+    "url": "https://doi.org/10.1016/j.jbusres.2019.09.022"
+   },
+   {
+    "n": 2,
+    "title": "CloudSim: a toolkit for modeling and simulation of cloud computing environments and evaluation of resource…",
+    "year": "2010",
+    "url": "https://doi.org/10.1002/spe.995"
+   },
+   {
+    "n": 3,
+    "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and…",
+    "year": "2019",
+    "url": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002"
+   },
+   {
+    "n": 4,
+    "title": "Carbon capture and storage (CCS): the way forward",
+    "year": "2018",
+    "url": "https://doi.org/10.1039/c7ee02342a"
+   },
+   {
+    "n": 5,
+    "title": "High-quality health systems in the Sustainable Development Goals era: time for a revolution",
+    "year": "2018",
+    "url": "https://doi.org/10.1016/s2214-109x(18)30386-3"
+   },
+   {
+    "n": 6,
+    "title": "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission…",
+    "year": "2015",
+    "url": "https://doi.org/10.1016/s0140-6736(15)60901-1"
+   },
+   {
+    "n": 7,
+    "title": "Assessing nature's contributions to people",
+    "year": "2018",
+    "url": "https://doi.org/10.1126/science.aap8826"
+   }
+  ]
+ }
+}

@@ -2,50 +2,49 @@
  "date": "2026-10-28",
  "lessons": [
   {
-   "id": "d84ccb9a43",
+   "id": "8dc55613c2",
    "date": "2026-10-28",
-   "term": "payments for ecosystem services",
+   "term": "anthropogenic pressures",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "[SAMPLE] A short definition.",
-   "plain": "[SAMPLE] A plain-language explanation appears here.",
-   "example": "[SAMPLE] An example from a Global South setting.",
-   "connects": "[SAMPLE] Links to related ideas.",
+   "definition": "Anthropogenic pressures are human-caused actions and disruptions that directly alter natural ecosystems and landscapes.",
+   "plain": "Human activities like farming, logging, and building cities put a heavy strain on nature. In the Global South, these actions change how land is used, often harming the environment while trying to meet human needs for food, space, and resources.",
+   "example": "Clearing tropical forests in Southeast Asia to create large oil palm plantations, which disrupts local wildlife and water sources.",
+   "connects": "It links ecosystem valuation with governance, showing how human choices degrade natural capital.",
    "quiz": [
     {
-     "q": "[SAMPLE] What is it?",
-     "a": "[SAMPLE] A sample answer."
+     "q": "What are anthropogenic pressures?",
+     "a": "Human-caused actions and disruptions that alter natural ecosystems."
     },
     {
-     "q": "[SAMPLE] Why does it matter?",
-     "a": "[SAMPLE] Sample."
+     "q": "Why do these pressures matter in the Global South?",
+     "a": "They heavily change land use and impact both nature and human well-being."
     }
    ],
-   "search": "sample topic"
+   "search": "anthropogenic pressures Global South land use"
   },
   {
-   "id": "8d4b5e756d",
+   "id": "c2bf7350a5",
    "date": "2026-10-28",
-   "term": "ecosystem service cascade",
-   "area": "Foundations of ecosystem services",
+   "term": "security-conservation nexus",
+   "area": "From today's papers",
    "kind": "concept",
-   "definition": "[SAMPLE] A short definition.",
-   "plain": "[SAMPLE] A plain-language explanation appears here.",
-   "example": "[SAMPLE] An example from a Global South setting.",
-   "connects": "[SAMPLE] Links to related ideas.",
+   "definition": "The security-conservation nexus explores how environmental protection and national or human security overlap.",
+   "plain": "This concept looks at how protecting nature and fighting crime or violence affect each other. For example, using military force to stop illegal wildlife poachers can sometimes harm local communities, showing that conservation is closely linked to social safety and human rights.",
+   "example": "Guards protecting a national park in Africa use armed patrols against poachers, which keeps wildlife safe but creates fear and conflict among local villagers.",
+   "connects": "It connects to ecosystem valuation by showing how safety affects how people use and value nature.",
    "quiz": [
     {
-     "q": "[SAMPLE] What is it?",
-     "a": "[SAMPLE] A sample answer."
+     "q": "What two main areas does the security-conservation nexus connect?",
+     "a": "Environmental protection and human or national security."
     },
     {
-     "q": "[SAMPLE] Why does it matter?",
-     "a": "[SAMPLE] Sample."
+     "q": "Why can armed patrols in parks be a problem?",
+     "a": "They can harm local communities and cause social conflict."
     }
    ],
-   "search": "sample topic"
+   "search": "security conservation nexus Global South"
   }
  ],
- "total_learned": 2,
- "sample": true
+ "total_learned": 2
 }

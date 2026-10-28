@@ -1,0 +1,47 @@
+{
+ "week": "2026-W44",
+ "current": {
+  "name": "Kai M. A. Chan",
+  "institution": "",
+  "headline": "Meet Kai M. A. Chan, a researcher known for land use, ecosystem services, and conservation.",
+  "known_for": [
+   "Assessing how nature contributes to people and human-driven declines of life on Earth",
+   "Connecting nature and people through the IPBES Conceptual Framework",
+   "Studying ecosystem services, biodiversity conservation, and environmental values"
+  ],
+  "why_follow": "Follow to understand how nature, ecosystem valuation, and conservation connect to human well-being.",
+  "stats": {
+   "works": 393,
+   "citations": 33403,
+   "h_index": 64
+  },
+  "read_first": [
+   {
+    "title": "Assessing nature's contributions to people",
+    "year": "2018",
+    "citations": 2883,
+    "url": "https://doi.org/10.1126/science.aap8826",
+    "why": "It assesses how nature contributes to people."
+   },
+   {
+    "title": "The IPBES Conceptual Framework — connecting nature and people",
+    "year": "2014",
+    "citations": 2615,
+    "url": "https://doi.org/10.1016/j.cosust.2014.11.002",
+    "why": "It shows the conceptual framework connecting nature and people."
+   },
+   {
+    "title": "Why protect nature? Rethinking values and the environment",
+    "year": "2016",
+    "citations": 1782,
+    "url": "https://doi.org/10.1073/pnas.1525002113",
+    "why": "It rethinks environmental values and why we protect nature."
+   }
+  ],
+  "profile_url": "https://openalex.org/A5064887876",
+  "basis": "OpenAlex data"
+ },
+ "featured": [
+  "A5064887876"
+ ]
+}

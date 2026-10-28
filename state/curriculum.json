@@ -1,0 +1,208 @@
+{
+ "queue": [
+  {
+   "term": "Ecosystem services classification",
+   "area": "Ecosystem services valuation",
+   "kind": "concept"
+  },
+  {
+   "term": "Decentralized environmental governance",
+   "area": "Environmental governance",
+   "kind": "concept"
+  },
+  {
+   "term": "Drivers of land use change",
+   "area": "Land use change",
+   "kind": "concept"
+  },
+  {
+   "term": "Subjective human well-being metrics",
+   "area": "Human well-being",
+   "kind": "concept"
+  },
+  {
+   "term": "Payments for ecosystem services basics",
+   "area": "Payments for ecosystem services",
+   "kind": "policy"
+  },
+  {
+   "term": "Global South development paradigms",
+   "area": "Global South development",
+   "kind": "classic_idea"
+  },
+  {
+   "term": "Nature contributions to people framework",
+   "area": "Nature contributions to people",
+   "kind": "framework"
+  },
+  {
+   "term": "Conservation policy instruments",
+   "area": "Conservation policy",
+   "kind": "policy"
+  },
+  {
+   "term": "Socioecological systems thinking",
+   "area": "Socioecological systems",
+   "kind": "framework"
+  },
+  {
+   "term": "Community-based natural resource management",
+   "area": "Natural resource management",
+   "kind": "concept"
+  },
+  {
+   "term": "Total economic value framework",
+   "area": "Ecosystem services valuation",
+   "kind": "framework"
+  },
+  {
+   "term": "Polycentric governance systems",
+   "area": "Environmental governance",
+   "kind": "concept"
+  },
+  {
+   "term": "Remote sensing for land cover",
+   "area": "Land use change",
+   "kind": "method"
+  },
+  {
+   "term": "Multidimensional poverty and well-being",
+   "area": "Human well-being",
+   "kind": "concept"
+  },
+  {
+   "term": "Conditional cash transfers in conservation",
+   "area": "Payments for ecosystem services",
+   "kind": "policy"
+  },
+  {
+   "term": "Postcolonial political ecology",
+   "area": "Global South development",
+   "kind": "classic_idea"
+  },
+  {
+   "term": "Indigenous knowledge and valuation",
+   "area": "Nature contributions to people",
+   "kind": "concept"
+  },
+  {
+   "term": "Protected area design and enforcement",
+   "area": "Conservation policy",
+   "kind": "method"
+  },
+  {
+   "term": "Resilience in socioecological systems",
+   "area": "Socioecological systems",
+   "kind": "concept"
+  },
+  {
+   "term": "Adaptive management principles",
+   "area": "Natural resource management",
+   "kind": "framework"
+  },
+  {
+   "term": "Revealed preference valuation methods",
+   "area": "Ecosystem services valuation",
+   "kind": "method"
+  },
+  {
+   "term": "Resource tenure and property rights",
+   "area": "Environmental governance",
+   "kind": "concept"
+  },
+  {
+   "term": "Spatial econometric land models",
+   "area": "Land use change",
+   "kind": "method"
+  },
+  {
+   "term": "Capabilities approach to well-being",
+   "area": "Human well-being",
+   "kind": "framework"
+  },
+  {
+   "term": "Additionality and leakage in PES",
+   "area": "Payments for ecosystem services",
+   "kind": "concept"
+  },
+  {
+   "term": "Extractivism and agrarian change",
+   "area": "Global South development",
+   "kind": "classic_idea"
+  },
+  {
+   "term": "Relational values of nature",
+   "area": "Nature contributions to people",
+   "kind": "concept"
+  },
+  {
+   "term": "Mainstreaming biodiversity in policy",
+   "area": "Conservation policy",
+   "kind": "policy"
+  },
+  {
+   "term": "Panaceas and institutional diversity",
+   "area": "Socioecological systems",
+   "kind": "classic_idea"
+  },
+  {
+   "term": "Common pool resource management",
+   "area": "Natural resource management",
+   "kind": "classic_idea"
+  },
+  {
+   "term": "Stated preference valuation techniques",
+   "area": "Ecosystem services valuation",
+   "kind": "method"
+  },
+  {
+   "term": "Environmental justice movements",
+   "area": "Environmental governance",
+   "kind": "concept"
+  },
+  {
+   "term": "Deforestation trajectory analysis",
+   "area": "Land use change",
+   "kind": "method"
+  },
+  {
+   "term": "Ecosystem services and poverty alleviation",
+   "area": "Human well-being",
+   "kind": "concept"
+  },
+  {
+   "term": "Equitable benefit sharing in PES",
+   "area": "Payments for ecosystem services",
+   "kind": "policy"
+  },
+  {
+   "term": "Green grabbing and land dispossession",
+   "area": "Global South development",
+   "kind": "concept"
+  },
+  {
+   "term": "Plural valuation of ecosystems",
+   "area": "Nature contributions to people",
+   "kind": "method"
+  },
+  {
+   "term": "Policy instrument mix evaluation",
+   "area": "Conservation policy",
+   "kind": "method"
+  },
+  {
+   "term": "Telecoupling across distant systems",
+   "area": "Socioecological systems",
+   "kind": "framework"
+  },
+  {
+   "term": "Participatory monitoring of resources",
+   "area": "Natural resource management",
+   "kind": "method"
+  }
+ ],
+ "done": [
+  "anthropogenic pressures",
+  "security-conservation nexus"
+ ]
+}

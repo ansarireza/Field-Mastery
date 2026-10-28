@@ -1,0 +1,93 @@
+{
+ "sig": "20c90240eb",
+ "bank": [
+  {
+   "id": "c6b5dafff4",
+   "scope": "the whole thesis",
+   "q": "How does your theoretical framework integrate both valuation and governance of ecosystem services?",
+   "type": "theory",
+   "outline": [
+    "Define ecosystem valuation and governance clearly",
+    "Explain how both concepts interact in your study",
+    "Show how this integration supports your research question"
+   ],
+   "pitfall": "Treating valuation and governance as totally separate topics without showing how they work together."
+  },
+  {
+   "id": "a2afcb564e",
+   "scope": "the whole thesis",
+   "q": "Since methods are not given, how did you measure land-use decisions and human well-being?",
+   "type": "methods",
+   "outline": [
+    "Acknowledge that specific methods are not provided here",
+    "Discuss standard methods used in this field for these variables",
+    "Explain how data collection supports the main research question"
+   ],
+   "pitfall": "Inventing specific data collection tools or results that are not stated in the prompt."
+  },
+  {
+   "id": "1994890092",
+   "scope": "the whole thesis",
+   "q": "What are the main limitations of studying the Global South as a single broad category?",
+   "type": "limitations",
+   "outline": [
+    "Discuss the diversity within countries in the Global South",
+    "Note how regional differences might affect ecosystem governance",
+    "State the boundaries of the current thesis scope"
+   ],
+   "pitfall": "Overgeneralizing findings to all developing nations without acknowledging local differences."
+  },
+  {
+   "id": "f15b28ebb7",
+   "scope": "the whole thesis",
+   "q": "What is the primary contribution of this thesis to the study of ecosystem valuation?",
+   "type": "contribution",
+   "outline": [
+    "Highlight the focus on the Global South",
+    "Explain the link between valuation, land use, and well-being",
+    "Show how this advances existing academic discussions"
+   ],
+   "pitfall": "Claiming to solve all global environmental problems instead of focusing on the stated scope."
+  },
+  {
+   "id": "f2dccec035",
+   "scope": "the whole thesis",
+   "q": "How generalisable are your conclusions across different ecological and political contexts in the Global South?",
+   "type": "generalisability",
+   "outline": [
+    "Identify common patterns across developing regions",
+    "Highlight contextual factors that might limit broad application",
+    "Suggest where findings can be safely applied"
+   ],
+   "pitfall": "Assuming that governance systems work the exact same way in every country."
+  },
+  {
+   "id": "b2d54790e8",
+   "scope": "the whole thesis",
+   "q": "What alternative explanations could account for changes in human well-being besides ecosystem governance?",
+   "type": "alternative explanations",
+   "outline": [
+    "Consider economic factors outside ecosystem valuation",
+    "Discuss the role of national policies and external markets",
+    "Explain how your study isolates ecosystem governance effects"
+   ],
+   "pitfall": "Ignoring other major drivers of human well-being like poverty, health, or macroeconomics."
+  }
+ ],
+ "asked": [
+  "c6b5dafff4"
+ ],
+ "today": {
+  "id": "c6b5dafff4",
+  "scope": "the whole thesis",
+  "q": "How does your theoretical framework integrate both valuation and governance of ecosystem services?",
+  "type": "theory",
+  "outline": [
+   "Define ecosystem valuation and governance clearly",
+   "Explain how both concepts interact in your study",
+   "Show how this integration supports your research question"
+  ],
+  "pitfall": "Treating valuation and governance as totally separate topics without showing how they work together."
+ },
+ "today_date": "2026-10-28"
+}

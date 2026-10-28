@@ -1,141 +1,409 @@
 {
  "date": "2026-10-28",
  "summary": [
-  "[SAMPLE] Today's themes appear here."
+  "Latin America conservation faces crime, weak institutions, and underfunded management systems.",
+  "Indigenous territories and traditional knowledge protect biodiversity and reduce deforestation."
  ],
  "items": [
   {
-   "id": "W1003",
-   "title": "[SAMPLE] Land-use change and pollinator services in Latin America",
-   "headline": "[SAMPLE] Payments help, but effects fade",
+   "id": "W7223572853",
+   "title": "Fifteen years of change in biodiversity conservation across Latin America and the Caribbean",
+   "headline": "Latin America conservation faces crime and weak governance",
    "bullets": [
-    "Followed 400 farms for 6 years",
-    "Wetlands held 2 years after payments stopped",
-    "Short payments may not last"
+    "Surveyed 244 experts across 25 countries on conservation in Latin America and the Caribbean",
+    "Found traditional threats compounded by organized crime, weak institutions, and underfunding",
+    "Shows protecting nature requires transforming governance and state capacity, not just tools"
    ],
    "plain": {
-    "question": "Do farmers keep protecting wetlands after payments stop?",
-    "method": "They tracked 400 farms for six years; half were paid, half were not.",
-    "finding": "Wetland cover held for two years after payments ended, then fell.",
-    "why": "Short-term payments may not create lasting change."
+    "question": "How have conservation challenges in Latin America and the Caribbean changed over the past fifteen years?",
+    "method": "We asked 244 conservation experts across 25 countries about current threats and barriers in 2024.",
+    "finding": "Old threats like deforestation remain, but now organized crime and weak governance are major barriers.",
+    "why": "We must fix governance and stop corruption to protect nature and the people who rely on it."
    },
    "full": {
-    "explainer": "This is a sample explanation. A real run rewrites each abstract in simple language so you can follow it without being an expert in the sub-topic.",
+    "explainer": "Latin America and the Caribbean is a very biodiverse region, but it keeps losing nature due to human pressures. Fifteen years after a 2009 assessment, researchers wanted to see how things have changed. They surveyed 244 experienced conservation professionals across 25 countries in 2024. The results show that traditional problems like deforestation, habitat fragmentation, and climate change are still major threats. However, these issues are now made worse by large landscape pressures and a new link between security and conservation. Experts pointed out that organized crime and drug trafficking are major problems that harm ecosystems and endanger conservation workers. While conservation tools have improved, their success is limited by chronic underfunding, corruption, and poor coordination. Also, working with local communities remains low. Ultimately, the study shows that stopping biodiversity loss is no longer just about technical fixes; it needs a deep improvement in governance quality, institutional integrity, and state capacity.",
     "caveats": [
-     "Sample data only"
+     "Results rely on the perceptions of surveyed conservation professionals.",
+     "Not stated whether findings apply equally to all 25 individual countries."
     ],
     "jargon": [
      {
-      "term": "payments for ecosystem services",
-      "definition": "Money paid to land users to protect nature that benefits others."
-     }
-    ],
-    "fit": "Shows how a sample paper would be connected to your field."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://example.org/sample3",
-    "doi": null,
-    "venue": "Ecological Economics",
-    "date": "2026-10-24",
-    "authors": [
-     "D. Test",
-     "E. Case"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W1002",
-   "title": "[SAMPLE] Mapping cultural ecosystem services with participatory GIS in South Asia",
-   "headline": "[SAMPLE] Payments help, but effects fade",
-   "bullets": [
-    "Followed 400 farms for 6 years",
-    "Wetlands held 2 years after payments stopped",
-    "Short payments may not last"
-   ],
-   "plain": {
-    "question": "Do farmers keep protecting wetlands after payments stop?",
-    "method": "They tracked 400 farms for six years; half were paid, half were not.",
-    "finding": "Wetland cover held for two years after payments ended, then fell.",
-    "why": "Short-term payments may not create lasting change."
-   },
-   "full": {
-    "explainer": "This is a sample explanation. A real run rewrites each abstract in simple language so you can follow it without being an expert in the sub-topic.",
-    "caveats": [
-     "Sample data only"
-    ],
-    "jargon": [
+      "term": "anthropogenic pressures",
+      "definition": "Environmental impacts and stresses caused by human activity."
+     },
      {
-      "term": "payments for ecosystem services",
-      "definition": "Money paid to land users to protect nature that benefits others."
+      "term": "security-conservation nexus",
+      "definition": "The intersection where national security issues, like crime, overlap with protecting nature."
+     },
+     {
+      "term": "diversification without consolidation",
+      "definition": "Having many tools available but failing to properly strengthen or fund them for real success."
      }
     ],
-    "fit": "Shows how a sample paper would be connected to your field."
+    "fit": "It shows how poor governance, crime, and weak institutions block effective land use and harm human well-being in the Global South."
    },
-   "relevance": 4,
+   "relevance": 5,
    "watch": null,
    "source": {
-    "url": "https://example.org/sample2",
-    "doi": null,
-    "venue": "Global Environmental Change",
+    "url": "https://doi.org/10.1111/cobi.70406",
+    "doi": "https://doi.org/10.1111/cobi.70406",
+    "venue": "Conservation Biology",
     "date": "2026-10-25",
     "authors": [
-     "C. Demo"
+     "O. Eric Ramírez‐Bravo",
+     "José Fernando González-Maya",
+     "José Yader Sageth Ruiz Cruz",
+     "Laura Prosdocimi",
+     "Alan Giraldo",
+     "Claudia Segovia Salcedo"
     ],
-    "n_authors": 1,
+    "n_authors": 17,
     "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W1001",
-   "title": "[SAMPLE] Do payments keep wetlands intact after funding ends?",
-   "headline": "[SAMPLE] Payments help, but effects fade",
+   "id": "W7223551724",
+   "title": "A systematic review of deforestation outcomes in potential other effective area‐based conservation measures across Latin America",
+   "headline": "Review of potential OECMs and deforestation in Latin America",
    "bullets": [
-    "Followed 400 farms for 6 years",
-    "Wetlands held 2 years after payments stopped",
-    "Short payments may not last"
+    "Reviewed 93 studies on forest conservation in potential OECMs across Latin America.",
+    "Indigenous territories consistently reduced deforestation, while others varied.",
+    "Bridges research with global biodiversity targets and governance rights."
    ],
    "plain": {
-    "question": "Do farmers keep protecting wetlands after payments stop?",
-    "method": "They tracked 400 farms for six years; half were paid, half were not.",
-    "finding": "Wetland cover held for two years after payments ended, then fell.",
-    "why": "Short-term payments may not create lasting change."
+    "question": "Do areas outside formal parks help stop deforestation in Latin America?",
+    "method": "We reviewed 93 scientific studies on these special areas up to the year 2024.",
+    "finding": "Indigenous lands stopped deforestation well, but some other protected areas failed.",
+    "why": "This helps us meet global goals and respect the rights of local land managers."
    },
    "full": {
-    "explainer": "This is a sample explanation. A real run rewrites each abstract in simple language so you can follow it without being an expert in the sub-topic.",
+    "explainer": "Protecting nature goes beyond official parks. This study looks at areas outside formal protection called other effective area-based conservation measures, or OECMs. Researchers reviewed 93 studies in Latin America to see how well these places stop deforestation. They sorted potential OECMs into six types, including Indigenous territories, local community lands, and set-aside areas for ecosystem services. They found that Indigenous territories were studied the most and consistently showed reduced deforestation compared to other places. Conversely, set-aside areas often showed poor results due to weak rule enforcement. Most studies used basic comparisons rather than advanced testing, and very few of these spaces have received official OECM recognition yet. This shows a gap between current scientific research and global biodiversity reporting goals, meaning future efforts must include stronger evidence and respect local governance rights.",
     "caveats": [
-     "Sample data only"
+     "Most evidence relied on nonexperimental comparisons rather than quasi-experimental designs.",
+     "Strict biodiversity conservation areas have received relatively little attention.",
+     "Very few of these areas have been formally recognized as OECMs."
     ],
     "jargon": [
      {
-      "term": "payments for ecosystem services",
-      "definition": "Money paid to land users to protect nature that benefits others."
+      "term": "OECMs",
+      "definition": "Other effective area-based conservation measures located outside formal protected areas."
+     },
+     {
+      "term": "Deforestation",
+      "definition": "The clearing or thinning of forests by humans."
+     },
+     {
+      "term": "Quasi-experimental",
+      "definition": "Research designs that provide stronger proof of cause and effect."
      }
     ],
-    "fit": "Shows how a sample paper would be connected to your field."
+    "fit": "It connects by showing how different governance types shape land use outcomes like deforestation in the Global South."
    },
-   "relevance": 4,
+   "relevance": 5,
    "watch": null,
    "source": {
-    "url": "https://example.org/sample1",
-    "doi": "https://doi.org/10.0000/sample.1",
-    "venue": "Ecosystem Services",
+    "url": "https://doi.org/10.1111/cobi.70409",
+    "doi": "https://doi.org/10.1111/cobi.70409",
+    "venue": "Conservation Biology",
+    "date": "2026-10-25",
+    "authors": [
+     "Nicolás Esteban Lara‐Rodríguez",
+     "Daniel Callo-Concha",
+     "Bibiana Betancur Corredor",
+     "Christian Borgemeister"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223676620",
+   "title": "Body-Territory and Sociobiodiversity: Traditional Ancestral Knowledge in Ecological Conservation",
+   "headline": "Traditional knowledge protects biodiversity",
+   "bullets": [
+    "Reviewed literature using databases like SciELO, Scopus, and Google Scholar",
+    "Found that body-territory and traditional knowledge are key to conservation",
+    "Helps shape public policies and promotes territorial justice"
+   ],
+   "plain": {
+    "question": "How do traditional communities use their knowledge and the idea of body-territory to protect nature?",
+    "method": "The researchers reviewed existing academic literature from major databases using specific search terms.",
+    "finding": "Protecting nature depends on traditional knowledge, bodily memories, and securing territorial rights.",
+    "why": "It helps authorities create better environmental policies that respect local communities."
+   },
+   "full": {
+    "explainer": "This paper investigates how traditional communities protect nature using their ancestral knowledge and a concept called body-territory. Body-territory means viewing the human body as a living part of nature, where bodily memories and traditional ideas are essential for managing plants, animals, and land governance. Using a literature review of articles from online databases, the study analyzed how environmental harm hurts both the environment and human health. The results show that protecting nature cannot be separated from protecting the rights of these communities to their land. This research is important because it strengthens political ecology, proves that traditional knowledge acts as a useful tool for conservation, and helps break the myth that nature must be untouched by humans to survive. Ultimately, it promotes fairness for the people who care for these lands.",
+    "caveats": [
+     "not stated"
+    ],
+    "jargon": [
+     {
+      "term": "body-territory",
+      "definition": "The idea that the human body is a living extension of biodiversity and the land."
+     },
+     {
+      "term": "sociobiodiversity",
+      "definition": "The connection between biological diversity and cultural diversity."
+     },
+     {
+      "term": "political ecology",
+      "definition": "The study of how power relations affect environmental issues and land use."
+     },
+     {
+      "term": "integrative literature review",
+      "definition": "A research method that combines and analyzes existing published studies on a topic."
+     }
+    ],
+    "fit": "It connects by showing how traditional community governance and ancestral knowledge shape land use and human health."
+   },
+   "relevance": 5,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.24857/rgsa.v20n10-009",
+    "doi": "https://doi.org/10.24857/rgsa.v20n10-009",
+    "venue": "Revista de Gestão Social e Ambiental",
     "date": "2026-10-26",
     "authors": [
-     "A. Sample",
-     "B. Example"
+     "Flávia Kaine Pereira Alves Mineiro",
+     "Márcia Teixeira Falcão"
     ],
     "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }
+  },
+  {
+   "id": "W7222855520",
+   "title": "Conceptualising shallow trusting in international relations: the dynamism of everyday practices in global south climate governance",
+   "headline": "Shallow trusting keeps climate governance working",
+   "bullets": [
+    "Studied trusting practices through 17 interviews with practitioners in Malawi",
+    "Found 'shallow trusting' lets people cooperate without sharing deep beliefs",
+    "Challenges the idea that international climate cooperation needs deep trust"
+   ],
+   "plain": {
+    "question": "How do people in the Global South cooperate on climate issues without deep trust?",
+    "method": "The researchers did 17 interviews with practitioners in Malawi.",
+    "finding": "They found that limited, everyday actions allow people to work together despite power imbalances.",
+    "why": "It changes how we view interactions between donors and the Global South."
+   },
+   "full": {
+    "explainer": "In international politics, experts usually think that countries or groups need deep trust to work together successfully. However, this new paper looks at how people actually cooperate in everyday situations in the Global South, where power is unevenly balanced. By talking to 17 practitioners in Malawi, the authors discovered a new idea called 'shallow trusting.' This means that people can still team up for collective action, even if they do not share the exact same goals, identities, or viewpoints. Instead of aiming for an ideal state of deep trust, people use specific everyday actions like committing, identifying, and making sense of situations in limited ways. These small actions help keep cooperation going despite structural inequalities. Ultimately, this study challenges traditional views on climate governance and suggests we need to rethink how donors and countries in the Global South interact when tackling major global problems together.",
+    "caveats": [
+     "The study only draws on 17 key informant interviews in Malawi.",
+     "Not stated whether these findings apply outside of climate governance in Malawi."
+    ],
+    "jargon": [
+     {
+      "term": "Shallow trusting",
+      "definition": "Trusting in limited ways that lets people cooperate without sharing the same goals or identities."
+     },
+     {
+      "term": "Structural asymmetry",
+      "definition": "An uneven balance of power between different actors or groups."
+     },
+     {
+      "term": "Co-constitutive practices",
+      "definition": "Everyday actions that work together to help create and maintain a specific social condition."
+     }
+    ],
+    "fit": "It connects by showing how governance and power relations shape human cooperation and interactions in the Global South."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1057/s41268-026-00398-5",
+    "doi": "https://doi.org/10.1057/s41268-026-00398-5",
+    "venue": "Journal of International Relations and Development",
+    "date": "2026-10-25",
+    "authors": [
+     "E.-L. Anderson",
+     "Scott Edwards",
+     "Michael Chasukwa",
+     "Laura Considine"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223555721",
+   "title": "Natural forests are key for bryophyte conservation, while active land-use reveals homogenous communities with low richness, new records, and habitat indicators in the Eastern Amazon",
+   "headline": "Natural forests protect Amazon bryophytes best",
+   "bullets": [
+    "Compared bryophytes across natural forests and three active land-use types in Eastern Amazon",
+    "Natural forests and agroforestry had similar richness; açaí monoculture had different groups",
+    "Highlights the need for natural forests and agroforestry to protect plant communities"
+   ],
+   "plain": {
+    "question": "How do different ways of using land affect small plants called bryophytes in the Amazon?",
+    "method": "The researchers compared bryophytes in natural forests and three active land uses: managed forests, agroforestry, and açaí monoculture.",
+    "finding": "Natural forests and agroforestry had similar plant numbers, but active land uses generally created uniform communities.",
+    "why": "This helps us learn which farming types best protect small plants and biodiversity in the Amazon."
+   },
+   "full": {
+    "explainer": "Researchers in the Brazilian Amazon wanted to know how different human uses of land affect a group of small, non-flowering plants called bryophytes, which include liverworts and mosses. They looked at four areas: natural forests, managed forests, agroforestry, and açaí monoculture farms. They checked how many different species lived in each place and how abundant they were. They found that natural forests and agroforestry had similar numbers of species. However, active land uses generally led to uniform communities with low richness. Liverworts were more sensitive to changes in their habitat than mosses, making them useful for tracking environmental health. Two specific species were identified as good signs of healthy natural forests. The study concludes that keeping natural forests and using low-intensity farming like agroforestry is very important for protecting these small plants in the Amazon.",
+    "caveats": [
+     "Not stated",
+     "Not stated"
+    ],
+    "jargon": [
+     {
+      "term": "Bryophytes",
+      "definition": "A group of small, non-flowering green plants that includes liverworts and mosses."
+     },
+     {
+      "term": "Liverworts",
+      "definition": "A type of small, flowerless plant belonging to the bryophytes that is sensitive to habitat change."
+     },
+     {
+      "term": "Agroforestry",
+      "definition": "A land-use system where trees and shrubs are grown around or among crops."
+     },
+     {
+      "term": "Açaí monoculture",
+      "definition": "Growing only açaí plants in an area, rather than a mix of different species."
+     }
+    ],
+    "fit": "It shows how different active land-use choices affect forest biodiversity and plant communities in the Global South."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1007/s10531-026-03513-7",
+    "doi": "https://doi.org/10.1007/s10531-026-03513-7",
+    "venue": "Biodiversity and Conservation",
+    "date": "2026-10-25",
+    "authors": [
+     "Tássia Toyoi Gomes Takashima-Oliveira",
+     "Rony Peterson Santos Almeida",
+     "Anna Luiza Ilkiu‐Borges"
+    ],
+    "n_authors": 3,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7218983715",
+   "title": "Spatial Patterns and Dynamics of Agricultural Land Use: A Geographical Analysis",
+   "headline": "Factors shaping global agricultural land use and dynamics",
+   "bullets": [
+    "Used maps, satellite data, and GIS to study global farming landscapes.",
+    "Found that markets, policies, technology, and environment drive land changes.",
+    "Highlights the need for better planning and governance for sustainability."
+   ],
+   "plain": {
+    "question": "How do different factors change farming land use around the world?",
+    "method": "The study used maps, satellite data, and computer tools to analyze farming areas globally.",
+    "finding": "Market rules, new technology, rules from governments, and nature shape how land is used.",
+    "why": "We need better planning and rule changes to keep farming sustainable against climate change."
+   },
+   "full": {
+    "explainer": "This paper looks at how and why farming land changes across the world. It studies the link between how land is used and cover, and the social, money, and nature-related factors behind it. By using satellite images and computer mapping tools, the research explores how farming landscapes change in places like Europe, North America, East Asia, Sub-Saharan Africa, and South America. The study shows that market forces, new technologies, government policies, and natural limits all affect decisions about land. It also looks at how farming impacts biodiversity, soil, water, and the climate. The findings point out that we face big sustainability challenges. To solve them, the paper stresses that we need better land planning, changes in how we govern land, and smart strategies to handle climate change and the growing need for food worldwide.",
+    "caveats": [
+     "Relies on global case studies without giving specific local details.",
+     "Not stated"
+    ],
+    "jargon": [
+     {
+      "term": "Remote sensing",
+      "definition": "Scanning the earth using satellites or aerial cameras to gather data."
+     },
+     {
+      "term": "GIS",
+      "definition": "Computer systems designed to capture, store, check, and display data related to positions on Earth's surface."
+     },
+     {
+      "term": "Agricultural typologies",
+      "definition": "The classification of different types of farming systems and practices."
+     },
+     {
+      "term": "Ecosystem services",
+      "definition": "The many useful benefits provided by the natural environment to humans."
+     }
+    ],
+    "fit": "It connects by examining governance and land use, featuring cases in Sub-Saharan Africa and South America, though ecosystem valuation is less explicit."
+   },
+   "relevance": 3,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.5281/zenodo.23117514",
+    "doi": "https://doi.org/10.5281/zenodo.23117514",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "date": "2026-11-30",
+    "authors": [
+     "Anjali Harshavardhan Thorat"
+    ],
+    "n_authors": 1,
+    "open_access": true,
+    "basis": "abstract"
+   }
   }
  ],
- "more": [],
- "sample": true
+ "more": [
+  {
+   "title": "AI, Neuro-Inclusion and Inclusive Development in the Global South: A Governance Framework for Equitable…",
+   "url": "https://doi.org/10.52823/amqo8416",
+   "venue": "Journal of Governance Security & Development",
+   "date": "2026-10-25"
+  },
+  {
+   "title": "Farmer participation in payment for ecosystem services programs: Evidence from eastern North Carolina",
+   "url": "https://doi.org/10.1002/jaa2.70056",
+   "venue": "Journal of the Agricultural and Applied Economics Association",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "The Impact of Organizational Ethical Culture on the Quality of Sustainability Reporting with the Mediating…",
+   "url": "https://journalmbs.com/index.php/jmbs/article/view/214",
+   "venue": "Journal of Management and Business Solutions",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "Religious Policy and Sustainable Development Goals: Integrating Faith-Based Governance into Public Policy",
+   "url": "https://doi.org/10.61860/amuya.v2i2.125",
+   "venue": "AMUYA INDONESIAN JOURNAL OF MANAGEMENT REVIEWS",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Functional systems integration: a framework for reconciling livestock production and wild herbivore…",
+   "url": "https://doi.org/10.1007/s44353-026-00112-z",
+   "venue": "Discover Conservation",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Smart Digital Coffee Value Chain Transformation in Oromia, Ethiopia: A Five-Year Policy, Technical and…",
+   "url": "https://doi.org/10.5281/zenodo.23643320",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "date": "2026-10-25"
+  },
+  {
+   "title": "Pm-Kusum and India's Sustainable Energy Transition: A Critical Review of Solarising Agriculture, Energy…",
+   "url": "https://doi.org/10.5281/zenodo.23309072",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "date": "2026-10-31"
+  },
+  {
+   "title": "Tropospheric Ozone Assessment Report II: Changing health impacts of global ozone exposure",
+   "url": "https://doi.org/10.1098/rsta.2025.0268",
+   "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "The recognition gap: land governance and the pre‐hazard production of disaster risk in South Africa",
+   "url": "https://doi.org/10.1111/disa.70081",
+   "venue": "Disasters",
+   "date": "2026-10-25"
+  },
+  {
+   "title": "Integration of flood-induced benefits in flood risk optimization analysis in South-Central Bangladesh",
+   "url": "https://doi.org/10.1007/s43621-026-05117-1",
+   "venue": "Discover Sustainability",
+   "date": "2026-10-25"
+  }
+ ]
 }

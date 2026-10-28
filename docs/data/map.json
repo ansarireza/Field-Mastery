@@ -1,15 +1,19 @@
 {
  "areas": [
   {
-   "name": "Foundations of ecosystem services",
-   "lessons": 1
-  },
-  {
-   "name": "Valuation methods",
+   "name": "Ecosystem services valuation",
    "lessons": 0
   },
   {
-   "name": "Governance & policy",
+   "name": "Environmental governance",
+   "lessons": 0
+  },
+  {
+   "name": "Land use change",
+   "lessons": 0
+  },
+  {
+   "name": "Human well-being",
    "lessons": 0
   },
   {
@@ -17,32 +21,28 @@
    "lessons": 0
   },
   {
-   "name": "Land-use change",
+   "name": "Global South development",
    "lessons": 0
   },
   {
-   "name": "Remote sensing & GIS",
+   "name": "Nature contributions to people",
    "lessons": 0
   },
   {
-   "name": "Social-ecological systems",
+   "name": "Conservation policy",
    "lessons": 0
   },
   {
-   "name": "Equity & justice",
+   "name": "Socioecological systems",
    "lessons": 0
   },
   {
-   "name": "Biodiversity policy",
-   "lessons": 0
-  },
-  {
-   "name": "Methods & statistics",
+   "name": "Natural resource management",
    "lessons": 0
   },
   {
    "name": "From today's papers",
-   "lessons": 1
+   "lessons": 2
   }
  ]
 }
