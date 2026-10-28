@@ -1,309 +1,484 @@
 {
- "sig": "cd919ada18",
+ "sig": "9216499104",
  "bank": [
   {
-   "id": "e1e6e2fb29",
+   "id": "dd0d2a54e5",
    "scope": "the whole thesis",
-   "q": "How do you distinguish modeled supply potential from actual service delivery across different settlement types?",
+   "q": "How do you justify distinguishing modeled supply potential from actual service delivery in data-scarce settings like Kabul?",
    "type": "theory",
    "outline": [
-    "Define modeled supply versus actual delivery",
-    "Discuss demand and service flows in social-ecological systems",
-    "Address formal versus informal settlement contexts"
+    "Define modeled supply versus delivered benefits",
+    "Explain challenges in data-scarce and conflict settings",
+    "Discuss implications for planning and demand flows"
    ],
-   "pitfall": "Assuming that high modeled supply potential automatically equates to realized human benefits."
+   "pitfall": "Confusing computer-generated model outputs with actual human use or observed benefits.",
+   "follow_up": "How does this distinction affect equity and environmental justice assessments?",
+   "bring": "Conceptual diagrams separating supply potential from demand and actual service flows.",
+   "self_check": [
+    "Clearly separates model estimates from observations",
+    "Addresses data scarcity",
+    "Links to service flows"
+   ]
   },
   {
-   "id": "61bad093f5",
+   "id": "4bf5f52f2b",
    "scope": "the whole thesis",
-   "q": "What specific limitations arise when using InVEST for habitat quality and runoff retention in data-scarce settings?",
+   "q": "What methods do you use to ensure land-cover and land-change accuracy in mountainous, conflict-affected areas?",
+   "type": "methods",
+   "outline": [
+    "Outline remote sensing and GIS integration",
+    "Address land-change accuracy assessment",
+    "Discuss spatial modelling and uncertainty handling"
+   ],
+   "pitfall": "Treating remote sensing classifications as error-free ground truths without validation.",
+   "follow_up": "How do uncertainty and sensitivity assessments alter your scenario comparison results?",
+   "bring": "Error matrices and land-change validation statistics from your workflow.",
+   "self_check": [
+    "Mentions accuracy assessment",
+    "Accounts for mountainous or data-scarce challenges",
+    "Integrates uncertainty handling"
+   ]
+  },
+  {
+   "id": "487c1d305b",
+   "scope": "the whole thesis",
+   "q": "Given that habitat quality is not measured biodiversity and runoff retention is not flood risk, how do you manage these limitations?",
    "type": "limitations",
    "outline": [
-    "Clarify that habitat quality is not measured biodiversity",
-    "Note runoff retention is not a direct estimate of flood depth or risk",
-    "Address data scarcity and uncertainty assessment challenges"
+    "Explicitly state InVEST output definitions and limits",
+    "Clarify that habitat quality is a proxy, not biodiversity",
+    "Clarify that runoff retention is not direct flood depth"
    ],
-   "pitfall": "Treating model estimates as direct empirical observations of biodiversity or flood risk."
+   "pitfall": "Overstclaiming model outputs as direct ecological measurements or risk metrics.",
+   "follow_up": "What alternative tools or empirical data would be needed to validate flood risk?",
+   "bring": "A summary table of InVEST metric definitions versus empirical equivalents.",
+   "self_check": [
+    "Acknowledge proxy limitations",
+    "Distinguish runoff from flood risk",
+    "Distinguish habitat quality from biodiversity"
+   ]
   },
   {
-   "id": "2706cd55f4",
+   "id": "6e3dded1e0",
    "scope": "the whole thesis",
-   "q": "How do you separate spatial associations from the causal effects of settlement status in your spatial modelling?",
+   "q": "How do you separate spatial associations from the causal effects of settlement status, such as formal versus informal areas?",
    "type": "alternative explanations",
    "outline": [
-    "Acknowledge the distinction between spatial association and causation",
-    "Discuss landscape configuration and settlement morphology effects",
-    "Address confounding factors in formal and informal areas"
+    "Acknowledge the difference between correlation and causation",
+    "Discuss settlement morphology and land-cover change variables",
+    "Propose methods to control for confounding socio-spatial factors"
    ],
-   "pitfall": "Implying direct causality from purely spatial correlations or scenario contributions."
+   "pitfall": "Assuming settlement status directly causes specific ecological outcomes without causal proof.",
+   "follow_up": "What unmeasured confounders might explain the observed ecosystem service bundles?",
+   "bring": "Spatial statistical models or research design frameworks addressing causality.",
+   "self_check": [
+    "Addresses spatial association vs causation",
+    "Mentions settlement status",
+    "Considers confounding factors"
+   ]
   },
   {
-   "id": "7f6fbe1d51",
+   "id": "dcef971192",
    "scope": "the whole thesis",
-   "q": "How can methods like InVEST, landscape metrics, and ecosystem service bundles be transferred to Kabul?",
-   "type": "generalisability",
-   "outline": [
-    "Address transferability between cities and semi-arid settings",
-    "Account for mountainous and conflict-affected data constraints",
-    "Balance worldwide theory with local Global South contexts"
-   ],
-   "pitfall": "Applying global models blindly without adapting to local data scarcity and morphology."
-  },
-  {
-   "id": "1d76192aa8",
-   "scope": "the whole thesis",
-   "q": "How does your research design integrate annual water yield at the watershed scale with local urban planning?",
-   "type": "methods",
-   "outline": [
-    "Explain watershed-scale interpretation for annual water yield",
-    "Integrate GIS, remote sensing, and spatial statistics",
-    "Discuss scenario comparison and uncertainty assessment"
-   ],
-   "pitfall": "Interpreting watershed-scale water yield metrics at too fine a local urban scale."
-  },
-  {
-   "id": "cb6648ba39",
-   "scope": "the whole thesis",
-   "q": "How can evidence on ecosystem service supply, access, and trade-offs inform environmental planning in Kabul?",
-   "type": "practical relevance",
-   "outline": [
-    "Link ecological functions to human benefits and access",
-    "Incorporate green-blue infrastructure and peri-urban agriculture",
-    "Address environmental justice and governance considerations"
-   ],
-   "pitfall": "Offering broad planning recommendations without grounding them in the evaluated scenarios."
-  },
-  {
-   "id": "1a100bc9c1",
-   "scope": "Foundations and international evidence",
-   "q": "How do you distinguish between modeled supply potential and actual service delivery across different urban contexts?",
-   "type": "theory",
-   "outline": [
-    "Define supply potential using tools like InVEST",
-    "Explain service delivery and demand or flow concepts",
-    "Discuss implications for human benefits"
-   ],
-   "pitfall": "Treating model estimates of potential supply as direct observations of actual human benefit."
-  },
-  {
-   "id": "82c30c744e",
-   "scope": "Foundations and international evidence",
-   "q": "How do spatial associations and scenario contributions differ from causal effects of settlement status?",
-   "type": "alternative explanations",
-   "outline": [
-    "Clarify that spatial models show associations, not causation",
-    "Address formal versus informal settlement status impacts",
-    "Evaluate alternative explanations for observed patterns"
-   ],
-   "pitfall": "Confusing correlation or spatial association from scenarios with proven causal effects."
-  },
-  {
-   "id": "13f190146f",
-   "scope": "Foundations and international evidence",
-   "q": "What are the key limitations when transferring methods and conclusions from the Global North to the Global South?",
-   "type": "limitations",
-   "outline": [
-    "Contrast data-rich Global North with data-scarce settings",
-    "Evaluate transferability of spatial models and theories",
-    "Highlight local contextual differences like conflict or informality"
-   ],
-   "pitfall": "Assuming methods and findings from the Global North apply universally without local validation."
-  },
-  {
-   "id": "7db4943f02",
-   "scope": "Foundations and international evidence",
-   "q": "How can foundational ecosystem service frameworks account for plural values and environmental justice?",
-   "type": "practical relevance",
-   "outline": [
-    "Integrate plural values into service demand and access",
-    "Address environmental justice in urban nature access",
-    "Link justice concepts to environmental planning governance"
-   ],
-   "pitfall": "Focusing solely on biophysical supply while ignoring equity, access, and plural values."
-  },
-  {
-   "id": "e65c103f68",
-   "scope": "Foundations and international evidence",
-   "q": "How do you assess uncertainty and sensitivity when using InVEST for stormwater runoff and habitat quality?",
-   "type": "methods",
-   "outline": [
-    "Explain the role of sensitivity and uncertainty assessment",
-    "Note that habitat quality is not measured biodiversity",
-    "Clarify that runoff retention is not flood risk depth"
-   ],
-   "pitfall": "Treating model outputs as exact measurements rather than estimates with inherent uncertainty."
-  },
-  {
-   "id": "452ba9de86",
-   "scope": "Foundations and international evidence",
-   "q": "What is the unique contribution of integrating informal settlements into landscape configuration and scenario comparison?",
-   "type": "contribution",
-   "outline": [
-    "Address formal development and informal flatland/hillside settlements",
-    "Utilize scenario comparison for environmental planning",
-    "Advance understanding in semi-arid and conflict-affected settings"
-   ],
-   "pitfall": "Treating all urban morphology as uniform without accounting for informal settlement dynamics."
-  },
-  {
-   "id": "dd8edf2572",
-   "scope": "Spatial patterns and planning",
-   "q": "How do you justify linking urban morphology to ecosystem service supply given that associations do not prove causal mechanisms?",
-   "type": "alternative explanations",
-   "outline": [
-    "Acknowledge correlation versus causation distinction",
-    "Discuss spatial associations found via methods",
-    "Propose causal mechanisms for future study"
-   ],
-   "pitfall": "Claiming that observed spatial patterns directly prove how settlement status causes ecological outcomes."
-  },
-  {
-   "id": "1f904786d4",
-   "scope": "Spatial patterns and planning",
-   "q": "How does your assessment handle the distinction between modeled supply potential and actual human use or service delivery?",
-   "type": "theory",
-   "outline": [
-    "Define modeled supply potential using InVEST",
-    "Explain the gap between supply and actual use",
-    "Incorporate demand and service flows concepts"
-   ],
-   "pitfall": "Treating modeled supply potential as actual human benefits or direct service delivery."
-  },
-  {
-   "id": "0165e20833",
-   "scope": "Spatial patterns and planning",
-   "q": "What specific validation and uncertainty assessments were applied to handle data scarcity in the Kabul metropolitan setting?",
-   "type": "methods",
-   "outline": [
-    "Describe land-change validation and accuracy assessment",
-    "Mention sensitivity and uncertainty assessment",
-    "Address data-scarce and conflict-affected limits"
-   ],
-   "pitfall": "Ignoring the limitations of data scarcity and lacking uncertainty checks on spatial models."
-  },
-  {
-   "id": "7f515ced3d",
-   "scope": "Spatial patterns and planning",
-   "q": "What is the primary original contribution of your spatial prioritization approach for a data-scarce metropolitan setting like Kabul?",
-   "type": "contribution",
-   "outline": [
-    "Highlight integration of spatial datasets and bundles",
-    "Show how morphology informs spatial prioritization",
-    "Align with environmental planning goals"
-   ],
-   "pitfall": "Overstating findings as broad empirical results rather than methodological contributions to prioritization."
-  },
-  {
-   "id": "03cbd7e616",
-   "scope": "Spatial patterns and planning",
-   "q": "How transferable are your findings on informal flatland and hillside settlements to other semi-arid, mountainous Global South cities?",
+   "q": "How transferable are InVEST models and ecosystem service frameworks from data-rich contexts to semi-arid Kabul?",
    "type": "generalisability",
    "outline": [
     "Discuss transferability between cities and contexts",
-    "Compare formal, informal, and peri-urban settings",
-    "Note constraints of semi-arid and conflict zones"
+    "Address semi-arid, mountainous, and data-scarce conditions",
+    "Explain adaptations needed for peri-urban agriculture and hillsides"
    ],
-   "pitfall": "Assuming Kabul's specific conflict and data-scarce conditions apply universally across the Global South."
+   "pitfall": "Assuming standard parameterizations work universally without local calibration.",
+   "follow_up": "How do plural values and governance contexts alter model transportability?",
+   "bring": "Literature references or comparative criteria for cross-city transferability.",
+   "self_check": [
+    "Discusses transferability",
+    "Considers semi-arid and mountainous constraints",
+    "Notes parameterization challenges"
+   ]
   },
   {
-   "id": "57a94e7bf6",
-   "scope": "Spatial patterns and planning",
-   "q": "Given that habitat quality is not measured biodiversity and runoff retention is not flood risk, how should planners use these outputs?",
+   "id": "89a4ffe3c4",
+   "scope": "the whole thesis",
+   "q": "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?",
    "type": "practical relevance",
    "outline": [
-    "Clarify model definitions and constraints",
-    "Link InVEST outputs to environmental planning",
-    "Avoid over-promising flood risk or biodiversity data"
+    "Connect scenario comparison to planning decisions",
+    "Incorporate green-blue infrastructure and peri-urban agriculture",
+    "Address formal and informal flatland and hillside settlements"
    ],
-   "pitfall": "Translating habitat quality or runoff retention directly into actual biodiversity counts or flood depth predictions."
+   "pitfall": "Presenting abstract ecological metrics without translating them to actionable planning.",
+   "follow_up": "How do you reconcile conflicting plural values during practical planning?",
+   "bring": "Scenario comparison frameworks or planning guideline integration examples.",
+   "self_check": [
+    "Links evidence to planning",
+    "Includes diverse settlement types",
+    "Mentions green-blue infrastructure"
+   ]
   },
   {
-   "id": "4142fc3c51",
-   "scope": "Land-cover change and settlement expansion",
-   "q": "How do you separate modeled supply potential from actual service delivery when evaluating ecosystem services?",
+   "id": "af155913e8",
+   "scope": "Foundations and international evidence",
+   "q": "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?",
    "type": "theory",
    "outline": [
-    "Define the ecosystem service cascade and supply versus demand.",
-    "Explain how spatial modeling estimates potential capacity.",
-    "Discuss how actual service delivery requires evaluating access and flows."
+    "Define modeled supply using tools like InVEST versus actual human benefits",
+    "Discuss how demand and service flows mediate between supply and delivery",
+    "Contrast formal development settings with informal settlements"
    ],
-   "pitfall": "Confusing computer model estimates of potential supply with actual benefits received by humans."
+   "pitfall": "Confusing potential ecological capacity with actual human consumption or well-being benefits.",
+   "follow_up": "How does this distinction shift when evaluating access to urban nature in conflict-affected data-scarce cities?",
+   "bring": "Comparative frameworks separating ecological potential from realized benefits using service flow cascades.",
+   "self_check": [
+    "Clearly defines supply versus delivery",
+    "Addresses demand-side factors",
+    "Maintains theoretical distinction without assuming empirical results"
+   ]
   },
   {
-   "id": "1807372ec1",
-   "scope": "Land-cover change and settlement expansion",
-   "q": "How do you address the limitation that InVEST habitat quality is not a direct measurement of actual biodiversity?",
-   "type": "limitations",
-   "outline": [
-    "Acknowledge that habitat quality is a proxy model, not observed biodiversity.",
-    "Explain the input data and assumptions used in the model.",
-    "Suggest validation strategies using empirical biodiversity data where possible."
-   ],
-   "pitfall": "Claiming that habitat quality results represent measured field biodiversity."
-  },
-  {
-   "id": "2b7ce91594",
-   "scope": "Land-cover change and settlement expansion",
-   "q": "What methods do you use to ensure land-cover and land-change accuracy in data-scarce settings like Kabul?",
-   "type": "methods",
-   "outline": [
-    "Describe remote sensing and GIS integration techniques.",
-    "Explain the specific land-change accuracy assessment procedures.",
-    "Address challenges of data scarcity and spatial scale."
-   ],
-   "pitfall": "Ignoring the uncertainty and validation requirements of spatial datasets in conflict-affected areas."
-  },
-  {
-   "id": "4f29d1591f",
-   "scope": "Land-cover change and settlement expansion",
-   "q": "How do you distinguish spatial associations from the causal effects of settlement status in your analysis?",
-   "type": "alternative explanations",
-   "outline": [
-    "Define what spatial associations and correlations can reveal.",
-    "Explain why settlement status does not automatically prove causation.",
-    "Discuss alternative variables that might explain ecological function changes."
-   ],
-   "pitfall": "Mistaking spatial correlation for direct causal evidence of formal versus informal settlement impacts."
-  },
-  {
-   "id": "73535278e9",
-   "scope": "Land-cover change and settlement expansion",
-   "q": "How do you scale annual water yield interpretations to the watershed level appropriately?",
-   "type": "practical relevance",
-   "outline": [
-    "Clarify that annual water yield requires watershed-scale interpretation.",
-    "Explain how InVEST model estimates relate to hydrological processes.",
-    "Connect the water yield findings to environmental planning needs."
-   ],
-   "pitfall": "Treating water yield model estimates as direct observations of local site hydrology."
-  },
-  {
-   "id": "382bae07f4",
-   "scope": "Land-cover change and settlement expansion",
-   "q": "How do methods and findings transfer from worldwide theories to semi-arid, conflict-affected cities like Kabul?",
+   "id": "4eb651d18b",
+   "scope": "Foundations and international evidence",
+   "q": "What criteria determine whether methods and conclusions from the Global North transfer to semi-arid settings like Kabul?",
    "type": "generalisability",
    "outline": [
-    "Discuss the balance between worldwide theory and Global South contexts.",
-    "Evaluate the transferability of spatial models between cities.",
-    "Address specific constraints of mountainous and data-scarce settings."
+    "Evaluate biophysical and socio-economic similarities",
+    "Assess data scarcity and conflict impacts as transfer barriers",
+    "Compare formal versus informal morphology constraints"
    ],
-   "pitfall": "Assuming global methods apply directly without adapting to local informal morphologies."
+   "pitfall": "Assuming northern methods transfer automatically without checking semi-arid and mountainous constraints.",
+   "follow_up": "Which specific InVEST assumptions break down when applied to data-scarce hillside informal settlements?",
+   "bring": "Examples of methodological adjustments needed for semi-arid, mountainous, and data-scarce cities.",
+   "self_check": [
+    "Identifies transferability boundaries",
+    "Considers biophysical constraints",
+    "Addresses data scarcity"
+   ]
+  },
+  {
+   "id": "4c124bcb31",
+   "scope": "Foundations and international evidence",
+   "q": "How do you account for uncertainty and sensitivity in spatial modeling when data availability is severely limited?",
+   "type": "methods",
+   "outline": [
+    "Outline uncertainty assessment and sensitivity testing approaches",
+    "Address data-scarce setting challenges for validation",
+    "Discuss land-change validation limits"
+   ],
+   "pitfall": "Treating model outputs as direct observations rather than estimates subject to high uncertainty.",
+   "follow_up": "If validation data is missing, how can scenario comparison test the robustness of your spatial models?",
+   "bring": "Uncertainty assessment protocols and sensitivity analysis methods applicable to InVEST.",
+   "self_check": [
+    "Acknowledges model estimates are not direct observations",
+    "Addresses data scarcity impacts",
+    "Proposes robust uncertainty checks"
+   ]
+  },
+  {
+   "id": "4b4f5f6322",
+   "scope": "Foundations and international evidence",
+   "q": "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
+   "type": "alternative explanations",
+   "outline": [
+    "Distinguish spatial correlation from causal effects of settlement status",
+    "Evaluate underlying socio-economic drivers of location choices",
+    "Consider historical land-cover change confounders"
+   ],
+   "pitfall": "Conflating spatial associations of formal and informal settlements with direct causal impacts.",
+   "follow_up": "How would you test whether settlement morphology causes service variation rather than underlying topography?",
+   "bring": "Methodological strategies to separate correlation from causation in spatial statistics.",
+   "self_check": [
+    "Separates spatial association from causality",
+    "Considers morphological confounders",
+    "Evaluates socioeconomic drivers"
+   ]
+  },
+  {
+   "id": "b05f2fd5cd",
+   "scope": "Foundations and international evidence",
+   "q": "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?",
+   "type": "practical relevance",
+   "outline": [
+    "Define plural values in socio-ecological systems",
+    "Incorporate environmental justice into access and benefit metrics",
+    "Link justice considerations to environmental planning governance"
+   ],
+   "pitfall": "Treating service demand as uniform rather than shaped by unequal access and diverse values.",
+   "follow_up": "How can planning governance integrate conflicting plural values in informal flatland and hillside areas?",
+   "bring": "Frameworks for plural valuation and environmental justice in urban planning governance.",
+   "self_check": [
+    "Addresses plural values",
+    "Incorporates environmental justice",
+    "Connects to planning governance"
+   ]
+  },
+  {
+   "id": "162124c84c",
+   "scope": "Foundations and international evidence",
+   "q": "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?",
+   "type": "limitations",
+   "outline": [
+    "Clarify that habitat quality is a proxy index, not direct biodiversity",
+    "Explain watershed-scale interpretation limits for annual water yield",
+    "Note runoff retention is not a direct estimate of flood risk"
+   ],
+   "pitfall": "Treating proxy indices like habitat quality or runoff retention as direct ecological or flood measurements.",
+   "follow_up": "How do these proxy limitations constrain scenario comparison exercises in environmental planning?",
+   "bring": "Explicit definitions of model boundaries stating what metrics like runoff retention do not measure.",
+   "self_check": [
+    "Distinguishes proxy from direct measurement",
+    "Interprets water yield at watershed scale",
+    "Limits flood risk claims"
+   ]
+  },
+  {
+   "id": "2f0e2b19ac",
+   "scope": "Spatial patterns and planning",
+   "q": "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
+   "type": "theory",
+   "outline": [
+    "Define supply potential versus actual service use",
+    "Acknowledge that model estimates are not direct observations",
+    "Explain how demand and access mediate service flows"
+   ],
+   "pitfall": "Confusing modeled biophysical capacity with realized human wellbeing benefits.",
+   "follow_up": "How does this distinction alter your spatial prioritization for urban planning in Kabul?",
+   "bring": "Conceptual diagrams separating supply potential, demand, and actual delivery flows.",
+   "self_check": [
+    "Defined supply versus delivery",
+    "Referenced model limitations",
+    "Addressed human benefits"
+   ]
+  },
+  {
+   "id": "edaafc487a",
+   "scope": "Spatial patterns and planning",
+   "q": "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
+   "type": "methods",
+   "outline": [
+    "Describe land-cover and land-change accuracy assessment",
+    "Explain sensitivity and uncertainty analysis for spatial models",
+    "Address challenges of data scarcity"
+   ],
+   "pitfall": "Treating model outputs as absolute truths without addressing data limitations.",
+   "follow_up": "Which specific parameters drive the highest uncertainty in your InVEST models?",
+   "bring": "Accuracy assessment matrices and uncertainty/sensitivity test results.",
+   "self_check": [
+    "Covered land-change validation",
+    "Mentioned uncertainty tests",
+    "Addressed data scarcity"
+   ]
+  },
+  {
+   "id": "e31480686e",
+   "scope": "Spatial patterns and planning",
+   "q": "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
+   "type": "alternative explanations",
+   "outline": [
+    "Distinguish spatial association from causal effects",
+    "Discuss formal versus informal settlement drivers",
+    "Control for confounding environmental factors"
+   ],
+   "pitfall": "Claiming direct causality between settlement status and service provision.",
+   "follow_up": "What unmeasured variables could explain the observed bundles instead of morphology?",
+   "bring": "Statistical models showing spatial associations alongside causal caveats.",
+   "self_check": [
+    "Separated association from mechanism",
+    "Addressed settlement types",
+    "Considered confounding factors"
+   ]
+  },
+  {
+   "id": "2738817a93",
+   "scope": "Spatial patterns and planning",
+   "q": "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
+   "type": "limitations",
+   "outline": [
+    "State that habitat quality is not measured biodiversity",
+    "Clarify runoff retention is not direct flood depth or risk",
+    "Discuss watershed-scale interpretation for annual water yield"
+   ],
+   "pitfall": "Overstclaiming ecological health or flood protection benefits from proxy outputs.",
+   "follow_up": "How would you validate these proxy outputs if local ecological data is absent?",
+   "bring": "Explicit methodological caveats regarding InVEST proxy interpretations.",
+   "self_check": [
+    "Clarified habitat proxy limits",
+    "Addressed runoff versus flood risk",
+    "Noted watershed-scale needs"
+   ]
+  },
+  {
+   "id": "27484927d1",
+   "scope": "Spatial patterns and planning",
+   "q": "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
+   "type": "generalisability",
+   "outline": [
+    "Evaluate transferability between cities",
+    "Account for semi-arid, mountainous, and conflict-affected traits",
+    "Balance worldwide theory with local realities"
+   ],
+   "pitfall": "Applying standardized Global North models without local context adaptation.",
+   "follow_up": "Which specific framework assumptions break down in informal hillside settlements?",
+   "bring": "Comparative notes on transferring spatial models to data-scarce settings.",
+   "self_check": [
+    "Addressed city transferability",
+    "Included local constraints",
+    "Balanced theory and context"
+   ]
+  },
+  {
+   "id": "5077704898",
+   "scope": "Spatial patterns and planning",
+   "q": "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
+   "type": "practical relevance",
+   "outline": [
+    "Connect service bundles and spatial patterns to planning",
+    "Address formal development and informal flatland/hillside areas",
+    "Incorporate green-blue infrastructure scenarios"
+   ],
+   "pitfall": "Proposing planning interventions that ignore conflict and data limitations.",
+   "follow_up": "How do scenario comparisons help guide planning under high uncertainty?",
+   "bring": "Scenario comparison frameworks tailored for data-scarce metropolitan planning.",
+   "self_check": [
+    "Linked patterns to planning",
+    "Addressed informal areas",
+    "Incorporated scenarios"
+   ]
+  },
+  {
+   "id": "e2872f0900",
+   "scope": "Land-cover change and settlement expansion",
+   "q": "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?",
+   "type": "generalisability",
+   "outline": [
+    "Acknowledge semi-arid and conflict-affected data constraints",
+    "Explain how transferable methods are adapted",
+    "Discuss limits of applying non-Kabul international research"
+   ],
+   "pitfall": "Assuming methods transfer directly without addressing data-scarce or conflict contexts.",
+   "follow_up": "What specific indicators ensure a model calibrated elsewhere fits Kabul's mountain morphology?",
+   "bring": "Comparative methodological framework mapping global methods to data-scarce settings.",
+   "self_check": [
+    "Addresses data scarcity",
+    "Considers context mismatch",
+    "Avoids over-generalization"
+   ]
+  },
+  {
+   "id": "e6afca7ade",
+   "scope": "Land-cover change and settlement expansion",
+   "q": "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?",
+   "type": "theory",
+   "outline": [
+    "Define modeled supply potential using InVEST",
+    "Clarify demand and service flow concepts",
+    "Explain how actual delivery differs from biophysical potential"
+   ],
+   "pitfall": "Treating InVEST model outputs as direct measurements of human benefits or actual use.",
+   "follow_up": "How does access to urban nature factor into the gap between supply and human benefits?",
+   "bring": "Conceptual diagram separating supply, demand, flows, and actual benefits.",
+   "self_check": [
+    "Clearly separates supply from delivery",
+    "References ecosystem service cascade",
+    "Acknowledges model limitations"
+   ]
+  },
+  {
+   "id": "0d2d3fdf57",
+   "scope": "Land-cover change and settlement expansion",
+   "q": "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?",
+   "type": "methods",
+   "outline": [
+    "Outline land-cover and land-change accuracy assessments",
+    "Describe sensitivity and uncertainty assessment procedures",
+    "Explain how errors propagate into spatial models"
+   ],
+   "pitfall": "Overstating accuracy of land-change validation without uncertainty bounds.",
+   "follow_up": "How do baseline conditions and spatial scale affect your uncertainty assessment?",
+   "bring": "Flowchart showing error propagation from land-cover validation to InVEST outputs.",
+   "self_check": [
+    "Mentions validation accuracy",
+    "Addresses uncertainty assessment",
+    "Recognizes model estimates"
+   ]
+  },
+  {
+   "id": "e8a4f3baca",
+   "scope": "Land-cover change and settlement expansion",
+   "q": "How do you rule out alternative explanations for differences in ecological functions between settlement types?",
+   "type": "alternative explanations",
+   "outline": [
+    "Differentiate spatial associations from causal effects",
+    "Compare formal, informal flatland, and hillside morphology",
+    "Control for baseline and scale confounding factors"
+   ],
+   "pitfall": "Attributing ecological function differences strictly to settlement status without causality proof.",
+   "follow_up": "What spatial statistical methods test whether morphology rather than baseline causes the shift?",
+   "bring": "Analytical matrix separating spatial correlation from causal settlement drivers.",
+   "self_check": [
+    "Distinguishes spatial association from causation",
+    "Addresses formal versus informal settings",
+    "Considers baseline confounding"
+   ]
+  },
+  {
+   "id": "5d47b83412",
+   "scope": "Land-cover change and settlement expansion",
+   "q": "What are the limitations of interpreting habitat quality as biodiversity and runoff retention as flood risk?",
+   "type": "limitations",
+   "outline": [
+    "Explicitly state that habitat quality is not measured biodiversity",
+    "Clarify that runoff retention is not flood depth or risk",
+    "Discuss implications for environmental planning"
+   ],
+   "pitfall": "Using InVEST metric names interchangeably with direct on-the-ground ecological observations.",
+   "follow_up": "How can scenario comparisons still inform planning despite these metric boundaries?",
+   "bring": "List of core InVEST metrics alongside their exact definitions and model boundaries.",
+   "self_check": [
+    "Corrects proxy misinterpretation",
+    "Defines runoff retention limits",
+    "Maintains planning relevance"
+   ]
+  },
+  {
+   "id": "4e17899ba1",
+   "scope": "Land-cover change and settlement expansion",
+   "q": "How does watershed-scale interpretation change annual water yield findings in semi-arid mountainous settings?",
+   "type": "practical relevance",
+   "outline": [
+    "Explain the necessity of watershed-scale interpretation",
+    "Integrate semi-arid and mountainous constraints",
+    "Connect findings to environmental planning utility"
+   ],
+   "pitfall": "Applying annual water yield metrics at fine urban scales without watershed aggregation.",
+   "follow_up": "How do data-scarce conditions impact the calibration of watershed water yield models?",
+   "bring": "Watershed-level spatial dataset integration scheme for water yield.",
+   "self_check": [
+    "Applies watershed scale correctly",
+    "Considers semi-arid constraints",
+    "Links to practical planning"
+   ]
   }
  ],
  "asked": [
-  "e1e6e2fb29"
+  "dd0d2a54e5"
  ],
  "today": {
-  "id": "e1e6e2fb29",
+  "id": "dd0d2a54e5",
   "scope": "the whole thesis",
-  "q": "How do you distinguish modeled supply potential from actual service delivery across different settlement types?",
+  "q": "How do you justify distinguishing modeled supply potential from actual service delivery in data-scarce settings like Kabul?",
   "type": "theory",
   "outline": [
-   "Define modeled supply versus actual delivery",
-   "Discuss demand and service flows in social-ecological systems",
-   "Address formal versus informal settlement contexts"
+   "Define modeled supply versus delivered benefits",
+   "Explain challenges in data-scarce and conflict settings",
+   "Discuss implications for planning and demand flows"
   ],
-  "pitfall": "Assuming that high modeled supply potential automatically equates to realized human benefits."
+  "pitfall": "Confusing computer-generated model outputs with actual human use or observed benefits.",
+  "follow_up": "How does this distinction affect equity and environmental justice assessments?",
+  "bring": "Conceptual diagrams separating supply potential from demand and actual service flows.",
+  "self_check": [
+   "Clearly separates model estimates from observations",
+   "Addresses data scarcity",
+   "Links to service flows"
+  ]
  },
  "today_date": "2026-10-28"
 }

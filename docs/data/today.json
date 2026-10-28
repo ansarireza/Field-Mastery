@@ -1,289 +1,73 @@
 {
  "date": "2026-10-28",
  "summary": [
-  "Studies investigate ecosystem services, land-cover changes, and environmental planning.",
-  "Research covers urban expansion, vegetation impacts, and river alterations.",
-  "Findings highlight carbon dynamics, water quality, and biodiversity variations."
+  "Climate practices in Maputo show household housing changes and institutional infrastructure developments.",
+  "Governance gaps deny displaced populations their water and sanitation rights, increasing risks."
  ],
  "items": [
   {
-   "id": "W7223310226",
-   "title": "Significant Mediating Effect of Land Use Intensity: An Empirical Study on the Effects of Ecosystem Services Trade-Offs and Synergies in Jiangxi Province",
-   "headline": "Land use intensity mediates ecosystem service trade-offs",
+   "id": "W7223662277",
+   "title": "Producing Adaptive Urban Space in Informal Settlements: Evidence from Maputo",
+   "headline": "Climate practices mapped in Maputo's informal areas",
    "bullets": [
-    "Studied Jiangxi Province from 1990 to 2020 using static and dynamic perspectives",
-    "Found land use intensity acts as a vital mediator between vegetation and services",
-    "Provides a foundation for targeted and differentiated ecological management policies"
+    "Combined surveys, technical assessments, interviews, and mapping in Maputo informal areas.",
+    "Found housing changes were household-led while infrastructure was institutional or commercial.",
+    "Connects climate practices to socio-spatial domains via a new adaptive urban space concept."
    ],
    "plain": {
-    "question": "How do nature's benefits interact and how do land and plants affect them?",
-    "method": "Analyzed data from 1990 to 2020 in Jiangxi Province using statistical models.",
-    "finding": "Land use intensity acts as a middle step linking plant cover to nature's benefits.",
-    "why": "It helps leaders create better ecological management and environmental policies."
+    "question": "How do people in informal neighborhoods shape their space to handle climate hazards like floods and heat?",
+    "method": "Studied six informal neighborhoods using household surveys, housing checks, interviews, and maps.",
+    "finding": "Households mostly fix up their own homes, while outsiders or companies provide basic urban services.",
+    "why": "Helps us see how different climate actions fit together across the whole city layout."
    },
    "full": {
-    "explainer": "This paper looks at how nature's benefits—like clean water, food, and green spaces—relate to each other. Researchers call these interactions trade-offs and synergies. Instead of looking only at direct impacts, the study examined how plant cover (measured by the normalized difference vegetation index) and land use intensity affect these benefits over time in Jiangxi Province from 1990 to 2020. The authors discovered that the relationships between these benefits change depending on the scale and location, showing short-term shifts alongside long-term stability. Crucially, they found that land use intensity acts as a middle step, or mediator, connecting plant cover to how these nature benefits trade off or work together. This helps explain the complex chain of events happening on the landscape. Ultimately, the study aims to offer a solid scientific basis to help governments design better, more targeted environmental policies and manage natural resources more effectively.",
+    "explainer": "Most past research on climate adaptation in informal settlements looks at single hazards or isolated projects, leaving gaps in how everyday actions fit together across the whole city. This paper looks at Maputo, Mozambique, to understand how people produce socio-spatial practices—such as housing changes, public space use, and road work—that relate to flooding, heavy rain, heat stress, and erosion. Using a mixed-methods design, the study examined six blocks in six informal neighborhoods with household surveys, technical housing checks, interviews, field observations, maps, and documents. The results show that households mostly drive their own home improvements, whereas basic services are built by institutions or businesses. Co-production—where residents and authorities work together—was clearest in specific public space and road upgrades. The paper introduces the concept of adaptive urban space to connect adaptive relevance, how things are made, and spatial areas, without claiming to measure exact adaptation success.",
     "caveats": [
-     "Study is based specifically on Jiangxi Province",
-     "Not stated how this applies directly to arid or urban environments like Kabul"
+     "Adaptive capacity or adaptation effectiveness were not measured directly.",
+     "Not stated: quantitative measurements of hazard reduction outcomes."
     ],
     "jargon": [
      {
-      "term": "ecosystem service trade-offs and synergies",
-      "definition": "Situations where gaining one benefit from nature causes the loss or gain of another."
+      "term": "Informal settlements",
+      "definition": "Residential areas where housing is built outside official land use and legal frameworks."
      },
      {
-      "term": "normalized difference vegetation index",
-      "definition": "A common measure used to estimate the amount of live green vegetation in an area."
+      "term": "Co-production",
+      "definition": "A process where residents and institutions participate together in planning or implementation."
      },
      {
-      "term": "land use intensity",
-      "definition": "The degree of human use or alteration applied to a piece of land."
+      "term": "Socio-spatial practices",
+      "definition": "Human actions and behaviors that shape and are shaped by physical spaces and social structures."
      },
      {
-      "term": "mediating effect",
-      "definition": "When a third variable helps explain the chain of influence between an independent and dependent variable."
+      "term": "Adaptive urban space",
+      "definition": "An analytical concept connecting adaptive relevance, production modes, and spatial domains."
      }
     ],
-    "fit": "It offers methods to analyze land-cover change and ecosystem services, relevant for understanding human impacts on the environment."
+    "fit": "Connects to informal settlements, climate hazards like heat and floods, and the Global South, offering context on local action modes."
    },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-   "source": {
-    "url": "https://doi.org/10.3390/f17111266",
-    "doi": "https://doi.org/10.3390/f17111266",
-    "venue": "Forests",
-    "date": "2026-10-23",
-    "authors": [
-     "Yinfan Zhao",
-     "Xuelong Yang",
-     "Jun Zhang",
-     "蔡海生",
-     "Han Zhang",
-     "Guo Xi"
-    ],
-    "n_authors": 6,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223082025",
-   "title": "Eco-fiscal sustainability of plain afforestation: From ecological value creation to value realization",
-   "headline": "Afforestation can be financially sustainable",
-   "bullets": [
-    "Studied how plain afforestation creates and realizes ecological value",
-    "Found that afforestation can achieve eco-fiscal sustainability",
-    "Helps turn ecological value into real financial sustainability"
-   ],
-   "plain": {
-    "question": "Can planting trees on plains pay for itself?",
-    "method": "Studied how ecological value is created and realized through tree planting.",
-    "finding": "Plain afforestation can achieve financial sustainability.",
-    "why": "It helps bridge the gap between nature protection and money."
+   "thesis": {
+    "why": "It examines informal settlements, climate hazards like heat and flooding, and local production of space, echoing the social-ecological focus in the student's context.",
+    "action": "Check how the study defines and links housing transformation to physical environmental hazards.",
+    "relationship": "context"
    },
-   "full": {
-    "explainer": "This paper looks at plain afforestation, which means planting trees in flat open areas. Usually, people focus on how trees help the environment, like cleaning the air or providing habitats. However, this study goes a step further to look at eco-fiscal sustainability. This means figuring out how the financial side works—how you can turn the value of nature into actual money or support to keep the projects going over time. The researchers studied the journey from ecological value creation, which is making the environment better by planting trees, to value realization, which is capturing the financial benefits. By understanding this connection, the study shows that planting trees does not just help nature, but can also be managed in a way that makes financial sense. This is important for planners who want to protect the environment while also making sure projects have the money they need to survive and grow without running out of funds.",
-    "caveats": [
-     "not stated"
-    ],
-    "jargon": [
-     {
-      "term": "afforestation",
-      "definition": "Planting trees in an area where there were no trees before."
-     },
-     {
-      "term": "eco-fiscal sustainability",
-      "definition": "Keeping environmental projects financially stable over the long term."
-     }
-    ],
-    "fit": "Connects to environmental planning and urban ecosystem services by linking tree planting projects to financial sustainability in the Global South."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
-   "source": {
-    "url": "https://doi.org/10.1016/j.jclepro.2026.149722",
-    "doi": "https://doi.org/10.1016/j.jclepro.2026.149722",
-    "venue": "Journal of Cleaner Production",
-    "date": "2026-10-21",
-    "authors": [
-     "Chuanyang Pan",
-     "Ming Nie",
-     "Feng Xu",
-     "Yun Liu",
-     "Yuanqi Jiang"
-    ],
-    "n_authors": 5,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223215055",
-   "title": "Effects of cascade dam regulation on benthic diatom diversity and community structure in a tropical river system (Sangker River, Cambodia)",
-   "headline": "Dams change river algae communities",
-   "bullets": [
-    "Studied benthic diatom diversity along the Sangker River in Cambodia",
-    "Found that dam regulation alters river diatom diversity and community structure",
-    "Helps us understand how river engineering impacts tropical aquatic ecosystems"
-   ],
-   "plain": {
-    "question": "How do dams affect tiny algae living on the bottom of tropical rivers?",
-    "method": "Studied algae communities along the Sangker River in Cambodia, which has cascade dams.",
-    "finding": "The regulation of water flow by cascade dams changes the types and variety of algae present.",
-    "why": "It shows how building dams alters river ecosystems, which is important for protecting nature."
-   },
-   "full": {
-    "explainer": "Rivers are often changed by humans building dams to control water flow. This study looks at how a series of dams, called cascade dams, affects tiny algae living at the bottom of a tropical river. The researchers focused on the Sangker River in Cambodia. Algae, specifically organisms called benthic diatoms, are very sensitive to changes in their water environment. By looking at these algae, scientists can see how healthy a river is and how it reacts to human interference. The researchers found that regulating the river with dams changes the diversity and community structure of these algae. This means that building dams does not just change the water level; it fundamentally alters the tiny life forms that form the base of the river's food web. Understanding these changes is important for managing water resources and protecting nature in developing regions where many new dams are being planned or built.",
-    "caveats": [
-     "The study only focuses on the Sangker River in Cambodia.",
-     "It specifically looks at benthic diatoms rather than all river life."
-    ],
-    "jargon": [
-     {
-      "term": "benthic diatom",
-      "definition": "A type of single-celled algae that lives at the bottom of a body of water."
-     },
-     {
-      "term": "cascade dam",
-      "definition": "A series of dams built along a single river to manage water flow and generate power."
-     },
-     {
-      "term": "community structure",
-      "definition": "The mix of different species and their relative numbers in a specific area."
-     }
-    ],
-    "fit": "It relates to environmental planning and ecosystem services in the Global South, though it focuses on rivers rather than Kabul's urban land."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
-   "source": {
-    "url": "https://doi.org/10.1016/j.limno.2026.126394",
-    "doi": "https://doi.org/10.1016/j.limno.2026.126394",
-    "venue": "Limnologica",
-    "date": "2026-10-22",
-    "authors": [
-     "Ratha Chea",
-     "Socheat Chrea",
-     "Loïc Tudesque"
-    ],
-    "n_authors": 3,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223333123",
-   "title": "Effects of Urban Blue–Green Landscape Patterns on Carbon Sequestration in Chongqing’s Central Urban Area: An XGBoost–SHAP Analysis",
-   "headline": "Blue-green spaces and carbon in Chongqing",
-   "bullets": [
-    "Used remote sensing and machine learning models to study carbon storage from 2000 to 2020.",
-    "Found that vegetation carbon uptake rose overall, heavily shaped by elevation and landscape.",
-    "Helps cities optimize ecological spaces to boost carbon sinks in mountainous urban areas."
-   ],
-   "plain": {
-    "question": "How do water and plant spaces affect carbon storage in a big city?",
-    "method": "We used satellite data and computer models to track plant growth and landscape patterns from 2000 to 2020.",
-    "finding": "Plant carbon storage went up over time, strongly linked to land shape, size, and layout.",
-    "why": "This helps planners improve city nature areas to store more carbon."
-   },
-   "full": {
-    "explainer": "This study looks at how urban water and plant spaces, known as blue-green landscapes, affect carbon storage in a major urban area over twenty years from 2000 to 2020. The researchers used satellite images, land use data, and weather info to estimate plant growth, which represents carbon capture. They used advanced computer models and analysis tools to see how landscape features like size, shape, and connection relate to this carbon uptake. The results showed that plant carbon storage generally increased over the years. Areas with high carbon capture were mostly found in outer mountains, while central city areas had more broken-up, fragmented nature spaces. Adding landscape details to the computer models greatly improved their accuracy. Factors like elevation, the amount of landscape area, and how patches are connected played big roles, though the exact impact changed across different years. The study concludes that both the natural lay of the land and how urban nature is arranged affect carbon storage, giving planners useful ideas for improving city ecosystems.",
-    "caveats": [
-     "SHAP contributions do not imply direct causal effects.",
-     "not stated"
-    ],
-    "jargon": [
-     {
-      "term": "Carbon Sequestration",
-      "definition": "The process of capturing and storing carbon dioxide from the atmosphere."
-     },
-     {
-      "term": "Net Primary Productivity",
-      "definition": "The amount of carbon plants take in minus what they release through breathing."
-     },
-     {
-      "term": "Landscape Pattern Indices",
-      "definition": "Mathematical measures of the spatial arrangement and structure of land patches."
-     },
-     {
-      "term": "XGBoost",
-      "definition": "A machine learning method used for accurate data prediction and classification."
-     }
-    ],
-    "fit": "It connects by exploring urban ecosystem services and land-cover change, offering planning insights applicable to rapidly growing cities."
+   "critical": {
+    "question": "Does this qualitative framework actually reduce environmental risks, or just document human coping behaviors?",
+    "evidence": "The abstract states that practices range from directly evidenced interventions to potential functions, without measuring adaptation effectiveness.",
+    "limit": "You cannot establish whether these socio-spatial practices successfully lower physical flood levels or heat stress.",
+    "check": "Verify if the full paper provides empirical environmental measurements alongside the social survey data."
    },
    "relevance": 4,
-   "watch": null,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
    "source": {
-    "url": "https://doi.org/10.22158/se.v11n4p47",
-    "doi": "https://doi.org/10.22158/se.v11n4p47",
-    "venue": "Sustainability in Environment",
+    "url": "https://doi.org/10.3390/buildings16214214",
+    "doi": "https://doi.org/10.3390/buildings16214214",
+    "venue": "Buildings",
     "date": "2026-10-23",
     "authors": [
-     "Xiaoyu Gao",
-     "Zhongsheng Chen",
-     "Ling Zhang",
-     "Kai Xiong",
-     "Li Wang"
-    ],
-    "n_authors": 5,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223131247",
-   "title": "Vegetation-Based Strategies for Urban Heat Mitigation and Outdoor Thermal Comfort Enhancement in Hot-Arid and Mediterranean Cities: A Scoping Review",
-   "headline": "Plant cooling effects vary by climate and setup",
-   "bullets": [
-    "Reviewed 127 studies from 2010 to 2026 on plants cooling hot-arid and Mediterranean cities",
-    "Found plant cooling power depends on type, density, water, and local climate",
-    "Highlights the challenge of making one universal cooling plan for different cities"
-   ],
-   "plain": {
-    "question": "How well do plants cool down hot-arid and Mediterranean cities?",
-    "method": "We reviewed 127 peer-reviewed studies published between 2010 and 2026.",
-    "finding": "Plant cooling changes based on plant type, water access, and local climate.",
-    "why": "It shows we cannot use the exact same cooling plan for every city."
-   },
-   "full": {
-    "explainer": "As cities grow rapidly, natural land is replaced by hard surfaces and dense buildings, trapping heat and creating the urban heat island effect, which harms health and livability. While using plants is known to help cool cities through shade and water release, we still do not fully understand how different climates change this cooling power. This study is a scoping review that looks at how well plants reduce temperatures and improve outdoor comfort in two specific climates: hot-arid and Mediterranean. By screening research databases from 2010 to 2026, the authors analyzed 127 studies. They discovered that hot-arid and Mediterranean cities experience different heat patterns day and night. Furthermore, the cooling success of vegetation relies heavily on factors like plant type, layout, density, local climate, and water availability. Because of these differences, creating a single cooling solution that works the same way everywhere is very difficult.",
-    "caveats": [
-     "Limited to hot-arid and Mediterranean climates",
-     "Only includes peer-reviewed English language studies published between 2010 and 2026"
-    ],
-    "jargon": [
-     {
-      "term": "Urban heat island (UHI)",
-      "definition": "When an urban area is significantly warmer than its surrounding rural areas due to human activities."
-     },
-     {
-      "term": "Evapotranspiration",
-      "definition": "The process where water is transferred from the land to the atmosphere by soil and plants."
-     },
-     {
-      "term": "Köppen BWh and Csa",
-      "definition": "Specific climate classification codes used for hot-arid and Mediterranean climate types."
-     },
-     {
-      "term": "Canopy urban heat island (CUHI)",
-      "definition": "Warmer air temperatures found within and just above the urban plant and building canopy layer."
-     }
-    ],
-    "fit": "Helps understand plant cooling performance in hot-arid climates, aiding urban ecosystem planning for arid cities like Kabul."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.3390/land15102008",
-    "doi": "https://doi.org/10.3390/land15102008",
-    "venue": "Land",
-    "date": "2026-10-21",
-    "authors": [
-     "Saeed Alhusaiki",
-     "Simon J. Kilbane",
-     "Maria E. Ignatieva"
+     "Hazrat Bilale Salamagy",
+     "Fernando Brandão Alves",
+     "Clara Pimenta do Vale"
     ],
     "n_authors": 3,
     "open_access": true,
@@ -291,272 +75,133 @@
    }
   },
   {
-   "id": "W7223087854",
-   "title": "A LiDAR-driven urban energy benchmarking framework for mapping building energy intensity and carbon emissions in hyper-arid cities",
-   "headline": "New method maps city energy use and carbon emissions",
+   "id": "W7223288780",
+   "title": "Water, Displacement, and Legal Invisibility",
+   "headline": "Governance failures deny WASH access to the displaced",
    "bullets": [
-    "Combined LiDAR 3D shapes, deep-learning imagery, and power meter records.",
-    "Found big jumps in energy use and carbon emissions from 2020 to 2024.",
-    "Provides a clear way to target energy-efficiency plans in dry cities."
+    "Examined governance failures excluding climate-displaced people in informal settlements from WASH.",
+    "Found legal and institutional gaps deny displaced populations their water and sanitation rights.",
+    "Proposes a rights-based framework to ensure equitable and sustainable access to WASH services."
    ],
    "plain": {
-    "question": "How can we measure energy use and carbon emissions for every single building in hot, dry cities?",
-    "method": "We combined 3D laser scans, satellite images, and power meter data using computer programs to estimate building energy use.",
-    "finding": "Energy use and carbon emissions grew a lot between 2020 and 2024, with most buildings falling into a high-energy group.",
-    "why": "This helps cities find where to focus energy-saving efforts and reduce carbon pollution."
+    "question": "Why do climate-displaced people in informal settlements lack proper water and sanitation?",
+    "method": "It uses ideas from international human rights law, climate governance, and urban planning.",
+    "finding": "Legal barriers, missing citizenship rights, and poor planning exclude them from formal services.",
+    "why": "We need a fairer system to make sure everyone gets safe water and sanitation."
    },
    "full": {
-    "explainer": "As cities grow fast and get hotter, buildings use more energy and create more carbon pollution. But measuring this for individual buildings has been hard because data is rarely put together in one place. To solve this, researchers created a new system in Qatar. They combined 3D laser scans of buildings, satellite images analyzed by computers, and over 14,000 electricity records. Using machine learning, they estimated how much energy buildings use and how much carbon they release. The study found that between 2020 and 2024, electricity use and carbon emissions went up significantly across residential, commercial, and industrial areas. Most buildings fell into a high-energy group, while only a small fraction used less energy. This matters because it gives cities a detailed map of energy use. Planners can use this information to choose which buildings or neighborhoods need energy-saving upgrades first, helping hot and dry cities cut down on carbon pollution.",
-    "caveats": [
-     "The study focuses specifically on Qatar and hyper-arid cities.",
-     "Not stated whether this framework works directly in temperate or cold climates."
-    ],
-    "jargon": [
-     {
-      "term": "LiDAR",
-      "definition": "A remote sensing method that uses laser light to measure 3D shapes and distances."
-     },
-     {
-      "term": "Energy Use Intensity",
-      "definition": "The amount of energy a building uses per square meter each year."
-     },
-     {
-      "term": "Operational Carbon",
-      "definition": "Greenhouse gas emissions caused by a building's everyday energy consumption."
-     },
-     {
-      "term": "Hyper-arid",
-      "definition": "Extremely dry environments with very little rainfall."
-     }
-    ],
-    "fit": "Offers a high-resolution framework for urban environmental planning, energy monitoring, and carbon management relevant to developing regions."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1038/s41598-026-71931-2",
-    "doi": "https://doi.org/10.1038/s41598-026-71931-2",
-    "venue": "Scientific Reports",
-    "date": "2026-10-21",
-    "authors": [
-     "Abderraouf Hzami",
-     "Azzam Abu-Rayash"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223278401",
-   "title": "A Remote Sensing and GIS Framework for Evaluating urban growth and sustainable land development: Case study Gitaraga and Mumena site Village in Rwanda",
-   "headline": "Urban expansion replaces farms and forests in Rwanda",
-   "bullets": [
-    "Analyzed 2004-2024 satellite imagery and spatial data for two Rwandan villages",
-    "Built-up areas grew by 214%, while farms and vegetation decreased significantly",
-    "Shows how remote sensing and GIS help plan sustainable land development"
-   ],
-   "plain": {
-    "question": "How did urban growth affect land cover and infrastructure in Rwandan rural areas between 2004 and 2024?",
-    "method": "The researchers used satellite images, maps, demographic data, and computer models to track changes in land use over time.",
-    "finding": "Cities expanded onto farmland and forests, and new housing often lacked proper roads and drainage systems.",
-    "why": "This helps local leaders use digital mapping tools to guide future city growth in a sustainable way."
-   },
-   "full": {
-    "explainer": "This study looks at how fast-growing cities change nearby rural areas in Rwanda. As Kigali City expands, surrounding villages turn into peri-urban zones, which puts stress on land and infrastructure. Researchers used satellite images from 2004 to 2024 to track how the landscape changed over two decades. They found that built-up areas more than tripled, while agricultural land and vegetation shrank considerably. Much of this growth happened near roads and close to the big city, driven by a growing population. However, new housing often outpaced public services, creating areas with poor roads and bad drainage. By using computer models to look ahead to 2035, the study shows that doing things the usual way leads to more problems, but careful spatial planning can lead to better outcomes. Ultimately, the paper highlights how satellite tools and geographic software are vital for monitoring growth and planning for a sustainable future in fast-changing regions.",
-    "caveats": [
-     "The study focuses specifically on Gitaraga and Mumena villages in Rwanda",
-     "Projections rely on a Business-As-Usual scenario and planned development scenarios"
-    ],
-    "jargon": [
-     {
-      "term": "Remote Sensing",
-      "definition": "Collecting information about the Earth using sensors on satellites or aircraft."
-     },
-     {
-      "term": "GIS",
-      "definition": "Geographic Information Systems used for capturing, storing, and analyzing spatial data."
-     },
-     {
-      "term": "Peri-urban zones",
-      "definition": "Areas where rural and urban land uses mix, usually right outside a city."
-     },
-     {
-      "term": "Change detection analysis",
-      "definition": "A technique to determine how an area has changed between different time periods."
-     }
-    ],
-    "fit": "It connects through land-cover change and environmental planning methods in the Global South, offering spatial tools useful for Kabul."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.53771/ijlsra.2026.11.2.0066",
-    "doi": "https://doi.org/10.53771/ijlsra.2026.11.2.0066",
-    "venue": "International Journal of Life Science Research Archive",
-    "date": "2026-10-23",
-    "authors": [
-     "Eng. KAGIMBANGABO Jean Pasteur",
-     "Adrien MUGABUSHAKA"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223473668",
-   "title": "COMPARATIVE BIODIVERSITY OF VERTEBRATES IN MAHARASHTRA ECOSYSTEMS",
-   "headline": "Forests and wetlands hold the most vertebrate diversity",
-   "bullets": [
-    "Compared vertebrate diversity across diverse ecosystems using reports and surveys",
-    "Found forests and wetlands have the most species, while urban areas have fewer",
-    "Highlights the need for tailored conservation to protect wildlife diversity"
-   ],
-   "plain": {
-    "question": "How does animal variety differ across various landscapes in Maharashtra?",
-    "method": "The researchers reviewed scientific papers, government reports, and surveys to map animals.",
-    "finding": "Forests and wetlands have the most species, while cities and dry areas have fewer.",
-    "why": "This helps us understand how human actions harm wildlife and guides better protection."
-   },
-   "full": {
-    "explainer": "This paper looks at the variety, spread, and ecological roles of animals with backbones—like mammals, birds, reptiles, amphibians, and fish—across different landscapes in Maharashtra, India. By reviewing existing scientific literature, surveys, and government reports, the researchers mapped out where these animals live and the challenges they face. They discovered that forests and wetlands support the highest variety of animal life because they have complex habitats and plenty of water. On the other hand, semi-arid regions and urban areas support fewer species due to habitat loss and ongoing human activities. The study points out major threats to wildlife, including deforestation, pollution, city expansion, climate change, and human-wildlife conflicts. Freshwater and coastal zones are especially at risk from pollution and unregulated development, while forests are breaking apart into smaller pieces. To fix this, the authors stress the need for protected areas, wildlife corridors, and habitat restoration. They argue that protecting biodiversity requires an ecosystem-based approach that brings together scientific research, local communities, good policies, and sustainable management tailored to each specific area.",
+    "explainer": "As climate change causes more people to move, millions end up living in informal urban settlements. Sadly, these areas are often left out of official city plans, laws, and public services. This chapter looks closely at why climate-displaced populations struggle so much to get safe water, sanitation, and hygiene, which are often called WASH services. By looking at international human rights law, climate governance, and urban planning, the text points out several major problems. These include barriers related to citizenship and land ownership, overlapping or confused government duties, weaknesses in international laws about displaced people, and the fact that informal areas are ignored in national climate plans. Because of these combined failures, displaced people are routinely denied their right to basic water services. To fix this, the chapter suggests a new governance framework. This approach focuses on human rights, better teamwork among different government offices, holding leaders accountable in ways that consider overlapping social identities, and making legal reforms to guarantee fair and lasting water and sanitation access for everyone.",
     "caveats": [
      "not stated"
     ],
     "jargon": [
      {
-      "term": "Vertebrates",
-      "definition": "Animals that have a backbone, such as mammals, birds, reptiles, amphibians, and fishes."
+      "term": "WASH services",
+      "definition": "Services providing clean water, sanitation, and hygiene."
      },
      {
-      "term": "Biodiversity",
-      "definition": "The variety of different living species found within a specific habitat or ecosystem."
+      "term": "informal settlements",
+      "definition": "Residential areas where housing has been built outside legal land use planning."
      },
      {
-      "term": "Habitat fragmentation",
-      "definition": "The process where large, continuous habitats are broken into smaller, isolated patches."
-     },
-     {
-      "term": "Ecosystem-based approach",
-      "definition": "A strategy for managing land and water that promotes conservation and sustainable use together."
+      "term": "legal invisibility",
+      "definition": "A status where populations lack legal recognition, rights, or protections from authorities."
      }
     ],
-    "fit": "It connects by showing how urban expansion and land-cover change reduce animal biodiversity, offering lessons for environmental planning."
+    "fit": "Connects to informal settlements and planning challenges in the Global South, offering insights on institutional failures and rights."
+   },
+   "thesis": {
+    "why": "It highlights governance and institutional gaps in informal settlements, which connect to the student's interest in urban planning and vulnerable settlements.",
+    "action": "Check if the paper discusses practical WASH service integration alongside green-blue infrastructure.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How does this legal governance framework apply to physical environmental planning and water infrastructure?",
+    "evidence": "The abstract focuses on legal and institutional gaps like citizenship barriers and rights, but mentions water and sanitation access.",
+    "limit": "The abstract does not provide empirical data or specific spatial analyses regarding water supply or infrastructure location.",
+    "check": "Verify if the full text offers concrete planning solutions that connect with spatial water yield or infrastructure."
    },
    "relevance": 3,
-   "watch": null,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
    "source": {
-    "url": "https://doi.org/10.36713/epra29250",
-    "doi": "https://doi.org/10.36713/epra29250",
-    "venue": "EPRA International Journal of Multidisciplinary Research (IJMR)",
-    "date": "2026-10-24",
+    "url": "https://doi.org/10.4018/979-8-3373-9360-5.ch008",
+    "doi": "https://doi.org/10.4018/979-8-3373-9360-5.ch008",
+    "venue": "IGI Global eBooks",
+    "date": "2026-10-23",
     "authors": [
-     "Salunkhe Ashwini Sanjay",
-     "Borane Vijay Ramdas"
+     "Mamta Singh",
+     "Vijeta Verma"
     ],
     "n_authors": 2,
-    "open_access": true,
+    "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7223236951",
-   "title": "Groundwater quality and irrigation suitability assessment in a semi-arid agricultural aquifer of northern Peru",
-   "headline": "Groundwater quality issues found in Peru aquifer",
+   "id": "W7223331125",
+   "title": "Climate Change and Disaster Risk Dynamics",
+   "headline": "Climate change drives systemic risks and inequalities",
    "bullets": [
-    "Tested 25 wells in a dry season using various chemical and spatial analysis methods.",
-    "Found high salinity and mineral levels, with most wells unsafe for drinking.",
-    "Highlights the need for monitoring and sustainable water extraction to protect resources."
+    "Used a comparative framework to analyze climate impacts in developed versus least developed nations.",
+    "Found least developed countries face severe human impacts due to limited adaptive capacity.",
+    "Shows how climate change acts as a risk multiplier exacerbating institutional inequalities."
    ],
    "plain": {
-    "question": "Is the underground water in a dry farming area safe to use?",
-    "method": "The researchers tested water samples from 25 wells for minerals and quality.",
-    "finding": "Most wells had very high salt and mineral levels, making them unsafe for drinking.",
-    "why": "This helps people manage and protect vital water supplies in dry regions."
+    "question": "How do climate change and disasters affect different countries?",
+    "method": "A comparative framework analyzing developed and least developed countries.",
+    "finding": "Poor countries suffer worse human impacts because they have fewer resources to adapt.",
+    "why": "It helps us understand why climate disasters hit vulnerable places harder."
    },
    "full": {
-    "explainer": "In dry coastal areas, underground water can become too salty and mineral-heavy for people to use safely. This study looked at the quality of underground water from 25 wells in a farming region in northern Peru during the dry season. The researchers used different scientific tests, computer tools, and maps to check the water. They found that the water had very high levels of salt, chloride, and sulfate, with many wells exceeding safety limits. In fact, most of the tested wells were labeled as poorly suited or unsuitable for drinking water without treatment. The main problems were high mineral levels and some localized manganese. The study concludes that regular monitoring and careful tracking are urgently needed to understand where the salt comes from and to ensure that people can extract groundwater sustainably in the future.",
+    "explainer": "This book chapter looks at climate change as a major risk driver that changes how hazards work, makes people more vulnerable, and causes connected problems across global systems. It explains climate change as a risk multiplier that worsens existing economic, social, and institutional inequalities. The chapter uses a comparative approach to study the differences between developed countries and the least developed countries. It shows how different levels of governance capacity, resources, and ability to adapt change how well places recover from disasters. The study focuses on multi-hazard and compound events, such as droughts, floods, heatwaves, and coastal risks, and looks at how these affect food security, water systems, health, and livelihoods. The main finding is that while rich countries lose more money, poor countries suffer much worse human and developmental losses because they cannot adapt as easily.",
     "caveats": [
-     "Findings for certain heavy metals like arsenic, lead, cadmium, and copper remain uncertain and need confirmation.",
-     "The study was limited to a single dry-season campaign."
+     "Not stated how specific cities or urban areas are affected.",
+     "Not stated which exact datasets or quantitative models were used."
     ],
     "jargon": [
      {
-      "term": "Groundwater mineralization",
-      "definition": "The process where minerals dissolve into underground water, often increasing its saltiness."
+      "term": "Systemic risk driver",
+      "definition": "Something that causes risks which can trigger failures across an entire interconnected system."
      },
      {
-      "term": "Water Quality Index",
-      "definition": "A single number that combines multiple water measurements to show overall water quality."
+      "term": "Risk multiplier",
+      "definition": "A factor that worsens existing problems, vulnerabilities, and inequalities."
      },
      {
-      "term": "Hydrogeochemical processes",
-      "definition": "Natural chemical reactions between underground water and rocks or soil."
-     },
-     {
-      "term": "Electric conductivity",
-      "definition": "A measurement of how well water can carry an electrical current, used to estimate salt levels."
+      "term": "Compound events",
+      "definition": "Multiple extreme weather events happening together or in sequence."
      }
     ],
-    "fit": "Connects via urban and agricultural pressures on water resources in the Global South, though focused on Peru rather than Kabul."
+    "fit": "Connects to environmental planning and vulnerability in the Global South by showing how institutional capacity shapes resilience outcomes."
+   },
+   "thesis": {
+    "why": "It provides a broad macro-level context on vulnerability and institutional capacity differences between developed and least developed regions.",
+    "action": "Check if the full text discusses urban areas or data-scarce settings relevant to Kabul.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How does this macro-level comparison apply to specific urban centers in the Global South?",
+    "evidence": "The abstract uses a comparative framework between developed and least developed countries without mentioning specific cities.",
+    "limit": "It is not possible to establish specific local impacts, urban ecosystem services, or spatial planning strategies from this text.",
+    "check": "Verify if the book chapter includes urban case studies or only discusses national-level comparisons."
    },
    "relevance": 2,
-   "watch": null,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
    "source": {
-    "url": "https://doi.org/10.17268/sci.agropecu.2025.061",
-    "doi": "https://doi.org/10.17268/sci.agropecu.2025.061",
-    "venue": "Scientia Agropecuaria",
-    "date": "2026-10-22",
+    "url": "https://doi.org/10.4018/979-8-2600-4876-4.ch001",
+    "doi": "https://doi.org/10.4018/979-8-2600-4876-4.ch001",
+    "venue": "Advances in computational intelligence and robotics book series",
+    "date": "2026-10-23",
     "authors": [
-     "Harold Ore-Quiroz",
-     "Carlos Salazar-Sandoval",
-     "Ericka Olaya-Ato",
-     "Lizbeth Camacho-Vidal",
-     "Lesly Espinoza-Haro"
+     "Mohamed Ali Said",
+     "Dayah Abdi Kulmie",
+     "Abdinasir Omar Osman"
     ],
-    "n_authors": 5,
-    "open_access": true,
+    "n_authors": 3,
+    "open_access": false,
     "basis": "abstract"
    }
   }
  ],
- "more": [
-  {
-   "title": "Deciphering water salinization mechanisms of arid lake-groundwater systems in Inner Mongolia, China: An…",
-   "url": "https://doi.org/10.1016/j.ejrh.2026.104141",
-   "venue": "Journal of Hydrology Regional Studies",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "Species distribution modelling of three Aacia species in the Negev Desert: predicting future range shifts…",
-   "url": "https://doi.org/10.31223/x53f8v",
-   "venue": "",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Seasonal dietary patterns of Mongolian Marmots ( Marmota sibirica ) at a Mongolian steppe site",
-   "url": "https://doi.org/10.1093/jmammal/gyag095",
-   "venue": "Journal of Mammalogy",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Historical mobility and settlement transitions influence livestock farmers’ climate risk perceptions and…",
-   "url": "https://doi.org/10.3389/past.2026.17299",
-   "venue": "Pastoralism Research Policy and Practice",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "TAXONOMIC, TRAIT-BASED, AND BETA-DIVERSITY PATTERNS OF PLANT COMMUNITIES ACROSS WADIS, DAYAS, AND OASIS…",
-   "url": "https://doi.org/10.61215/auofb.2026.2.07",
-   "venue": "Analele Universității din Oradea Fascicula Biologie",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "First molecular detection of Ehrlichia spp. and Theileria spp. closely related to Theileria parva in…",
-   "url": "https://doi.org/10.14202/vetworld.2026.4657-4668",
-   "venue": "Veterinary World",
-   "date": "2026-10-22"
-  }
- ]
+ "more": []
 }

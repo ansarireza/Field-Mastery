@@ -1,0 +1,199 @@
+[
+ {
+  "id": "W7223662277",
+  "title": "Producing Adaptive Urban Space in Informal Settlements: Evidence from Maputo",
+  "headline": "Climate practices mapped in Maputo's informal areas",
+  "bullets": [
+   "Combined surveys, technical assessments, interviews, and mapping in Maputo informal areas.",
+   "Found housing changes were household-led while infrastructure was institutional or commercial.",
+   "Connects climate practices to socio-spatial domains via a new adaptive urban space concept."
+  ],
+  "plain": {
+   "question": "How do people in informal neighborhoods shape their space to handle climate hazards like floods and heat?",
+   "method": "Studied six informal neighborhoods using household surveys, housing checks, interviews, and maps.",
+   "finding": "Households mostly fix up their own homes, while outsiders or companies provide basic urban services.",
+   "why": "Helps us see how different climate actions fit together across the whole city layout."
+  },
+  "full": {
+   "explainer": "Most past research on climate adaptation in informal settlements looks at single hazards or isolated projects, leaving gaps in how everyday actions fit together across the whole city. This paper looks at Maputo, Mozambique, to understand how people produce socio-spatial practices—such as housing changes, public space use, and road work—that relate to flooding, heavy rain, heat stress, and erosion. Using a mixed-methods design, the study examined six blocks in six informal neighborhoods with household surveys, technical housing checks, interviews, field observations, maps, and documents. The results show that households mostly drive their own home improvements, whereas basic services are built by institutions or businesses. Co-production—where residents and authorities work together—was clearest in specific public space and road upgrades. The paper introduces the concept of adaptive urban space to connect adaptive relevance, how things are made, and spatial areas, without claiming to measure exact adaptation success.",
+   "caveats": [
+    "Adaptive capacity or adaptation effectiveness were not measured directly.",
+    "Not stated: quantitative measurements of hazard reduction outcomes."
+   ],
+   "jargon": [
+    {
+     "term": "Informal settlements",
+     "definition": "Residential areas where housing is built outside official land use and legal frameworks."
+    },
+    {
+     "term": "Co-production",
+     "definition": "A process where residents and institutions participate together in planning or implementation."
+    },
+    {
+     "term": "Socio-spatial practices",
+     "definition": "Human actions and behaviors that shape and are shaped by physical spaces and social structures."
+    },
+    {
+     "term": "Adaptive urban space",
+     "definition": "An analytical concept connecting adaptive relevance, production modes, and spatial domains."
+    }
+   ],
+   "fit": "Connects to informal settlements, climate hazards like heat and floods, and the Global South, offering context on local action modes."
+  },
+  "thesis": {
+   "why": "It examines informal settlements, climate hazards like heat and flooding, and local production of space, echoing the social-ecological focus in the student's context.",
+   "action": "Check how the study defines and links housing transformation to physical environmental hazards.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does this qualitative framework actually reduce environmental risks, or just document human coping behaviors?",
+   "evidence": "The abstract states that practices range from directly evidenced interventions to potential functions, without measuring adaptation effectiveness.",
+   "limit": "You cannot establish whether these socio-spatial practices successfully lower physical flood levels or heat stress.",
+   "check": "Verify if the full paper provides empirical environmental measurements alongside the social survey data."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.3390/buildings16214214",
+   "doi": "https://doi.org/10.3390/buildings16214214",
+   "venue": "Buildings",
+   "date": "2026-10-23",
+   "authors": [
+    "Hazrat Bilale Salamagy",
+    "Fernando Brandão Alves",
+    "Clara Pimenta do Vale"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223288780",
+  "title": "Water, Displacement, and Legal Invisibility",
+  "headline": "Governance failures deny WASH access to the displaced",
+  "bullets": [
+   "Examined governance failures excluding climate-displaced people in informal settlements from WASH.",
+   "Found legal and institutional gaps deny displaced populations their water and sanitation rights.",
+   "Proposes a rights-based framework to ensure equitable and sustainable access to WASH services."
+  ],
+  "plain": {
+   "question": "Why do climate-displaced people in informal settlements lack proper water and sanitation?",
+   "method": "It uses ideas from international human rights law, climate governance, and urban planning.",
+   "finding": "Legal barriers, missing citizenship rights, and poor planning exclude them from formal services.",
+   "why": "We need a fairer system to make sure everyone gets safe water and sanitation."
+  },
+  "full": {
+   "explainer": "As climate change causes more people to move, millions end up living in informal urban settlements. Sadly, these areas are often left out of official city plans, laws, and public services. This chapter looks closely at why climate-displaced populations struggle so much to get safe water, sanitation, and hygiene, which are often called WASH services. By looking at international human rights law, climate governance, and urban planning, the text points out several major problems. These include barriers related to citizenship and land ownership, overlapping or confused government duties, weaknesses in international laws about displaced people, and the fact that informal areas are ignored in national climate plans. Because of these combined failures, displaced people are routinely denied their right to basic water services. To fix this, the chapter suggests a new governance framework. This approach focuses on human rights, better teamwork among different government offices, holding leaders accountable in ways that consider overlapping social identities, and making legal reforms to guarantee fair and lasting water and sanitation access for everyone.",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "WASH services",
+     "definition": "Services providing clean water, sanitation, and hygiene."
+    },
+    {
+     "term": "informal settlements",
+     "definition": "Residential areas where housing has been built outside legal land use planning."
+    },
+    {
+     "term": "legal invisibility",
+     "definition": "A status where populations lack legal recognition, rights, or protections from authorities."
+    }
+   ],
+   "fit": "Connects to informal settlements and planning challenges in the Global South, offering insights on institutional failures and rights."
+  },
+  "thesis": {
+   "why": "It highlights governance and institutional gaps in informal settlements, which connect to the student's interest in urban planning and vulnerable settlements.",
+   "action": "Check if the paper discusses practical WASH service integration alongside green-blue infrastructure.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does this legal governance framework apply to physical environmental planning and water infrastructure?",
+   "evidence": "The abstract focuses on legal and institutional gaps like citizenship barriers and rights, but mentions water and sanitation access.",
+   "limit": "The abstract does not provide empirical data or specific spatial analyses regarding water supply or infrastructure location.",
+   "check": "Verify if the full text offers concrete planning solutions that connect with spatial water yield or infrastructure."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.4018/979-8-3373-9360-5.ch008",
+   "doi": "https://doi.org/10.4018/979-8-3373-9360-5.ch008",
+   "venue": "IGI Global eBooks",
+   "date": "2026-10-23",
+   "authors": [
+    "Mamta Singh",
+    "Vijeta Verma"
+   ],
+   "n_authors": 2,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223331125",
+  "title": "Climate Change and Disaster Risk Dynamics",
+  "headline": "Climate change drives systemic risks and inequalities",
+  "bullets": [
+   "Used a comparative framework to analyze climate impacts in developed versus least developed nations.",
+   "Found least developed countries face severe human impacts due to limited adaptive capacity.",
+   "Shows how climate change acts as a risk multiplier exacerbating institutional inequalities."
+  ],
+  "plain": {
+   "question": "How do climate change and disasters affect different countries?",
+   "method": "A comparative framework analyzing developed and least developed countries.",
+   "finding": "Poor countries suffer worse human impacts because they have fewer resources to adapt.",
+   "why": "It helps us understand why climate disasters hit vulnerable places harder."
+  },
+  "full": {
+   "explainer": "This book chapter looks at climate change as a major risk driver that changes how hazards work, makes people more vulnerable, and causes connected problems across global systems. It explains climate change as a risk multiplier that worsens existing economic, social, and institutional inequalities. The chapter uses a comparative approach to study the differences between developed countries and the least developed countries. It shows how different levels of governance capacity, resources, and ability to adapt change how well places recover from disasters. The study focuses on multi-hazard and compound events, such as droughts, floods, heatwaves, and coastal risks, and looks at how these affect food security, water systems, health, and livelihoods. The main finding is that while rich countries lose more money, poor countries suffer much worse human and developmental losses because they cannot adapt as easily.",
+   "caveats": [
+    "Not stated how specific cities or urban areas are affected.",
+    "Not stated which exact datasets or quantitative models were used."
+   ],
+   "jargon": [
+    {
+     "term": "Systemic risk driver",
+     "definition": "Something that causes risks which can trigger failures across an entire interconnected system."
+    },
+    {
+     "term": "Risk multiplier",
+     "definition": "A factor that worsens existing problems, vulnerabilities, and inequalities."
+    },
+    {
+     "term": "Compound events",
+     "definition": "Multiple extreme weather events happening together or in sequence."
+    }
+   ],
+   "fit": "Connects to environmental planning and vulnerability in the Global South by showing how institutional capacity shapes resilience outcomes."
+  },
+  "thesis": {
+   "why": "It provides a broad macro-level context on vulnerability and institutional capacity differences between developed and least developed regions.",
+   "action": "Check if the full text discusses urban areas or data-scarce settings relevant to Kabul.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does this macro-level comparison apply to specific urban centers in the Global South?",
+   "evidence": "The abstract uses a comparative framework between developed and least developed countries without mentioning specific cities.",
+   "limit": "It is not possible to establish specific local impacts, urban ecosystem services, or spatial planning strategies from this text.",
+   "check": "Verify if the book chapter includes urban case studies or only discusses national-level comparisons."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.4018/979-8-2600-4876-4.ch001",
+   "doi": "https://doi.org/10.4018/979-8-2600-4876-4.ch001",
+   "venue": "Advances in computational intelligence and robotics book series",
+   "date": "2026-10-23",
+   "authors": [
+    "Mohamed Ali Said",
+    "Dayah Abdi Kulmie",
+    "Abdinasir Omar Osman"
+   ],
+   "n_authors": 3,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ }
+]

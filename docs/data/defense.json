@@ -1,25 +1,33 @@
 {
  "enabled": true,
  "date": "2026-10-28",
+ "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "e1e6e2fb29",
+  "id": "dd0d2a54e5",
   "scope": "the whole thesis",
-  "q": "How do you distinguish modeled supply potential from actual service delivery across different settlement types?",
+  "q": "How do you justify distinguishing modeled supply potential from actual service delivery in data-scarce settings like Kabul?",
   "type": "theory",
   "outline": [
-   "Define modeled supply versus actual delivery",
-   "Discuss demand and service flows in social-ecological systems",
-   "Address formal versus informal settlement contexts"
+   "Define modeled supply versus delivered benefits",
+   "Explain challenges in data-scarce and conflict settings",
+   "Discuss implications for planning and demand flows"
   ],
-  "pitfall": "Assuming that high modeled supply potential automatically equates to realized human benefits."
+  "pitfall": "Confusing computer-generated model outputs with actual human use or observed benefits.",
+  "follow_up": "How does this distinction affect equity and environmental justice assessments?",
+  "bring": "Conceptual diagrams separating supply potential from demand and actual service flows.",
+  "self_check": [
+   "Clearly separates model estimates from observations",
+   "Addresses data scarcity",
+   "Links to service flows"
+  ]
  },
  "bank_total": 24,
  "asked": 1,
  "upcoming": [
-  "What specific limitations arise when using InVEST for habitat quality and runoff retention in data-scarce settings?",
-  "How do you separate spatial associations from the causal effects of settlement status in your spatial modelling?",
-  "How can methods like InVEST, landscape metrics, and ecosystem service bundles be transferred to Kabul?",
-  "How does your research design integrate annual water yield at the watershed scale with local urban planning?",
-  "How can evidence on ecosystem service supply, access, and trade-offs inform environmental planning in Kabul?"
+  "What methods do you use to ensure land-cover and land-change accuracy in mountainous, conflict-affected areas?",
+  "Given that habitat quality is not measured biodiversity and runoff retention is not flood risk, how do you manage these limitations?",
+  "How do you separate spatial associations from the causal effects of settlement status, such as formal versus informal areas?",
+  "How transferable are InVEST models and ecosystem service frameworks from data-rich contexts to semi-arid Kabul?",
+  "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?"
  ]
 }

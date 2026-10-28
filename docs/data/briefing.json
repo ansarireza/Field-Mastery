@@ -1,0 +1,56 @@
+{
+ "week": "2026-W44",
+ "date": "2026-10-28",
+ "world": [
+  {
+   "region": "World",
+   "what": "India calls for sustainable cities to meet global climate goals.",
+   "why": "Connects urban development and sustainability goals in the Global South.",
+   "action": "Review Indian urban strategies for climate targets.",
+   "source": {
+    "title": "India calls for sustainable cities to meet global climate goals",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjhCWXhVaXotc29NdGxkYVB2c2x3aTRlVjYyOUZHSHhoeV8zMVZaTHZ3eThyRFVJYkhnNTVJZk0tcXpuS0N0NFdaMDU3bE1wRlBsQlJzRUd3R0ZkcTlnbTRnMkFZUnhIYkdhQWNCR2VPV3pJQXZYay1rT0JncTdmWl9zUXVmZ1U1NFhIM0l6SFd2QkhUdE1aREw4Y3dhSGpDN3ZWQQ?oc=5",
+    "date": "2026-10-27",
+    "basis": "news headline and feed excerpt"
+   }
+  },
+  {
+   "region": "World",
+   "what": "Gujarat expands urban green spaces using oxygen parks and Miyawaki forests.",
+   "why": "Provides practical examples of urban green-blue infrastructure in semi-arid or growing regions.",
+   "action": "Examine Miyawaki forest applicability for urban cooling.",
+   "source": {
+    "title": "Gujarat expands urban green spaces using oxygen parks and Miyawaki forests",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeEhIdkVCSU4xVnJsQW91bGtGamdTcmYyekc5V01jVmtVUWpFRi1oS1ZwQmIxSV8wOTNoUm1oYUpSbjVsSUwzOER6WWhUVGFyZVA1WGs1Nk5XYmd3SlgwY3NrWVFpUkZpRW5TZ2JmejNNS0NaWW1yYzI0a1hkN3lHYU8tdWI2bjRHZkxqY3o1b3d5Z2NKU0RNVFZ0S2NEdGlYWkcybzlhVFRmVTdTc28taEppSmJtYlhHRlB6T0hFTm5VR251OFkwMHNsbzZVRENRNDFFd3VNQQ?oc=5",
+    "date": "2026-10-23",
+    "basis": "news headline and feed excerpt"
+   }
+  }
+ ],
+ "reading": {
+  "id": "W7223662277",
+  "title": "Producing Adaptive Urban Space in Informal Settlements: Evidence from Maputo",
+  "source": {
+   "url": "https://doi.org/10.3390/buildings16214214",
+   "doi": "https://doi.org/10.3390/buildings16214214",
+   "venue": "Buildings",
+   "date": "2026-10-23",
+   "authors": [
+    "Hazrat Bilale Salamagy",
+    "Fernando Brandão Alves",
+    "Clara Pimenta do Vale"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  },
+  "why": "It examines informal settlements, climate hazards like heat and flooding, and local production of space, echoing the social-ecological focus in the student's context.",
+  "questions": [
+   "How do residents modify housing to handle heat and floods?",
+   "What is the role of co-production in infrastructure?",
+   "How does the adaptive urban space concept link to spatial domains?"
+  ],
+  "check": "You cannot establish whether these socio-spatial practices successfully lower physical flood levels or heat stress."
+ },
+ "coverage": "Coverage is limited to a few world news items, EU developments, Germany, and one selected paper on Maputo, with no direct coverage of Kabul, Afghanistan."
+}

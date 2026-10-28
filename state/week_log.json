@@ -1,15 +1,9 @@
 {
  "2026-10-28": {
   "papers": [
-   "Land use intensity mediates ecosystem service trade-offs",
-   "Afforestation can be financially sustainable",
-   "Dams change river algae communities",
-   "Blue-green spaces and carbon in Chongqing",
-   "Plant cooling effects vary by climate and setup",
-   "New method maps city energy use and carbon emissions",
-   "Urban expansion replaces farms and forests in Rwanda",
-   "Forests and wetlands hold the most vertebrate diversity",
-   "Groundwater quality issues found in Peru aquifer"
+   "Climate practices mapped in Maputo's informal areas",
+   "Governance failures deny WASH access to the displaced",
+   "Climate change drives systemic risks and inequalities"
   ],
   "tools": [
    "qgis/QGIS final-3_44_15"
@@ -19,11 +13,11 @@
    "security-conservation nexus"
   ],
   "radar": [
-   "Canadian Govt & Thammasat Join Forces on Nature-Based Solutions for Bangkok",
-   "Building a modern capital: the 75% forest rule shaping Indonesia’s Nusantara",
-   "Chennai Green Cover Lags as Tree Data Remains Missing",
-   "Fighting back over the loss of green spaces in Cameroon’s capital",
-   "Hanoi expands green spaces, gradually building an ecological city"
+   "Biodiversity finance and harmful subsidies tested in COP17 final week",
+   "Commission and UNEP pledge environmental action at UN Biodiversity Conference",
+   "Study reveals continental variation in permanent chemical buildup in water",
+   "India calls for sustainable cities to meet global climate goals",
+   "Plants and microbes remove wastewater pollutants in constructed wetlands"
   ]
  }
 }

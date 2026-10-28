@@ -46,5 +46,21 @@
    "search": "security conservation nexus Global South"
   }
  ],
- "total_learned": 2
+ "total_learned": 2,
+ "path": {
+  "stage": "Foundation",
+  "next_topics": [
+   "Ecosystem services classification",
+   "Decentralized environmental governance",
+   "Drivers of land use change",
+   "Subjective human well-being metrics",
+   "Payments for ecosystem services basics"
+  ],
+  "stages": [
+   "Foundation: understand concepts",
+   "Developing: compare methods",
+   "Advanced: evaluate evidence and defend choices"
+  ],
+  "note": "Stage follows lessons introduced, not a claim of mastery. Recall prioritises your weakest due questions on this device."
+ }
 }
