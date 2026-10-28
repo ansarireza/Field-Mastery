@@ -1,117 +1,59 @@
 {
  "date": "2026-10-28",
  "summary": [
-  "Latin America conservation faces crime, weak institutions, and underfunded management systems.",
-  "Indigenous territories and traditional knowledge protect biodiversity and reduce deforestation."
+  "Studies explore soil texture, carbon, and ecosystem service capacity changes.",
+  "Research highlights mixed tree plantations and green-blue infrastructure models."
  ],
  "items": [
   {
-   "id": "W7223572853",
-   "title": "Fifteen years of change in biodiversity conservation across Latin America and the Caribbean",
-   "headline": "Latin America conservation faces crime and weak governance",
+   "id": "W7223175940",
+   "title": "Connectivity between regulating soil-based ecosystem services, soil properties, and environmental factors within agricultural land",
+   "headline": "Soil texture and carbon drive ecosystem services",
    "bullets": [
-    "Surveyed 244 experts across 25 countries on conservation in Latin America and the Caribbean",
-    "Found traditional threats compounded by organized crime, weak institutions, and underfunding",
-    "Shows protecting nature requires transforming governance and state capacity, not just tools"
+    "Analyzed links between regulating soil services, soil properties, and environment in Poland",
+    "Found that soil texture, carbon, and water capacity form a self-regulating system",
+    "Provides a foundation for better soil management and climate adaptation strategies"
    ],
    "plain": {
-    "question": "How have conservation challenges in Latin America and the Caribbean changed over the past fifteen years?",
-    "method": "We asked 244 conservation experts across 25 countries about current threats and barriers in 2024.",
-    "finding": "Old threats like deforestation remain, but now organized crime and weak governance are major barriers.",
-    "why": "We must fix governance and stop corruption to protect nature and the people who rely on it."
+    "question": "How do soil properties and environmental factors connect to regulate soil-based ecosystem services?",
+    "method": "They looked at how soil service values are distributed across different soil types and land uses in Poland.",
+    "finding": "Soil texture, organic carbon, and water capacity work together as a self-regulating system.",
+    "why": "This helps create better soil protection plans and policies for climate and land-use changes."
    },
    "full": {
-    "explainer": "Latin America and the Caribbean is a very biodiverse region, but it keeps losing nature due to human pressures. Fifteen years after a 2009 assessment, researchers wanted to see how things have changed. They surveyed 244 experienced conservation professionals across 25 countries in 2024. The results show that traditional problems like deforestation, habitat fragmentation, and climate change are still major threats. However, these issues are now made worse by large landscape pressures and a new link between security and conservation. Experts pointed out that organized crime and drug trafficking are major problems that harm ecosystems and endanger conservation workers. While conservation tools have improved, their success is limited by chronic underfunding, corruption, and poor coordination. Also, working with local communities remains low. Ultimately, the study shows that stopping biodiversity loss is no longer just about technical fixes; it needs a deep improvement in governance quality, institutional integrity, and state capacity.",
+    "explainer": "Soils form a complex natural system where living and non-living factors interact. Soils provide helpful benefits known as soil ecosystem services, which help maintain the environment and support farming. This study looked at how different regulating soil-based ecosystem services connect with soil properties and environmental indicators. Using agricultural land in Poland as an example, the researchers examined how these services are distributed across different soil categories and land-use classes. The results showed that soil texture is the primary factor, working closely with soil organic carbon stocks, available water capacity, and vegetation density. Together, they act as a self-regulating system rather than working independently. Soils with high organic carbon and fine texture can help buffer the impacts of climate change. Ultimately, the study shows how soil regulates water, energy, and nutrient cycles, offering a base for future soil protection plans and management strategies.",
     "caveats": [
-     "Results rely on the perceptions of surveyed conservation professionals.",
-     "Not stated whether findings apply equally to all 25 individual countries."
+     "The study focuses on Polish agricultural land as an example for the Central Europe pedoclimatic zone.",
+     "Not stated whether these exact findings apply to other regions or urban areas."
     ],
     "jargon": [
      {
-      "term": "anthropogenic pressures",
-      "definition": "Environmental impacts and stresses caused by human activity."
+      "term": "Regulating soil-based ecosystem services",
+      "definition": "The benefits provided by soils that help maintain environmental stability and agricultural productivity."
      },
      {
-      "term": "security-conservation nexus",
-      "definition": "The intersection where national security issues, like crime, overlap with protecting nature."
+      "term": "Soil organic carbon",
+      "definition": "The carbon stored within soil organic matter, important for soil health and climate buffering."
      },
      {
-      "term": "diversification without consolidation",
-      "definition": "Having many tools available but failing to properly strengthen or fund them for real success."
+      "term": "Pedoclimatic zone",
+      "definition": "A geographic region sharing similar soil and climatic characteristics."
      }
     ],
-    "fit": "It shows how poor governance, crime, and weak institutions block effective land use and harm human well-being in the Global South."
+    "fit": "Provides methods for assessing soil services and land-use impacts, useful for understanding environmental planning and land-cover changes."
    },
-   "relevance": 5,
-   "watch": null,
+   "relevance": 3,
+   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
    "source": {
-    "url": "https://doi.org/10.1111/cobi.70406",
-    "doi": "https://doi.org/10.1111/cobi.70406",
-    "venue": "Conservation Biology",
-    "date": "2026-10-25",
+    "url": "https://doi.org/10.3389/fenvs.2026.1923878",
+    "doi": "https://doi.org/10.3389/fenvs.2026.1923878",
+    "venue": "Frontiers in Environmental Science",
+    "date": "2026-10-22",
     "authors": [
-     "O. Eric Ramírez‐Bravo",
-     "José Fernando González-Maya",
-     "José Yader Sageth Ruiz Cruz",
-     "Laura Prosdocimi",
-     "Alan Giraldo",
-     "Claudia Segovia Salcedo"
-    ],
-    "n_authors": 17,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223551724",
-   "title": "A systematic review of deforestation outcomes in potential other effective area‐based conservation measures across Latin America",
-   "headline": "Review of potential OECMs and deforestation in Latin America",
-   "bullets": [
-    "Reviewed 93 studies on forest conservation in potential OECMs across Latin America.",
-    "Indigenous territories consistently reduced deforestation, while others varied.",
-    "Bridges research with global biodiversity targets and governance rights."
-   ],
-   "plain": {
-    "question": "Do areas outside formal parks help stop deforestation in Latin America?",
-    "method": "We reviewed 93 scientific studies on these special areas up to the year 2024.",
-    "finding": "Indigenous lands stopped deforestation well, but some other protected areas failed.",
-    "why": "This helps us meet global goals and respect the rights of local land managers."
-   },
-   "full": {
-    "explainer": "Protecting nature goes beyond official parks. This study looks at areas outside formal protection called other effective area-based conservation measures, or OECMs. Researchers reviewed 93 studies in Latin America to see how well these places stop deforestation. They sorted potential OECMs into six types, including Indigenous territories, local community lands, and set-aside areas for ecosystem services. They found that Indigenous territories were studied the most and consistently showed reduced deforestation compared to other places. Conversely, set-aside areas often showed poor results due to weak rule enforcement. Most studies used basic comparisons rather than advanced testing, and very few of these spaces have received official OECM recognition yet. This shows a gap between current scientific research and global biodiversity reporting goals, meaning future efforts must include stronger evidence and respect local governance rights.",
-    "caveats": [
-     "Most evidence relied on nonexperimental comparisons rather than quasi-experimental designs.",
-     "Strict biodiversity conservation areas have received relatively little attention.",
-     "Very few of these areas have been formally recognized as OECMs."
-    ],
-    "jargon": [
-     {
-      "term": "OECMs",
-      "definition": "Other effective area-based conservation measures located outside formal protected areas."
-     },
-     {
-      "term": "Deforestation",
-      "definition": "The clearing or thinning of forests by humans."
-     },
-     {
-      "term": "Quasi-experimental",
-      "definition": "Research designs that provide stronger proof of cause and effect."
-     }
-    ],
-    "fit": "It connects by showing how different governance types shape land use outcomes like deforestation in the Global South."
-   },
-   "relevance": 5,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1111/cobi.70409",
-    "doi": "https://doi.org/10.1111/cobi.70409",
-    "venue": "Conservation Biology",
-    "date": "2026-10-25",
-    "authors": [
-     "Nicolás Esteban Lara‐Rodríguez",
-     "Daniel Callo-Concha",
-     "Bibiana Betancur Corredor",
-     "Christian Borgemeister"
+     "Sylwia Pindral",
+     "A. Wnuk",
+     "João Augusto Coblinski",
+     "Bożena Smreczak"
     ],
     "n_authors": 4,
     "open_access": true,
@@ -119,55 +61,272 @@
    }
   },
   {
-   "id": "W7223676620",
-   "title": "Body-Territory and Sociobiodiversity: Traditional Ancestral Knowledge in Ecological Conservation",
-   "headline": "Traditional knowledge protects biodiversity",
+   "id": "W7223085168",
+   "title": "Restoration pathways reshape forest structure and multifunctionality in subtropical plantations and secondary forests",
+   "headline": "Mixed tree plantations boost overall ecosystem benefits",
    "bullets": [
-    "Reviewed literature using databases like SciELO, Scopus, and Google Scholar",
-    "Found that body-territory and traditional knowledge are key to conservation",
-    "Helps shape public policies and promotes territorial justice"
+    "Compared 36 plots across four southern China subtropical regions using 8 indicators.",
+    "Mixed plantations had the highest overall benefits but also the most imbalanced pairs.",
+    "Shows we must evaluate both overall benefits and individual service profiles."
    ],
    "plain": {
-    "question": "How do traditional communities use their knowledge and the idea of body-territory to protect nature?",
-    "method": "The researchers reviewed existing academic literature from major databases using specific search terms.",
-    "finding": "Protecting nature depends on traditional knowledge, bodily memories, and securing territorial rights.",
-    "why": "It helps authorities create better environmental policies that respect local communities."
+    "question": "How do different ways of restoring forests affect the many benefits forests provide?",
+    "method": "We studied 36 plots of 32 to 39 year old pure plantations, mixed plantations, and naturally regrown forests.",
+    "finding": "Mixed tree plantations gave the highest overall benefits, but some specific benefits were out of balance.",
+    "why": "This helps us see that higher total benefits do not mean every single benefit is well balanced."
    },
    "full": {
-    "explainer": "This paper investigates how traditional communities protect nature using their ancestral knowledge and a concept called body-territory. Body-territory means viewing the human body as a living part of nature, where bodily memories and traditional ideas are essential for managing plants, animals, and land governance. Using a literature review of articles from online databases, the study analyzed how environmental harm hurts both the environment and human health. The results show that protecting nature cannot be separated from protecting the rights of these communities to their land. This research is important because it strengthens political ecology, proves that traditional knowledge acts as a useful tool for conservation, and helps break the myth that nature must be untouched by humans to survive. Ultimately, it promotes fairness for the people who care for these lands.",
+    "explainer": "Forest restoration can improve ecosystem multifunctionality, which means the ability of a forest to provide many benefits at once, though it might not improve every single benefit equally. Researchers compared 36 plots in 32 to 39 year old stands across four subtropical regions in southern China. They looked at pure tree plantations, mixed tree plantations with both needle and broadleaved trees, and naturally regrown secondary forests after clear-cutting. They measured eight different indicators, including soil and water conservation, climate regulation, carbon storage, productivity, species diversity, regeneration capacity, and soil fertility. They found that mixed plantations had the highest overall average benefit score compared to secondary forests and pure plantations. However, mixed plantations also had the most uneven mix of specific services. Regeneration capacity was low everywhere, while water retention was highest in regrown forests. The drivers of these benefits varied by forest type. The study concludes that high overall benefits do not automatically mean a balanced set of services.",
+    "caveats": [
+     "Inference is restricted to the sampled middle-aged stands.",
+     "This was an observational comparison."
+    ],
+    "jargon": [
+     {
+      "term": "ecosystem multifunctionality",
+      "definition": "The ability of an ecosystem to provide multiple benefits or services at the same time."
+     },
+     {
+      "term": "secondary forests",
+      "definition": "Forests that have regrown naturally after a major disturbance like clear-cutting."
+     },
+     {
+      "term": "structural equation modeling",
+      "definition": "A statistical method used to test complex relationships between variables."
+     }
+    ],
+    "fit": "Connects by showing how land cover choices and restoration pathways alter multiple environmental benefits in subtropical forest landscapes."
+   },
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+   "source": {
+    "url": "https://doi.org/10.3389/fpls.2026.1941032",
+    "doi": "https://doi.org/10.3389/fpls.2026.1941032",
+    "venue": "Frontiers in Plant Science",
+    "date": "2026-10-21",
+    "authors": [
+     "Juyang Wu",
+     "Qin Xiang",
+     "Xuemei Wang",
+     "Shan Zhou",
+     "Jing-Pin Lei"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223138664",
+   "title": "A Four-Quadrant Soil Quality-Enzyme Index Approach for Evaluating Soil Functional Status in Alpine Treeline Ecotone of Indian Western Himalaya",
+   "headline": "New Soil Index Evaluates Alpine Treeline Health in Himalaya",
+   "bullets": [
+    "Created a four-quadrant index using soil quality and enzymes in the Indian Western Himalaya.",
+    "Found a way to evaluate soil functional status in fragile alpine treeline ecotone areas.",
+    "Helps understand and protect mountain soil health under changing environmental conditions."
+   ],
+   "plain": {
+    "question": "How can we effectively measure the health and function of soils in mountain transition zones?",
+    "method": "The researchers used a new four-quadrant approach combining soil quality and enzyme measurements.",
+    "finding": "They successfully created an index to evaluate the functional status of soils in the region.",
+    "why": "This helps us understand and protect fragile mountain ecosystems against environmental changes."
+   },
+   "full": {
+    "explainer": "This paper looks at how to measure the health of soil in a specific mountain area called the alpine treeline ecotone, located in the Indian Western Himalaya. Soils in these transition zones are important for understanding environmental health, but they can be tricky to evaluate. To solve this, the researchers developed a new tool called a four-quadrant soil quality-enzyme index. By looking at soil quality and specific enzymes, this approach allows scientists to properly check the functional status of the soil. This matters because understanding how soil works in fragile mountain ecosystems helps researchers track environmental changes and plan better conservation efforts. While the study focuses on a specific mountain region, the method offers a clear way to assess soil health in vulnerable ecosystems where land and climate are shifting.",
     "caveats": [
      "not stated"
     ],
     "jargon": [
      {
-      "term": "body-territory",
-      "definition": "The idea that the human body is a living extension of biodiversity and the land."
+      "term": "Alpine treeline ecotone",
+      "definition": "The transition zone where forest trees stop growing due to high altitude cold."
      },
      {
-      "term": "sociobiodiversity",
-      "definition": "The connection between biological diversity and cultural diversity."
-     },
-     {
-      "term": "political ecology",
-      "definition": "The study of how power relations affect environmental issues and land use."
-     },
-     {
-      "term": "integrative literature review",
-      "definition": "A research method that combines and analyzes existing published studies on a topic."
+      "term": "Soil enzyme",
+      "definition": "A biological catalyst in soil that helps break down organic matter and cycle nutrients."
      }
     ],
-    "fit": "It connects by showing how traditional community governance and ancestral knowledge shape land use and human health."
+    "fit": "This paper evaluates soil health and ecosystems in a Global South mountain region, though it lacks an explicit urban or Kabul focus."
+   },
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
+   "source": {
+    "url": "https://doi.org/10.1007/s42729-026-03637-3",
+    "doi": "https://doi.org/10.1007/s42729-026-03637-3",
+    "venue": "Journal of soil science and plant nutrition",
+    "date": "2026-10-21",
+    "authors": [
+     "Supriya Pandey",
+     "Sumit Rai",
+     "Anita Pandey"
+    ],
+    "n_authors": 3,
+    "open_access": false,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223683631",
+   "title": "THE CONCEPT OF \"GREEN-BLUE INFRASTRUCTURE\" IN THE URBAN ZONING SYSTEM OF COASTAL AREAS",
+   "headline": "Green-Blue Infrastructure in Coastal Urban Zoning",
+   "bullets": [
+    "Studied zoning coastal areas using green-blue infrastructure in Samarkand.",
+    "Proposed a 6-zone model, 5-stage plan, and specific urban indicators.",
+    "Helps cool cities, protect water, and improve environmental planning."
+   ],
+   "plain": {
+    "question": "How can we better plan and zone coastal areas in dry, historic cities to handle environmental issues?",
+    "method": "The author studied complex design models using green spaces and water systems in the city of Samarkand.",
+    "finding": "They created a new urban planning model with 6 zones, measurable numbers, and a 5-step plan.",
+    "why": "It helps cool down hot cities and protects water resources using nature-based tools."
+   },
+   "full": {
+    "explainer": "This paper looks at how to plan and zone coastal areas in dry, historical cities by using something called Green-Blue Infrastructure. Looking closely at the city of Samarkand, the study explains ways to cool down hot urban areas—known as the urban heat island effect—and protect local water supplies. It does this by using Nature-Based Solutions, which are natural features like rain gardens, areas that filter water naturally, and pavements that let water pass through them. The study also shows how to connect historical water channels into one unified water and green network for the city. To put these ideas into practice, the author creates a brand new urban planning model. This model includes six different functional zones, clear and measurable targets for city planners, and a step-by-step five-stage plan for carrying out the project. Overall, it offers a practical guide for making dry, historic cities more environmentally sustainable.",
+    "caveats": [
+     "Results are based on a single case study of Samarkand.",
+     "Not stated whether the model has been tested in other cities."
+    ],
+    "jargon": [
+     {
+      "term": "Green-Blue Infrastructure",
+      "definition": "A network of natural and semi-natural areas, including plants and water bodies, used in cities."
+     },
+     {
+      "term": "Urban Heat Island Effect",
+      "definition": "When cities become much warmer than nearby rural areas due to human activities and buildings."
+     },
+     {
+      "term": "Nature-Based Solutions",
+      "definition": "Tools inspired by nature, like rain gardens, to solve environmental problems."
+     },
+     {
+      "term": "Urban Planning Zoning",
+      "definition": "Dividing a city into different zones for specific uses like building, parks, or water protection."
+     }
+    ],
+    "fit": "It connects directly by offering models for environmental planning, water management, and urban greening in a Global South city."
    },
    "relevance": 5,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.24857/rgsa.v20n10-009",
-    "doi": "https://doi.org/10.24857/rgsa.v20n10-009",
-    "venue": "Revista de Gestão Social e Ambiental",
+    "url": "https://doi.org/10.5281/zenodo.23672791",
+    "doi": "https://doi.org/10.5281/zenodo.23672791",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "date": "2026-10-26",
     "authors": [
-     "Flávia Kaine Pereira Alves Mineiro",
-     "Márcia Teixeira Falcão"
+     "Makhamov Bazar Salamovich"
+    ],
+    "n_authors": 1,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223314185",
+   "title": "Multi-Criteria Environmental Assessment of Protected Areas: Ecosystem Services and Use by Visitors",
+   "headline": "Evaluating protected areas using a new multi-criteria tool",
+   "bullets": [
+    "Created a valuation framework combining 12 ecosystem services and visitor metrics for a reserve.",
+    "Found the core zone had the best environmental index, with cultural services holding the most…",
+    "Offers a replicable tool for protected areas facing conservation-tourism tensions in the Global…"
+   ],
+   "plain": {
+    "question": "How can we better value protected areas by balancing nature conservation with visitor use?",
+    "method": "Built a scoring framework using twelve ecosystem services, four visitor metrics, and expert input.",
+    "finding": "The core zone scored the best environmentally, and cultural services were the most important factor.",
+    "why": "It helps manage protected areas dealing with tensions between conservation and tourism in the Global South."
+   },
+   "full": {
+    "explainer": "Protected areas are vital for safeguarding biodiversity and the benefits nature provides to humans. However, figuring out their true environmental value is often messy and lacks unified methods, especially in places like Latin America. To solve this, researchers designed a new evaluation framework for the Sumaco Biosphere Reserve in Ecuador. This large, biodiverse territory features a strong community ecotourism sector. The researchers combined twelve different ecosystem services with four ways visitors use the area, relying on input from twelve experts and a mathematical model to score different management zones. Results showed that the strictly protected core zone had the best environmental score, followed by the buffer and transition zones. Cultural services, such as recreation and aesthetic experiences, turned out to be the most heavily weighted factor, which fits the reserve's ecotourism focus. Testing showed the results are mostly stable. Ultimately, this framework bridges the gap between nature science and visitor management, providing a useful, transferable tool for protected areas in the Global South that struggle to balance environmental protection with tourism.",
+    "caveats": [
+     "Based on a single case study of the Sumaco Biosphere Reserve in Ecuador.",
+     "Relies on secondary institutional sources and input from a panel of twelve experts."
+    ],
+    "jargon": [
+     {
+      "term": "Ecosystem services",
+      "definition": "The direct and indirect contributions of ecosystems to human well-being."
+     },
+     {
+      "term": "AHP-VIKOR model",
+      "definition": "A combined mathematical decision-making tool used to rank options based on multiple criteria."
+     },
+     {
+      "term": "Biosphere Reserve",
+      "definition": "A UNESCO-recognized territory dedicated to balancing biodiversity conservation with sustainable use."
+     }
+    ],
+    "fit": "It offers a framework for evaluating ecosystem services and managing use in the Global South, aiding environmental planning in Kabul."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.30564/re.v8i5.117146",
+    "doi": "https://doi.org/10.30564/re.v8i5.117146",
+    "venue": "Research in Ecology",
+    "date": "2026-10-23",
+    "authors": [
+     "Jefferson Damián Almeida Peñaherrera",
+     "Diana Gabriela Carpio Álvarez",
+     "Jonathan Mauricio Guallpa-Caguana",
+     "Vásquez Galeas Rafael Mateo"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W4417102059",
+   "title": "Condition Matters: Fine-Tuning Ecosystem Service Capacity with Ecosystem Condition",
+   "headline": "Ecosystem condition changes service capacity scores",
+   "bullets": [
+    "Created a framework to adjust ecosystem service capacity using local condition thresholds.",
+    "Found that condition-adjusted scores differ from standard unadjusted matrices by up to 42%.",
+    "Improves ecosystem assessments for land-use planning and environmental accounting."
+   ],
+   "plain": {
+    "question": "How can we make maps of nature's benefits more accurate by including the actual health of ecosystems?",
+    "method": "We tested a new method using physical and biological health measures to adjust standard scoring tables in France.",
+    "finding": "Adjusting for ecosystem health changed scores by up to 42 percent compared to standard scoring methods.",
+    "why": "It helps planners get a much truer picture of the actual benefits nature provides on the ground."
+   },
+   "full": {
+    "explainer": "Standard maps that show the benefits people get from nature usually give the same score to every area of the same type, like all forests or all cities, no matter how healthy they actually are. This paper introduces a new method to fix that problem. The researchers built a framework that looks at two things: structural health, such as plant growth and height, and biological health, like biodiversity and soil quality. They grouped different natural benefits based on how much they rely on these health factors. By setting specific health thresholds using local data from a study area in France, they adjusted the standard scoring tables. Their tests showed that factoring in ecosystem health changed the final benefit scores by up to 42 percent compared to the old, unadjusted method. When they checked their results against independent data, the new scores matched reality much better. This approach gives planners and decision-makers a practical tool to link ecosystem health directly with the benefits nature provides for land-use planning and environmental reporting.",
+    "caveats": [
+     "Tested only in a specific 430-km² study area in the Hauts-de-France region, France.",
+     "Not stated how it performs in other global regions, such as dry climates or the Global South."
+    ],
+    "jargon": [
+     {
+      "term": "Ecosystem service capacity matrices",
+      "definition": "Tables that assign uniform scoring values to different ecosystem types to map nature's benefits."
+     },
+     {
+      "term": "Structural condition",
+      "definition": "Physical traits of an ecosystem like vegetation cover, productivity, and canopy height."
+     },
+     {
+      "term": "Biological condition",
+      "definition": "Ecological traits such as biodiversity intactness, soil organic carbon, and natural habitat proportion."
+     },
+     {
+      "term": "SEEA EA",
+      "definition": "A conceptual framework linking ecosystem condition and service capacity for natural capital accounting."
+     }
+    ],
+    "fit": "Provides a method to fix mapping errors by factoring urban ecosystem condition into service capacity, relevant to urban planning in Kabul."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.3897/oneeco.11.e181068",
+    "doi": "https://doi.org/10.3897/oneeco.11.e181068",
+    "venue": "One Ecosystem",
+    "date": "2026-10-21",
+    "authors": [
+     "Philip K. Roche",
+     "C. Sylvie Campagne"
     ],
     "n_authors": 2,
     "open_access": true,
@@ -175,170 +334,167 @@
    }
   },
   {
-   "id": "W7222855520",
-   "title": "Conceptualising shallow trusting in international relations: the dynamism of everyday practices in global south climate governance",
-   "headline": "Shallow trusting keeps climate governance working",
+   "id": "W7223308178",
+   "title": "Spatiotemporal dynamics and drivers of forest ecosystem service value in China based on the equivalent factor method",
+   "headline": "China's forest value grew 12% from 2000 to 2023",
    "bullets": [
-    "Studied trusting practices through 17 interviews with practitioners in Malawi",
-    "Found 'shallow trusting' lets people cooperate without sharing deep beliefs",
-    "Challenges the idea that international climate cooperation needs deep trust"
+    "Used the equivalent factor method to study forest ecosystem service value in China from 2000 to…",
+    "Found total forest value rose 12% with regulating services making up over 66% every year.",
+    "Helps guide the spatial allocation of forest resources and shape ecological protection policies."
    ],
    "plain": {
-    "question": "How do people in the Global South cooperate on climate issues without deep trust?",
-    "method": "The researchers did 17 interviews with practitioners in Malawi.",
-    "finding": "They found that limited, everyday actions allow people to work together despite power imbalances.",
-    "why": "It changes how we view interactions between donors and the Global South."
+    "question": "How did the value of forest benefits in China change from 2000 to 2023?",
+    "method": "Researchers used a standard valuation method and adjusted numbers at the local and regional levels.",
+    "finding": "Total forest value went up by 12 percent, with western China having the highest total amount.",
+    "why": "This helps leaders plan better ways to protect nature and manage forest resources."
    },
    "full": {
-    "explainer": "In international politics, experts usually think that countries or groups need deep trust to work together successfully. However, this new paper looks at how people actually cooperate in everyday situations in the Global South, where power is unevenly balanced. By talking to 17 practitioners in Malawi, the authors discovered a new idea called 'shallow trusting.' This means that people can still team up for collective action, even if they do not share the exact same goals, identities, or viewpoints. Instead of aiming for an ideal state of deep trust, people use specific everyday actions like committing, identifying, and making sense of situations in limited ways. These small actions help keep cooperation going despite structural inequalities. Ultimately, this study challenges traditional views on climate governance and suggests we need to rethink how donors and countries in the Global South interact when tackling major global problems together.",
-    "caveats": [
-     "The study only draws on 17 key informant interviews in Malawi.",
-     "Not stated whether these findings apply outside of climate governance in Malawi."
-    ],
-    "jargon": [
-     {
-      "term": "Shallow trusting",
-      "definition": "Trusting in limited ways that lets people cooperate without sharing the same goals or identities."
-     },
-     {
-      "term": "Structural asymmetry",
-      "definition": "An uneven balance of power between different actors or groups."
-     },
-     {
-      "term": "Co-constitutive practices",
-      "definition": "Everyday actions that work together to help create and maintain a specific social condition."
-     }
-    ],
-    "fit": "It connects by showing how governance and power relations shape human cooperation and interactions in the Global South."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1057/s41268-026-00398-5",
-    "doi": "https://doi.org/10.1057/s41268-026-00398-5",
-    "venue": "Journal of International Relations and Development",
-    "date": "2026-10-25",
-    "authors": [
-     "E.-L. Anderson",
-     "Scott Edwards",
-     "Michael Chasukwa",
-     "Laura Considine"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223555721",
-   "title": "Natural forests are key for bryophyte conservation, while active land-use reveals homogenous communities with low richness, new records, and habitat indicators in the Eastern Amazon",
-   "headline": "Natural forests protect Amazon bryophytes best",
-   "bullets": [
-    "Compared bryophytes across natural forests and three active land-use types in Eastern Amazon",
-    "Natural forests and agroforestry had similar richness; açaí monoculture had different groups",
-    "Highlights the need for natural forests and agroforestry to protect plant communities"
-   ],
-   "plain": {
-    "question": "How do different ways of using land affect small plants called bryophytes in the Amazon?",
-    "method": "The researchers compared bryophytes in natural forests and three active land uses: managed forests, agroforestry, and açaí monoculture.",
-    "finding": "Natural forests and agroforestry had similar plant numbers, but active land uses generally created uniform communities.",
-    "why": "This helps us learn which farming types best protect small plants and biodiversity in the Amazon."
-   },
-   "full": {
-    "explainer": "Researchers in the Brazilian Amazon wanted to know how different human uses of land affect a group of small, non-flowering plants called bryophytes, which include liverworts and mosses. They looked at four areas: natural forests, managed forests, agroforestry, and açaí monoculture farms. They checked how many different species lived in each place and how abundant they were. They found that natural forests and agroforestry had similar numbers of species. However, active land uses generally led to uniform communities with low richness. Liverworts were more sensitive to changes in their habitat than mosses, making them useful for tracking environmental health. Two specific species were identified as good signs of healthy natural forests. The study concludes that keeping natural forests and using low-intensity farming like agroforestry is very important for protecting these small plants in the Amazon.",
+    "explainer": "Researchers studied how the value of forest benefits changed across China between the years 2000 and 2023. They wanted to help support nature protection and better forest management. To do this, they used a method that assigns economic values to different forest benefits, adjusting the numbers based on local and county data. They then added up these local scores to see national trends. The results showed that the total value of forest benefits in China went up by 12 percent over the study period, with services that regulate the environment making up over two-thirds of that value every year. Geographically, western China had the highest total forest value, while eastern China had the highest value per unit of forest area. The center point of this forest value shifted slightly northward within Henan Province. Furthermore, natural factors like slope and elevation played a big role in explaining where these forest values were high or low. The authors note that these findings can help policymakers decide where to place forest resources and how to design conservation plans.",
     "caveats": [
      "Not stated",
      "Not stated"
     ],
     "jargon": [
      {
-      "term": "Bryophytes",
-      "definition": "A group of small, non-flowering green plants that includes liverworts and mosses."
+      "term": "equivalent factor method",
+      "definition": "A standard way to calculate the economic value of nature's benefits using assigned numbers."
      },
      {
-      "term": "Liverworts",
-      "definition": "A type of small, flowerless plant belonging to the bryophytes that is sensitive to habitat change."
+      "term": "Geodetector",
+      "definition": "A spatial statistical tool used to detect and find the causes behind geographical patterns."
      },
      {
-      "term": "Agroforestry",
-      "definition": "A land-use system where trees and shrubs are grown around or among crops."
-     },
-     {
-      "term": "Açaí monoculture",
-      "definition": "Growing only açaí plants in an area, rather than a mix of different species."
+      "term": "regulating services",
+      "definition": "Natural benefits like climate regulation and water purification provided by ecosystems."
      }
     ],
-    "fit": "It shows how different active land-use choices affect forest biodiversity and plant communities in the Global South."
+    "fit": "Provides methodological insights on tracking ecosystem service values and environmental planning, though focused on China rather than the Global South or Kabul."
    },
-   "relevance": 4,
+   "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1007/s10531-026-03513-7",
-    "doi": "https://doi.org/10.1007/s10531-026-03513-7",
-    "venue": "Biodiversity and Conservation",
-    "date": "2026-10-25",
+    "url": "https://doi.org/10.3389/ffgc.2026.1956763",
+    "doi": "https://doi.org/10.3389/ffgc.2026.1956763",
+    "venue": "Frontiers in Forests and Global Change",
+    "date": "2026-10-23",
     "authors": [
-     "Tássia Toyoi Gomes Takashima-Oliveira",
-     "Rony Peterson Santos Almeida",
-     "Anna Luiza Ilkiu‐Borges"
+     "Qi Shi",
+     "Chuan Ye"
     ],
-    "n_authors": 3,
+    "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7218983715",
-   "title": "Spatial Patterns and Dynamics of Agricultural Land Use: A Geographical Analysis",
-   "headline": "Factors shaping global agricultural land use and dynamics",
+   "id": "W7223088193",
+   "title": "Wetland plant biodiversity in China: a scoping evidence map linking ecosystem services, SDGs, and governance instruments",
+   "headline": "Wetland plant diversity boosts vital nature services in China",
    "bullets": [
-    "Used maps, satellite data, and GIS to study global farming landscapes.",
-    "Found that markets, policies, technology, and environment drive land changes.",
-    "Highlights the need for better planning and governance for sustainability."
+    "Reviewed 2,482 China wetland studies from 2001 to 2026 using a framework.",
+    "Found plant diversity directly links to clean water, carbon, and flood control.",
+    "Shows protecting wetland plants is vital for stronger governance and SDGs."
    ],
    "plain": {
-    "question": "How do different factors change farming land use around the world?",
-    "method": "The study used maps, satellite data, and computer tools to analyze farming areas globally.",
-    "finding": "Market rules, new technology, rules from governments, and nature shape how land is used.",
-    "why": "We need better planning and rule changes to keep farming sustainable against climate change."
+    "question": "How does wetland plant life support nature benefits and policy?",
+    "method": "Reviewed over two thousand studies on wetlands in China from 2001 to 2026.",
+    "finding": "Plant variety helps clean water, store carbon, and protect against floods.",
+    "why": "It proves we must protect plants to keep getting benefits from wetlands."
    },
    "full": {
-    "explainer": "This paper looks at how and why farming land changes across the world. It studies the link between how land is used and cover, and the social, money, and nature-related factors behind it. By using satellite images and computer mapping tools, the research explores how farming landscapes change in places like Europe, North America, East Asia, Sub-Saharan Africa, and South America. The study shows that market forces, new technologies, government policies, and natural limits all affect decisions about land. It also looks at how farming impacts biodiversity, soil, water, and the climate. The findings point out that we face big sustainability challenges. To solve them, the paper stresses that we need better land planning, changes in how we govern land, and smart strategies to handle climate change and the growing need for food worldwide.",
+    "explainer": "Wetlands are important areas that help clean water, regulate the climate, and stop floods, but they are under threat. This study looked at over two thousand research papers from China published between 2001 and 2026. The researchers wanted to see how different types of plant diversity help provide these natural benefits and support rules and global goals. They found that plant variety helps clean water, trap carbon, and protect against floods. However, these areas face big threats like land changes, pollution, and climate change. Even though few papers directly mentioned specific global goals or policies, the data clearly supports several global targets. The findings show that protecting wetland plants is crucial for keeping these nature benefits working and improving how wetlands are managed.",
     "caveats": [
-     "Relies on global case studies without giving specific local details.",
+     "Few studies explicitly referenced sustainable development goals or policy instruments.",
+     "Geographically limited to studies focused on China."
+    ],
+    "jargon": [
+     {
+      "term": "ecosystem services",
+      "definition": "The useful benefits that healthy natural environments provide to people."
+     },
+     {
+      "term": "carbon sequestration",
+      "definition": "The process of capturing and storing carbon dioxide from the atmosphere."
+     },
+     {
+      "term": "phylogenetic",
+      "definition": "Relating to the evolutionary history and relationships among individuals or groups of organisms."
+     }
+    ],
+    "fit": "It shares themes of ecosystem services and environmental planning, though it focuses on China rather than the Global South or Kabul."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1080/1747423x.2026.2740454",
+    "doi": "https://doi.org/10.1080/1747423x.2026.2740454",
+    "venue": "Journal of Land Use Science",
+    "date": "2026-10-21",
+    "authors": [
+     "Zezheng Xia",
+     "Zhenting Ma"
+    ],
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223680960",
+   "title": "Developing willingness-to-pay-based effect factors for marine cultural ecosystem services in life cycle impact assessment",
+   "headline": "New marine cultural service valuation method for LCA",
+   "bullets": [
+    "Used willingness-to-pay surveys to create effect factors for marine plastic impacts.",
+    "Found national effect factors varied widely from 233 to 1,730,000 euros per kilogram.",
+    "Provides a way to include cultural ecosystem services in environmental impact assessments."
+   ],
+   "plain": {
+    "question": "How can we measure the loss of cultural benefits from marine plastic pollution in standard environmental assessments?",
+    "method": "We used people's willingness to pay to clean up marine plastics across several countries to calculate monetary impact values.",
+    "finding": "National impact values varied greatly, driven mostly by differences in the amount of stranded plastic in each country.",
+    "why": "This helps include nature's non-material benefits in life cycle assessments using a shared monetary measurement."
+   },
+   "full": {
+    "explainer": "Life cycle assessment is a tool to evaluate environmental impacts, but it usually ignores cultural ecosystem services, which are the non-material benefits people get from nature. This study looks at how to fix that gap by using willingness-to-pay data. The researchers used survey results from eight European countries about removing marine plastic, and estimated values for 13 more countries using disposable income. By combining these monetary values with the amount of plastic stranded on beaches, they created 21 national effect factors. These factors measure the potential loss of cultural utility per unit of plastic, using euros per kilogram and euros per item. When tested in Norway, these factors successfully linked plastic stress to cultural service loss. The results showed huge differences between countries, mostly caused by varying amounts of stranded plastic rather than economic differences. Overall, this approach offers a practical way to include ecosystem service damages in life cycle assessments and could potentially be used for other types of environmental stressors and regions.",
+    "caveats": [
+     "Based heavily on European surveys and extrapolated data for other countries.",
+     "Variability is mainly driven by estimated stranded plastic burden.",
      "Not stated"
     ],
     "jargon": [
      {
-      "term": "Remote sensing",
-      "definition": "Scanning the earth using satellites or aerial cameras to gather data."
+      "term": "Life Cycle Impact Assessment",
+      "definition": "A phase of life cycle assessment aimed at understanding environmental impacts using inventory data."
      },
      {
-      "term": "GIS",
-      "definition": "Computer systems designed to capture, store, check, and display data related to positions on Earth's surface."
+      "term": "Cultural ecosystem services",
+      "definition": "Non-material benefits people obtain from ecosystems, like spiritual or recreational enrichment."
      },
      {
-      "term": "Agricultural typologies",
-      "definition": "The classification of different types of farming systems and practices."
+      "term": "Willingness-to-pay",
+      "definition": "The maximum amount a person is willing to spend for a good or service, such as plastic removal."
      },
      {
-      "term": "Ecosystem services",
-      "definition": "The many useful benefits provided by the natural environment to humans."
+      "term": "Effect factors",
+      "definition": "Metrics used to calculate the potential impact of an environmental stressor on a specific endpoint."
      }
     ],
-    "fit": "It connects by examining governance and land use, featuring cases in Sub-Saharan Africa and South America, though ecosystem valuation is less explicit."
+    "fit": "This paper connects by providing methods to quantify ecosystem service losses, though it focuses on marine plastics rather than urban Kabul."
    },
-   "relevance": 3,
+   "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.5281/zenodo.23117514",
-    "doi": "https://doi.org/10.5281/zenodo.23117514",
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "date": "2026-11-30",
+    "url": "https://doi.org/10.1007/s11367-026-02741-x",
+    "doi": "https://doi.org/10.1007/s11367-026-02741-x",
+    "venue": "The International Journal of Life Cycle Assessment",
+    "date": "2026-10-26",
     "authors": [
-     "Anjali Harshavardhan Thorat"
+     "Fei Song",
+     "Martin Dorber",
+     "Johan Berg Pettersen",
+     "Francesca Verones"
     ],
-    "n_authors": 1,
+    "n_authors": 4,
     "open_access": true,
     "basis": "abstract"
    }
@@ -346,63 +502,63 @@
  ],
  "more": [
   {
-   "title": "AI, Neuro-Inclusion and Inclusive Development in the Global South: A Governance Framework for Equitable…",
-   "url": "https://doi.org/10.52823/amqo8416",
-   "venue": "Journal of Governance Security & Development",
+   "title": "Cultural ecosystem services of beaver-modified landscapes in Britain",
+   "url": "https://doi.org/10.1080/26395916.2026.2746703",
+   "venue": "Ecosystems and People",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "Community-led design of nature-based solutions for mangroves in Placencia, Belize",
+   "url": "https://doi.org/10.1007/s10980-026-02463-3",
+   "venue": "Landscape Ecology",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Institutional dynamics of circular and climate-adaptive water governance in Bengaluru",
+   "url": "https://doi.org/10.3389/frsc.2026.1920960",
+   "venue": "Frontiers in Sustainable Cities",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "A regeneration approach for water and climate sensitive cities in peri-urban zones",
+   "url": "https://doi.org/10.1007/s11355-026-00763-z",
+   "venue": "Landscape and Ecological Engineering",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "Spatio-Temporal Dynamics of Urban Heat Islands and Sustainable Urban Development in a Rapidly Urbanizing…",
+   "url": "https://doi.org/10.1007/s40030-026-01004-0",
+   "venue": "Journal of The Institution of Engineers (India) Series A",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Urban greening resources and visibility–soil-moisture coordination in Dubai: Spatiotemporal patterns,…",
+   "url": "https://doi.org/10.1371/journal.pone.0360918",
+   "venue": "PLoS ONE",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "Retention forestry practices in India for biodiversity conservation, climate resilience, and sustainable…",
+   "url": "https://doi.org/10.1007/s44274-026-01065-9",
+   "venue": "Discover Environment",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "Unequal barriers to Nature’s Contributions to People impact quality of life",
+   "url": "https://doi.org/10.1007/s13280-026-02482-z",
+   "venue": "AMBIO",
    "date": "2026-10-25"
   },
   {
-   "title": "Farmer participation in payment for ecosystem services programs: Evidence from eastern North Carolina",
-   "url": "https://doi.org/10.1002/jaa2.70056",
-   "venue": "Journal of the Agricultural and Applied Economics Association",
-   "date": "2026-10-26"
+   "title": "Human–wildlife conflict and farmland transfer under informal land institutions: Evidence from rural China",
+   "url": "https://doi.org/10.1002/pan3.70455",
+   "venue": "People and Nature",
+   "date": "2026-10-24"
   },
   {
-   "title": "The Impact of Organizational Ethical Culture on the Quality of Sustainability Reporting with the Mediating…",
-   "url": "https://journalmbs.com/index.php/jmbs/article/view/214",
-   "venue": "Journal of Management and Business Solutions",
-   "date": "2026-11-01"
-  },
-  {
-   "title": "Religious Policy and Sustainable Development Goals: Integrating Faith-Based Governance into Public Policy",
-   "url": "https://doi.org/10.61860/amuya.v2i2.125",
-   "venue": "AMUYA INDONESIAN JOURNAL OF MANAGEMENT REVIEWS",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "Functional systems integration: a framework for reconciling livestock production and wild herbivore…",
-   "url": "https://doi.org/10.1007/s44353-026-00112-z",
-   "venue": "Discover Conservation",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "Smart Digital Coffee Value Chain Transformation in Oromia, Ethiopia: A Five-Year Policy, Technical and…",
-   "url": "https://doi.org/10.5281/zenodo.23643320",
-   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Pm-Kusum and India's Sustainable Energy Transition: A Critical Review of Solarising Agriculture, Energy…",
-   "url": "https://doi.org/10.5281/zenodo.23309072",
-   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "Tropospheric Ozone Assessment Report II: Changing health impacts of global ozone exposure",
-   "url": "https://doi.org/10.1098/rsta.2025.0268",
-   "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "The recognition gap: land governance and the pre‐hazard production of disaster risk in South Africa",
-   "url": "https://doi.org/10.1111/disa.70081",
-   "venue": "Disasters",
-   "date": "2026-10-25"
-  },
-  {
-   "title": "Integration of flood-induced benefits in flood risk optimization analysis in South-Central Bangladesh",
-   "url": "https://doi.org/10.1007/s43621-026-05117-1",
-   "venue": "Discover Sustainability",
+   "title": "Urban Expansion and the Urban Flood Paradox",
+   "url": "https://doi.org/10.71274/ijpp.v14i8.783",
+   "venue": "International Journal of Professional Practice",
    "date": "2026-10-25"
   }
  ]

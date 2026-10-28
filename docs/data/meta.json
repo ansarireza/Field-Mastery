@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-10-28",
- "field": "This field studies how ecosystem valuation and governance shape land use and human well-being in the Global South.",
+ "field": "Investigating urban ecosystem services, land-cover change, and environmental planning in the Global South with a focus on Kabul.",
  "sample": false,
  "errors": {
   "radar": "AttributeError: 'list' object has no attribute 'get'"

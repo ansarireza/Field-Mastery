@@ -1,12 +1,15 @@
 {
  "2026-10-28": {
   "papers": [
-   "Latin America conservation faces crime and weak governance",
-   "Review of potential OECMs and deforestation in Latin America",
-   "Traditional knowledge protects biodiversity",
-   "Shallow trusting keeps climate governance working",
-   "Natural forests protect Amazon bryophytes best",
-   "Factors shaping global agricultural land use and dynamics"
+   "Soil texture and carbon drive ecosystem services",
+   "Mixed tree plantations boost overall ecosystem benefits",
+   "New Soil Index Evaluates Alpine Treeline Health in Himalaya",
+   "Green-Blue Infrastructure in Coastal Urban Zoning",
+   "Evaluating protected areas using a new multi-criteria tool",
+   "Ecosystem condition changes service capacity scores",
+   "China's forest value grew 12% from 2000 to 2023",
+   "Wetland plant diversity boosts vital nature services in China",
+   "New marine cultural service valuation method for LCA"
   ],
   "tools": [
    "qgis/QGIS final-3_44_15"

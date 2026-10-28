@@ -1,91 +1,91 @@
 {
- "field_summary": "This field studies how ecosystem valuation and governance shape land use and human well-being in the Global South.",
+ "field_summary": "Investigating urban ecosystem services, land-cover change, and environmental planning in the Global South with a focus on Kabul.",
  "areas": [
-  "Ecosystem services valuation",
-  "Environmental governance",
-  "Land use change",
-  "Human well-being",
-  "Payments for ecosystem services",
-  "Global South development",
-  "Nature contributions to people",
-  "Conservation policy",
-  "Socioecological systems",
-  "Natural resource management"
+  "urban ecosystem service theory",
+  "social-ecological systems framework",
+  "land-cover change modeling",
+  "urban cooling and heat mitigation",
+  "stormwater runoff retention",
+  "habitat quality assessment",
+  "urban nature access",
+  "informal settlement dynamics",
+  "green-blue infrastructure planning",
+  "environmental justice and governance"
  ],
  "queries": [
-  "ecosystem services valuation",
-  "payments for ecosystem services",
-  "land use change",
-  "environmental governance",
-  "human well-being",
+  "urban ecosystem services global south",
   "nature contributions to people",
-  "conservation policy",
-  "global south development"
+  "urban cooling heat mitigation",
+  "informal settlements ecosystem services",
+  "green-blue infrastructure planning",
+  "InVEST modeling urban environment",
+  "Kabul urban environment ecosystem",
+  "semi-arid urban ecology"
  ],
  "must_terms": [
   "ecosystem service",
-  "valuation",
-  "governance",
-  "land-use",
-  "well-being",
-  "global south",
-  "payment",
-  "conservation",
-  "sustainability",
-  "biodiversity",
-  "livelihood",
-  "policy"
+  "urban ecology",
+  "nature contribution",
+  "informal settlement",
+  "green-blue infrastructure",
+  "urban cooling",
+  "habitat quality",
+  "stormwater retention",
+  "environmental justice",
+  "landscape configuration",
+  "land-cover change",
+  "scenario analysis"
  ],
  "region_terms": [
-  "africa",
-  "asia",
-  "latin america",
-  "global south",
-  "developing country",
-  "sub-saharan",
-  "southeast asia",
+  "kabul",
+  "afghanistan",
   "south asia",
-  "tropics",
-  "low-income"
+  "central asia",
+  "global south",
+  "arid",
+  "mountainous",
+  "conflict-affected",
+  "peri-urban",
+  "hillside"
  ],
  "policy_queries": [
-  "ecosystem services policy regulation",
-  "biodiversity conservation funding treaty",
-  "payments for ecosystem services law",
-  "land use change regulation",
-  "environmental governance policy reform",
-  "global south conservation funding"
+  "urban green space policy",
+  "climate adaptation funding cities",
+  "ecosystem based adaptation framework",
+  "urban environmental planning regulations",
+  "sustainable development goals cities",
+  "green infrastructure financing strategy"
  ],
  "event_queries": [
-  "ecosystem services conference call for papers",
-  "environmental governance workshop 2024",
-  "global south land use conference"
+  "urban ecology conference call for papers",
+  "ecosystem services symposium 2024",
+  "landscape ecology international congress"
  ],
  "debates": [
   {
-   "title": "Do payments for ecosystem services actually improve long-term human well-being in the Global South?",
-   "query": "payments for ecosystem services well-being"
+   "title": "Does modeled ecosystem service supply match actual human benefit delivery in data-scarce cities?",
+   "query": "ecosystem service supply versus delivery"
   },
   {
-   "title": "Does economic valuation of nature lead to better conservation outcomes?",
-   "query": "economic valuation ecosystem services conservation"
+   "title": "How do spatial associations differ from true causal effects of informal settlement status on ecology?",
+   "query": "causal inference informal settlements urban ecology"
   },
   {
-   "title": "How does community-based environmental governance compare to state-led regulation?",
-   "query": "environmental governance community based conservation"
+   "title": "Can ecosystem service models developed in the Global North be reliably transferred to mountainous semi-arid cities?",
+   "query": "transferability urban ecosystem models"
   },
   {
-   "title": "Are nature's contributions to people frameworks replacing ecosystem services effectively?",
-   "query": "natures contributions to people framework"
+   "title": "Do green-blue infrastructure interventions in conflict-affected regions exacerbate environmental injustices?",
+   "query": "environmental justice green infrastructure conflict"
   },
   {
-   "title": "Does land-use zoning in developing regions disadvantage local livelihoods?",
-   "query": "land use change local livelihoods"
+   "title": "Are landscape metrics effective proxies for ecological functions in rapidly expanding informal urban areas?",
+   "query": "landscape configuration urban expansion function"
   },
   {
-   "title": "Can market-based conservation prevent deforestation in tropical regions?",
-   "query": "market based conservation deforestation tropics"
+   "title": "How to account for high uncertainty in land-change scenarios for data-scarce developing cities?",
+   "query": "uncertainty assessment land-change scenarios"
   }
  ],
- "_sig": "be328ff9f5"
+ "_sig": "340c912917"
 }
