@@ -221,6 +221,6 @@ weekly_review_day: 6      # 0 = Monday ... 6 = Sunday
 
 # 8) Free AI model --------------------------------------------------------------
 llm:
-  model: gemini-2.5-flash
-  fallback_model: gemini-2.5-flash-lite
+  model: gemini-3.5-flash-lite
+  fallback_model: gemini-3.5-flash-lite
   min_interval_seconds: 13   # keeps you inside the free requests-per-minute limit
