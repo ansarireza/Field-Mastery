@@ -1,0 +1,92 @@
+# ===========================================================================
+# FIELD MASTERY - your settings. Edit this file, commit, done.
+# NOTE: this repository is PUBLIC (needed for free hosting). Do not put
+# anything confidential in here.
+# ===========================================================================
+
+# 1) Your field -------------------------------------------------------------
+research_question: >
+  How do the valuation and governance of ecosystem services shape land-use
+  decisions and human well-being in the Global South?
+
+keywords:
+  - ecosystem services
+  - global south
+  - payments for ecosystem services
+  - nature's contributions to people
+  - land-use change
+
+regions: [Sub-Saharan Africa, South Asia, Latin America, Southeast Asia]
+
+# How much background to assume in the plain-language explanations:
+#   beginner | intermediate | advanced
+level: intermediate
+
+# 2) Papers -----------------------------------------------------------------
+papers:
+  days_back: 3            # look at papers published in the last N days
+  max_queries: 8          # OpenAlex searches per day (free budget is $1/day)
+  top_n: 6                # papers explained in full each day
+  more_n: 10              # extra papers listed by title only
+  # Journals you trust most (get a ranking bonus). Optional.
+  watch_journals:
+    - Ecosystem Services
+    - Nature Sustainability
+    - Global Environmental Change
+    - Ecological Economics
+    - World Development
+    - Conservation Letters
+  # DOIs of papers central to YOUR thesis. New papers that cite them are
+  # flagged in the "Watch list" (finds work that confirms or challenges you).
+  key_references: []
+  # - 10.1126/science.1038428
+
+# 3) Radar: regulations, policy, funding, conferences ---------------------------
+radar:
+  days_back: 7
+  max_items: 12
+  # Extra RSS/Atom feeds. Broken feeds are skipped automatically.
+  feeds:
+    - https://news.mongabay.com/feed/
+    - https://www.carbonbrief.com/feed/
+  # Conferences / deadlines you already know about (shown with a countdown)
+  events: []
+  # - name: "Example Conference 2027"
+  #   date: 2027-06-15
+  #   deadline: 2027-02-01      # abstract deadline (optional)
+  #   url: https://example.org
+  #   note: "Possible venue for my chapter 3"
+
+# 4) Tools & data: GitHub projects whose new releases you want to know about --
+tools:
+  github_repos:
+    - natcap/invest
+    - qgis/QGIS
+    - rspatial/terra
+    - r-spatial/sf
+
+# 5) Learning ---------------------------------------------------------------
+learn:
+  lessons_per_day: 2
+
+# 6) Defense coach ------------------------------------------------------------
+# PRIVACY: everything written here goes to Google's free AI tier and the
+# resulting questions appear on your public page. Keep it GENERIC, or set
+# enabled: false.
+defense:
+  enabled: true
+  title: ""
+  chapters: []
+  # - title: "Chapter 2: Valuing wetland services"
+  #   summary: "Choice experiment with smallholders in ..."
+  methods: ""
+  main_claims: []
+
+# 7) Weekly review ------------------------------------------------------------
+weekly_review_day: 6      # 0 = Monday ... 6 = Sunday
+
+# 8) Free AI model --------------------------------------------------------------
+llm:
+  model: gemini-2.5-flash
+  fallback_model: gemini-2.5-flash-lite
+  min_interval_seconds: 13   # keeps you inside the free requests-per-minute limit
