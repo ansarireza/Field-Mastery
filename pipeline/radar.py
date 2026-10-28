@@ -92,15 +92,29 @@ Return JSON {{"items": [{{"i": index, "category": "regulation|policy|funding|eve
                          {"i": 0, "category": "regulation", "title": "[SAMPLE] EU delays deforestation rules", "one_liner": "Sample: rules postponed again.", "why": "Sample: affects supply-chain research.", "urgency": 2},
                          {"i": 1, "category": "event", "title": "[SAMPLE] Conference 2027 call for abstracts", "one_liner": "Sample call for abstracts.", "why": "Possible venue for your results.", "urgency": 3},
                      ]})
-        for it in r.get("items", [])[:mx]:
+        # Gemini can return the requested items as a bare JSON array instead
+        # of an object. Both contain usable selections; other shapes are errors.
+        selected = r if isinstance(r, list) else r.get("items") if isinstance(r, dict) else None
+        if not isinstance(selected, list):
+            raise ValueError("Radar response must contain a list of news items")
+        for it in selected[:mx]:
+            if not isinstance(it, dict):
+                continue
             try:
-                src = uniq[int(it["i"])]
+                index = int(it["i"])
+                if index < 0 or index >= len(uniq):
+                    continue
+                src = uniq[index]
             except (KeyError, ValueError, IndexError, TypeError):
                 continue
+            try:
+                urgency = max(1, min(3, int(it.get("urgency", 1) or 1)))
+            except (ValueError, TypeError):
+                urgency = 1
             items.append({
                 "id": src["key"], "category": it.get("category", "news"), "title": clip(it.get("title", src["title"]), 90),
                 "one_liner": clip(it.get("one_liner", ""), 140), "why": clip(it.get("why", ""), 130),
-                "urgency": int(it.get("urgency", 1) or 1), "date": src["date"], "url": src["link"],
+                "urgency": urgency, "date": src["date"], "url": src["link"],
                 "source": src["source"], "basis": "headline",
             })
         items.sort(key=lambda x: (x["urgency"], x["date"]), reverse=True)
