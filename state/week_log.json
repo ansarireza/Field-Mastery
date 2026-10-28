@@ -1,15 +1,15 @@
 {
  "2026-10-28": {
   "papers": [
-   "Soil texture and carbon drive ecosystem services",
-   "Mixed tree plantations boost overall ecosystem benefits",
-   "New Soil Index Evaluates Alpine Treeline Health in Himalaya",
-   "Green-Blue Infrastructure in Coastal Urban Zoning",
-   "Evaluating protected areas using a new multi-criteria tool",
-   "Ecosystem condition changes service capacity scores",
-   "China's forest value grew 12% from 2000 to 2023",
-   "Wetland plant diversity boosts vital nature services in China",
-   "New marine cultural service valuation method for LCA"
+   "Land use intensity mediates ecosystem service trade-offs",
+   "Afforestation can be financially sustainable",
+   "Dams change river algae communities",
+   "Blue-green spaces and carbon in Chongqing",
+   "Plant cooling effects vary by climate and setup",
+   "New method maps city energy use and carbon emissions",
+   "Urban expansion replaces farms and forests in Rwanda",
+   "Forests and wetlands hold the most vertebrate diversity",
+   "Groundwater quality issues found in Peru aquifer"
   ],
   "tools": [
    "qgis/QGIS final-3_44_15"
@@ -17,6 +17,13 @@
   "lessons": [
    "anthropogenic pressures",
    "security-conservation nexus"
+  ],
+  "radar": [
+   "Canadian Govt & Thammasat Join Forces on Nature-Based Solutions for Bangkok",
+   "Building a modern capital: the 75% forest rule shaping Indonesia’s Nusantara",
+   "Chennai Green Cover Lags as Tree Data Remains Missing",
+   "Fighting back over the loss of green spaces in Cameroon’s capital",
+   "Hanoi expands green spaces, gradually building an ecological city"
   ]
  }
 }

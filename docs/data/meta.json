@@ -2,9 +2,7 @@
  "generated_at": "2026-10-28",
  "field": "Investigating urban ecosystem services, land-cover change, and environmental planning in the Global South with a focus on Kabul.",
  "sample": false,
- "errors": {
-  "radar": "AttributeError: 'list' object has no attribute 'get'"
- },
+ "errors": {},
  "version": 1,
  "sections": [
   "today",
