@@ -147,6 +147,27 @@ papers:
 radar:
   days_back: 7
   max_items: 12
+  # Dedicated monitoring alongside worldwide news. Summaries are in English.
+  regional_queries:
+    Germany:
+      - "Deutschland Stadtnatur Klimaanpassung Förderung Forschung"
+      - "Deutschland Stadtplanung Biodiversität Gesetz Verordnung"
+    EU:
+      - "European Union urban nature biodiversity regulation funding"
+      - "European Commission nature restoration cities research call"
+    World:
+      - "urban ecosystem services Global South planning policy"
+      - "urban nature Asia Africa Latin America research funding"
+  official_feeds:
+    - url: "https://www.bfn.de/feeds/news.rss"
+      scope: Germany
+      name: "Federal Agency for Nature Conservation"
+    - url: "https://www.umweltbundesamt.de/rss/presse"
+      scope: Germany
+      name: "German Environment Agency"
+    - url: "https://environment.ec.europa.eu/node/686/rss_en"
+      scope: EU
+      name: "European Commission Environment"
   # Topic-based news, funding and conference searches run automatically.
   # Add extra RSS feeds here later if needed.
   feeds: []
@@ -171,6 +192,8 @@ learn:
   # The current app derives its curriculum from the field profile above.
   # Keywords guide topic coverage; fixed geographic lesson quotas are not supported.
   lessons_per_day: 2
+  foundation_lessons: 20
+  developing_lessons: 60
 
 # 6) Defense coach ------------------------------------------------------------
 # PRIVACY: everything written here goes to Google's free AI tier and the

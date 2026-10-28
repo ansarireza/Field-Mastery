@@ -1,7 +1,7 @@
 {
   "name": "field-mastery-glasses",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
@@ -10,7 +10,7 @@
     "pack": "npm run build && evenhub pack app.json dist"
   },
   "dependencies": {
-    "@evenrealities/even_hub_sdk": "latest"
+    "@evenrealities/even_hub_sdk": "0.0.16"
   },
   "devDependencies": {
     "typescript": "^5.6.0",

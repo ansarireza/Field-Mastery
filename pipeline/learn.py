@@ -20,14 +20,18 @@ def ensure_curriculum(cfg: dict, prof: dict) -> dict:
     if len(cur["queue"]) >= 8:
         return cur
     done = [d for d in cur["done"]][-150:]
+    stage = learning_stage(len(read_json(ARCHIVE, [])), cfg)
     r = llm_json(f"""Design the next part of a self-study curriculum for a PhD student in: "{prof.get('field_summary')}".
 Level: {cfg.get('level', 'intermediate')}. Sub-areas: {', '.join(prof.get('areas', []))}.
+Learning stage: {stage}. Student's research context: {cfg.get('research_question')}.
 Already covered or queued (do not repeat): {', '.join(done + [q['term'] for q in cur['queue']]) or 'nothing yet'}.
 
 Return JSON {{"topics": [...]}} with 40 items {{"term": a concept, method, framework, policy instrument or foundational idea (max 6 words),
 "area": one of the sub-areas above, "kind": "concept|method|framework|policy|classic_idea"}}.
 Order from foundational to advanced, mixing sub-areas so every area is revisited regularly. Include adjacent knowledge the student
-may lack (e.g. basic urban planning, economics, remote sensing, statistics) when relevant to the field.""", mock=_mock_topics)
+may lack (e.g. basic urban planning, economics, remote sensing, statistics) when relevant to the field.
+Build on previously covered concepts, revisit prerequisites before advanced methods, and make connections explicit.
+Foundation stage emphasises definitions and distinctions; Developing compares methods; Advanced critiques assumptions and transferability.""", mock=_mock_topics)
     have = {t.lower() for t in done} | {q["term"].lower() for q in cur["queue"]}
     for t in r.get("topics", []):
         term = clip(t.get("term", ""), 60)
@@ -41,6 +45,7 @@ may lack (e.g. basic urban planning, economics, remote sensing, statistics) when
 def make_lesson(topic: dict, prof: dict, cfg: dict) -> dict:
     r = llm_json(f"""Write a micro-lesson for a PhD student in "{prof.get('field_summary')}" (level: {cfg.get('level', 'intermediate')}).
 Topic: {topic['term']}  (type: {topic.get('kind', 'concept')}, area: {topic.get('area', '')})
+Research context: {cfg.get('research_question')}.
 
 Rules: plain simple English. Do NOT cite specific papers, authors, years or statistics unless you are certain; otherwise describe the idea generally.
 If the topic is ambiguous or you are unsure, say so briefly in "plain".
@@ -50,10 +55,12 @@ Return JSON with keys:
 "plain": max 320 chars, explain it simply as to a smart newcomer;
 "example": max 220 chars, a concrete example (prefer a Global South setting);
 "connects": max 150 chars, how it relates to other ideas in the field;
+"why_phd": max 160 chars why this matters for this student's research or defence;
 "quiz": exactly 2 objects {{"q": short question max 110 chars, "a": short answer max 150 chars}};
 "search": a 3-6 word query to find good sources on this topic.""",
                  mock={"definition": "[SAMPLE] A short definition.", "plain": "[SAMPLE] A plain-language explanation appears here.",
                        "example": "[SAMPLE] An example from a Global South setting.", "connects": "[SAMPLE] Links to related ideas.",
+                       "why_phd": "[SAMPLE] Helps distinguish ecological supply from actual benefits in planning.",
                        "quiz": [{"q": "[SAMPLE] What is it?", "a": "[SAMPLE] A sample answer."}, {"q": "[SAMPLE] Why does it matter?", "a": "[SAMPLE] Sample."}],
                        "search": "sample topic"})
     today = utc_today().isoformat()
@@ -62,9 +69,20 @@ Return JSON with keys:
         "kind": topic.get("kind", "concept"), "definition": clip(r.get("definition", ""), 170),
         "plain": clip(r.get("plain", ""), 350), "example": clip(r.get("example", ""), 240),
         "connects": clip(r.get("connects", ""), 170),
+        "why_phd": clip(r.get("why_phd", ""), 170),
+        "basis": "AI teaching explanation; verify using the linked source search",
         "quiz": [{"q": clip(q.get("q", ""), 120), "a": clip(q.get("a", ""), 170)} for q in (r.get("quiz") or [])][:2],
         "search": r.get("search", topic["term"]),
     }
+
+
+def learning_stage(count: int, cfg: dict) -> str:
+    settings = cfg.get("learn", {})
+    if count < int(settings.get("foundation_lessons", 20)):
+        return "Foundation"
+    if count < int(settings.get("developing_lessons", 60)):
+        return "Developing"
+    return "Advanced"
 
 
 def run(cfg: dict, prof: dict) -> dict:
@@ -77,8 +95,9 @@ def run(cfg: dict, prof: dict) -> dict:
         queue = read_json(STATE / "jargon_queue.json", [])
         todays = []
         n = int(cfg.get("learn", {}).get("lessons_per_day", 2))
-        for _ in range(n):
-            if queue:
+        for index in range(n):
+            # Keep a structured lesson alongside vocabulary from current papers.
+            if queue and (index % 2 == 1 or not cur["queue"]):
                 topic = {"term": queue.pop(0), "area": "From today's papers", "kind": "concept"}
             elif cur["queue"]:
                 topic = cur["queue"].pop(0)
@@ -98,4 +117,8 @@ def run(cfg: dict, prof: dict) -> dict:
         write_json(STATE / "jargon_queue.json", queue)
         write_json(ARCHIVE, archive[-1500:])
     log_week(utc_today(), "lessons", [t["term"] for t in todays])
-    return {"date": today, "lessons": todays, "total_learned": len(archive)}
+    return {"date": today, "lessons": todays, "total_learned": len(archive),
+            "path": {"stage": learning_stage(len(archive), cfg),
+                     "next_topics": [t["term"] for t in read_json(CUR, {}).get("queue", [])][:5],
+                     "stages": ["Foundation: understand concepts", "Developing: compare methods", "Advanced: evaluate evidence and defend choices"],
+                     "note": "Stage follows lessons introduced, not a claim of mastery. Recall prioritises your weakest due questions on this device."}}

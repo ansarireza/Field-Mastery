@@ -61,7 +61,14 @@ function paginate(blocks: unknown[]): string[] {
 }
 
 /* ------------------------------------------------------------- data layer */
-const FILES = ['meta', 'today', 'radar', 'learn', 'people', 'tools', 'debates', 'defense', 'weekly', 'map', 'learn_archive']
+const FILES = ['meta', 'today', 'radar', 'learn', 'people', 'tools', 'debates', 'defense', 'weekly', 'map', 'learn_archive', 'briefing']
+const fetchState: Record<string, string> = {}
+const phoneTitle = document.querySelector<HTMLElement>('#screen-title')!
+const phoneBody = document.querySelector<HTMLElement>('#screen-body')!
+const phoneMenu = document.querySelector<HTMLElement>('#sections')!
+const phoneStatus = document.querySelector<HTMLElement>('#status')!
+const readerLink = document.querySelector<HTMLAnchorElement>('#reader-link')!
+readerLink.href = DATA_BASE.replace(/\/data\/?$/, '/')
 const bridge = await waitForEvenAppBridge()
 
 async function kvGet(key: string): Promise<string | null> {
@@ -79,9 +86,9 @@ async function kvSet(key: string, value: string) {
 }
 
 async function fetchJson(name: string): Promise<any | null> {
+  const ctl = new AbortController()
+  const timer = setTimeout(() => ctl.abort(), 15000)
   try {
-    const ctl = new AbortController()
-    const timer = setTimeout(() => ctl.abort(), 15000)
     const r = await fetch(`${DATA_BASE}/${name}.json?t=${Date.now()}`, { signal: ctl.signal })
     clearTimeout(timer)
     if (!r.ok) throw new Error(String(r.status))
@@ -89,15 +96,28 @@ async function fetchJson(name: string): Promise<any | null> {
     // Keep the offline copy small: the quiz archive only needs recent cards.
     const toStore = name === 'learn_archive' ? (j as any[]).slice(-250).map((l) => ({ id: l.id, term: l.term, quiz: l.quiz })) : j
     await kvSet('cache_' + name, JSON.stringify(toStore))
+    fetchState[name] = 'online'
     return j
   } catch {
     const c = await kvGet('cache_' + name)
+    fetchState[name] = c ? 'cached' : 'unavailable'
     try { return c ? JSON.parse(c) : null } catch { return null }
+  } finally {
+    clearTimeout(timer)
   }
 }
 
 /* -------------------------------------------------------------- deck builders */
 const L = (label: string, v: unknown) => (v ? `${label}${v}` : '')
+const STAGES: Record<string, string> = { proposal: 'Proposal', adopted: 'Adopted (check effective date)', in_force: 'In force (source report)', unknown: 'Unverified - check original', not_applicable: 'Not a legal update' }
+
+function newsCard(item: any): string[] {
+  return [
+    ...paginate([`[${item.scope || 'World'} / ${item.category || 'news'}]`, item.title, item.one_liner]),
+    ...paginate(['WHY IT MATTERS', item.why, '', 'SUGGESTED NEXT STEP', item.action || 'Open the source on your phone.']),
+    ...paginate(['SOURCE', `${item.source || ''} ${item.date || ''}`, item.basis || 'headline only', '', STAGES[item.status || 'unknown'], item.status_evidence]),
+  ]
+}
 
 function buildDecks(d: Record<string, any>): Deck[] {
   const decks: Deck[] = []
@@ -114,6 +134,8 @@ function buildDecks(d: Record<string, any>): Deck[] {
       ]
       const fit = p.full?.fit ? paginate(['FIT WITH YOUR FIELD', p.full.fit, p.source?.open_access ? '(open access)' : '(maybe paywalled)']) : []
       cards.push([...glance, ...plain, ...fit])
+      if (p.thesis?.why || p.thesis?.action) cards[cards.length - 1].push(...paginate(['YOUR PHD', p.thesis.why, '', 'NEXT STEP', p.thesis.action]))
+      cards[cards.length - 1].push(...paginate(['SOURCE', `${p.source?.venue || ''} ${p.source?.date || ''}`, 'Based on title and abstract. Open original on phone.']))
     }
     decks.push({ name: 'today', label: 'Today', cards })
   }
@@ -123,13 +145,35 @@ function buildDecks(d: Record<string, any>): Deck[] {
     const cards: string[][] = []
     for (const e of radar.events || []) cards.push(paginate([`${e.kind.toUpperCase()} in ${e.days_left} days`, e.name, e.date, e.note]))
     for (const i of radar.items || []) {
-      cards.push([
-        ...paginate([`[${String(i.category).toUpperCase()}]${i.urgency >= 3 ? ' !!' : ''}`, i.title, '', i.one_liner]),
-        ...paginate(['WHY IT MATTERS', i.why, '', `${i.source || ''} ${i.date || ''}`.trim(), '(headline only)']),
-      ])
+      cards.push(newsCard(i))
     }
     decks.push({ name: 'radar', label: 'Radar', cards })
   }
+  if (!decks.some((deck) => deck.name === 'radar')) decks.push({ name: 'radar', label: 'Radar', cards: [['No news or deadlines available yet.\nSee Update status for errors.\nNo events are invented to fill this section.']] })
+  for (const [name, label] of [['germany', 'Germany'], ['eu', 'EU']]) {
+    const items = (radar?.items || []).filter((item: any) => item.scope === label)
+    decks.push({ name, label, cards: items.length ? items.map(newsCard) : [[`No selected ${label} updates available.\nCheck Update status. Coverage is selective, not exhaustive.`]] })
+  }
+  const critical = (today?.items || []).filter((p: any) => p.critical?.question)
+  decks.push({ name: 'challenges', label: 'Challenges', cards: critical.length ? critical.map((p: any) => [
+    ...paginate(['EXAMINER CHALLENGE', p.critical.question]),
+    ...paginate(['EVIDENCE FROM ABSTRACT', p.critical.evidence, '', 'LIMIT', p.critical.limit]),
+    ...paginate(['CHECK THE FULL PAPER', p.critical.check, p.title, p.source?.date, 'Source link on phone. A question is not proof of contradiction.']),
+  ]) : [['Challenges appear with newly generated paper summaries. They distinguish conflicting findings from questions and limitations.']] })
+
+  const briefing = d.briefing
+  const world = briefing?.world || []
+  decks.push({ name: 'world', label: 'World week', cards: world.length ? world.map((item: any) => [
+    ...paginate([`${item.region} | ${briefing.date}`, 'WHAT CHANGED', item.what]),
+    ...paginate(['WHY IT MATTERS', item.why, '', 'NEXT STEP', item.action]),
+    ...paginate(['SOURCE', item.source?.title, item.source?.date, item.source?.basis, '', briefing.coverage]),
+  ]) : [['The world briefing appears after the next successful digest run. It uses collected sources and does not invent missing regional coverage.']] })
+  const reading = briefing?.reading
+  decks.push({ name: 'reading', label: 'Read this week', cards: reading ? [[
+    ...paginate([`READ THIS WEEK | ${briefing.date}`, reading.title, '', reading.why]),
+    ...paginate(['READ WITH THESE QUESTIONS', ...(reading.questions || [])]),
+    ...paginate(['VERIFY IN FULL PAPER', reading.check, `${reading.source?.venue || ''} ${reading.source?.date || ''}`, 'Selection based on abstract; full text has not been reviewed. Link on phone.']),
+  ]] : [['Your weekly reading pick appears when a paper is available.']] })
 
   const learn = d.learn
   if (learn?.lessons?.length) {
@@ -140,9 +184,14 @@ function buildDecks(d: Record<string, any>): Deck[] {
         ...paginate([l.term.toUpperCase(), '', l.definition]),
         ...paginate([l.plain]),
         ...paginate(['EXAMPLE', l.example, '', L('Links to: ', l.connects)]),
+        ...paginate(['YOUR PHD', l.why_phd || l.connects, 'AI teaching explanation; source search on phone.']),
       ]),
     })
   }
+  if (learn?.path) decks.push({ name: 'path', label: 'Learning path', cards: [[
+    ...paginate([learn.path.stage, ...learn.path.stages, '', learn.path.note]),
+    ...paginate(['COMING UP', ...learn.path.next_topics]),
+  ]] })
 
   const p = d.people?.current
   if (p) {
@@ -192,9 +241,22 @@ function buildDecks(d: Record<string, any>): Deck[] {
         ...paginate([`QUESTION (${q.type})`, '', q.q, '', 'Answer out loud, then swipe.']),
         ...paginate(['STRUCTURE', ...(q.outline || []).map((o: string) => '- ' + o)]),
         ...paginate(['PITFALL', q.pitfall]),
+        ...paginate(['FOLLOW-UP QUESTION', q.follow_up || 'What evidence would change your answer?', '', 'BRING EVIDENCE', q.bring]),
+        ...paginate(['SELF-CHECK', ...(q.self_check || []), '', df.basis || 'Practice based on configured study themes.']),
       ]],
     })
   }
+  if (!d.weekly) decks.push({ name: 'weekly', label: 'Week', cards: [['No weekly review yet. The next successful digest creates an initial review, then refreshes it on Sundays.']] })
+
+  const errors = d.meta?.errors || {}
+  const cached = FILES.filter((file) => fetchState[file] === 'cached')
+  decks.push({ name: 'status', label: 'Update status', cards: [
+    paginate([`LAST DIGEST: ${d.meta?.generated_at || 'unknown'}`, d.meta?.sample ? 'SAMPLE DATA' : '',
+      cached.length ? `Offline copies: ${cached.join(', ')}` : 'Online feed checked on opening.',
+      ...Object.keys(errors).map((key) => `${key}: update failed; previous data may be shown.`),
+      'Refresh from your phone, or close and reopen to check for new content.']),
+    ...Object.entries(d.meta?.status || {}).map(([name, info]: [string, any]) => paginate([name.toUpperCase(), `State: ${info.state}`, `Content date: ${info.date || 'not supplied'}`, info.state === 'partial' ? 'Some news sources failed. Coverage is incomplete.' : '', info.error || ''])),
+  ] })
 
   if (d.weekly) {
     const w = d.weekly
@@ -203,7 +265,7 @@ function buildDecks(d: Record<string, any>): Deck[] {
       label: 'Week',
       cards: [[
         ...paginate(['WEEK ' + w.week, ...(w.themes || []).map((t: string) => '- ' + t)]),
-        ...paginate(['STUDIED', w.learned, '', 'NEXT', ...(w.next || []).map((n: string) => '- ' + n)]),
+        ...paginate(['INTRODUCED', w.learned, '', 'NEXT', ...(w.next || []).map((n: string) => '- ' + n)]),
       ]],
     })
   }
@@ -223,7 +285,8 @@ let rdeck: RCard[] = []
 function buildRecall(archive: any[] | null) {
   const cards: RCard[] = (archive || []).flatMap((l) => (l.quiz || []).map((q: any, i: number) => ({ id: `${l.id}:${i}`, term: l.term, q: q.q, a: q.a })))
   const now = Date.now()
-  rdeck = cards.filter((c) => !srs[c.id] || srs[c.id].due <= now).slice(0, 10)
+  rdeck = cards.filter((c) => !srs[c.id] || srs[c.id].due <= now)
+    .sort((a, b) => (srs[a.id]?.box ?? 2) - (srs[b.id]?.box ?? 2) || (srs[a.id]?.due ?? 0) - (srs[b.id]?.due ?? 0)).slice(0, 10)
 }
 
 /* ------------------------------------------------------------------ UI state */
@@ -241,7 +304,10 @@ let meta: any = null
 
 function menuText(): { head: string; body: string } {
   const head = safe(`FIELD MASTERY ${meta?.generated_at ?? ''}${meta?.sample ? ' SAMPLE' : ''}`)
-  const lines = menu.map((m, i) => `${i === menuIdx ? '> ' : '  '}${m.label}`)
+  if (menu[0]?.key === 'none') return { head, body: 'No data yet.\nCheck your research website and daily update.\n\ndouble-tap: exit' }
+  // Keep the selected row visible without firmware text scrolling.
+  const start = Math.max(0, Math.min(menuIdx - 2, menu.length - 5))
+  const lines = menu.slice(start, start + 5).map((m, i) => `${i + start === menuIdx ? '> ' : '  '}${m.label}`)
   return { head, body: lines.join('\n') + '\n\nswipe: move   tap: open' }
 }
 
@@ -266,6 +332,18 @@ function view(): { head: string; body: string } {
 let busy: Promise<unknown> = Promise.resolve()
 function render() {
   const v = view()
+  phoneTitle.textContent = v.head
+  phoneBody.textContent = v.body
+  phoneMenu.replaceChildren(...menu.map((item, index) => {
+    const button = document.createElement('button')
+    button.textContent = item.label
+    button.addEventListener('click', () => {
+      menuIdx = index
+      openMenuItem()
+      render()
+    })
+    return button
+  }))
   busy = busy.then(async () => {
     await bridge.textContainerUpgrade(new TextContainerUpgrade({ containerID: 1, containerName: 'hdr', content: v.head }))
     await bridge.textContainerUpgrade(new TextContainerUpgrade({ containerID: 2, containerName: 'body', content: v.body }))
@@ -326,40 +404,54 @@ const hdr = new TextContainerProperty({
   containerID: 1, containerName: 'hdr', content: 'FIELD MASTERY', isEventCapture: 0,
 })
 const body = new TextContainerProperty({
-  xPosition: 0, yPosition: 40, width: 576, height: 248,
+  xPosition: 0, yPosition: 40, width: 576, height: 247,
   borderWidth: 0, borderColor: 5, paddingLength: 4,
-  containerID: 2, containerName: 'body', content: 'Loading your digest...', isEventCapture: 1,
+  containerID: 2, containerName: 'body', content: 'Loading your digest...', isEventCapture: 0,
+})
+// Capture swipes in an empty container. A text-filled capture container first
+// consumes gestures to scroll its own content before emitting boundary events.
+const input = new TextContainerProperty({
+  xPosition: 0, yPosition: 287, width: 1, height: 1,
+  borderWidth: 0, paddingLength: 0,
+  containerID: 3, containerName: 'input', content: ' ', isEventCapture: 1,
 })
 const created = await bridge.createStartUpPageContainer(
-  new CreateStartUpPageContainer({ containerTotalNum: 2, textObject: [hdr, body] }),
+  new CreateStartUpPageContainer({ containerTotalNum: 3, textObject: [hdr, body, input] }),
 )
 if (created !== 0) console.error('createStartUpPageContainer failed:', created)
 
+function eventTypeOf(envelope?: { eventType?: OsEventTypeList }): OsEventTypeList | null {
+  // Protobuf omits CLICK_EVENT (zero), but a missing envelope is not a tap.
+  return envelope ? envelope.eventType ?? OsEventTypeList.CLICK_EVENT : null
+}
+
 bridge.onEvenHubEvent((event) => {
-  const t = event.textEvent
-  if (!t) return
-  const type = t.eventType
-  if (type === OsEventTypeList.DOUBLE_CLICK_EVENT) {
+  const sysType = eventTypeOf(event.sysEvent)
+  const textType = eventTypeOf(event.textEvent)
+  if (sysType === OsEventTypeList.DOUBLE_CLICK_EVENT || textType === OsEventTypeList.DOUBLE_CLICK_EVENT) {
     if (mode === 'menu') void bridge.shutDownPageContainer(1) // root page: system exit dialog (required)
     else mode = 'menu'
-  } else if (type === OsEventTypeList.SCROLL_BOTTOM_EVENT) {
+  } else if (!menu.length) return
+  else if (textType === OsEventTypeList.SCROLL_BOTTOM_EVENT) {
     INVERT_SWIPE ? prev() : next()
-  } else if (type === OsEventTypeList.SCROLL_TOP_EVENT) {
+  } else if (textType === OsEventTypeList.SCROLL_TOP_EVENT) {
     INVERT_SWIPE ? next() : prev()
-  } else if (type === OsEventTypeList.CLICK_EVENT || type === undefined) {
+  } else if (sysType === OsEventTypeList.CLICK_EVENT || textType === OsEventTypeList.CLICK_EVENT) {
     click()
   } else return
   render()
 })
 
 const loaded: Record<string, any> = {}
+async function refreshData() {
+phoneStatus.textContent = 'Checking for new content…'
 await Promise.all(FILES.map(async (n) => { loaded[n] = await fetchJson(n) }))
 try { srs = JSON.parse((await kvGet('srs')) || '{}') } catch { srs = {} }
 meta = loaded.meta
 decks = buildDecks(loaded)
 buildRecall(loaded.learn_archive)
 
-const order = ['today', 'radar', 'learn', 'recall', 'people', 'tools', 'debates', 'defense', 'map', 'weekly']
+const order = ['today', 'germany', 'eu', 'radar', 'learn', 'recall', 'challenges', 'defense', 'world', 'reading', 'path', 'people', 'tools', 'debates', 'map', 'weekly', 'status']
 const labels: Record<string, string> = {}
 for (const d of decks) labels[d.name] = `${d.label} (${d.cards.length})`
 if (rdeck.length) labels.recall = `Recall (${rdeck.length} due)`
@@ -370,4 +462,29 @@ if (!menu.length) {
     content: 'No data yet.\nCheck DATA_BASE in config.ts and that the daily workflow has run.\n\ndouble-tap: exit',
   }))
   menu = [{ key: 'none', label: 'No data' }]
-} else render()
+}
+mode = 'menu'
+menuIdx = 0
+const cached = FILES.some((file) => fetchState[file] === 'cached')
+phoneStatus.textContent = created !== 0 ? 'Glasses connection needs attention' : cached ? 'Using some saved content — see Update status' : 'Connected to your glasses'
+render()
+}
+await refreshData()
+document.querySelector<HTMLButtonElement>('#refresh')!.addEventListener('click', async () => {
+  const button = document.querySelector<HTMLButtonElement>('#refresh')!
+  button.disabled = true
+  try { await refreshData() } finally { button.disabled = false }
+})
+for (const button of Array.from(document.querySelectorAll<HTMLButtonElement>('[data-action]'))) {
+  button.disabled = false
+  button.addEventListener('click', () => {
+    switch (button.dataset.action) {
+      case 'previous': prev(); break
+      case 'next': next(); break
+      case 'tap': click(); break
+      case 'menu': mode = 'menu'; break
+    }
+    render()
+  })
+}
+render()

@@ -54,15 +54,21 @@ DIGEST = {
     "jargon": [{"term": "payments for ecosystem services", "definition": "Money paid to land users to protect nature that benefits others."}],
     "fit": "Shows how a sample paper would be connected to your field.",
     "relevance": 4,
+    "thesis": {"why": "[SAMPLE] Compare ecological supply with actual benefits in urban planning.",
+               "action": "[SAMPLE] Check whether the measurement would transfer to Kabul.", "relationship": "context"},
+    "critical": {"question": "[SAMPLE] Does this measure ecological supply or realised benefits?",
+                 "evidence": "[SAMPLE] The abstract describes land cover rather than use by residents.",
+                 "limit": "[SAMPLE] The full measurement protocol is not supplied.",
+                 "check": "[SAMPLE] Read the methods and validation before drawing a conclusion."},
 }
 
 RSS = [
     {"title": "[SAMPLE] EU delays deforestation rules by another year - Example News", "link": "https://example.org/n1",
-     "date": "2026-10-27", "source": "Example News", "desc": ""},
+     "date": "2026-10-27", "source": "Example News", "desc": "", "scope": "EU"},
     {"title": "[SAMPLE] Call for abstracts: Ecosystem Services Conference 2027 - Example Society", "link": "https://example.org/n2",
-     "date": "2026-10-26", "source": "Example Society", "desc": ""},
+     "date": "2026-10-26", "source": "Example Society", "desc": "", "scope": "Germany"},
     {"title": "[SAMPLE] New funding call for biodiversity research in Africa - Example Funder", "link": "https://example.org/n3",
-     "date": "2026-10-25", "source": "Example Funder", "desc": ""},
+     "date": "2026-10-25", "source": "Example Funder", "desc": "", "scope": "World"},
 ]
 
 RELEASE = {"tag_name": "v9.9.9-sample", "name": "Sample release", "published_at": "2026-10-20T10:00:00Z",

@@ -76,12 +76,12 @@ def iso_week(d: dt.date) -> str:
 
 
 # --------------------------------------------------------------------------- HTTP
-def http_get(url, params=None, headers=None, retries=4):
+def http_get(url, params=None, headers=None, retries=4, timeout=40):
     h = {"User-Agent": UA, **(headers or {})}
     last = None
     for i in range(retries):
         try:
-            r = requests.get(url, params=params, headers=h, timeout=40)
+            r = requests.get(url, params=params, headers=h, timeout=timeout)
             if r.status_code in (429, 500, 502, 503, 504):
                 last = RuntimeError(f"HTTP {r.status_code} from {url}")
                 time.sleep(2 ** i * 3)
@@ -98,8 +98,8 @@ def http_json(url, params=None, headers=None):
     return http_get(url, params, headers).json()
 
 
-def http_text(url, params=None, headers=None):
-    return http_get(url, params, headers).text
+def http_text(url, params=None, headers=None, retries=4, timeout=40):
+    return http_get(url, params, headers, retries=retries, timeout=timeout).text
 
 
 # --------------------------------------------------------------------------- LLM
@@ -174,7 +174,16 @@ def llm_json(prompt: str, mock=None, temperature: float = 0.3, system: str = SYS
     for m in models:
         for _ in range(2):  # second try covers malformed JSON
             try:
-                return _gemini(m, prompt, system, temperature)
+                result = _gemini(m, prompt, system, temperature)
+                if isinstance(result, dict):
+                    return result
+                template = mock() if callable(mock) else mock
+                if isinstance(result, list) and isinstance(template, dict):
+                    if len(template) == 1 and isinstance(next(iter(template.values())), list):
+                        return {next(iter(template)): result}
+                    if len(result) == 1 and isinstance(result[0], dict):
+                        return result[0]
+                raise json.JSONDecodeError("Expected a JSON object matching the requested fields", str(result), 0)
             except json.JSONDecodeError as e:
                 err = e
             except RuntimeError as e:

@@ -36,20 +36,28 @@
 </style>
 </head>
 <body>
-<header><h1>Field Mastery</h1><div class="sub" id="sub"></div></header>
+<header><h1>Field Mastery</h1><div class="sub" id="sub"></div><button class="btn alt" id="refresh">Refresh content</button><div id="health" role="status"></div></header>
 <nav id="nav"></nav>
 <main id="main"></main>
 <script>
 "use strict";
-const SECTIONS=[["today","Today"],["radar","Radar"],["learn","Learn"],["recall","Recall"],["people","People"],["tools","Tools"],["debates","Debates"],["defense","Defense"],["map","Map"],["weekly","Week"]];
+const SECTIONS=[["today","Today"],["germany","Germany"],["eu","EU"],["radar","Radar"],["learn","Learn"],["recall","Recall"],["challenges","Challenges"],["defense","Defense"],["world","World week"],["reading","Read this week"],["path","Learning path"],["people","People"],["tools","Tools"],["debates","Debates"],["map","Map"],["weekly","Week"],["status","Update status"]];
 const cache={};
+const offline=new Set();
 function el(tag,attrs,...kids){const e=document.createElement(tag);for(const[k,v]of Object.entries(attrs||{})){if(k==="class")e.className=v;else if(k.startsWith("on"))e.addEventListener(k.slice(2),v);else e.setAttribute(k,v)}for(const c of kids.flat()){if(c==null||c===false)continue;e.append(c.nodeType?c:document.createTextNode(String(c)))}return e}
 function safeUrl(u){try{const x=new URL(u,location.href);return(x.protocol==="https:"||x.protocol==="http:")?x.href:null}catch{return null}}
 function link(u,label){const s=safeUrl(u);return s?el("a",{href:s,target:"_blank",rel:"noopener"},label):null}
-async function load(name){if(name in cache)return cache[name];try{const r=await fetch(`data/${name}.json?t=${Date.now()}`);if(!r.ok)throw 0;cache[name]=await r.json()}catch{cache[name]=null}return cache[name]}
+async function load(name){if(name in cache)return cache[name];try{const r=await fetch(`data/${name}.json?t=${Date.now()}`);if(!r.ok)throw 0;cache[name]=await r.json();try{localStorage.setItem("fm_feed_"+name,JSON.stringify(cache[name]))}catch{}}catch{try{cache[name]=JSON.parse(localStorage.getItem("fm_feed_"+name))}catch{cache[name]=null}if(cache[name])offline.add(name)}return cache[name]}
 const store={get(k,d){try{return JSON.parse(localStorage.getItem("fm_"+k))??d}catch{return d}},set(k,v){try{localStorage.setItem("fm_"+k,JSON.stringify(v))}catch{}}};
 const empty=t=>el("div",{class:"empty"},t||"Nothing here yet - it fills after the first daily run.");
 const list=a=>el("ul",{},(a||[]).map(x=>el("li",{},x)));
+const STAGES={proposal:"Proposal",adopted:"Adopted — check effective date",in_force:"In force — reported by source",unknown:"Status unverified — check original",not_applicable:"Not a legal update"};
+const source=s=>el("div",{class:"meta"},[s?.venue||s?.title,s?.date,s?.basis].filter(Boolean).join(" · ")," ",link(s?.url,"Open original source"));
+function news(i){return el("article",{class:"card"},el("span",{class:"tag"},i.scope||"World"),el("span",{class:"tag"},i.category),el("h3",{},i.title),
+ el("p",{},el("b",{},"What changed: "),i.one_liner),el("p",{},el("b",{},"Why it matters: "),i.why),
+ el("p",{},el("b",{},"Suggested next step: "),i.action||"Read the original source before acting."),
+ el("div",{class:"banner"},STAGES[i.status||"unknown"],i.status_evidence?el("blockquote",{},i.status_evidence):null),
+ source({title:i.source,date:i.date,basis:i.basis||"headline only",url:i.url}));}
 
 const views={
 async today(){const d=await load("today");if(!d)return empty();const saved=store.get("saved",{});
@@ -60,6 +68,7 @@ async today(){const d=await load("today");if(!d)return empty();const saved=store
     el("h3",{},p.headline||p.title),
     el("div",{class:"meta"},[p.source.venue,p.source.date,p.source.open_access?"open access":"paywalled?","based on abstract"].filter(Boolean).join(" · ")),
     list(p.bullets),
+    p.thesis?.why?el("div",{class:"banner"},el("b",{},"Your PhD: "),p.thesis.why,el("p",{},el("b",{},"Suggested next step: "),p.thesis.action)):null,
     el("details",{},el("summary",{},"In plain words"),
       ["question","method","finding","why"].map(k=>p.plain?.[k]?el("p",{},el("span",{class:"k"},{question:"Question: ",method:"What they did: ",finding:"What they found: ",why:"Why it matters: "}[k]),p.plain[k]):null)),
     el("details",{},el("summary",{},"Full explainer"),
@@ -72,25 +81,27 @@ async today(){const d=await load("today");if(!d)return empty();const saved=store
   )),
   d.more?.length?el("div",{class:"card"},el("h3",{},"Also new"),list(d.more.map(m=>el("span",{},link(m.url,m.title)," ",el("span",{class:"meta"},m.venue))))):null);},
 
-async radar(){const d=await load("radar");if(!d)return empty();
+async germany(){return views.radar("Germany")},
+async eu(){return views.radar("EU")},
+async radar(scope){const d=await load("radar");if(!d)return empty("Radar has no successful update yet. See Update status for details.");
+ const items=(d.items||[]).filter(i=>!scope||i.scope===scope);
  return el("div",{},
-  d.events?.length?el("div",{class:"card"},el("h3",{},"Deadlines & events"),list(d.events.map(e=>`${e.days_left} days: ${e.kind} - ${e.name} (${e.date})`))):null,
-  (d.items||[]).map(i=>el("div",{class:"card"},
-    el("span",{class:"tag"+(i.urgency>=3?" u3":"")},i.category),el("b",{},i.title),
-    el("p",{},i.one_liner),el("p",{class:"meta"},"Why it matters: "+i.why),
-    el("div",{class:"meta"},[i.source,i.date,"based on headline only - open to verify"].filter(Boolean).join(" · ")),link(i.url,"Open"))));},
+  !scope&&d.events?.length?el("div",{class:"card"},el("h3",{},"Deadlines & events"),list(d.events.map(e=>el("span",{},`${e.days_left} days: ${e.kind} - ${e.name} (${e.date}) `,link(e.url,"Source"))))):null,
+  items.length?items.map(news):empty(`No selected ${scope||"Radar"} news available. This does not mean nothing happened.`),
+  el("p",{class:"meta"},d.note||"Selected sources, not comprehensive coverage. Verify original documents before acting."));},
 
 async learn(){const d=await load("learn");if(!d)return empty();
  return el("div",{},(d.lessons||[]).map(l=>el("div",{class:"card"},el("span",{class:"tag"},l.area),el("h3",{},l.term),
   el("p",{},el("span",{class:"k"},"In one line: "),l.definition),el("p",{},l.plain),
   l.example?el("p",{},el("span",{class:"k"},"Example: "),l.example):null,l.connects?el("p",{},el("span",{class:"k"},"Connects to: "),l.connects):null,
-  el("div",{class:"meta"},"Find sources: ",link("https://scholar.google.com/scholar?q="+encodeURIComponent(l.search),l.search)))),
-  el("div",{class:"meta"},`Concepts learned so far: ${d.total_learned}`));},
+  el("div",{class:"meta"},"Find sources: ",link("https://scholar.google.com/scholar?q="+encodeURIComponent(l.search),l.search)),
+  l.why_phd?el("p",{},el("b",{},"Why this matters for your PhD: "),l.why_phd):null)),
+  el("div",{class:"meta"},`Lessons introduced so far: ${d.total_learned}. Stage: ${d.path?.stage||"Foundation"}. This is not a mastery score.`));},
 
 async recall(){const arch=await load("learn_archive");if(!arch?.length)return empty("No questions yet.");
  const srs=store.get("srs",{}),GAP=[0,1,2,4,8,16,32],now=Date.now();
  const cards=arch.flatMap(l=>(l.quiz||[]).map((q,i)=>({id:l.id+":"+i,term:l.term,...q})));
- const due=cards.filter(c=>!srs[c.id]||srs[c.id].due<=now).slice(0,10);
+ const due=cards.filter(c=>!srs[c.id]||srs[c.id].due<=now).sort((a,b)=>(srs[a.id]?.box??2)-(srs[b.id]?.box??2)||(srs[a.id]?.due??0)-(srs[b.id]?.due??0)).slice(0,10);
  const box=el("div");let i=0;
  const rate=(c,ok)=>{const b=ok?Math.min(6,(srs[c.id]?.box||0)+1):1;srs[c.id]={box:b,due:now+GAP[b]*864e5};store.set("srs",srs);i++;show()};
  function show(){box.replaceChildren();if(i>=due.length){box.append(el("div",{class:"card"},el("h3",{},"All done for now"),el("p",{},`Reviewed ${due.length}. ${cards.filter(c=>srs[c.id]).length}/${cards.length} cards in your deck.`)));return}
@@ -115,7 +126,8 @@ async debates(){const d=await load("debates");if(!d?.current)return empty();cons
 
 async defense(){const d=await load("defense");if(!d||d.enabled===false||!d.today)return empty("Defense Coach is off or has no questions yet.");const q=d.today;
  return el("div",{},el("div",{class:"card"},el("span",{class:"tag"},q.type),el("div",{class:"meta"},q.scope),el("h3",{},q.q),
-  el("details",{},el("summary",{},"How to structure a strong answer"),list(q.outline),el("p",{},el("span",{class:"k"},"Pitfall: "),q.pitfall))),
+  el("details",{},el("summary",{},"How to structure a strong answer"),list(q.outline),el("p",{},el("span",{class:"k"},"Pitfall: "),q.pitfall),
+   el("h3",{},"A tougher follow-up"),el("p",{},q.follow_up||"What evidence would change your answer?"),el("p",{},el("b",{},"Evidence to bring: "),q.bring),el("h3",{},"Assess your spoken answer"),list(q.self_check)),el("p",{class:"meta"},d.basis||"Practice based on configured study themes; no unpublished results supplied.")),
   el("div",{class:"meta"},`Question ${d.asked} of ${d.bank_total} in this cycle. Say your answer out loud first, then compare. Outlines are scaffolds, not facts about your data.`));},
 
 async map(){const m=await load("map");if(!m)return empty();const srs=store.get("srs",{}),arch=(await load("learn_archive"))||[];
@@ -125,25 +137,41 @@ async map(){const m=await load("map");if(!m)return empty();const srs=store.get("
   el("div",{class:"meta"},"Mastered = answered correctly several times in a row on this device."));},
 
 async weekly(){const d=await load("weekly");if(!d)return empty("The weekly review is created on the day set in config.yaml.");
- return el("div",{class:"card"},el("span",{class:"tag"},d.week),el("h3",{},"This week in your field"),list(d.themes),el("p",{},el("span",{class:"k"},"Studied: "),d.learned),
+ return el("div",{class:"card"},el("span",{class:"tag"},d.week),el("h3",{},d.partial?"Initial review — week so far":"This week in your field"),list(d.themes),el("p",{},el("span",{class:"k"},"Introduced: "),d.learned),
   el("span",{class:"k"},"Next week"),list(d.next),el("div",{class:"meta"},`${d.counts.papers} papers · ${d.counts.radar} radar items · ${d.counts.lessons} lessons`));}
 };
 
+views.challenges=async()=>{const d=await load("today");const items=(d?.items||[]).filter(p=>p.critical?.question);return items.length?el("div",{},el("p",{class:"meta"},"Questions prompted by paper abstracts. A limitation or open question is not proof that a paper contradicts your thesis."),items.map(p=>el("article",{class:"card"},el("h3",{},p.critical.question),el("p",{},el("b",{},"Evidence: "),p.critical.evidence),el("p",{},el("b",{},"What remains uncertain: "),p.critical.limit),el("p",{},el("b",{},"Verify: "),p.critical.check),source({...p.source,title:p.title})))):empty("Challenges appear with the next newly generated paper summaries.")};
+views.world=async()=>{const d=await load("briefing");return d?.world?.length?el("div",{},el("p",{class:"meta"},`Briefing ${d.date}. ${d.coverage||"Coverage limited to collected sources."}`),d.world.map(i=>el("article",{class:"card"},el("span",{class:"tag"},i.region),el("h3",{},i.what),el("p",{},el("b",{},"Why it matters: "),i.why),el("p",{},el("b",{},"Suggested next step: "),i.action),source(i.source)))):empty("No source-backed weekly world briefing yet. The next successful digest will try to create one.")};
+views.reading=async()=>{const d=await load("briefing"),r=d?.reading;return r?el("article",{class:"card"},el("span",{class:"tag"},`Reading pick · ${d.date}`),el("h3",{},r.title),el("p",{},r.why),el("h3",{},"Read with these questions"),list(r.questions),el("p",{},el("b",{},"Verify in the full paper: "),r.check),source(r.source),el("p",{class:"meta"},"Selection based on an abstract; the app has not reviewed the full paper.")):empty("A weekly reading pick appears when a paper is available.")};
+views.path=async()=>{const d=await load("learn"),archive=(await load("learn_archive"))||[],srs=store.get("srs",{});const weak=archive.filter(l=>(l.quiz||[]).some((_,i)=>srs[l.id+":"+i]?.box===1));return el("div",{},el("article",{class:"card"},el("h3",{},`Your learning path: ${d?.path?.stage||"Foundation"}`),list(d?.path?.stages||["Foundation: understand concepts","Developing: compare methods","Advanced: evaluate evidence and defend choices"]),el("p",{},d?.path?.note||"Progress counts lessons introduced, not mastery.")),el("article",{class:"card"},el("h3",{},"Coming up"),list(d?.path?.next_topics)),el("article",{class:"card"},el("h3",{},"Revisit on this device"),weak.length?list(weak.slice(-8).map(l=>el("span",{},el("b",{},l.term+": "),l.definition," ",link("https://scholar.google.com/scholar?q="+encodeURIComponent(l.search||l.term),"Find sources")))):el("p",{},"Recall will show which topics need practice. Phone and glasses progress are stored separately.")))};
+views.status=async()=>{const m=await load("meta"),r=await load("radar");return el("div",{},el("article",{class:"card"},el("h3",{},"Content updates"),el("p",{},`Last digest: ${m?.generated_at||"unknown"}. Scheduled daily at 04:30 UTC; weekly sections normally refresh on Sundays.`),el("p",{},"Refresh to check the website for new content. Saved copies may be shown when the network is unavailable.")),Object.entries(m?.status||{}).map(([name,s])=>el("article",{class:"card"},el("h3",{},name),el("p",{},`State: ${s.state}; content date: ${s.date||"not supplied"}`),s.error?el("p",{class:"banner warn"},"Update failed. Previous content may be shown. "+s.error):null)),r?.sources?.failed?.length?el("div",{class:"banner warn"},`${r.sources.failed.length} Radar sources could not be fetched. Coverage is incomplete.`):null)};
+
 const nav=document.getElementById("nav"),main=document.getElementById("main");
+let renderId=0;
 async function go(name){
+  const requestId=++renderId;
   for(const b of nav.children)b.setAttribute("aria-current",b.dataset.s===name);
   main.replaceChildren(el("div",{class:"empty"},"Loading..."));
-  const v=await views[name]();main.replaceChildren(v);history.replaceState(null,"","#"+name);
+  const v=await views[name]();const m=await load("meta");const key={germany:"radar",eu:"radar",world:"briefing",reading:"briefing",path:"learn",challenges:"today",recall:"learn"}[name]||name;const s=m?.status?.[key];
+  const notice=s?el("div",{class:"banner"+(s.state==="error"||s.state==="partial"?" warn":"")},`Content date: ${s.date||"not supplied"} · ${s.state}${offline.has(key)?" · saved offline copy":""}`,s.state==="error"?" — failed to refresh; previous data may be shown":""):null;
+  if(requestId!==renderId)return;
+  main.replaceChildren(...[notice,v].filter(Boolean));history.replaceState(null,"","#"+name);
 }
 for(const[s,l]of SECTIONS)nav.append(el("button",{"data-s":s,onclick:()=>go(s)},l));
-(async()=>{
+async function initialise(){
   const meta=await load("meta");const sub=document.getElementById("sub");
   if(meta){sub.textContent=`${meta.field||""} · updated ${meta.generated_at}`;
     const b=[];if(meta.sample)b.push(el("div",{class:"banner"},"Sample data. Real content appears after the first daily run."));
     if(meta.errors&&Object.keys(meta.errors).length)b.push(el("div",{class:"banner warn"},"Some sections failed today: "+Object.keys(meta.errors).join(", ")+". Yesterday's data is shown."));
-    document.querySelector("header").append(...b)}
-  go(SECTIONS.some(s=>s[0]===location.hash.slice(1))?location.hash.slice(1):"today");
-})();
+    const age=(Date.now()-Date.parse(meta.generated_at+"T00:00:00Z"))/864e5;
+    if(age>2)b.push(el("div",{class:"banner warn"},"The published digest is over two days old. Check Update status and the GitHub daily run."));
+    if(offline.size)b.push(el("div",{class:"banner warn"},"Some content is a saved offline copy."));
+    document.getElementById("health").replaceChildren(...b)}
+  await go(SECTIONS.some(s=>s[0]===location.hash.slice(1))?location.hash.slice(1):"today");
+}
+document.getElementById("refresh").addEventListener("click",async e=>{e.target.disabled=true;for(const k of Object.keys(cache))delete cache[k];offline.clear();try{await initialise()}finally{e.target.disabled=false}});
+initialise();
 </script>
 </body>
 </html>

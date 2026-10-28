@@ -4,8 +4,35 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Field Mastery</title>
+    <style>
+      :root { font-family: system-ui, sans-serif; color: #18352e; background: #f1f5f2; }
+      body { max-width: 680px; margin: auto; padding: 24px 18px; }
+      h1 { margin-bottom: 4px; } #status { color: #52665d; }
+      article { background: white; padding: 20px; border: 1px solid #d3dfd8; border-radius: 14px; margin: 20px 0; }
+      h2 { font-size: 16px; overflow-wrap: anywhere; }
+      pre { white-space: pre-wrap; overflow-wrap: anywhere; font: inherit; line-height: 1.6; }
+      nav, #sections { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0; }
+      button, a { font: inherit; } button { background: #205b47; color: white; border: 0; border-radius: 8px; padding: 12px 16px; cursor: pointer; }
+      button:disabled { opacity: .5; } a { color: #205b47; }
+    </style>
   </head>
   <body>
+    <h1>Field Mastery</h1>
+    <p id="status" role="status">Connecting to your glasses…</p>
+    <button id="refresh">Refresh content</button>
+    <article aria-live="polite">
+      <h2 id="screen-title">Your daily research</h2>
+      <pre id="screen-body">Loading your digest…</pre>
+    </article>
+    <nav aria-label="Glasses controls">
+      <button data-action="previous" disabled>Previous</button>
+      <button data-action="tap" disabled>Tap / Open</button>
+      <button data-action="next" disabled>Next</button>
+      <button data-action="menu" disabled>Menu</button>
+    </nav>
+    <div id="sections" aria-label="Research sections"></div>
+    <p>On your glasses: swipe to move, tap to open, double-tap to return to the menu.</p>
+    <p><a id="reader-link" href="https://ansarireza.github.io/Field-Mastery/" target="_blank" rel="noopener">Open the full phone reader</a></p>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

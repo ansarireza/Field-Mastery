@@ -1,7 +1,7 @@
 {
   "package_id": "com.fieldmastery.digest",
   "name": "Field Mastery",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "edition": "202601",
   "min_sdk_version": "0.0.12",
   "entrypoint": "index.html",
@@ -9,8 +9,12 @@
     {
       "name": "network",
       "desc": "Downloads your daily research digest from your own GitHub Pages site.",
-      "whitelist": ["https://YOUR-USERNAME.github.io"]
+      "whitelist": [
+        "https://ansarireza.github.io"
+      ]
     }
   ],
-  "supported_languages": ["en"]
+  "supported_languages": [
+    "en"
+  ]
 }

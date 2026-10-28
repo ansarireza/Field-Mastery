@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: daily-digest
@@ -45,3 +46,9 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      # Bot commits do not trigger the normal branch-based Pages deployment.
+      - name: Publish updated research website
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"

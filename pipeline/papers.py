@@ -124,6 +124,10 @@ def digest_one(work: dict, prof: dict, cfg: dict) -> dict:
     prompt = f"""A PhD student working on "{prof.get('field_summary')}" wants to understand this new paper.
 Their level: {cfg.get('level', 'intermediate')}. Explain as to a smart person new to this sub-topic.
 Use ONLY the title and abstract below.
+Study context (not evidence about the paper): {cfg.get('research_question')}.
+Methods the student is preparing to defend: {cfg.get('defense', {}).get('methods', '')}.
+Never invent the student's findings. Separate an actual conflicting finding from
+a possible limitation, a transferable method, or an unanswered question.
 
 Title: {work['title']}
 Journal: {work['venue'] or 'unknown'}   Date: {work['date']}
@@ -138,6 +142,13 @@ Return JSON with exactly these keys (respect the character limits):
 - "jargon": up to 4 objects {{"term", "definition"}} (definition max 100 chars) for technical terms in the abstract
 - "fit": max 140 chars - how this connects to the field "{prof.get('field_summary')}"
 - "relevance": integer 1-5 (5 = a must-read for this field)
+- "thesis": {{"why": max 180 chars connecting to the student's research,
+  "action": max 140 chars suggesting a useful reading or checking step,
+  "relationship": "supports|challenges|method|context|unclear" (use unclear when no thesis claim is supplied)}}
+- "critical": {{"question": max 160 chars a fair examiner challenge prompted by this abstract,
+  "evidence": max 220 chars explaining exactly what in the abstract motivates it,
+  "limit": max 160 chars on what cannot be established from the abstract,
+  "check": max 140 chars telling the student what to verify in the full paper}}
 """
     d = llm_json(prompt, mock=mock_data.DIGEST)
     d["headline"] = clip(d.get("headline", work["title"]), 70)
@@ -171,6 +182,8 @@ def run(cfg: dict, prof: dict) -> dict:
                 "explainer": d.get("explainer", ""), "caveats": d.get("caveats", []),
                 "jargon": d.get("jargon", []), "fit": d.get("fit", ""),
             },
+            "thesis": d.get("thesis") if isinstance(d.get("thesis"), dict) else {},
+            "critical": d.get("critical") if isinstance(d.get("critical"), dict) else {},
             "relevance": d.get("relevance", 3), "watch": w.get("watch"),
             "source": {"url": w["url"], "doi": w["doi"], "venue": w["venue"], "date": w["date"],
                        "authors": w["authors"], "n_authors": w["n_authors"], "open_access": w["oa"],

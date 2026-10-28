@@ -4,6 +4,12 @@ A free, automatic study-and-news assistant for your PhD field, readable on your 
 
 Every day it finds new papers, explains them in simple language, tracks regulations / funding / conferences, teaches you two small concepts, quizzes you, introduces a researcher of the week, follows software releases, argues one open debate per week, and asks you one likely defense question.
 
+Version 0.2 adds Germany/EU monitoring, a weekly world briefing and reading pick,
+paper-based examiner challenges, research relevance and next steps, defence
+follow-ups, a learning path, and update-status screens. See [UPDATE-NOTES.md](UPDATE-NOTES.md)
+for the update process and evidence limits. Existing users only need the changed
+source files and the new glasses build; no new accounts or API keys are needed.
+
 **Cost: 0.** GitHub (hosting and daily schedule), Google Gemini free tier (AI), OpenAlex free key (papers).
 
 ## What you get
@@ -59,7 +65,12 @@ npm install
 npm run dev                                 # in a second terminal: evenhub-simulator http://localhost:5173
 ```
 To try it on the real glasses: install the Even Hub tooling per the Even docs, then `evenhub qr --url "http://<your-computer-LAN-IP>:5173"` and scan the QR with the Even Realities app (Scan QR).
-To keep it permanently on your glasses without your computer: `npm run build`, then `evenhub pack app.json dist` and upload the resulting file as a **private build** in the developer portal (no store review needed).
+To package an installation: `npm run build`, then `evenhub pack app.json dist -o field-mastery.ehpk`.
+Upload a new version with `evenhub upload field-mastery.ehpk -m "Describe the update"`.
+A private build launches through the phone. For direct glasses-menu access,
+promote the build to beta with `evenhub promote 0.2.0 --to beta` and install it
+as an active beta tester. The phone remains connected; public store publication
+is not needed for personal beta use.
 
 **Controls on the glasses:** swipe down = next page, swipe up = previous page, tap = next card (skips the detail pages), double-tap = back to menu, double-tap on the menu = exit. In Recall: tap shows the answer, swipe down = "got it", swipe up = "again". If swiping feels reversed, set `INVERT_SWIPE = true` in `glasses/src/config.ts`.
 
