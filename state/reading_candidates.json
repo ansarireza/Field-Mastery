@@ -195,5 +195,214 @@
    "open_access": false,
    "basis": "abstract"
   }
+ },
+ {
+  "id": "W7223091296",
+  "title": "Assessing urban growth dynamics in Cooch Behar city using the Shannon entropy model",
+  "headline": "Cooch Behar grew outward, not more compact",
+  "bullets": [
+   "Used satellite images and entropy models across wards, rings, and sectors.",
+   "Built-up area grew 180.36%, but entropy showed more even distribution, not compactness.",
+   "Separating growth size, composition, and dispersion prevents misinterpreting data."
+  ],
+  "plain": {
+   "question": "How did Cooch Behar city grow from 1990 to 2022?",
+   "method": "Classified satellite pictures and measured how spread out the buildings were.",
+   "finding": "The city got much bigger and buildings spread out more evenly across areas.",
+   "why": "It shows that just looking at a spread-out score can trick you into thinking a city is compact."
+  },
+  "full": {
+   "explainer": "Researchers studied how Cooch Behar City in India grew between 1990 and 2022 using satellite images. They wanted to fix a common mistake where people think urban spread always means the city is becoming more compact. To do this, they measured absolute building growth alongside math tools like the Shannon entropy model across different zones, rings, and directions. They also ran checks to make sure their results were stable. The data showed that built-up land increased by over 180 percent. However, the entropy scores and other metrics revealed that the buildings were just spreading out more evenly across different wards rather than becoming tightly packed or filling in empty spaces. The study concludes that you cannot use an entropy score by itself to claim a city is getting more compact or filling in empty gaps.",
+   "caveats": [
+    "The absence of independent validation for 1990 and 2006 makes historical change estimates provisional.",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Shannon entropy",
+     "definition": "A mathematical formula used here to measure how spread out or scattered built-up areas are."
+    },
+    {
+     "term": "Maximum-likelihood classification",
+     "definition": "A computer method to sort pixels in satellite images into land types like buildings or plants."
+    },
+    {
+     "term": "Gini coefficient",
+     "definition": "A statistical measure usually used for wealth inequality, applied here to test land distribution."
+    },
+    {
+     "term": "Perturbation analysis",
+     "definition": "Testing how much results change when you deliberately add small errors or changes to the data."
+    }
+   ],
+   "fit": "It tests land-cover change, spatial metrics, and accuracy checks relevant to urban growth analysis."
+  },
+  "thesis": {
+   "why": "It provides a clear methodological example for measuring land-cover change and spatial dispersion while avoiding common mistakes in interpreting urban growth statistics.",
+   "action": "Check how the study handles spatial accuracy testing across multiple historical periods.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How can historical change be reliable without independent validation for the 1990 and 2006 data?",
+   "evidence": "The abstract explicitly states that the absence of independent validation for 1990 and 2006 makes historical change estimates provisional.",
+   "limit": "One cannot establish definitive historical growth trends without independent validation for all studied epochs.",
+   "check": "Verify what historical validation data or proxy records the authors used to support the 1990 and 2006 maps."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.1007/s44327-026-00383-0",
+   "doi": "https://doi.org/10.1007/s44327-026-00383-0",
+   "venue": "Discover Cities",
+   "date": "2026-10-21",
+   "authors": [
+    "Saddam Hossain",
+    "Md Khurshid Alam",
+    "Nazrul Islam"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223117669",
+  "title": "Global forest typology at 10-meter resolution for forest and land-use monitoring",
+  "headline": "New 10m global forest typology map created",
+  "bullets": [
+   "Built a global 10m forest typology dataset for 2020 using deep learning and satellite data.",
+   "Achieved 90.2% overall accuracy across six land categories based on 8,190 validation sites.",
+   "Enables better carbon accounting, biodiversity tracking, and supply-chain regulation."
+  ],
+  "plain": {
+   "question": "Can we map different types of forests globally at a very high resolution?",
+   "method": "Used a deep learning computer model trained on satellite data and millions of samples.",
+   "finding": "Created a map that tells apart different forest types with high accuracy.",
+   "why": "This helps track carbon, biodiversity, and land use much better than before."
+  },
+  "full": {
+   "explainer": "Understanding the difference between primary forests, regrowing forests, planted forests, and tree crops is vital for tracking carbon, protecting biodiversity, and following laws like the EU Deforestation Regulation. Until now, no global dataset showed these specific forest types at a high resolution. To solve this, researchers created the Forest Typology (ForTy) v1 dataset. It provides a global baseline map for the year 2020 at a ten-meter resolution, breaking all land into six clear categories. To build it, the team used a cascaded deep learning computer system trained on 1.7 million worldwide samples. This system combined learning from weakly labeled data and active learning to produce confidence maps from satellite data. When tested against more than 8,000 expert-checked sites, the map showed high overall accuracy, proving it is a strong tool for global forest and land-use monitoring.",
+   "caveats": [
+    "Not stated whether the dataset is updated for years after 2020.",
+    "Not stated how local-scale urban or fragmented patches perform compared to broad regions."
+   ],
+   "jargon": [
+    {
+     "term": "Forest typology",
+     "definition": "A system of classifying forests into distinct categories based on their origin and use."
+    },
+    {
+     "term": "Deep learning pipeline",
+     "definition": "A series of advanced computer algorithms modeled on the human brain to process complex data."
+    },
+    {
+     "term": "Geospatial satellite embeddings",
+     "definition": "Numerical representations of satellite imagery used by computer models to understand landscapes."
+    }
+   ],
+   "fit": "Provides a high-resolution land-cover baseline for land-change monitoring and habitat quality assessments."
+  },
+  "thesis": {
+   "why": "Provides a high-resolution 10-meter land-cover baseline map that can inform land-cover change analysis and habitat quality modeling.",
+   "action": "Check if the 2020 global forest typology dataset covers your study area at sufficient local detail.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How well does a global 10-meter model perform in fragmented urban or peri-urban environments?",
+   "evidence": "The abstract reports high global accuracy (90.2%) across 8,190 stratified random sites, but does not break down urban or fringe performance.",
+   "limit": "We cannot establish whether the dataset accurately captures small green spaces or tree crops inside dense urban settings.",
+   "check": "Review the full paper's validation data for peri-urban areas and tree crops near cities."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.1038/s41597-026-08299-5",
+   "doi": "https://doi.org/10.1038/s41597-026-08299-5",
+   "venue": "Scientific Data",
+   "date": "2026-10-21",
+   "authors": [
+    "Maxim Neumann",
+    "Anton Raichuk",
+    "Peter V. Potapov",
+    "Myroslava Lesiv",
+    "Matthew Overlan",
+    "Mélanie Rey"
+   ],
+   "n_authors": 21,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223097569",
+  "title": "Wheat in Crisis: Variability of Wheat Area in Lebanon 2017–2025",
+  "headline": "Lebanese wheat farming drops due to crises",
+  "bullets": [
+   "Mapped Lebanese wheat area from 2017 to 2025 using satellite images and machine learning.",
+   "Found wheat area changed with economic subsidies, dollarization, and conflict impacts.",
+   "Shows the critical need for ground-truth data alongside satellite crop mapping."
+  ],
+  "plain": {
+   "question": "How did crises in Lebanon affect where wheat was grown from 2017 to 2025?",
+   "method": "Used satellite images and computer maps to track wheat fields over several years.",
+   "finding": "Wheat farming grew at first, then crashed when subsidies dropped and conflict hit.",
+   "why": "It shows how economic trouble and war disrupt essential food production."
+  },
+  "full": {
+   "explainer": "This paper looks at how major crises affected wheat farming in Lebanon between 2017 and 2025. Wheat is a key food crop worldwide, but Lebanon faced overlapping economic, political, security, and climate problems. The researchers used satellite images and a computer classification tool to track changes in wheat farming over multiple seasons, achieving high accuracy. They found that wheat areas grew during 2019 to 2021, but dropped sharply when subsidies weakened and farming costs surged. Later, area rebounded briefly, but then dropped dramatically in 2023 to 2025 due to conflict with Israel and displacement that blocked access to fields. The authors conclude that ground-truth data, crop yields, and socio-economic metrics are all needed to fully understand changes in crop areas.",
+   "caveats": [
+    "The study focuses specifically on Lebanon and wheat crops.",
+    "Exact yield quantities are not stated in the abstract."
+   ],
+   "jargon": [
+    {
+     "term": "supervised classification",
+     "definition": "A computer method using human-labeled examples to categorize satellite images."
+    },
+    {
+     "term": "Random Forest",
+     "definition": "A machine learning algorithm that uses many decision trees for classification tasks."
+    },
+    {
+     "term": "Sentinel-2",
+     "definition": "Earth-observation satellites capturing high-resolution optical imagery."
+    },
+    {
+     "term": "ground-truth data",
+     "definition": "Information collected on location to check and verify satellite observations."
+    }
+   ],
+   "fit": "Connects via remote sensing and land-cover change methods, though focused on agriculture rather than urban ecosystem services."
+  },
+  "thesis": {
+   "why": "It demonstrates land-cover change analysis using satellite imagery and validation methods, which parallel spatial tracking in urban environments.",
+   "action": "Check how they handled land-cover accuracy assessment for your own remote sensing methods.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does satellite-based area estimation reliably capture agricultural changes during severe conflict?",
+   "evidence": "The abstract relies on Sentinel-2 imagery to link dramatic drops in crop area to displacement and conflict without direct ground-truth measurements in southern Lebanon.",
+   "limit": "It cannot establish actual food yield changes or direct causal socioeconomic links from satellite imagery alone.",
+   "check": "Verify how the random stratified sample accounted for inaccessible conflict zones during classification."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.1038/s44264-026-00184-3",
+   "doi": "https://doi.org/10.1038/s44264-026-00184-3",
+   "venue": "npj Sustainable Agriculture",
+   "date": "2026-10-21",
+   "authors": [
+    "Mariam Ibrahim",
+    "Ghaleb Faour",
+    "Michel Le Page",
+    "Marielle Montginoul",
+    "Ahmad Al Bitar",
+    "Bilal Komati"
+   ],
+   "n_authors": 7,
+   "open_access": true,
+   "basis": "abstract"
+  }
  }
 ]

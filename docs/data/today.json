@@ -1,73 +1,74 @@
 {
  "date": "2026-10-28",
  "summary": [
-  "Climate practices in Maputo show household housing changes and institutional infrastructure developments.",
-  "Governance gaps deny displaced populations their water and sanitation rights, increasing risks."
+  "Built-up area grew by 180.36% with more even distribution.",
+  "A new 10m global forest map achieved 90.2% accuracy.",
+  "Lebanese wheat farming drops due to economic crises."
  ],
  "items": [
   {
-   "id": "W7223662277",
-   "title": "Producing Adaptive Urban Space in Informal Settlements: Evidence from Maputo",
-   "headline": "Climate practices mapped in Maputo's informal areas",
+   "id": "W7223091296",
+   "title": "Assessing urban growth dynamics in Cooch Behar city using the Shannon entropy model",
+   "headline": "Cooch Behar grew outward, not more compact",
    "bullets": [
-    "Combined surveys, technical assessments, interviews, and mapping in Maputo informal areas.",
-    "Found housing changes were household-led while infrastructure was institutional or commercial.",
-    "Connects climate practices to socio-spatial domains via a new adaptive urban space concept."
+    "Used satellite images and entropy models across wards, rings, and sectors.",
+    "Built-up area grew 180.36%, but entropy showed more even distribution, not compactness.",
+    "Separating growth size, composition, and dispersion prevents misinterpreting data."
    ],
    "plain": {
-    "question": "How do people in informal neighborhoods shape their space to handle climate hazards like floods and heat?",
-    "method": "Studied six informal neighborhoods using household surveys, housing checks, interviews, and maps.",
-    "finding": "Households mostly fix up their own homes, while outsiders or companies provide basic urban services.",
-    "why": "Helps us see how different climate actions fit together across the whole city layout."
+    "question": "How did Cooch Behar city grow from 1990 to 2022?",
+    "method": "Classified satellite pictures and measured how spread out the buildings were.",
+    "finding": "The city got much bigger and buildings spread out more evenly across areas.",
+    "why": "It shows that just looking at a spread-out score can trick you into thinking a city is compact."
    },
    "full": {
-    "explainer": "Most past research on climate adaptation in informal settlements looks at single hazards or isolated projects, leaving gaps in how everyday actions fit together across the whole city. This paper looks at Maputo, Mozambique, to understand how people produce socio-spatial practices—such as housing changes, public space use, and road work—that relate to flooding, heavy rain, heat stress, and erosion. Using a mixed-methods design, the study examined six blocks in six informal neighborhoods with household surveys, technical housing checks, interviews, field observations, maps, and documents. The results show that households mostly drive their own home improvements, whereas basic services are built by institutions or businesses. Co-production—where residents and authorities work together—was clearest in specific public space and road upgrades. The paper introduces the concept of adaptive urban space to connect adaptive relevance, how things are made, and spatial areas, without claiming to measure exact adaptation success.",
+    "explainer": "Researchers studied how Cooch Behar City in India grew between 1990 and 2022 using satellite images. They wanted to fix a common mistake where people think urban spread always means the city is becoming more compact. To do this, they measured absolute building growth alongside math tools like the Shannon entropy model across different zones, rings, and directions. They also ran checks to make sure their results were stable. The data showed that built-up land increased by over 180 percent. However, the entropy scores and other metrics revealed that the buildings were just spreading out more evenly across different wards rather than becoming tightly packed or filling in empty spaces. The study concludes that you cannot use an entropy score by itself to claim a city is getting more compact or filling in empty gaps.",
     "caveats": [
-     "Adaptive capacity or adaptation effectiveness were not measured directly.",
-     "Not stated: quantitative measurements of hazard reduction outcomes."
+     "The absence of independent validation for 1990 and 2006 makes historical change estimates provisional.",
+     "Not stated"
     ],
     "jargon": [
      {
-      "term": "Informal settlements",
-      "definition": "Residential areas where housing is built outside official land use and legal frameworks."
+      "term": "Shannon entropy",
+      "definition": "A mathematical formula used here to measure how spread out or scattered built-up areas are."
      },
      {
-      "term": "Co-production",
-      "definition": "A process where residents and institutions participate together in planning or implementation."
+      "term": "Maximum-likelihood classification",
+      "definition": "A computer method to sort pixels in satellite images into land types like buildings or plants."
      },
      {
-      "term": "Socio-spatial practices",
-      "definition": "Human actions and behaviors that shape and are shaped by physical spaces and social structures."
+      "term": "Gini coefficient",
+      "definition": "A statistical measure usually used for wealth inequality, applied here to test land distribution."
      },
      {
-      "term": "Adaptive urban space",
-      "definition": "An analytical concept connecting adaptive relevance, production modes, and spatial domains."
+      "term": "Perturbation analysis",
+      "definition": "Testing how much results change when you deliberately add small errors or changes to the data."
      }
     ],
-    "fit": "Connects to informal settlements, climate hazards like heat and floods, and the Global South, offering context on local action modes."
+    "fit": "It tests land-cover change, spatial metrics, and accuracy checks relevant to urban growth analysis."
    },
    "thesis": {
-    "why": "It examines informal settlements, climate hazards like heat and flooding, and local production of space, echoing the social-ecological focus in the student's context.",
-    "action": "Check how the study defines and links housing transformation to physical environmental hazards.",
-    "relationship": "context"
+    "why": "It provides a clear methodological example for measuring land-cover change and spatial dispersion while avoiding common mistakes in interpreting urban growth statistics.",
+    "action": "Check how the study handles spatial accuracy testing across multiple historical periods.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "Does this qualitative framework actually reduce environmental risks, or just document human coping behaviors?",
-    "evidence": "The abstract states that practices range from directly evidenced interventions to potential functions, without measuring adaptation effectiveness.",
-    "limit": "You cannot establish whether these socio-spatial practices successfully lower physical flood levels or heat stress.",
-    "check": "Verify if the full paper provides empirical environmental measurements alongside the social survey data."
+    "question": "How can historical change be reliable without independent validation for the 1990 and 2006 data?",
+    "evidence": "The abstract explicitly states that the absence of independent validation for 1990 and 2006 makes historical change estimates provisional.",
+    "limit": "One cannot establish definitive historical growth trends without independent validation for all studied epochs.",
+    "check": "Verify what historical validation data or proxy records the authors used to support the 1990 and 2006 maps."
    },
    "relevance": 4,
-   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
    "source": {
-    "url": "https://doi.org/10.3390/buildings16214214",
-    "doi": "https://doi.org/10.3390/buildings16214214",
-    "venue": "Buildings",
-    "date": "2026-10-23",
+    "url": "https://doi.org/10.1007/s44327-026-00383-0",
+    "doi": "https://doi.org/10.1007/s44327-026-00383-0",
+    "venue": "Discover Cities",
+    "date": "2026-10-21",
     "authors": [
-     "Hazrat Bilale Salamagy",
-     "Fernando Brandão Alves",
-     "Clara Pimenta do Vale"
+     "Saddam Hossain",
+     "Md Khurshid Alam",
+     "Nazrul Islam"
     ],
     "n_authors": 3,
     "open_access": true,
@@ -75,130 +76,142 @@
    }
   },
   {
-   "id": "W7223288780",
-   "title": "Water, Displacement, and Legal Invisibility",
-   "headline": "Governance failures deny WASH access to the displaced",
+   "id": "W7223117669",
+   "title": "Global forest typology at 10-meter resolution for forest and land-use monitoring",
+   "headline": "New 10m global forest typology map created",
    "bullets": [
-    "Examined governance failures excluding climate-displaced people in informal settlements from WASH.",
-    "Found legal and institutional gaps deny displaced populations their water and sanitation rights.",
-    "Proposes a rights-based framework to ensure equitable and sustainable access to WASH services."
+    "Built a global 10m forest typology dataset for 2020 using deep learning and satellite data.",
+    "Achieved 90.2% overall accuracy across six land categories based on 8,190 validation sites.",
+    "Enables better carbon accounting, biodiversity tracking, and supply-chain regulation."
    ],
    "plain": {
-    "question": "Why do climate-displaced people in informal settlements lack proper water and sanitation?",
-    "method": "It uses ideas from international human rights law, climate governance, and urban planning.",
-    "finding": "Legal barriers, missing citizenship rights, and poor planning exclude them from formal services.",
-    "why": "We need a fairer system to make sure everyone gets safe water and sanitation."
+    "question": "Can we map different types of forests globally at a very high resolution?",
+    "method": "Used a deep learning computer model trained on satellite data and millions of samples.",
+    "finding": "Created a map that tells apart different forest types with high accuracy.",
+    "why": "This helps track carbon, biodiversity, and land use much better than before."
    },
    "full": {
-    "explainer": "As climate change causes more people to move, millions end up living in informal urban settlements. Sadly, these areas are often left out of official city plans, laws, and public services. This chapter looks closely at why climate-displaced populations struggle so much to get safe water, sanitation, and hygiene, which are often called WASH services. By looking at international human rights law, climate governance, and urban planning, the text points out several major problems. These include barriers related to citizenship and land ownership, overlapping or confused government duties, weaknesses in international laws about displaced people, and the fact that informal areas are ignored in national climate plans. Because of these combined failures, displaced people are routinely denied their right to basic water services. To fix this, the chapter suggests a new governance framework. This approach focuses on human rights, better teamwork among different government offices, holding leaders accountable in ways that consider overlapping social identities, and making legal reforms to guarantee fair and lasting water and sanitation access for everyone.",
+    "explainer": "Understanding the difference between primary forests, regrowing forests, planted forests, and tree crops is vital for tracking carbon, protecting biodiversity, and following laws like the EU Deforestation Regulation. Until now, no global dataset showed these specific forest types at a high resolution. To solve this, researchers created the Forest Typology (ForTy) v1 dataset. It provides a global baseline map for the year 2020 at a ten-meter resolution, breaking all land into six clear categories. To build it, the team used a cascaded deep learning computer system trained on 1.7 million worldwide samples. This system combined learning from weakly labeled data and active learning to produce confidence maps from satellite data. When tested against more than 8,000 expert-checked sites, the map showed high overall accuracy, proving it is a strong tool for global forest and land-use monitoring.",
     "caveats": [
-     "not stated"
+     "Not stated whether the dataset is updated for years after 2020.",
+     "Not stated how local-scale urban or fragmented patches perform compared to broad regions."
     ],
     "jargon": [
      {
-      "term": "WASH services",
-      "definition": "Services providing clean water, sanitation, and hygiene."
+      "term": "Forest typology",
+      "definition": "A system of classifying forests into distinct categories based on their origin and use."
      },
      {
-      "term": "informal settlements",
-      "definition": "Residential areas where housing has been built outside legal land use planning."
+      "term": "Deep learning pipeline",
+      "definition": "A series of advanced computer algorithms modeled on the human brain to process complex data."
      },
      {
-      "term": "legal invisibility",
-      "definition": "A status where populations lack legal recognition, rights, or protections from authorities."
+      "term": "Geospatial satellite embeddings",
+      "definition": "Numerical representations of satellite imagery used by computer models to understand landscapes."
      }
     ],
-    "fit": "Connects to informal settlements and planning challenges in the Global South, offering insights on institutional failures and rights."
+    "fit": "Provides a high-resolution land-cover baseline for land-change monitoring and habitat quality assessments."
    },
    "thesis": {
-    "why": "It highlights governance and institutional gaps in informal settlements, which connect to the student's interest in urban planning and vulnerable settlements.",
-    "action": "Check if the paper discusses practical WASH service integration alongside green-blue infrastructure.",
-    "relationship": "context"
+    "why": "Provides a high-resolution 10-meter land-cover baseline map that can inform land-cover change analysis and habitat quality modeling.",
+    "action": "Check if the 2020 global forest typology dataset covers your study area at sufficient local detail.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "How does this legal governance framework apply to physical environmental planning and water infrastructure?",
-    "evidence": "The abstract focuses on legal and institutional gaps like citizenship barriers and rights, but mentions water and sanitation access.",
-    "limit": "The abstract does not provide empirical data or specific spatial analyses regarding water supply or infrastructure location.",
-    "check": "Verify if the full text offers concrete planning solutions that connect with spatial water yield or infrastructure."
+    "question": "How well does a global 10-meter model perform in fragmented urban or peri-urban environments?",
+    "evidence": "The abstract reports high global accuracy (90.2%) across 8,190 stratified random sites, but does not break down urban or fringe performance.",
+    "limit": "We cannot establish whether the dataset accurately captures small green spaces or tree crops inside dense urban settings.",
+    "check": "Review the full paper's validation data for peri-urban areas and tree crops near cities."
    },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "relevance": 4,
+   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
    "source": {
-    "url": "https://doi.org/10.4018/979-8-3373-9360-5.ch008",
-    "doi": "https://doi.org/10.4018/979-8-3373-9360-5.ch008",
-    "venue": "IGI Global eBooks",
-    "date": "2026-10-23",
+    "url": "https://doi.org/10.1038/s41597-026-08299-5",
+    "doi": "https://doi.org/10.1038/s41597-026-08299-5",
+    "venue": "Scientific Data",
+    "date": "2026-10-21",
     "authors": [
-     "Mamta Singh",
-     "Vijeta Verma"
+     "Maxim Neumann",
+     "Anton Raichuk",
+     "Peter V. Potapov",
+     "Myroslava Lesiv",
+     "Matthew Overlan",
+     "Mélanie Rey"
     ],
-    "n_authors": 2,
-    "open_access": false,
+    "n_authors": 21,
+    "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7223331125",
-   "title": "Climate Change and Disaster Risk Dynamics",
-   "headline": "Climate change drives systemic risks and inequalities",
+   "id": "W7223097569",
+   "title": "Wheat in Crisis: Variability of Wheat Area in Lebanon 2017–2025",
+   "headline": "Lebanese wheat farming drops due to crises",
    "bullets": [
-    "Used a comparative framework to analyze climate impacts in developed versus least developed nations.",
-    "Found least developed countries face severe human impacts due to limited adaptive capacity.",
-    "Shows how climate change acts as a risk multiplier exacerbating institutional inequalities."
+    "Mapped Lebanese wheat area from 2017 to 2025 using satellite images and machine learning.",
+    "Found wheat area changed with economic subsidies, dollarization, and conflict impacts.",
+    "Shows the critical need for ground-truth data alongside satellite crop mapping."
    ],
    "plain": {
-    "question": "How do climate change and disasters affect different countries?",
-    "method": "A comparative framework analyzing developed and least developed countries.",
-    "finding": "Poor countries suffer worse human impacts because they have fewer resources to adapt.",
-    "why": "It helps us understand why climate disasters hit vulnerable places harder."
+    "question": "How did crises in Lebanon affect where wheat was grown from 2017 to 2025?",
+    "method": "Used satellite images and computer maps to track wheat fields over several years.",
+    "finding": "Wheat farming grew at first, then crashed when subsidies dropped and conflict hit.",
+    "why": "It shows how economic trouble and war disrupt essential food production."
    },
    "full": {
-    "explainer": "This book chapter looks at climate change as a major risk driver that changes how hazards work, makes people more vulnerable, and causes connected problems across global systems. It explains climate change as a risk multiplier that worsens existing economic, social, and institutional inequalities. The chapter uses a comparative approach to study the differences between developed countries and the least developed countries. It shows how different levels of governance capacity, resources, and ability to adapt change how well places recover from disasters. The study focuses on multi-hazard and compound events, such as droughts, floods, heatwaves, and coastal risks, and looks at how these affect food security, water systems, health, and livelihoods. The main finding is that while rich countries lose more money, poor countries suffer much worse human and developmental losses because they cannot adapt as easily.",
+    "explainer": "This paper looks at how major crises affected wheat farming in Lebanon between 2017 and 2025. Wheat is a key food crop worldwide, but Lebanon faced overlapping economic, political, security, and climate problems. The researchers used satellite images and a computer classification tool to track changes in wheat farming over multiple seasons, achieving high accuracy. They found that wheat areas grew during 2019 to 2021, but dropped sharply when subsidies weakened and farming costs surged. Later, area rebounded briefly, but then dropped dramatically in 2023 to 2025 due to conflict with Israel and displacement that blocked access to fields. The authors conclude that ground-truth data, crop yields, and socio-economic metrics are all needed to fully understand changes in crop areas.",
     "caveats": [
-     "Not stated how specific cities or urban areas are affected.",
-     "Not stated which exact datasets or quantitative models were used."
+     "The study focuses specifically on Lebanon and wheat crops.",
+     "Exact yield quantities are not stated in the abstract."
     ],
     "jargon": [
      {
-      "term": "Systemic risk driver",
-      "definition": "Something that causes risks which can trigger failures across an entire interconnected system."
+      "term": "supervised classification",
+      "definition": "A computer method using human-labeled examples to categorize satellite images."
      },
      {
-      "term": "Risk multiplier",
-      "definition": "A factor that worsens existing problems, vulnerabilities, and inequalities."
+      "term": "Random Forest",
+      "definition": "A machine learning algorithm that uses many decision trees for classification tasks."
      },
      {
-      "term": "Compound events",
-      "definition": "Multiple extreme weather events happening together or in sequence."
+      "term": "Sentinel-2",
+      "definition": "Earth-observation satellites capturing high-resolution optical imagery."
+     },
+     {
+      "term": "ground-truth data",
+      "definition": "Information collected on location to check and verify satellite observations."
      }
     ],
-    "fit": "Connects to environmental planning and vulnerability in the Global South by showing how institutional capacity shapes resilience outcomes."
+    "fit": "Connects via remote sensing and land-cover change methods, though focused on agriculture rather than urban ecosystem services."
    },
    "thesis": {
-    "why": "It provides a broad macro-level context on vulnerability and institutional capacity differences between developed and least developed regions.",
-    "action": "Check if the full text discusses urban areas or data-scarce settings relevant to Kabul.",
-    "relationship": "context"
+    "why": "It demonstrates land-cover change analysis using satellite imagery and validation methods, which parallel spatial tracking in urban environments.",
+    "action": "Check how they handled land-cover accuracy assessment for your own remote sensing methods.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "How does this macro-level comparison apply to specific urban centers in the Global South?",
-    "evidence": "The abstract uses a comparative framework between developed and least developed countries without mentioning specific cities.",
-    "limit": "It is not possible to establish specific local impacts, urban ecosystem services, or spatial planning strategies from this text.",
-    "check": "Verify if the book chapter includes urban case studies or only discusses national-level comparisons."
+    "question": "Does satellite-based area estimation reliably capture agricultural changes during severe conflict?",
+    "evidence": "The abstract relies on Sentinel-2 imagery to link dramatic drops in crop area to displacement and conflict without direct ground-truth measurements in southern Lebanon.",
+    "limit": "It cannot establish actual food yield changes or direct causal socioeconomic links from satellite imagery alone.",
+    "check": "Verify how the random stratified sample accounted for inaccessible conflict zones during classification."
    },
    "relevance": 2,
-   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
    "source": {
-    "url": "https://doi.org/10.4018/979-8-2600-4876-4.ch001",
-    "doi": "https://doi.org/10.4018/979-8-2600-4876-4.ch001",
-    "venue": "Advances in computational intelligence and robotics book series",
-    "date": "2026-10-23",
+    "url": "https://doi.org/10.1038/s44264-026-00184-3",
+    "doi": "https://doi.org/10.1038/s44264-026-00184-3",
+    "venue": "npj Sustainable Agriculture",
+    "date": "2026-10-21",
     "authors": [
-     "Mohamed Ali Said",
-     "Dayah Abdi Kulmie",
-     "Abdinasir Omar Osman"
+     "Mariam Ibrahim",
+     "Ghaleb Faour",
+     "Michel Le Page",
+     "Marielle Montginoul",
+     "Ahmad Al Bitar",
+     "Bilal Komati"
     ],
-    "n_authors": 3,
-    "open_access": false,
+    "n_authors": 7,
+    "open_access": true,
     "basis": "abstract"
    }
   }
