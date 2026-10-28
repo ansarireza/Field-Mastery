@@ -1,22 +1,103 @@
 # ===========================================================================
-# FIELD MASTERY - your settings. Edit this file, commit, done.
-# NOTE: this repository is PUBLIC (needed for free hosting). Do not put
-# anything confidential in here.
+# FIELD MASTERY - worldwide foundations, Global South context, Kabul application.
+# This file is public. Keep API keys, unpublished results and detailed
+# unpublished study designs out of it. Store API keys in GitHub Secrets.
 # ===========================================================================
 
 # 1) Your field -------------------------------------------------------------
 research_question: >
-  How do the valuation and governance of ecosystem services shape land-use
-  decisions and human well-being in the Global South?
+  Urban ecosystem services and environmental planning worldwide, with
+  particular attention to the Global South and application to Kabul,
+  Afghanistan. How do urban development, land-cover change and settlement
+  morphology relate to ecological functions, ecosystem service supply,
+  access and human benefits, and how can this evidence inform planning?
+  The learning goal is broad expertise in the field: foundational theories,
+  landmark ideas, current international research, practical methods and
+  critical appraisal. Coverage should balance three complementary strands:
+  worldwide theory and transferable methods; Global South urban contexts;
+  and Kabul or environmentally comparable cities. Relevant international
+  research should be included even when it does not mention Kabul,
+  informality or the Global South. For the eight literature searches,
+  aim for three worldwide, three Global South and two Kabul or comparable
+  context queries, allowing overlap. These are coverage preferences.
+  The core services are urban cooling and heat mitigation, stormwater runoff
+  retention, habitat quality, annual water yield and access to urban nature.
+  The focus includes formal development, informal flatland and hillside
+  settlements, peri-urban agriculture and green-blue infrastructure in
+  semi-arid, mountainous, data-scarce and conflict-affected settings.
+  Relevant approaches include InVEST, remote sensing, ecosystem service
+  bundles, landscape configuration, land-change validation, spatial modelling,
+  scenario comparison and uncertainty assessment for environmental planning.
+  Foundational learning also covers urban ecology, social-ecological systems,
+  the ecosystem service cascade, nature's contributions to people, supply,
+  demand and service flows, plural values, environmental justice, governance,
+  research design, spatial statistics and transferability between cities.
+  Modeled supply potential is distinguished from actual service delivery;
+  spatial associations and scenario contributions are distinguished from
+  causal effects of settlement status.
 
 keywords:
-  - ecosystem services
-  - global south
-  - payments for ecosystem services
+  # Worldwide foundations: relevant work can come from any region.
+  - ecosystem service theory and cascade
+  - urban ecology and social-ecological systems
   - nature's contributions to people
-  - land-use change
+  - ecosystem service capacity supply demand flows and benefits
+  - plural values of nature
+  - environmental planning and governance
+  - research design and causal inference
+  # Core topic and urban development
+  - urban ecosystem services
+  - urban expansion
+  - land-use and land-cover change
+  - informal settlements
+  - formal and informal urban development
+  - hillside settlements
+  - urban morphology
+  - peri-urban agriculture
+  # The five services and their planning applications
+  - urban cooling
+  - heat mitigation
+  - stormwater runoff retention
+  - habitat quality
+  - annual water yield
+  - urban nature access
+  - green-blue infrastructure
+  - nature-based solutions
+  - ecosystem service bundles
+  - landscape multifunctionality
+  - ecosystem service supply and demand
+  - environmental justice
+  # Methods needed across the two research strands
+  - InVEST ecosystem service modelling
+  - remote sensing land-change accuracy assessment
+  - landscape configuration and fragmentation
+  - spatial autocorrelation and spatial cross-validation
+  - ecosystem service scenario analysis
+  - model validation and sensitivity analysis
+  - comparative urban research and transferability
+  # Broader field
+  - environmental spatial planning
+  - urban ecology Global South
+  - data-scarce cities
 
-regions: [Sub-Saharan Africa, South Asia, Latin America, Southeast Asia]
+regions:
+  # Context preferences, not geographic exclusions or enforced quotas.
+  # Include worldwide research alongside the regional and case-study focus.
+  - Kabul
+  - Afghanistan
+  - South Asia
+  - Central Asia
+  - Global South
+  - arid and semi-arid cities
+  - mountainous cities
+  - conflict-affected cities
+  - Sub-Saharan Africa
+  - Latin America
+  - Southeast Asia
+  - East Asia
+  - Europe
+  - North America
+  - Oceania
 
 # How much background to assume in the plain-language explanations:
 #   beginner | intermediate | advanced
@@ -24,31 +105,51 @@ level: intermediate
 
 # 2) Papers -----------------------------------------------------------------
 papers:
-  days_back: 3            # look at papers published in the last N days
-  max_queries: 8          # OpenAlex searches per day (free budget is $1/day)
+  days_back: 7            # rolling window; already-seen papers are skipped
+  max_queries: 8          # the current app generates at most 8 search queries
   top_n: 6                # papers explained in full each day
   more_n: 10              # extra papers listed by title only
-  # Journals you trust most (get a ranking bonus). Optional.
+  # Ranking preferences, not a restriction to these journals.
   watch_journals:
+    - Landscape and Urban Planning
     - Ecosystem Services
+    - City and Environment Interactions
+    - Urban Forestry & Urban Greening
+    - Ecological Indicators
+    - Landscape Ecology
+    - Urban Climate
+    - Remote Sensing of Environment
+    - Environmental Modelling & Software
+    - Environment and Urbanization
+    - Habitat International
+    - Ambio
+    - Environmental Management
     - Nature Sustainability
     - Global Environmental Change
-    - Ecological Economics
-    - World Development
-    - Conservation Letters
+    - Ecosystems
+    - People and Nature
   # DOIs of papers central to YOUR thesis. New papers that cite them are
   # flagged in the "Watch list" (finds work that confirms or challenges you).
-  key_references: []
-  # - 10.1126/science.1038428
+  # Published references from the manuscripts, not the unpublished papers.
+  key_references:
+    - 10.1111/j.1461-0248.2009.01387.x # Bennett 2009: relationships among ES
+    - 10.1126/science.aap8826          # Diaz 2018: nature's contributions
+    - 10.1073/pnas.0907284107           # Raudsepp-Hearne 2010: ES bundles
+    - 10.1016/j.ecoser.2017.02.021      # Baro 2017: urban-rural ES bundles
+    - 10.1016/j.gloenvcha.2017.08.004   # Spake 2017: ES bundle interpretation
+    - 10.1007/s13280-023-01841-4        # Adem Esmail 2023: ES mapping in Eritrea
+    - 10.1016/j.oneear.2020.02.002      # Satterthwaite 2020: informal settlements
+    - 10.1016/j.rse.2014.02.015         # Olofsson 2014: land-change accuracy
+    - 10.1111/ecog.02881               # Roberts 2017: spatial cross-validation
+    - 10.1016/j.ecoser.2018.09.001      # Bryant 2018: uncertainty assessment
 
 # 3) Radar: regulations, policy, funding, conferences ---------------------------
 radar:
   days_back: 7
   max_items: 12
-  # Extra RSS/Atom feeds. Broken feeds are skipped automatically.
-  feeds:
-    - https://news.mongabay.com/feed/
-    - https://www.carbonbrief.com/feed/
+  # Topic-based news, funding and conference searches run automatically.
+  # Add extra RSS feeds here later if needed.
+  feeds: []
   # Conferences / deadlines you already know about (shown with a countdown)
   events: []
   # - name: "Example Conference 2027"
@@ -67,6 +168,8 @@ tools:
 
 # 5) Learning ---------------------------------------------------------------
 learn:
+  # The current app derives its curriculum from the field profile above.
+  # Keywords guide topic coverage; fixed geographic lesson quotas are not supported.
   lessons_per_day: 2
 
 # 6) Defense coach ------------------------------------------------------------
@@ -75,11 +178,42 @@ learn:
 # enabled: false.
 defense:
   enabled: true
-  title: ""
-  chapters: []
-  # - title: "Chapter 2: Valuing wetland services"
-  #   summary: "Choice experiment with smallholders in ..."
-  methods: ""
+  # General research themes only; no unpublished findings or exact designs.
+  title: "Urban ecosystem services and environmental planning with application to Kabul"
+  chapters:
+    - title: "Foundations and international evidence"
+      summary: >
+        General scholarly preparation in ecosystem service theory, urban
+        ecology, social-ecological systems, supply-demand-flow distinctions,
+        plural values, environmental justice and planning governance.
+        Compare evidence from the Global North and Global South, evaluate
+        alternative explanations, and assess when methods and conclusions
+        transfer to another city. This is a study theme, not a completed
+        thesis chapter or a statement of empirical findings.
+    - title: "Spatial patterns and planning"
+      summary: >
+        Assessment of ecosystem service supply potential, bundles,
+        co-occurrence and urban morphology to inform spatial prioritization
+        in a data-scarce metropolitan setting. Interpretation must distinguish
+        service supply from actual use, and association from mechanism.
+    - title: "Land-cover change and settlement expansion"
+      summary: >
+        Research in development on relationships between settlement expansion
+        and modeled ecological functions. Key questions concern comparable
+        inputs, baseline conditions, spatial scale, scenario assumptions,
+        validation and uncertainty. No completed findings are supplied.
+  methods: >
+    GIS and remote sensing; integration of spatial datasets; land-cover and
+    land-change accuracy assessment; InVEST urban cooling, stormwater runoff
+    retention, habitat quality, annual water yield and urban nature access;
+    hotspot analysis; clustering and descriptive ecosystem service bundles;
+    landscape metrics; spatial statistical modelling; scenario comparison;
+    sensitivity and uncertainty assessment. Annual water yield requires
+    watershed-scale interpretation. Model estimates are not observations,
+    habitat quality is not measured biodiversity, and runoff retention is
+    not a direct estimate of flood depth or flood risk. Methods listed here
+    are research topics, not a claim that all have been completed.
+  # Leave empty until claims are published and suitable for public sharing.
   main_claims: []
 
 # 7) Weekly review ------------------------------------------------------------
@@ -87,6 +221,6 @@ weekly_review_day: 6      # 0 = Monday ... 6 = Sunday
 
 # 8) Free AI model --------------------------------------------------------------
 llm:
-  model: gemini-3.5-flash-lite
-  fallback_model: gemini-3.5-flash-lite
+  model: gemini-2.5-flash
+  fallback_model: gemini-2.5-flash-lite
   min_interval_seconds: 13   # keeps you inside the free requests-per-minute limit
