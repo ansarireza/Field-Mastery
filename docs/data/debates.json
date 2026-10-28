@@ -1,0 +1,39 @@
+{
+ "week": "2026-W44",
+ "index": 0,
+ "current": {
+  "title": "Should nature be given a monetary value?",
+  "question": "[SAMPLE] Should nature be given a monetary value?",
+  "side_a": {
+   "claim": "[SAMPLE] Yes",
+   "argument": "[SAMPLE] Prices make nature visible in decisions.",
+   "cites": [
+    0
+   ]
+  },
+  "side_b": {
+   "claim": "[SAMPLE] No",
+   "argument": "[SAMPLE] Values are plural and not all can be priced.",
+   "cites": [
+    1
+   ]
+  },
+  "middle": "[SAMPLE] Many use mixed approaches.",
+  "committee": "[SAMPLE] Where do you stand and why?",
+  "sources": [
+   {
+    "n": 0,
+    "title": "[SAMPLE] Paper A",
+    "year": "2012",
+    "url": "https://example.org/a"
+   },
+   {
+    "n": 1,
+    "title": "[SAMPLE] Paper B",
+    "year": "2018",
+    "url": "https://example.org/b"
+   }
+  ]
+ },
+ "sample": true
+}

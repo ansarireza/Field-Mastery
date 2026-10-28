@@ -1,0 +1,34 @@
+{
+ "week": "2026-W44",
+ "current": {
+  "name": "Sample Researcher One",
+  "institution": "Sample University",
+  "headline": "[SAMPLE] A researcher who works on ecosystem services",
+  "known_for": [
+   "[SAMPLE] Valuation",
+   "[SAMPLE] Policy",
+   "[SAMPLE] Methods"
+  ],
+  "why_follow": "[SAMPLE] Frequently appears on highly cited work.",
+  "stats": {
+   "works": 120,
+   "citations": 15000,
+   "h_index": 40
+  },
+  "read_first": [
+   {
+    "title": "[SAMPLE] A foundational sample paper",
+    "year": "2015",
+    "citations": 3000,
+    "url": "https://openalex.org/W2001",
+    "why": "[SAMPLE] Foundational."
+   }
+  ],
+  "profile_url": "https://openalex.org/A5000000001",
+  "basis": "OpenAlex data"
+ },
+ "featured": [
+  "A5000000001"
+ ],
+ "sample": true
+}

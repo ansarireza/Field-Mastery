@@ -1,0 +1,51 @@
+{
+ "date": "2026-10-28",
+ "lessons": [
+  {
+   "id": "d84ccb9a43",
+   "date": "2026-10-28",
+   "term": "payments for ecosystem services",
+   "area": "From today's papers",
+   "kind": "concept",
+   "definition": "[SAMPLE] A short definition.",
+   "plain": "[SAMPLE] A plain-language explanation appears here.",
+   "example": "[SAMPLE] An example from a Global South setting.",
+   "connects": "[SAMPLE] Links to related ideas.",
+   "quiz": [
+    {
+     "q": "[SAMPLE] What is it?",
+     "a": "[SAMPLE] A sample answer."
+    },
+    {
+     "q": "[SAMPLE] Why does it matter?",
+     "a": "[SAMPLE] Sample."
+    }
+   ],
+   "search": "sample topic"
+  },
+  {
+   "id": "8d4b5e756d",
+   "date": "2026-10-28",
+   "term": "ecosystem service cascade",
+   "area": "Foundations of ecosystem services",
+   "kind": "concept",
+   "definition": "[SAMPLE] A short definition.",
+   "plain": "[SAMPLE] A plain-language explanation appears here.",
+   "example": "[SAMPLE] An example from a Global South setting.",
+   "connects": "[SAMPLE] Links to related ideas.",
+   "quiz": [
+    {
+     "q": "[SAMPLE] What is it?",
+     "a": "[SAMPLE] A sample answer."
+    },
+    {
+     "q": "[SAMPLE] Why does it matter?",
+     "a": "[SAMPLE] Sample."
+    }
+   ],
+   "search": "sample topic"
+  }
+ ],
+ "total_learned": 2,
+ "sample": true
+}

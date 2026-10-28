@@ -1,0 +1,48 @@
+{
+ "areas": [
+  {
+   "name": "Foundations of ecosystem services",
+   "lessons": 1
+  },
+  {
+   "name": "Valuation methods",
+   "lessons": 0
+  },
+  {
+   "name": "Governance & policy",
+   "lessons": 0
+  },
+  {
+   "name": "Payments for ecosystem services",
+   "lessons": 0
+  },
+  {
+   "name": "Land-use change",
+   "lessons": 0
+  },
+  {
+   "name": "Remote sensing & GIS",
+   "lessons": 0
+  },
+  {
+   "name": "Social-ecological systems",
+   "lessons": 0
+  },
+  {
+   "name": "Equity & justice",
+   "lessons": 0
+  },
+  {
+   "name": "Biodiversity policy",
+   "lessons": 0
+  },
+  {
+   "name": "Methods & statistics",
+   "lessons": 0
+  },
+  {
+   "name": "From today's papers",
+   "lessons": 1
+  }
+ ]
+}

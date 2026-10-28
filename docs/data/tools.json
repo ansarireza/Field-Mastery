@@ -1,0 +1,38 @@
+{
+ "date": "2026-10-28",
+ "items": [
+  {
+   "name": "r-spatial/sf",
+   "version": "v9.9.9-sample",
+   "date": "2026-10-20",
+   "url": "https://example.org/release",
+   "summary": "",
+   "matters": ""
+  },
+  {
+   "name": "rspatial/terra",
+   "version": "v9.9.9-sample",
+   "date": "2026-10-20",
+   "url": "https://example.org/release",
+   "summary": "",
+   "matters": ""
+  },
+  {
+   "name": "qgis/QGIS",
+   "version": "v9.9.9-sample",
+   "date": "2026-10-20",
+   "url": "https://example.org/release",
+   "summary": "",
+   "matters": ""
+  },
+  {
+   "name": "natcap/invest",
+   "version": "v9.9.9-sample",
+   "date": "2026-10-20",
+   "url": "https://example.org/release",
+   "summary": "[SAMPLE] Adds a model and fixes bugs.",
+   "matters": "[SAMPLE] Might matter for valuation work."
+  }
+ ],
+ "sample": true
+}

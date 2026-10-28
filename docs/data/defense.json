@@ -1,0 +1,26 @@
+{
+ "enabled": true,
+ "date": "2026-10-28",
+ "today": {
+  "id": "2b04bea7fa",
+  "scope": "the whole thesis",
+  "q": "[SAMPLE] Question 1: why did you choose this approach?",
+  "type": "theory",
+  "outline": [
+   "[SAMPLE] State your reason",
+   "[SAMPLE] Name the alternative",
+   "[SAMPLE] Explain the trade-off"
+  ],
+  "pitfall": "[SAMPLE] Do not overclaim."
+ },
+ "bank_total": 6,
+ "asked": 1,
+ "upcoming": [
+  "[SAMPLE] Question 2: why did you choose this approach?",
+  "[SAMPLE] Question 3: why did you choose this approach?",
+  "[SAMPLE] Question 4: why did you choose this approach?",
+  "[SAMPLE] Question 5: why did you choose this approach?",
+  "[SAMPLE] Question 6: why did you choose this approach?"
+ ],
+ "sample": true
+}

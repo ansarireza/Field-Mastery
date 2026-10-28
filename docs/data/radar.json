@@ -1,0 +1,31 @@
+{
+ "date": "2026-10-28",
+ "items": [
+  {
+   "id": "b0c09b2c50",
+   "category": "event",
+   "title": "[SAMPLE] Conference 2027 call for abstracts",
+   "one_liner": "Sample call for abstracts.",
+   "why": "Possible venue for your results.",
+   "urgency": 3,
+   "date": "2026-10-26",
+   "url": "https://example.org/n2",
+   "source": "Example Society",
+   "basis": "headline"
+  },
+  {
+   "id": "16e24eb581",
+   "category": "regulation",
+   "title": "[SAMPLE] EU delays deforestation rules",
+   "one_liner": "Sample: rules postponed again.",
+   "why": "Sample: affects supply-chain research.",
+   "urgency": 2,
+   "date": "2026-10-27",
+   "url": "https://example.org/n1",
+   "source": "Example News",
+   "basis": "headline"
+  }
+ ],
+ "events": [],
+ "sample": true
+}
