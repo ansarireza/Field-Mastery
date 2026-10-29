@@ -1,60 +1,64 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "lessons": [
   {
-   "id": "8dc55613c2",
-   "date": "2026-10-28",
-   "term": "anthropogenic pressures",
-   "area": "From today's papers",
+   "id": "806b58d77d",
+   "date": "2026-10-29",
+   "term": "Ecosystem services classification",
+   "area": "Ecosystem services valuation",
    "kind": "concept",
-   "definition": "Anthropogenic pressures are human-caused actions and disruptions that directly alter natural ecosystems and landscapes.",
-   "plain": "Human activities like farming, logging, and building cities put a heavy strain on nature. In the Global South, these actions change how land is used, often harming the environment while trying to meet human needs for food, space, and resources.",
-   "example": "Clearing tropical forests in Southeast Asia to create large oil palm plantations, which disrupts local wildlife and water sources.",
-   "connects": "It links ecosystem valuation with governance, showing how human choices degrade natural capital.",
+   "definition": "Ecosystem services classification categorizes nature's benefits into groups like provisioning, regulating, cultural, and supporting.",
+   "plain": "It is a way to sort nature's gifts into categories so we can study them. For example, we separate benefits like cooling the city air, managing stormwater, or providing green spaces for people to enjoy.",
+   "example": "In a Global South city, sorting green spaces into categories helps show how urban trees cool neighborhoods while rivers help control floods.",
+   "connects": "It connects to mapping how much nature provides versus what people actually use.",
+   "why_phd": "You need it to clearly measure and compare different benefits like cooling or water yield in Kabul.",
+   "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What are anthropogenic pressures?",
-     "a": "Human-caused actions and disruptions that alter natural ecosystems."
+     "q": "What are the main categories in ecosystem services classification?",
+     "a": "Provisioning, regulating, cultural, and supporting services."
     },
     {
-     "q": "Why do these pressures matter in the Global South?",
-     "a": "They heavily change land use and impact both nature and human well-being."
+     "q": "Why classify these services in urban planning?",
+     "a": "To clearly measure and compare the different benefits nature provides to people."
     }
    ],
-   "search": "anthropogenic pressures Global South land use"
+   "search": "ecosystem services classification urban planning"
   },
   {
-   "id": "c2bf7350a5",
-   "date": "2026-10-28",
-   "term": "security-conservation nexus",
+   "id": "6f4b96c607",
+   "date": "2026-10-29",
+   "term": "Remote sensing",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "The security-conservation nexus explores how environmental protection and national or human security overlap.",
-   "plain": "This concept looks at how protecting nature and fighting crime or violence affect each other. For example, using military force to stop illegal wildlife poachers can sometimes harm local communities, showing that conservation is closely linked to social safety and human rights.",
-   "example": "Guards protecting a national park in Africa use armed patrols against poachers, which keeps wildlife safe but creates fear and conflict among local villagers.",
-   "connects": "It connects to ecosystem valuation by showing how safety affects how people use and value nature.",
+   "definition": "Remote sensing uses satellite or aerial sensors to measure and map Earth's land cover and environmental conditions from a distance.",
+   "plain": "Remote sensing lets us take pictures and measurements of the Earth from satellites. In cities, we use these aerial views to track how land changes, monitor green spaces, and measure surface temperatures without needing to visit every location in person.",
+   "example": "Using satellite images to map how informal hillside settlements and green spaces change over time in a fast-growing city like Kabul.",
+   "connects": "It provides the essential spatial data needed to model ecosystem services, land-cover change, and urban heat mitigation.",
+   "why_phd": "Vital for your dissertation because it supplies the primary spatial data required to map land-cover change and ecosystem services in data-scarce cities.",
+   "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What two main areas does the security-conservation nexus connect?",
-     "a": "Environmental protection and human or national security."
+     "q": "What is the main purpose of remote sensing in urban environmental planning?",
+     "a": "To measure and map land-cover change and environmental conditions from a distance using satellites or aerial sensors."
     },
     {
-     "q": "Why can armed patrols in parks be a problem?",
-     "a": "They can harm local communities and cause social conflict."
+     "q": "Why is remote sensing useful for data-scarce cities like Kabul?",
+     "a": "It provides consistent spatial data across the entire city without requiring extensive ground-based surveys."
     }
    ],
-   "search": "security conservation nexus Global South"
+   "search": "remote sensing urban land cover change"
   }
  ],
- "total_learned": 2,
+ "total_learned": 4,
  "path": {
   "stage": "Foundation",
   "next_topics": [
-   "Ecosystem services classification",
    "Decentralized environmental governance",
    "Drivers of land use change",
    "Subjective human well-being metrics",
-   "Payments for ecosystem services basics"
+   "Payments for ecosystem services basics",
+   "Global South development paradigms"
   ],
   "stages": [
    "Foundation: understand concepts",

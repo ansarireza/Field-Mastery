@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Ecosystem services classification",
-   "area": "Ecosystem services valuation",
-   "kind": "concept"
-  },
-  {
    "term": "Decentralized environmental governance",
    "area": "Environmental governance",
    "kind": "concept"
@@ -203,6 +198,8 @@
  ],
  "done": [
   "anthropogenic pressures",
-  "security-conservation nexus"
+  "security-conservation nexus",
+  "Ecosystem services classification",
+  "Remote sensing"
  ]
 }

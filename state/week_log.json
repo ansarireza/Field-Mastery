@@ -19,5 +19,32 @@
    "India Calls for Sustainable Cities for Climate Goals",
    "Sand Mining Along Swakop River Under Scrutiny"
   ]
+ },
+ "2026-10-29": {
+  "papers": [
+   "Linking ecosystem services and land-use disturbance",
+   "Measurement design constrains urban-greening thermal evidence",
+   "Ecological zoning guided by synergy thresholds",
+   "Constructed wetlands rank top for green infrastructure",
+   "Community mapping and modeling mangrove benefits in Belize",
+   "Global methods for assessing urban park cultural benefits",
+   "Vegetation and climate shifts in Sudan",
+   "Spatial and non-spatial measures reshape public realm",
+   "Social and ecological factors shape restoration success"
+  ],
+  "radar": [
+   "Global study finds taller cities are greener cities' worst enemy",
+   "Living laboratory shows green spaces combat climate extremes",
+   "ADB unveils nature bond and project incubator for Asia",
+   "EU launches Friends of Credits for Nature at COP17",
+   "EIB unveils €30 billion climate plan for extreme weather"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Ecosystem services classification",
+   "Remote sensing"
+  ]
  }
 }

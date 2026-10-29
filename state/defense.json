@@ -459,26 +459,27 @@
   }
  ],
  "asked": [
-  "dd0d2a54e5"
+  "dd0d2a54e5",
+  "4bf5f52f2b"
  ],
  "today": {
-  "id": "dd0d2a54e5",
+  "id": "4bf5f52f2b",
   "scope": "the whole thesis",
-  "q": "How do you justify distinguishing modeled supply potential from actual service delivery in data-scarce settings like Kabul?",
-  "type": "theory",
+  "q": "What methods do you use to ensure land-cover and land-change accuracy in mountainous, conflict-affected areas?",
+  "type": "methods",
   "outline": [
-   "Define modeled supply versus delivered benefits",
-   "Explain challenges in data-scarce and conflict settings",
-   "Discuss implications for planning and demand flows"
+   "Outline remote sensing and GIS integration",
+   "Address land-change accuracy assessment",
+   "Discuss spatial modelling and uncertainty handling"
   ],
-  "pitfall": "Confusing computer-generated model outputs with actual human use or observed benefits.",
-  "follow_up": "How does this distinction affect equity and environmental justice assessments?",
-  "bring": "Conceptual diagrams separating supply potential from demand and actual service flows.",
+  "pitfall": "Treating remote sensing classifications as error-free ground truths without validation.",
+  "follow_up": "How do uncertainty and sensitivity assessments alter your scenario comparison results?",
+  "bring": "Error matrices and land-change validation statistics from your workflow.",
   "self_check": [
-   "Clearly separates model estimates from observations",
-   "Addresses data scarcity",
-   "Links to service flows"
+   "Mentions accuracy assessment",
+   "Accounts for mountainous or data-scarce challenges",
+   "Integrates uncertainty handling"
   ]
  },
- "today_date": "2026-10-28"
+ "today_date": "2026-10-29"
 }

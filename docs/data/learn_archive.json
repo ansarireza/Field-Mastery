@@ -42,5 +42,53 @@
    }
   ],
   "search": "security conservation nexus Global South"
+ },
+ {
+  "id": "806b58d77d",
+  "date": "2026-10-29",
+  "term": "Ecosystem services classification",
+  "area": "Ecosystem services valuation",
+  "kind": "concept",
+  "definition": "Ecosystem services classification categorizes nature's benefits into groups like provisioning, regulating, cultural, and supporting.",
+  "plain": "It is a way to sort nature's gifts into categories so we can study them. For example, we separate benefits like cooling the city air, managing stormwater, or providing green spaces for people to enjoy.",
+  "example": "In a Global South city, sorting green spaces into categories helps show how urban trees cool neighborhoods while rivers help control floods.",
+  "connects": "It connects to mapping how much nature provides versus what people actually use.",
+  "why_phd": "You need it to clearly measure and compare different benefits like cooling or water yield in Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What are the main categories in ecosystem services classification?",
+    "a": "Provisioning, regulating, cultural, and supporting services."
+   },
+   {
+    "q": "Why classify these services in urban planning?",
+    "a": "To clearly measure and compare the different benefits nature provides to people."
+   }
+  ],
+  "search": "ecosystem services classification urban planning"
+ },
+ {
+  "id": "6f4b96c607",
+  "date": "2026-10-29",
+  "term": "Remote sensing",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Remote sensing uses satellite or aerial sensors to measure and map Earth's land cover and environmental conditions from a distance.",
+  "plain": "Remote sensing lets us take pictures and measurements of the Earth from satellites. In cities, we use these aerial views to track how land changes, monitor green spaces, and measure surface temperatures without needing to visit every location in person.",
+  "example": "Using satellite images to map how informal hillside settlements and green spaces change over time in a fast-growing city like Kabul.",
+  "connects": "It provides the essential spatial data needed to model ecosystem services, land-cover change, and urban heat mitigation.",
+  "why_phd": "Vital for your dissertation because it supplies the primary spatial data required to map land-cover change and ecosystem services in data-scarce cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main purpose of remote sensing in urban environmental planning?",
+    "a": "To measure and map land-cover change and environmental conditions from a distance using satellites or aerial sensors."
+   },
+   {
+    "q": "Why is remote sensing useful for data-scarce cities like Kabul?",
+    "a": "It provides consistent spatial data across the entire city without requiring extensive ground-based surveys."
+   }
+  ],
+  "search": "remote sensing urban land cover change"
  }
 ]
