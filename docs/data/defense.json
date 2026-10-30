@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "4bf5f52f2b",
+  "id": "487c1d305b",
   "scope": "the whole thesis",
-  "q": "What methods do you use to ensure land-cover and land-change accuracy in mountainous, conflict-affected areas?",
-  "type": "methods",
+  "q": "Given that habitat quality is not measured biodiversity and runoff retention is not flood risk, how do you manage these limitations?",
+  "type": "limitations",
   "outline": [
-   "Outline remote sensing and GIS integration",
-   "Address land-change accuracy assessment",
-   "Discuss spatial modelling and uncertainty handling"
+   "Explicitly state InVEST output definitions and limits",
+   "Clarify that habitat quality is a proxy, not biodiversity",
+   "Clarify that runoff retention is not direct flood depth"
   ],
-  "pitfall": "Treating remote sensing classifications as error-free ground truths without validation.",
-  "follow_up": "How do uncertainty and sensitivity assessments alter your scenario comparison results?",
-  "bring": "Error matrices and land-change validation statistics from your workflow.",
+  "pitfall": "Overstclaiming model outputs as direct ecological measurements or risk metrics.",
+  "follow_up": "What alternative tools or empirical data would be needed to validate flood risk?",
+  "bring": "A summary table of InVEST metric definitions versus empirical equivalents.",
   "self_check": [
-   "Mentions accuracy assessment",
-   "Accounts for mountainous or data-scarce challenges",
-   "Integrates uncertainty handling"
+   "Acknowledge proxy limitations",
+   "Distinguish runoff from flood risk",
+   "Distinguish habitat quality from biodiversity"
   ]
  },
  "bank_total": 24,
- "asked": 2,
+ "asked": 3,
  "upcoming": [
-  "Given that habitat quality is not measured biodiversity and runoff retention is not flood risk, how do you manage these limitations?",
   "How do you separate spatial associations from the causal effects of settlement status, such as formal versus informal areas?",
   "How transferable are InVEST models and ecosystem service frameworks from data-rich contexts to semi-arid Kabul?",
   "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?",
-  "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?"
+  "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?",
+  "What criteria determine whether methods and conclusions from the Global North transfer to semi-arid settings like Kabul?"
  ]
 }

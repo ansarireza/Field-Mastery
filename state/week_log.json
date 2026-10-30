@@ -46,5 +46,31 @@
    "Ecosystem services classification",
    "Remote sensing"
   ]
+ },
+ "2026-10-30": {
+  "papers": [
+   "Corporate actions alone cannot stop biodiversity loss",
+   "Policy intersections for health in five Global South cities",
+   "Spatial assessment of conservation state and priority in Peru",
+   "Land use shifts drive ecosystem supply and demand",
+   "Land changes drive future floods more than climate",
+   "Testing Local Climate Zones in an arid city",
+   "Most buildings poorly oriented for climate",
+   "A new walkability framework for hot-arid cities"
+  ],
+  "radar": [
+   "Workshop Scholarships for PhD Students from Africa, Asia, Latin America",
+   "UNEP on nature-based solutions for urban resilience",
+   "Buon Ma Thuot City Master Plan until 2050 announced",
+   "EBRD and GCF scale up support for greener cities",
+   "November Funding Roundup: 130 New Opportunities"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Decentralized environmental governance",
+   "Geodetector"
+  ]
  }
 }

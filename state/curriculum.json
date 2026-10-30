@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Decentralized environmental governance",
-   "area": "Environmental governance",
-   "kind": "concept"
-  },
-  {
    "term": "Drivers of land use change",
    "area": "Land use change",
    "kind": "concept"
@@ -200,6 +195,8 @@
   "anthropogenic pressures",
   "security-conservation nexus",
   "Ecosystem services classification",
-  "Remote sensing"
+  "Remote sensing",
+  "Decentralized environmental governance",
+  "Geodetector"
  ]
 }

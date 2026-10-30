@@ -1,643 +1,530 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "summary": [
-  "Studies link ecosystem services with land-use disturbance and restoration processes.",
-  "Research evaluates urban greening, constructed wetlands, and mangrove benefits."
+  "Corporate actions cannot stop biodiversity loss without wider shifts.",
+  "Land use changes drive soil retention deficits and future floods."
  ],
  "items": [
   {
-   "id": "W7223927762",
-   "title": "Coupling ecosystem services and land-use disturbance to diagnose degradation and restoration in dryland watersheds",
-   "headline": "Linking ecosystem services and land-use disturbance",
+   "id": "W7224093028",
+   "title": "Halting Biodiversity Loss Requires a Different Kind of Management Research",
+   "headline": "Corporate actions alone cannot stop biodiversity loss",
    "bullets": [
-    "Coupled ecosystem services with land-use disturbance in dryland watersheds.",
-    "Diagnosed degradation and restoration processes using these combined metrics.",
-    "Helps improve environmental management and planning in dryland regions."
+    "Reviewed findings from the first business and biodiversity assessment by IPBES.",
+    "Found that voluntary corporate actions cannot stop biodiversity loss without wider system shifts.",
+    "Urges management research to shift from individual firms to wider economic and political systems."
    ],
    "plain": {
-    "question": "How can we diagnose ecosystem degradation and restoration in dryland watersheds?",
-    "method": "Coupling ecosystem services and land-use disturbance data.",
-    "finding": "The study successfully linked ecosystem services to land-use disturbances.",
-    "why": "It helps us better understand and manage environmental damage in dry areas."
+    "question": "Can voluntary company actions stop the loss of nature and biodiversity?",
+    "method": "Examined the first major global business and biodiversity assessment report.",
+    "finding": "Voluntary company steps are not enough without larger changes in policy, money, and society.",
+    "why": "Management research must change its focus to broader systems instead of looking only at single firms."
    },
    "full": {
-    "explainer": "This study looks at dryland watersheds, which are areas of land that drain into a common water body in dry regions. The researchers coupled, or linked together, ecosystem services (the benefits nature provides to people) and land-use disturbance (how human activities disrupt the land). By combining these two things, they were able to diagnose degradation (how and where the environment is wearing down) and restoration (how recovery can happen). This approach gives a clearer picture of the health of dryland environments. It helps scientists and planners see how human activities affect natural benefits over time. Ultimately, this kind of diagnostic work provides useful insights for environmental management, helping decision-makers figure out where natural areas need protection or active healing, particularly in fragile dryland settings where water and vegetation are scarce.",
-    "caveats": [
-     "not stated"
-    ],
-    "jargon": [
-     {
-      "term": "ecosystem services",
-      "definition": "The benefits that humans freely gain from a healthy natural environment."
-     },
-     {
-      "term": "watersheds",
-      "definition": "An area of land where all flowing water drains to a single point."
-     },
-     {
-      "term": "land-use disturbance",
-      "definition": "Changes or disruptions to the land caused by human activities."
-     }
-    ],
-    "fit": "Connects to dryland environmental planning, watershed-scale interpretation, and landscape change analysis."
-   },
-   "thesis": {
-    "why": "It connects to watershed-scale environmental planning and land-use disturbance analysis in water-scarce areas, relevant for semi-arid contexts.",
-    "action": "Check if the paper uses modeling tools comparable to InVEST or spatial statistics.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How does coupling ecosystem services with land-use disturbance quantitatively distinguish degradation from natural dryland variability?",
-    "evidence": "The abstract broadly states that the study couples ecosystem services and land-use disturbance to diagnose degradation and restoration in dryland watersheds.",
-    "limit": "The abstract does not provide specific metrics, modeling frameworks, or geographic locations used in the study.",
-    "check": "Verify how land-use disturbance was measured and whether water-yield models were applied at the watershed scale."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
-   "source": {
-    "url": "https://doi.org/10.1016/j.jenvman.2026.131225",
-    "doi": "https://doi.org/10.1016/j.jenvman.2026.131225",
-    "venue": "Journal of Environmental Management",
-    "date": "2026-10-27",
-    "authors": [
-     "Jiaxin Li",
-     "Tingxi Liu",
-     "Xin Tong",
-     "Limin Duan",
-     "Meng He",
-     "Xinyu Guo"
-    ],
-    "n_authors": 8,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223556500",
-   "title": "Measurement Design Constrains the Use of Landsat Thermal Contrasts for Sustainable Urban-Greening Decisions in Harbin",
-   "headline": "Measurement design constrains urban-greening thermal evidence",
-   "bullets": [
-    "Analyzed 18 Landsat summer daytime acquisition groups over Harbin from 2022 to 2025.",
-    "Found that eligibility rules and background choices change analyzed populations and results.",
-    "Shows caution is needed: results do not provide causal cooling estimates or design rules."
-   ],
-   "plain": {
-    "question": "How does the way we measure green spaces affect the thermal evidence used for urban-greening decisions?",
-    "method": "The researchers studied satellite thermal data around green spaces in Harbin using different selection rules and comparisons.",
-    "finding": "Changing how features are selected and measured completely changes the results, showing mixed or weak statistical ties.",
-    "why": "This matters because planners need reliable data to design city cooling strategies without relying on flawed measurements."
-   },
-   "full": {
-    "explainer": "When cities plan green spaces to cool down urban areas, they often look at satellite thermal data to see how much green features lower surface temperatures. This paper examines how measurement choices change that thermal evidence using summer satellite data from Harbin between 2022 and 2025. The authors tested different ways of defining and measuring the temperature contrast around green features. They found that changing the rules for which green spaces are included—and how the background areas are measured—strongly alters the results. Some comparison methods yielded imprecise or very weak statistical associations, and built-up areas did not serve as neutral benchmarks. Furthermore, a spatial test showed weak predictive performance. Ultimately, the results mean that how you design your measurement approach constrains what you find. The study warns against using these specific thermal contrasts to claim direct causal cooling effects, optimal park sizes, or transferable design thresholds without explicit background reporting.",
-    "caveats": [
-     "Spatial holdout performance was weak (R2 = −0.060).",
-     "Causal cooling estimates, optimal park sizes, and transferable design thresholds are not established.",
-     "Vegetation-specific cooling was not clearly identified by the exploratory comparison."
-    ],
-    "jargon": [
-     {
-      "term": "Land-surface temperature (LST)",
-      "definition": "The radiative skin temperature of the ground surface, measured via satellite thermal sensors."
-     },
-     {
-      "term": "Subset heterogeneity",
-      "definition": "Variations or differences in effects across different sub-groups of data."
-     },
-     {
-      "term": "Spatial holdout performance",
-      "definition": "Testing a model's predictive accuracy on geographic data that was left out of the training step."
-     }
-    ],
-    "fit": "Connects via urban cooling, remote sensing, spatial modelling, and the critical need to question model reliability and design thresholds."
-   },
-   "thesis": {
-    "why": "It highlights how remote sensing methods and measurement choices heavily constrain urban cooling findings, directly relevant to spatial modelling.",
-    "action": "Check how the study handles sensitivity and uncertainty assessment to inform your own remote sensing workflow.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How can urban cooling be reliably modeled using remote sensing if changing measurement eligibility completely alters the outcome?",
-    "evidence": "The abstract notes that different eligibility rules changed the analyzed population, and direct interaction models showed un-resolved subset heterogeneity with weak spatial holdout performance (R2 = −0.060).",
-    "limit": "Causal cooling effects, optimal park sizes, and transferable design thresholds cannot be established from these results.",
-    "check": "Verify how the full paper addresses spatial autocorrelation and why the spatial holdout performance was negative."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
-   "source": {
-    "url": "https://doi.org/10.3390/su182110832",
-    "doi": "https://doi.org/10.3390/su182110832",
-    "venue": "Sustainability",
-    "date": "2026-10-25",
-    "authors": [
-     "Xiaolei Wang",
-     "Yingning Wang",
-     "Xiongwei Liang"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223896100",
-   "title": "Synergy threshold-guided ecological zoning: Evidence of the response of carbon-water-biodiversity nexus to human activity intensity",
-   "headline": "Ecological zoning guided by synergy thresholds",
-   "bullets": [
-    "Studied the carbon-water-biodiversity nexus response to human activity intensity.",
-    "Not stated in the abstract provided.",
-    "Provides evidence for ecological zoning based on human activity impacts."
-   ],
-   "plain": {
-    "question": "How do carbon, water, and biodiversity respond to human activity levels?",
-    "method": "Not stated in the provided abstract text.",
-    "finding": "Not stated in the provided abstract text.",
-    "why": "It helps guide better environmental zoning and planning."
-   },
-   "full": {
-    "explainer": "This paper examines how the relationship between carbon, water, and biodiversity responds to the intensity of human activities. It introduces an approach called synergy threshold-guided ecological zoning. Because the abstract text provided is very short and lacks detailed background, methods, or numeric results, the specific details of how the study was conducted and its exact quantitative findings are not stated in the source text. However, the study generally aims to connect human impacts with ecological systems to help improve environmental planning and management. This type of research is useful for understanding how human development affects multiple environmental benefits at once, guiding where protection or development should happen.",
-    "caveats": [
-     "not stated",
-     "not stated"
-    ],
-    "jargon": [
-     {
-      "term": "carbon-water-biodiversity nexus",
-      "definition": "The interconnected relationships between carbon storage, water resources, and biological diversity."
-     },
-     {
-      "term": "ecological zoning",
-      "definition": "Dividing an area into zones to manage and protect natural resources and environmental functions."
-     }
-    ],
-    "fit": "It connects to urban ecosystem services and environmental planning by examining how human activity impacts multiple natural systems."
-   },
-   "thesis": {
-    "why": "It relates to environmental planning and human impacts on ecosystem services, though no specific Kabul or Global South context is given in the abstract.",
-    "action": "Check the full paper to see if the methods or thresholds can be applied to data-scarce urban settings.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How were human activity intensity and the carbon-water-biodiversity nexus measured?",
-    "evidence": "The abstract mentions the response of the carbon-water-biodiversity nexus to human activity intensity and synergy threshold-guided zoning.",
-    "limit": "The abstract gives no specific methods, metrics, geographic locations, or numerical findings to evaluate.",
-    "check": "Verify whether the study scales down to urban environments or focuses solely on regional/macro scales."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-   "source": {
-    "url": "https://doi.org/10.1016/j.eiar.2026.108794",
-    "doi": "https://doi.org/10.1016/j.eiar.2026.108794",
-    "venue": "Environmental Impact Assessment Review",
-    "date": "2026-10-27",
-    "authors": [
-     "Zixiang Sun",
-     "Xiaoqing Zhao",
-     "Xiaobao Wang",
-     "Qingpu Li",
-     "Yuju Ran",
-     "Dian Zhang"
-    ],
-    "n_authors": 6,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223805617",
-   "title": "Green infrastructure investment prioritization for urban ecosystem services and resilience: a decision-support framework",
-   "headline": "Constructed wetlands rank top for green infrastructure",
-   "bullets": [
-    "Used a multi-criteria decision framework with fuzzy logic to rank green infrastructure.",
-    "Found constructed wetlands rank highest, followed by green walls and rain gardens.",
-    "Helps decision-makers prioritize nature-based solutions despite high uncertainty."
-   ],
-   "plain": {
-    "question": "How do we choose the best nature-based solutions for cities when options provide many different benefits?",
-    "method": "Used expert judgment and math tools to rank different green infrastructure options based on fifteen criteria.",
-    "finding": "Constructed wetlands ranked as the best choice overall, though they have trade-offs for cost.",
-    "why": "This helps planners pick the most useful green fixes for cities even when future conditions are uncertain."
-   },
-   "full": {
-    "explainer": "Cities are turning to nature-based solutions, like green roofs and constructed wetlands, to deal with climate change and improve human well-being. However, choosing the right option is difficult because each choice offers a mix of different benefits, such as cooling the air, managing stormwater, and supporting biodiversity, all while dealing with uncertainty. To solve this problem, this study introduces a decision-support framework that combines expert judgment with advanced mathematical weighting and ranking methods. Using a classification system to guide the choice of benefits, the researchers evaluated several green infrastructure alternatives. The results show that stormwater management and flood mitigation is the most important evaluation criterion. Among the choices tested, constructed wetlands emerged as the top-ranked alternative, showing positive performance across most criteria despite facing trade-offs regarding costs and technical feasibility. Robustness checks confirmed that constructed wetlands consistently stayed in the lead, giving urban planners a reliable way to prioritize nature-based investments.",
-    "caveats": [
-     "The resulting prioritization is expert-based and context-specific.",
-     "Trade-offs remain for cost-effectiveness, long-term replacement cost, and technical feasibility.",
-     "Greater variation is observed among the lower-ranked options."
-    ],
-    "jargon": [
-     {
-      "term": "Green infrastructure",
-      "definition": "Nature-based solutions like wetlands and green roofs that provide environmental and social benefits."
-     },
-     {
-      "term": "Ecosystem service bundles",
-      "definition": "Groups of multiple ecological benefits that occur together and interact within a landscape."
-     },
-     {
-      "term": "Multi criteria Decision Aiding",
-      "definition": "A decision-making tool that evaluates options using multiple, often conflicting criteria."
-     },
-     {
-      "term": "Constructed wetlands",
-      "definition": "Man-made wetland systems designed to treat wastewater or manage stormwater using natural processes."
-     }
-    ],
-    "fit": "Connects to urban ecosystem services and environmental planning by providing a structured decision framework for prioritizing nature-based solutions."
-   },
-   "thesis": {
-    "why": "It addresses how to prioritize green infrastructure interventions, matching the student's focus on ecosystem service supply, stormwater retention, and planning applications.",
-    "action": "Check how the study handles uncertainty and expert weighting for potential adaptation to data-scarce settings.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How reliable are expert-based rankings when applied to data-scarce or very different urban contexts?",
-    "evidence": "The abstract explicitly states that the resulting prioritization is expert-based and context-specific.",
-    "limit": "The abstract does not provide empirical biophysical measurements of the ecosystem services delivered by each option.",
-    "check": "Verify whether the criteria weights can be transferred to cities with different climates or data limitations."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1038/s41598-026-77003-9",
-    "doi": "https://doi.org/10.1038/s41598-026-77003-9",
-    "venue": "Scientific Reports",
-    "date": "2026-10-27",
-    "authors": [
-     "Ertuğrul Ayyıldız",
-     "Betül Yıldırım",
-     "Tolga Kudret Karaca",
-     "Bahar Yalçın Kavuş"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7167210284",
-   "title": "Community-led design of nature-based solutions for mangroves in Placencia, Belize",
-   "headline": "Community mapping and modeling mangrove benefits in Belize",
-   "bullets": [
-    "Combined community workshops with spatial modeling to plan mangrove restoration.",
-    "Found prioritizing local areas could boost carbon storage, fisheries, and tourism.",
-    "Shows local knowledge improves nature-based solution design and investment."
-   ],
-   "plain": {
-    "question": "How can local community knowledge and computer maps help plan better mangrove protection and restoration?",
-    "method": "The researchers held workshops with local people to map their ideas, then used computer models to calculate benefits.",
-    "finding": "Protecting and restoring community-chosen mangrove areas provides significant carbon storage, lobster catch, and tourism value.",
-    "why": "It proves that combining local input with spatial data helps design environmental projects that people actually support."
-   },
-   "full": {
-    "explainer": "Mangroves help protect coasts, fight climate change, and support local livelihoods. However, protecting them often fails because there is little local information linking nature to human benefits. To solve this, researchers worked in Placencia, Belize, to co-design mangrove protection and restoration plans. They held five workshops for local people to share their knowledge and map out where mangroves needed care. The team then used high-resolution habitat maps and computer models to test different scenarios: restoring local priority areas, protecting healthy areas, and following a formal lagoon management plan. They measured changes in four benefits: blue carbon, lobster fisheries, tourism, and sociocultural values. The results showed that restoring 83 hectares and protecting 174 hectares of community-chosen mangroves could significantly increase carbon storage, boost lobster catches, and raise tourism revenue. Even larger benefits came from the broader lagoon plan. Ultimately, beauty and recreation were rated the most important social values. This proves that local, fine-scale analysis helps identify great environmental projects.",
-    "caveats": [
-     "The abstract does not state potential negative socioeconomic trade-offs or implementation costs.",
-     "Not stated whether long-term ecological monitoring was conducted post-implementation."
-    ],
-    "jargon": [
-     {
-      "term": "nature-based solutions",
-      "definition": "Actions to protect, manage, and restore ecosystems to address societal challenges."
-     },
-     {
-      "term": "blue carbon",
-      "definition": "Carbon captured and stored by coastal and marine ecosystems like mangroves."
-     },
-     {
-      "term": "InVEST models",
-      "definition": "Software tools used to map and value the goods and services from nature."
-     },
-     {
-      "term": "participatory mapping",
-      "definition": "A method involving local communities in creating maps based on their own knowledge."
-     }
-    ],
-    "fit": "Demonstrates combining stakeholder engagement with spatial modeling to evaluate ecosystem service benefits for environmental planning."
-   },
-   "thesis": {
-    "why": "Demonstrates a transferable method for integrating participatory stakeholder mapping with spatial modeling to evaluate ecosystem service scenarios.",
-    "action": "Check how the study quantified sociocultural values alongside biophysical InVEST models.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How were qualitative community priorities translated into quantitative spatial inputs for the InVEST models?",
-    "evidence": "The abstract mentions combining participatory mapping across five workshops with InVEST models to define scenarios, but does not detail the translation steps.",
-    "limit": "The abstract does not establish how potential conflicts among different stakeholder groups during workshops were resolved.",
-    "check": "Examine the full paper's methodology section regarding how workshop data was converted into map layers for modeling."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1007/s10980-026-02463-3",
-    "doi": "https://doi.org/10.1007/s10980-026-02463-3",
-    "venue": "Landscape Ecology",
-    "date": "2026-10-22",
-    "authors": [
-     "Natasha M. Batista",
-     "Julián Olaya-Restrepo",
-     "Carlie Dario",
-     "Jessica Silver",
-     "Nadia Bood",
-     "Monique Vernon"
-    ],
-    "n_authors": 9,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223659395",
-   "title": "Analysis of Methods Employed Globally to Assess Cultural Ecosystem Services in Urban Parks",
-   "headline": "Global methods for assessing urban park cultural benefits",
-   "bullets": [
-    "Reviewed global methods used to assess cultural ecosystem services in urban parks.",
-    "Found that non-monetary approaches like questionnaires and social media predominated.",
-    "Helps improve method selection and integration into urban environmental planning."
-   ],
-   "plain": {
-    "question": "How do researchers globally measure the non-material benefits people get from urban parks?",
-    "method": "They reviewed 25 previous studies from 2015 to 2025 using a structured literature search.",
-    "finding": "Most studies used non-monetary tools like surveys, interviews, and social media data.",
-    "why": "This helps planners choose better methods to include people's park benefits in cities."
-   },
-   "full": {
-    "explainer": "This paper looks at how researchers around the world study the non-material benefits that people get from urban parks, known as cultural ecosystem services. These are the positive, non-physical things people experience from nature, such as recreation, beauty, and social connections. To understand how these benefits are measured, the authors carried out a systematic literature review. They searched major databases for studies published between 2015 and 2025 and analyzed a final group of 25 papers. Their analysis shows that researchers mostly use non-monetary methods. Tools like questionnaires, interviews, social media data, and public participation geographic information systems are very common. When looking at specific benefits, recreation and leisure appeared in almost all of the studies, followed closely by aesthetic values and social relationships. The paper also points out that current research uses many different methods and is concentrated in specific geographic areas. By mapping out these international trends, limitations, and gaps, the study helps urban planners choose better methods to manage urban parks sustainably.",
-    "caveats": [
-     "Geographical concentration of research was observed.",
-     "Methodological heterogeneity across the reviewed studies.",
-     "Not stated whether findings apply equally to all global regions."
-    ],
-    "jargon": [
-     {
-      "term": "Cultural Ecosystem Services",
-      "definition": "Non-material benefits people obtain from ecosystems, like recreation and spiritual enrichment."
-     },
-     {
-      "term": "PPGIS",
-      "definition": "Public participation geographic information systems used to map people's local knowledge and values."
-     },
-     {
-      "term": "Systematic Literature Review",
-      "definition": "A structured and reproducible way to search and analyze existing research on a specific topic."
-     }
-    ],
-    "fit": "Connects to urban ecosystem service assessments and methods for incorporating human benefits into environmental planning."
-   },
-   "thesis": {
-    "why": "It reviews assessment methods for ecosystem services, helping understand non-material benefits alongside biophysical services like cooling or runoff retention.",
-    "action": "Check how the reviewed non-monetary tools could complement spatial modeling approaches.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How can non-monetary cultural assessment methods be integrated with spatial modeling of biophysical ecosystem services?",
-    "evidence": "The abstract highlights methodological heterogeneity and the predominance of surveys, interviews, and social media data for cultural services.",
-    "limit": "The abstract does not explain how to physically integrate these social methods with biophysical GIS models.",
-    "check": "Verify if the full paper discusses combining PPGIS or social data with spatial mapping tools."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.24857/rgsa.v20n10-007",
-    "doi": "https://doi.org/10.24857/rgsa.v20n10-007",
-    "venue": "Revista de Gestão Social e Ambiental",
-    "date": "2026-10-26",
-    "authors": [
-     "Juliana Nogueira Garcia",
-     "Eliane Guaraldo",
-     "Alexandre Meira de Vasconcelos"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223656815",
-   "title": "Land cover change and vegetation trends in South Darfur Sudan using dynamic world",
-   "headline": "Vegetation and climate shifts in Sudan",
-   "bullets": [
-    "Used satellite data and weather records to track land cover and climate trends.",
-    "Found tree cover and plant greenness increased while bare ground declined.",
-    "Shows how to monitor environmental change in data-scarce and conflict zones."
-   ],
-   "plain": {
-    "question": "How did land cover, plants, and weather change over time in a semi-arid region of Sudan?",
-    "method": "Analyzed satellite images, plant health indexes, surface temperature, and weather records over years.",
-    "finding": "Tree cover and plant greenness increased, rainfall went up, and temperatures warmed.",
-    "why": "It helps track environmental changes in tough, data-poor areas."
-   },
-   "full": {
-    "explainer": "Researchers looked at how land cover and weather changed in a semi-arid part of Sudan called Buram Locality. They used high-resolution satellite data from 2016 to 2025 alongside long-term weather records dating back to 1980. To spot trends, they used specialized computer tools and statistical tests. The results showed that tree cover grew from about 13 percent to 18 percent, while bare ground shrank. Plant greenness also increased overall, especially during the dry season. At the same time, the area experienced significant long-term warming and increased rainfall. However, the study could not prove the exact causes behind these shifts using the available data. Ultimately, the paper highlights how scientists can combine satellite observations and climate records to monitor environmental changes in regions affected by conflict and a lack of data.",
-    "caveats": [
-     "Observed patterns cannot be attributed to specific drivers based on available data.",
-     "None of the examined vegetation-climate correlations were statistically significant at p < 0.05."
-    ],
-    "jargon": [
-     {
-      "term": "Normalized Difference Vegetation Index",
-      "definition": "A satellite-based indicator used to measure plant greenness and health."
-     },
-     {
-      "term": "Land Surface Temperature",
-      "definition": "How hot the surface of the land is, measured using satellite thermal data."
-     },
-     {
-      "term": "Mann-Kendall test",
-      "definition": "A statistical test used to check if a time-series dataset has an upward or downward trend."
-     },
-     {
-      "term": "Sen’s slope estimator",
-      "definition": "A statistical method used to calculate the magnitude of a trend over time."
-     }
-    ],
-    "fit": "It shares methods like land-cover accuracy and remote sensing in a data-scarce, semi-arid setting, relevant to Global South planning."
-   },
-   "thesis": {
-    "why": "It models land-cover change and vegetation trends using high-resolution Earth observation data, which aligns with methods for analyzing environmental change in data-scarce regions.",
-    "action": "Check how the authors handled land-cover accuracy assessment using Dynamic World data.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How can you claim environmental trends when the data cannot prove specific causes?",
-    "evidence": "The abstract explicitly notes that observed patterns cannot be attributed to specific climatic or socio-economic drivers.",
-    "limit": "You cannot establish causal links between the drivers and the observed land-cover changes from this study.",
-    "check": "Verify how the study discusses the limitations of linking vegetation changes to climate without proving cause."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1038/s41598-026-77402-y",
-    "doi": "https://doi.org/10.1038/s41598-026-77402-y",
-    "venue": "Scientific Reports",
-    "date": "2026-10-26",
-    "authors": [
-     "Abdalrahman Ahmed",
-     "Ahmed Abdallah Adam",
-     "Musaab A. A. Mohammed",
-     "Kornél Czimber"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223707763",
-   "title": "Forming the Public Realm Through Spatial and Non-Spatial Measures: Public Space and Community Organization in the Peter Nanyemba Informal Settlement, Windhoek",
-   "headline": "Spatial and non-spatial measures reshape public realm",
-   "bullets": [
-    "Used interviews, mapping, and a workshop in Windhoek's Peter Nanyemba informal settlement.",
-    "Found spatial and non-spatial measures foster adaptation but can cause fragmentation.",
-    "Shows how environmental risks and responses reshape public space and community organization."
-   ],
-   "plain": {
-    "question": "How do physical and non-physical actions shape public spaces and community groups in an informal settlement facing floods?",
-    "method": "The study used talks with residents and experts, map-making, and a community feedback workshop at multiple local levels.",
-    "finding": "Actions help people adapt and learn together, but they can also cause division, inequality, and bad outcomes.",
-    "why": "It helps us see how communities respond to regular environmental dangers through changes in space and organization."
-   },
-   "full": {
-    "explainer": "In informal settlements, public spaces and community groups are constantly changing because of everyday actions and environmental threats. This study looks at the Peter Nanyemba informal settlement in Windhoek, Namibia, which deals with recurring flash floods. To handle these floods, residents use both spatial measures, like physical changes, and non-spatial measures, like community organization. The researchers used semi-structured interviews with residents and experts, mapping exercises, and a community feedback workshop to study these processes across household, neighborhood, and block scales. The results show that physical and non-physical actions work together as a linked system. They can help people adapt to their surroundings, learn collectively, and build stronger community organization. However, these same measures can also create fragmentation, inequalities, coordination problems, and maladaptive outcomes where things actually get worse. Ultimately, the research demonstrates how recurring environmental risks and daily human responses continually reshape the public realm through a mix of physical and organizational changes.",
+    "explainer": "A recent major global assessment by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services concluded that voluntary corporate actions alone cannot stop biodiversity loss. To truly protect nature, there must be broader shifts in the policy, economic, financial, social, and knowledge systems that guide business behavior and environmental results. However, current management research on biodiversity mostly focuses on individual firms—what single companies measure, disclose, and do—while ignoring these larger systemic issues. To fix this, researchers propose four new priorities: studying the political economy of inaction, understanding the limits of organizational capability, testing ways to organize beyond economic growth, and rethinking how firms relate to nature. Pursuing these goals requires work that crosses different academic disciplines and teams up with the real-world actors who shape and experience biodiversity outcomes to co-create useful knowledge.",
     "caveats": [
      "Not stated",
      "Not stated"
     ],
     "jargon": [
      {
-      "term": "Informal settlement",
-      "definition": "Residential areas where housing has been built without official land rights or legal planning."
+      "term": "Intergovernmental Science‑Policy Platform on Biodiversity and Ecosystem Services",
+      "definition": "A global body that assesses the state of biodiversity and ecosystem services."
      },
      {
-      "term": "Public realm",
-      "definition": "The spaces and interactions between people in a community, understood here through public space and organization."
-     },
-     {
-      "term": "Maladaptive outcomes",
-      "definition": "Actions or responses that unintentionally make vulnerabilities or conditions worse instead of helping."
+      "term": "Transdisciplinary",
+      "definition": "Research that co-produces decision-relevant knowledge with actors who shape outcomes."
      }
     ],
-    "fit": "Connects to informal settlement dynamics and responses to environmental risks like flooding in the Global South."
+    "fit": "Highlights how broader political, economic, and social systems shape environmental outcomes beyond individual actors or site-level actions."
    },
    "thesis": {
-    "why": "It addresses informal settlements and environmental risks, offering insight into how communities organize spatially and socially under stress.",
-    "action": "Check the full paper for details on how non-spatial measures interact with spatial adaptation.",
+    "why": "It addresses system-level drivers and governance issues, which relate to environmental planning and social-ecological systems in the student's broader learning goals.",
+    "action": "Check if the paper discusses urban systems or land-use planning.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How do you separate the independent impacts of spatial versus non-spatial measures if they operate as an interlinked system?",
-    "evidence": "The abstract states that spatial and non-spatial measures operate as an interlinked system that fosters adaptation but also fragmentation.",
-    "limit": "The abstract does not give quantitative measurements or separate causal pathways for spatial versus non-spatial impacts.",
-    "check": "Verify how the researchers methodologically isolated the effects of spatial measures from non-spatial community actions."
+    "question": "How do corporate-level business frameworks apply to urban ecosystem services in data-scarce, conflict-affected cities like Kabul?",
+    "evidence": "The abstract focuses on corporate behavior, voluntary company actions, and firm-centric management research.",
+    "limit": "The abstract does not mention urban land-cover change, ecosystem service modeling, or specific contexts like Kabul.",
+    "check": "Verify whether the four proposed research priorities offer actionable insights for urban planning or remain purely corporate."
    },
-   "relevance": 3,
-   "watch": null,
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
    "source": {
-    "url": "https://doi.org/10.26439/limaq2026.n018.8505",
-    "doi": "https://doi.org/10.26439/limaq2026.n018.8505",
-    "venue": "Limaq",
-    "date": "2026-10-26",
+    "url": "https://doi.org/10.1177/10860266261500669",
+    "doi": "https://doi.org/10.1177/10860266261500669",
+    "venue": "Organization & Environment",
+    "date": "2026-10-27",
     "authors": [
-     "Elsa Yepez Westreicher",
-     "Astrid Ley",
-     "Ute Vees",
-     "Mohamed A. Salheen",
-     "Gaby Hansen"
+     "Rajat Panwar",
+     "Joseph W. Bull",
+     "Beatrice Crona",
+     "Ryo Kohsaka",
+     "Lisa Mandle"
     ],
     "n_authors": 5,
+    "open_access": false,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7224081570",
+   "title": "From climate hazards to diet and physical activity pathways: Investigating policy intersections for health in five global South Cities",
+   "headline": "Policy intersections for health in five Global South cities",
+   "bullets": [
+    "Investigated policy intersections for health in five Global South cities.",
+    "Not stated in the provided abstract text.",
+    "Highlights health and policy pathways in Global South urban areas."
+   ],
+   "plain": {
+    "question": "How do policies connect climate hazards to diet and physical activity in five cities?",
+    "method": "Not stated in the provided abstract.",
+    "finding": "Not stated in the provided abstract.",
+    "-": "not stated",
+    "why": "It helps us understand health policies in cities of the Global South."
+   },
+   "full": {
+    "explainer": "This paper looks at how different policies connect climate hazards to diet and physical activity in five cities located in the Global South. Urban areas face unique challenges related to environmental changes and human health. By investigating the intersections of these policies, researchers can better understand how city planning and health outcomes link together. The study focuses specifically on five Global South cities, examining pathways from climate hazards to everyday health behaviors like eating and moving. However, because the provided text is only an abstract header and lacks the core results section, specific details about the methods used, the exact findings discovered, and the broader implications are not stated. For a student studying urban environments and planning, this work provides a relevant regional context regarding health and climate intersections in the Global South, even though the exact details require reading the full paper.",
+    "caveats": [
+     "Not stated"
+    ],
+    "jargon": [
+     {
+      "term": "Global South",
+      "definition": "Regions often characterized by lower income and developing economies, mostly in the Southern Hemisphere."
+     },
+     {
+      "term": "Policy intersections",
+      "definition": "Areas where different government rules and strategies overlap and affect one another."
+     }
+    ],
+    "fit": "It relates to Global South urban contexts and health pathways, complementing broader environmental planning and ecosystem service research."
+   },
+   "thesis": {
+    "why": "It provides contextual background on health and policy pathways in five Global South cities, which relates broadly to urban planning and human well-being.",
+    "action": "Check the full text to see if any ecosystem services or environmental planning policies are explicitly linked to health.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How can we evaluate policy intersections without explicit ecosystem service or spatial data in the abstract?",
+    "evidence": "The abstract mentions investigating policy intersections for health in five cities, but provides no data, methods, or specific findings.",
+    "limit": "It is impossible to establish any concrete findings, methods, or direct links to environmental planning from this abstract alone.",
+    "check": "Verify whether the full text uses spatial modelling, scenario comparisons, or addresses environmental services."
+   },
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "source": {
+    "url": "https://doi.org/10.1016/j.joclim.2026.100766",
+    "doi": "https://doi.org/10.1016/j.joclim.2026.100766",
+    "venue": "The Journal of Climate Change and Health",
+    "date": "2026-10-28",
+    "authors": [
+     "Meelan Thondoo",
+     "Nina Abrahams",
+     "Elise Borde",
+     "Lidia Morais",
+     "Erin Mathieu",
+     "Damilola Odekunle"
+    ],
+    "n_authors": 20,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7223658826",
-   "title": "Exploring patterns for social‐ecological success of ecosystem restoration worldwide",
-   "headline": "Social and ecological factors shape restoration success",
+   "id": "W7223573041",
+   "title": "Spatial assessment of land-cover-based conservation state and priority in a high-Andean landscape of Huari, Peru",
+   "headline": "Spatial assessment of conservation state and priority in Peru",
    "bullets": [
-    "Analyzed 30 global restoration cases using 58 variables.",
-    "Found three key aspects for successful social-ecological restoration.",
-    "Highlights the need for continuous monitoring and equity in planning."
+    "Assessed land-cover-based conservation state and priority in a high-Andean landscape.",
+    "Mapped spatial distribution of conservation state and priority areas in Huari, Peru.",
+    "Provides spatial evidence to inform environmental planning and conservation efforts."
    ],
    "plain": {
-    "question": "How do social and ecological factors mix to make ecosystem restoration successful?",
-    "method": "We studied 30 global restoration projects using 58 details about society, governance, and nature.",
-    "finding": "Success needs local contexts, participatory governance, and goals addressing both nature and society.",
-    "why": "This helps us learn how to fix damaged land fairly and effectively for both humans and nature."
+    "question": "How can we map conservation states and priorities using land cover in a high-Andean landscape?",
+    "method": "Spatial assessment based on land cover.",
+    "finding": "Evaluated conservation state and priority in Huari, Peru.",
+    "why": "Helps guide conservation and environmental planning in high-Andean regions."
    },
    "full": {
-    "explainer": "Ecosystem restoration is vital for fixing human-caused land damage that hurts biodiversity, food, water, and livelihoods. To make restoration work well and fairly, we must understand how social and ecological factors interact. However, looking back at past projects is not yet common in science. This paper looked at 30 restoration case studies from around the world. The authors used 58 different variables covering the social and ecological setting, how the restoration was done, and what outcomes happened. They used a grouping method to find project types based on their approaches. The results show three main ways to reach success: first, by respecting local social-ecological conditions like land rights, power dynamics, and history; second, by supporting flexible, participatory governance led by locals or shared with higher groups; and third, by setting broad goals for both people and nature while using diverse knowledge systems and ensuring fairness. The paper also stresses the importance of ongoing monitoring and standard evaluations to improve future work, offering best practices since there is no single solution.",
+    "explainer": "This paper presents a spatial assessment of the conservation state and conservation priorities in a high-Andean landscape located in Huari, Peru. By looking at land cover, the study evaluates how different areas stand in terms of conservation. High-Andean landscapes are important ecosystems that require careful environmental planning and management. Although the short abstract does not provide specific details on the exact datasets or numerical findings, it focuses on mapping and prioritizing areas for conservation based on spatial data. This type of research helps planners and decision-makers identify which parts of a landscape are most in need of protection or restoration. For a researcher studying urban ecosystem services, land-cover change, and environmental planning in the Global South, this paper offers a concrete example of how spatial assessments of land cover are conducted to support conservation goals, even though the study is located in a rural or natural high-Andean setting rather than a major urban center like Kabul.",
     "caveats": [
-     "Only 30 case studies globally were selected and analyzed.",
-     "Post-hoc assessments are not yet mainstreamed in technical literature, per the text."
+     "not stated",
+     "not stated"
     ],
     "jargon": [
      {
-      "term": "Ecosystem restoration",
-      "definition": "Actions to assist the recovery of an ecosystem that has been degraded, damaged, or destroyed."
+      "term": "High-Andean landscape",
+      "definition": "A mountainous region located at high elevations in the Andes mountain range."
      },
      {
-      "term": "Hierarchical cluster analysis",
-      "definition": "A statistical method used to group similar items into categories based on shared characteristics."
-     },
-     {
-      "term": "Participatory governance",
-      "definition": "Decision-making processes that actively involve local populations in managing resources."
+      "term": "Spatial assessment",
+      "definition": "An evaluation or analysis of data that is mapped across geographic space."
      }
     ],
-    "fit": "Connects via governance, social-ecological contexts, equity, and monitoring, which parallel urban environmental planning challenges in Kabul."
+    "fit": "Shows land-cover spatial assessment methods in a Global South high-mountain setting, relevant for landscape-level environmental planning."
    },
    "thesis": {
-    "why": "It links social factors like tenure and governance to ecological success, aligning with social-ecological systems and environmental justice.",
-    "action": "Check how the study defines social-ecological success and see if its governance insights apply to data-scarce urban settings.",
-    "relationship": "context"
+    "why": "Provides an example of spatial land-cover assessment for conservation priority in a Global South mountain setting, sharing methodological themes with spatial modeling.",
+    "action": "Check if the paper uses transferable spatial mapping or landscape metric techniques applicable to data-scarce regions.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "Can global case studies of ecosystem restoration directly inform urban environmental planning in data-scarce settings like Kabul?",
-    "evidence": "The abstract mentions selecting 30 restoration case studies globally and focusing on social-ecological contexts, governance, and equity.",
-    "limit": "The abstract does not state whether the findings apply to urban areas, formal/informal settlements, or data-scarce, conflict-affected cities.",
-    "check": "Verify if any of the 30 case studies are urban or semi-arid, and how local governance lessons transfer to urban green-blue infrastructure."
+    "question": "How does a purely land-cover-based assessment account for actual biodiversity or ecological function?",
+    "evidence": "The abstract mentions a 'spatial assessment of land-cover-based conservation state and priority' without detailing field validations.",
+    "limit": "The abstract does not state whether model estimates reflect real ecological conditions or actual measured biodiversity.",
+    "check": "Verify how conservation state was defined and whether land-cover proxies were validated with ground data."
    },
-   "relevance": 3,
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+   "source": {
+    "url": "https://doi.org/10.1007/s10531-026-03510-w",
+    "doi": "https://doi.org/10.1007/s10531-026-03510-w",
+    "venue": "Biodiversity and Conservation",
+    "date": "2026-10-25",
+    "authors": [
+     "Carlos Carbajal",
+     "Vriclizar Diana",
+     "Teodoro Bill Yalli Huamani",
+     "Kevin Ortega"
+    ],
+    "n_authors": 4,
+    "open_access": false,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7224090949",
+   "title": "Land use transitions drive ecosystem service supply–demand balance: spatiotemporal assessment and risk zoning in the Three Gorges Reservoir Area (Hubei section)",
+   "headline": "Land use shifts drive ecosystem supply and demand",
+   "bullets": [
+    "Used InVEST and multiple regression to study ecosystem services from 2000 to 2020.",
+    "Found land use changes are the leading driver, causing soil retention deficits.",
+    "Categorized zones into risk areas to support customized land management."
+   ],
+   "plain": {
+    "question": "How do changes in land use affect the balance of nature's benefits and human needs over time?",
+    "method": "They used computer models and maps to track land changes, water yield, carbon storage, food, and soil retention.",
+    "finding": "Land changes caused major shifts in the balance of benefits, with soil retention staying in deficit.",
+    "why": "It helps divide regions into risk zones to plan better land management and protect nature."
+   },
+   "full": {
+    "explainer": "This paper looks at how human activities and land changes alter the balance between what nature provides and what people need. Focusing on an ecologically vulnerable region from 2000 to 2020, the researchers studied four main benefits: water yield, carbon storage, food production, and soil retention. By combining land use maps with computer models like InVEST, they tracked how these benefits changed over time. They discovered that shifts between cropland, forest, and built-up areas were the main drivers of the changes. While carbon storage, food, and water improved, soil retention remained in deficit. Statistical tests showed that land use alone accounted for over half of the variation in these benefits. By grouping areas with similar changes, the researchers mapped out risk zones—such as high-risk and stable areas—to help local leaders plan better land management and protect the environment.",
+    "caveats": [
+     "The study focuses on the Three Gorges Reservoir Area, so results may differ elsewhere.",
+     "Soil retention remained in deficit, but exact flood or economic risks are not stated."
+    ],
+    "jargon": [
+     {
+      "term": "Ecosystem services",
+      "definition": "The benefits that humans freely gain from natural environments and properly functioning ecosystems."
+     },
+     {
+      "term": "InVEST model",
+      "definition": "A software tool used to map and value the goods and services from nature that sustain human life."
+     },
+     {
+      "term": "Redundancy analysis",
+      "definition": "A statistical method used to explain how much variation in one set of variables is explained by another."
+     },
+     {
+      "term": "Spatial autocorrelation",
+      "definition": "A measure of how much objects or values that are close to each other in space are similar."
+     }
+    ],
+    "fit": "Connects via land use transitions, ecosystem service supply-demand balances, InVEST modeling, and spatial clustering methods."
+   },
+   "thesis": {
+    "why": "It shows how land use transitions affect ecosystem service supply and demand using InVEST, matching the student's focus on modeling and planning.",
+    "action": "Check how they measured service demand versus supply to improve your own indicator selection.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "How was service demand quantified independently of supply in this spatial assessment?",
+    "evidence": "The abstract mentions supply-demand ratios and spatial clustering of changes but does not explain how human demand was measured.",
+    "limit": "It cannot be established how human demand metrics were calculated or if they reflect actual consumption.",
+    "check": "Verify the exact datasets and equations used to calculate service demand in the full paper text."
+   },
+   "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1002/pan3.70471",
-    "doi": "https://doi.org/10.1002/pan3.70471",
-    "venue": "People and Nature",
-    "date": "2026-10-26",
+    "url": "https://doi.org/10.3389/fenvs.2026.1948370",
+    "doi": "https://doi.org/10.3389/fenvs.2026.1948370",
+    "venue": "Frontiers in Environmental Science",
+    "date": "2026-10-28",
     "authors": [
-     "Greta Bindernagel",
-     "María Trinidad Torres García",
-     "Manuel Pacheco‐Romero"
+     "Jun Shao",
+     "Tianci Liu",
+     "Li Zeng",
+     "Xincan Yu"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7224087405",
+   "title": "Blue-Green Infrastructure as a Territorial Planning Instrument: Quantifying the Contributions of Land Use Change and Climate Forcing to 2050 Flood Risk in a Peri-Urban Coastal Watershed, Rio de Janeiro, Brazil",
+   "headline": "Land changes drive future floods more than climate",
+   "bullets": [
+    "Modeled 2050 flood risk under different land and climate futures",
+    "Uncontrolled growth doubled high-risk areas while climate alone grew less",
+    "Helps plan better land use and green infrastructure to cut flood risk"
+   ],
+   "plain": {
+    "question": "How will future land changes and climate shifts affect urban flood risks?",
+    "method": "They used a computer flood model to test different 2050 growth and climate futures.",
+    "finding": "Bad land growth increased flood depths and risks much more than climate changes alone.",
+    "why": "It shows that smart land planning can protect cities from future floods."
+   },
+   "full": {
+    "explainer": "This study looks at how future flooding in a coastal watershed in Rio de Janeiro will be affected by two things: changes in how land is used, and changes in the climate. The researchers tested twelve different futures for the year 2050. These combined three different urban growth paths—ranging from uncontrolled development to a planned path using nature-based solutions and moving people out of danger zones—with different levels of heavy rain and sea-level rise. They used a computer model to simulate floods and created a risk index based on water depth and exposure. Their results show that uncontrolled urban growth causes much worse flooding across the area than climate change does on its own. Only the planned scenario, which included green infrastructure and relocating residents, successfully reduced overall flood risk and increased safe areas compared to the baseline. This proves that local land management plays a massive role in future flood safety.",
+    "caveats": [
+     "Results are specific to this watershed, scenario set, and 2050 horizon.",
+     "The computer model represented open channels but not the storm sewer network."
+    ],
+    "jargon": [
+     {
+      "term": "Blue-Green Infrastructure",
+      "definition": "Network of natural and semi-natural water and vegetation elements used for planning."
+     },
+     {
+      "term": "Hydrodynamic model",
+      "definition": "A computer program that simulates how water flows and moves across the land or in channels."
+     },
+     {
+      "term": "Design storm",
+      "definition": "A hypothetical rainfall event used to test how drainage and flood systems perform."
+     }
+    ],
+    "fit": "Shows how urban land-cover change and scenario planning affect environmental risks in the Global South."
+   },
+   "thesis": {
+    "why": "It models future urban development scenarios and environmental planning in the Global South, testing how land-cover change impacts environmental risks.",
+    "action": "Check how they combined hazard and exposure into a single risk index for your own spatial models.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does this study prove that land use changes always outweigh climate change everywhere?",
+    "evidence": "The abstract states that uncontrolled urban growth increased simulated depths in 50.2% of cells, compared to 20.3% for climate alone in this basin.",
+    "limit": "You cannot establish whether this specific ratio of land use to climate impact applies outside this coastal watershed.",
+    "check": "Verify how they weighted hazard and exposure in the Flood Risk Index to ensure it matches your framework."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.3390/land15112044",
+    "doi": "https://doi.org/10.3390/land15112044",
+    "venue": "Land",
+    "date": "2026-10-28",
+    "authors": [
+     "Lucas Magalhães Carneiro Alves",
+     "Bruno Lima Tabet",
+     "Osvaldo Moura Rezende",
+     "Marcelo Gomes Miguez"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223915193",
+   "title": "Morphological and thermal validation of LCZs: Applicability of the LCZ scheme in heterogeneous arid urban environments",
+   "headline": "Testing Local Climate Zones in an arid city",
+   "bullets": [
+    "Used GIS, field surveys, and temperature sensors to test climate zones in Mendoza.",
+    "Found thermal differences between dense zones and vegetated, low-density zones.",
+    "Shows international climate zones need local validation in unique arid cities."
+   ],
+   "plain": {
+    "question": "Do standard climate zones work in dry cities with lots of plants?",
+    "method": "We used maps, camera photos, field checks, and air temperature sensors.",
+    "finding": "Dense areas stayed warmer while vegetated areas differed, but standard zones need local updates.",
+    "why": "Helps planners make dry cities more resilient by using accurate local climate data."
+   },
+   "full": {
+    "explainer": "This study tests how well a standard global classification system, called Local Climate Zones, applies to the dry urban environment of Mendoza, Argentina. Many cities have open layouts and lots of linear plants that do not fit standard global models easily. The researchers checked the physical shapes of these zones using geographic tools, camera photos, and field surveys. They also checked air temperatures using sensors during the summer of 2021. The results show that dense zones are very similar in structure and temperature, while low-density and vegetated zones differ clearly. However, the data also reveals that global reference values cannot be copied directly into unique, heterogeneous cities without local checks first. Even though thermal data suggested grouping some zones together, physical differences mean keeping six separate classes is best. This replicable method gives useful insights for sustainable urban planning in similar dry and complex settings.",
+    "caveats": [
+     "Thermal data collected only during the summer of 2021",
+     "Focuses specifically on the Metropolitan Area of Mendoza"
+    ],
+    "jargon": [
+     {
+      "term": "Local Climate Zones",
+      "definition": "A classification system used to group urban areas based on surface structure and cover."
+     },
+     {
+      "term": "Hemispherical imaging",
+      "definition": "A photography method using a fish-eye lens to capture canopy geometry and sky view."
+     },
+     {
+      "term": "Tukey's post-hoc tests",
+      "definition": "A statistical test used to find which specific groups differ from each other after an ANOVA."
+     }
+    ],
+    "fit": "Matches research on arid environments, land-cover analysis, urban cooling, and the need for local validation in spatial planning."
+   },
+   "thesis": {
+    "why": "It shows that standard urban climate classifications must be validated locally in arid settings, aligning with your focus on land-cover and planning.",
+    "action": "Check how they handled spatial data accuracy and if their mapping methods align with your remote sensing tools.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Can we trust thermal groupings when morphological classes are kept separate?",
+    "evidence": "The abstract notes that thermal data suggest grouping zones together, but morphological distinctions support keeping six separate classes.",
+    "limit": "The abstract does not state the exact criteria used to decide whether to prioritize thermal or morphological groupings.",
+    "check": "Verify how the authors resolved the mismatch between thermal data groupings and morphological classes."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.20937/atm.53593",
+    "doi": "https://doi.org/10.20937/atm.53593",
+    "venue": "Atmósfera",
+    "date": "2026-10-27",
+    "authors": [
+     "María Florencia Colli",
+     "Claudia Fernanda Martínez",
+     "Erica Norma Correa"
     ],
     "n_authors": 3,
     "open_access": true,
     "basis": "abstract"
    }
+  },
+  {
+   "id": "W7223840453",
+   "title": "İklim Duyarlı Yerleşme Bağlamında Bina Yönlenişlerinin Değerlendirilmesi ve Peyzaj Tabanlı Çözüm Önerileri: Antalya-Kültür Mahallesi Örneği",
+   "headline": "Most buildings poorly oriented for climate",
+   "bullets": [
+    "Mapped building orientations and green areas in an Antalya neighborhood",
+    "Found 55.2% of buildings have unsuitable orientation and green space is limited",
+    "Highlights how landscape design can help fix climate-unfriendly building layouts"
+   ],
+   "plain": {
+    "question": "How are buildings facing in a warm climate zone, and how does that affect climate?",
+    "method": "They used satellite maps and software to check the angles of buildings, plus field checks for green spaces.",
+    "finding": "More than half of the buildings are turned the wrong way, and there are not enough green areas.",
+    "why": "Poor building direction makes heat worse, but better landscape design can help fix it."
+   },
+   "full": {
+    "explainer": "This paper looks at how buildings are angled in a neighborhood in Antalya, Turkey, to see if they fit a climate-sensitive approach. With global warming and rising energy use, how buildings face the sun matters a lot in hot places. The researchers used digital maps and computer tools to measure the angles of existing buildings compared to the south. They also checked green space using a vegetation index and field observations. The results show that only a small portion of buildings have an ideal orientation, while more than half are poorly oriented. Green space in the area is also very limited. The study concludes that landscape design can act as a useful tool to reduce the disadvantages caused by bad building layouts. For the future, the authors suggest combining architecture and landscape design so new buildings can block unwanted summer sun and make better use of winter sun.",
+    "caveats": [
+     "Study is limited to a single neighborhood in Antalya",
+     "Not stated if indoor temperatures or energy consumption were directly measured"
+    ],
+    "jargon": [
+     {
+      "term": "İklim duyarlı yerleşme",
+      "definition": "Urban planning approaches that adapt to local climate conditions to save energy and improve comfort."
+     },
+     {
+      "term": "NDVI",
+      "definition": "A satellite-based index used to measure the amount of green vegetation in an area."
+     },
+     {
+      "term": "Pasif güneş enerjisi",
+      "definition": "Using building design to gather and store heat from the sun without active mechanical systems."
+     }
+    ],
+    "fit": "Shows how spatial layout and green spaces interact with climate, offering a methodological example for evaluating urban environmental form."
+   },
+   "thesis": {
+    "why": "Connects spatial arrangements like building orientation and green areas to microclimate conditions and urban planning solutions.",
+    "action": "Check how they combined spatial map data with field observations to evaluate local environmental performance.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Did the authors measure actual microclimate changes, or just calculate sun angles and green space presence?",
+    "evidence": "The abstract mentions checking building angles, green plant index, and field observations, but does not list direct temperature or energy measurements.",
+    "limit": "It cannot be established from the abstract whether the poor orientation actually caused specific energy losses or high temperatures.",
+    "check": "Verify if the full paper includes actual energy consumption data or thermal comfort modeling to back up the orientation claims."
+   },
+   "relevance": 3,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.35229/jaes.2042551",
+    "doi": "https://doi.org/10.35229/jaes.2042551",
+    "venue": "Journal of Anatolian Environmental and Animal Sciences",
+    "date": "2026-10-27",
+    "authors": [
+     "Emine Kahraman",
+     "Nihat Karakuş"
+    ],
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7223671326",
+   "title": "Developing a climate responsive X minute city framework for walkability planning in Bahrain",
+   "headline": "A new walkability framework for hot-arid cities",
+   "bullets": [
+    "Created a climate-responsive minute city framework for Bahrain's hot-arid context.",
+    "Found that traditional proximity models fail without thermal comfort integration.",
+    "Informs planning by combining accessibility, shade, cooling, and transit."
+   ],
+   "plain": {
+    "question": "How can cities with very hot weather plan for people to walk easily?",
+    "method": "Reviewed literature, compared policies, and used computer mapping for Salman City.",
+    "finding": "Standard walking models do not work in extreme heat without adding cooling and shade.",
+    "why": "Helps design better neighborhoods where people can safely walk to everyday services."
+   },
+   "full": {
+    "explainer": "Cities in the Gulf region are small enough for close-by planning, but their extreme heat makes walking very difficult. This paper looks at Bahrain, a hot place where people mostly use cars. Because standard proximity models do not work well in hot-arid environments, the authors created a new concept called the Climate-Responsive X-Minute City framework. This idea updates normal access planning by including thermal comfort and whether the climate allows people to walk outside. The researchers used a literature review, policy study, and a geographic information system test for Salman City. They mapped walking access to services and transit within different time limits. The new framework includes six dimensions: neighborhood access, land-use variety, walking infrastructure, public transport, climate adaptation, and governance. Testing it in Salman City helped find service gaps and showed how to prioritize future changes. Overall, this study helps connect shade, greening, and cooling with neighborhood planning in hot cities.",
+    "caveats": [
+     "The GIS analysis is only an illustrative diagnostic for Salman City.",
+     "Not stated whether long-term health or actual behavioral changes were measured."
+    ],
+    "jargon": [
+     {
+      "term": "X-minute city",
+      "definition": "An urban model where residents can reach daily necessities within a short walk or bike ride."
+     },
+     {
+      "term": "Hot-arid environment",
+      "definition": "A geographic region characterized by very high temperatures and very low moisture or rainfall."
+     },
+     {
+      "term": "GIS-based accessibility diagnostic",
+      "definition": "Using computer mapping tools to measure how easily people can reach various destinations."
+     }
+    ],
+    "fit": "Connects to environmental planning, spatial access, and climate adaptation in warm, urbanized regions."
+   },
+   "thesis": {
+    "why": "Connects to environmental planning and spatial access methods, showing how to adapt urban frameworks for climate constraints like extreme heat in developing regions.",
+    "action": "Check how they integrated thermal comfort into time-based spatial access thresholds.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does time-based mapping truly capture actual human behavior when extreme heat deters outdoor movement?",
+    "evidence": "The study maps network-based walking access and proposes a framework incorporating thermal comfort, but relies on an illustrative GIS diagnostic rather than empirical travel data.",
+    "limit": "The abstract does not establish whether residents actually walk when physical infrastructure and climate adaptation measures are applied.",
+    "check": "Verify how thermal comfort metrics were operationalized within the spatial network analysis."
+   },
+   "relevance": 3,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1007/s44327-026-00388-9",
+    "doi": "https://doi.org/10.1007/s44327-026-00388-9",
+    "venue": "Discover Cities",
+    "date": "2026-10-26",
+    "authors": [
+     "Nazish Abid",
+     "Sagarika Nayak",
+     "Samskruthi S Prabhu",
+     "Somi Sareen"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
   }
  ],
- "more": [
-  {
-   "title": "Anticipating street-flooding complaints through rainfall data: a Value-at-Risk approach for urban operations",
-   "url": "https://doi.org/10.1016/j.cacint.2026.100511",
-   "venue": "City and Environment Interactions",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "The interplay of landscape connectivity, composition and configuration in alien plant invasions across an…",
-   "url": "https://doi.org/10.1007/s10980-026-02461-5",
-   "venue": "Landscape Ecology",
-   "date": "2026-10-24"
-  },
-  {
-   "title": "ECO-THEOLOGY AND FAITH LEADERS’ CONTRIBUTIONS TO CLIMATE RESILIENCE AND ENVIRONMENTAL SUSTAINABILITY IN KENYA",
-   "url": "https://www.ijtase.net/index.php/php/article/view/495",
-   "venue": "International Journal of New Trends in Arts, Sports & Science Education (IJTASE)",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "Monsoon-driven dry-wet seasonal contrast reveals mitigation opportunity for methane emissions in South Asia",
-   "url": "https://doi.org/10.1038/s41612-026-01586-3",
-   "venue": "npj Climate and Atmospheric Science",
-   "date": "2026-10-25"
-  }
- ]
+ "more": []
 }

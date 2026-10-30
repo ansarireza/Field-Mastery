@@ -90,5 +90,53 @@
    }
   ],
   "search": "remote sensing urban land cover change"
+ },
+ {
+  "id": "f2ebe1df2e",
+  "date": "2026-10-30",
+  "term": "Decentralized environmental governance",
+  "area": "Environmental governance",
+  "kind": "concept",
+  "definition": "Decentralized environmental governance spreads decision-making power for natural resources from central authorities to local actors.",
+  "plain": "Instead of a central government making all the rules, local communities and lower-level authorities share the power to manage nature. In fast-growing cities, this means local people help protect green spaces and water rather than waiting for distant leaders.",
+  "example": "In a Global South city, neighborhood committees work with local leaders to manage urban parks and rainwater rather than waiting for the national capital.",
+  "connects": "It connects to environmental justice and governance by shaping who benefits from urban ecosystem services.",
+  "why_phd": "Vital for understanding how local management affects urban nature access in data-scarce settings like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is decentralized environmental governance?",
+    "a": "Moving decision-making power from central authorities to local actors and communities."
+   },
+   {
+    "q": "Why does it matter for urban planning?",
+    "a": "It allows local communities to better manage and access nearby nature and resources."
+   }
+  ],
+  "search": "decentralized environmental governance Global South"
+ },
+ {
+  "id": "dd44048c23",
+  "date": "2026-10-30",
+  "term": "Geodetector",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Geodetector is a spatial statistical method used to detect and measure the geographical drivers behind environmental phenomena.",
+  "plain": "Imagine you want to know why urban heat is worse in some neighborhoods than others. Geodetector helps you test different factors—like building density, green space, or elevation—to see which one causes or strongly relates to the pattern.",
+  "example": "In a dense Global South city, Geodetector can test whether vegetation cover or settlement type has a stronger statistical link to urban cooling.",
+  "connects": "It connects spatial statistics with land-cover change and ecosystem service supply to find hidden drivers.",
+  "why_phd": "It helps you rigorously prove which environmental or social factors drive changes in urban ecosystem services.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main purpose of Geodetector?",
+    "a": "To detect and measure the geographical factors that drive specific environmental or spatial patterns."
+   },
+   {
+    "q": "Why is Geodetector useful for studying urban ecosystem services?",
+    "a": "It helps identify which land-cover or settlement factors strongly influence ecological functions like cooling."
+   }
+  ],
+  "search": "Geodetector urban ecosystem drivers"
  }
 ]
