@@ -461,26 +461,27 @@
  "asked": [
   "dd0d2a54e5",
   "4bf5f52f2b",
-  "487c1d305b"
+  "487c1d305b",
+  "6e3dded1e0"
  ],
  "today": {
-  "id": "487c1d305b",
+  "id": "6e3dded1e0",
   "scope": "the whole thesis",
-  "q": "Given that habitat quality is not measured biodiversity and runoff retention is not flood risk, how do you manage these limitations?",
-  "type": "limitations",
+  "q": "How do you separate spatial associations from the causal effects of settlement status, such as formal versus informal areas?",
+  "type": "alternative explanations",
   "outline": [
-   "Explicitly state InVEST output definitions and limits",
-   "Clarify that habitat quality is a proxy, not biodiversity",
-   "Clarify that runoff retention is not direct flood depth"
+   "Acknowledge the difference between correlation and causation",
+   "Discuss settlement morphology and land-cover change variables",
+   "Propose methods to control for confounding socio-spatial factors"
   ],
-  "pitfall": "Overstclaiming model outputs as direct ecological measurements or risk metrics.",
-  "follow_up": "What alternative tools or empirical data would be needed to validate flood risk?",
-  "bring": "A summary table of InVEST metric definitions versus empirical equivalents.",
+  "pitfall": "Assuming settlement status directly causes specific ecological outcomes without causal proof.",
+  "follow_up": "What unmeasured confounders might explain the observed ecosystem service bundles?",
+  "bring": "Spatial statistical models or research design frameworks addressing causality.",
   "self_check": [
-   "Acknowledge proxy limitations",
-   "Distinguish runoff from flood risk",
-   "Distinguish habitat quality from biodiversity"
+   "Addresses spatial association vs causation",
+   "Mentions settlement status",
+   "Considers confounding factors"
   ]
  },
- "today_date": "2026-10-30"
+ "today_date": "2026-10-31"
 }

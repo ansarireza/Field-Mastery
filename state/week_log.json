@@ -72,5 +72,32 @@
    "Decentralized environmental governance",
    "Geodetector"
   ]
+ },
+ "2026-10-31": {
+  "papers": [
+   "Urban trees help climate adaptation in Brazil",
+   "Compound dry-hot stress shifts from episodic to recurrent",
+   "Remote sensing tracks grassland loss and solar land-use risks",
+   "Predicting land cover and urban growth in Kano, Nigeria",
+   "Small water bodies cool cities efficiently",
+   "Media does not drive agendas in low-mediatization places",
+   "Adopting clean tech in remote islands",
+   "Mapping soil quality in Peru using hybrid models",
+   "Drilling powder reused in cement grout"
+  ],
+  "radar": [
+   "November 2026 Funding Opportunities",
+   "Nepal to Push for Mountain Agenda at COP31",
+   "Ho Chi Minh City 100-Year Master Plan Approved",
+   "Hung Yen to Develop Eco-Tourism Urban Area",
+   "Financing Resilience for Dhaka’s Food Vendors"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Drivers of land use change",
+   "Groundwater mineralization"
+  ]
  }
 }

@@ -1,64 +1,64 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "lessons": [
   {
-   "id": "f2ebe1df2e",
-   "date": "2026-10-30",
-   "term": "Decentralized environmental governance",
-   "area": "Environmental governance",
+   "id": "e7a77565bd",
+   "date": "2026-10-31",
+   "term": "Drivers of land use change",
+   "area": "Land use change",
    "kind": "concept",
-   "definition": "Decentralized environmental governance spreads decision-making power for natural resources from central authorities to local actors.",
-   "plain": "Instead of a central government making all the rules, local communities and lower-level authorities share the power to manage nature. In fast-growing cities, this means local people help protect green spaces and water rather than waiting for distant leaders.",
-   "example": "In a Global South city, neighborhood committees work with local leaders to manage urban parks and rainwater rather than waiting for the national capital.",
-   "connects": "It connects to environmental justice and governance by shaping who benefits from urban ecosystem services.",
-   "why_phd": "Vital for understanding how local management affects urban nature access in data-scarce settings like Kabul.",
+   "definition": "Drivers of land use change are the underlying human and natural forces that cause shifts in how land is covered and used over time.",
+   "plain": "Imagine forces pushing a city to grow or change, like people moving from villages to towns, new roads, or changing laws. These forces change farms or open land into buildings or parks, altering nature's benefits for city residents.",
+   "example": "In Kabul, rapid population growth and rural migration drive people to build informal homes on hillsides, turning natural land into built areas.",
+   "connects": "It connects land-cover change directly to how ecosystem services like urban cooling and water yield are supplied.",
+   "why_phd": "You must understand these root causes to design realistic planning scenarios and policy responses for Kabul's unique challenges.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is decentralized environmental governance?",
-     "a": "Moving decision-making power from central authorities to local actors and communities."
+     "q": "What do drivers of land use change explain?",
+     "a": "The human and natural forces that cause shifts in land cover and use over time."
     },
     {
-     "q": "Why does it matter for urban planning?",
-     "a": "It allows local communities to better manage and access nearby nature and resources."
+     "q": "How do these drivers affect Kabul?",
+     "a": "Forces like migration drive informal hillside settlements, changing natural land into built areas."
     }
    ],
-   "search": "decentralized environmental governance Global South"
+   "search": "drivers of land use change"
   },
   {
-   "id": "dd44048c23",
-   "date": "2026-10-30",
-   "term": "Geodetector",
+   "id": "b1c12c08f4",
+   "date": "2026-10-31",
+   "term": "Groundwater mineralization",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Geodetector is a spatial statistical method used to detect and measure the geographical drivers behind environmental phenomena.",
-   "plain": "Imagine you want to know why urban heat is worse in some neighborhoods than others. Geodetector helps you test different factors—like building density, green space, or elevation—to see which one causes or strongly relates to the pattern.",
-   "example": "In a dense Global South city, Geodetector can test whether vegetation cover or settlement type has a stronger statistical link to urban cooling.",
-   "connects": "It connects spatial statistics with land-cover change and ecosystem service supply to find hidden drivers.",
-   "why_phd": "It helps you rigorously prove which environmental or social factors drive changes in urban ecosystem services.",
+   "definition": "Groundwater mineralization is the accumulation of dissolved minerals in subsurface water over time.",
+   "plain": "Groundwater mineralization happens when water underground dissolves rocks and soil minerals. In fast-growing cities with poor sanitation, human activities can also add chemicals and salts to this underground water, affecting its quality for people.",
+   "example": "In Kabul, intense urban growth and shallow wells can lead to higher mineral and pollutant concentrations in the drinking water.",
+   "connects": "It links to annual water yield, ecosystem services, and urban planning challenges in data-scarce settings.",
+   "why_phd": "It helps you assess water quality changes linked to land-cover change and urban development in places like Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the main purpose of Geodetector?",
-     "a": "To detect and measure the geographical factors that drive specific environmental or spatial patterns."
+     "q": "What does groundwater mineralization refer to?",
+     "a": "The accumulation of dissolved minerals in underground water over time."
     },
     {
-     "q": "Why is Geodetector useful for studying urban ecosystem services?",
-     "a": "It helps identify which land-cover or settlement factors strongly influence ecological functions like cooling."
+     "q": "How can urban development affect it?",
+     "a": "Human activities and poor sanitation can add pollutants and salts to the groundwater."
     }
    ],
-   "search": "Geodetector urban ecosystem drivers"
+   "search": "groundwater mineralization urban development Kabul"
   }
  ],
- "total_learned": 6,
+ "total_learned": 8,
  "path": {
   "stage": "Foundation",
   "next_topics": [
-   "Drivers of land use change",
    "Subjective human well-being metrics",
    "Payments for ecosystem services basics",
    "Global South development paradigms",
-   "Nature contributions to people framework"
+   "Nature contributions to people framework",
+   "Conservation policy instruments"
   ],
   "stages": [
    "Foundation: understand concepts",

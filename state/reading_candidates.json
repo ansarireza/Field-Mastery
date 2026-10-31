@@ -1,5 +1,205 @@
 [
  {
+  "id": "W7224659150",
+  "title": "Arborização Urbana como Estratégia de Adaptação Climática",
+  "headline": "Urban trees help climate adaptation in Brazil",
+  "bullets": [
+   "Examined Brazilian climate rules, national plans, and the 3-30-300 urban tree rule",
+   "Found that Brazil's new rules improve planning, but unequal land and data gaps limit them",
+   "Shows tree planning needs fair funding, local management, and tracking to work well"
+  ],
+  "plain": {
+   "question": "How does Brazil use city trees to adapt to climate change?",
+   "method": "The study reviewed documents, books, and international rules on city trees.",
+   "finding": "New rules help plan city trees, but unequal areas and missing data create big limits.",
+   "why": "It shows that city tree plans need fair access and good local management to succeed."
+  },
+  "full": {
+   "explainer": "This paper looks at how Brazil is using urban tree planting to adapt to climate change. The author studies new national guidelines, official rules, and a well-known international idea called the 3-30-300 rule, which deals with seeing trees from home, having tree cover in neighborhoods, and living close to a park. Using a qualitative approach based on document review, the research explores how these policies try to fix historical inequalities where green spaces are unevenly distributed across cities. The analysis shows that Brazil's new legal framework successfully sets targets for expanding green cover and improving local planning. However, the study points out major obstacles: unequal territory, a lack of spatial data, and big differences in how well local governments can manage these projects. Ultimately, the paper concludes that using trees for climate adaptation only works if cities combine land planning with social justice, ongoing monitoring, and stronger local government capacity.",
+   "caveats": [
+    "Territorial inequality limits the effectiveness of urban tree strategies",
+    "Insufficient spatial data hinders implementation",
+    "Differences in institutional capacity among municipalities affect success"
+   ],
+   "jargon": [
+    {
+     "term": "arborização urbana",
+     "definition": "The planting and management of trees within cities."
+    },
+    {
+     "term": "regra 3-30-300",
+     "definition": "A guideline: see 3 trees from home, 30 percent neighborhood tree cover, and 300m to a park."
+    },
+    {
+     "term": "vulnerabilidades socioespaciais",
+     "definition": "Social and economic risks tied to specific urban locations and unequal infrastructure."
+    }
+   ],
+   "fit": "It connects by examining how urban green policies and climate rules address unequal green space distribution and planning gaps in the Global South."
+  },
+  "thesis": {
+   "why": "It shows how national policy frameworks and spatial planning goals address urban green space inequality in a Global South setting.",
+   "action": "Check how the study defines and measures spatial data gaps and institutional capacity differences.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How were specific municipal failures or data gaps measured without quantitative spatial analysis?",
+   "evidence": "The abstract mentions spatial data shortages and institutional differences, but relies on qualitative document review and literature.",
+   "limit": "The abstract does not state specific quantitative metrics or case studies used to measure local government capacity.",
+   "check": "Verify if the full paper provides empirical examples of municipal performance under the new rules."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.ecoser.2017.02.021",
+  "source": {
+   "url": "https://doi.org/10.22479/texturav20n1p01_25",
+   "doi": "https://doi.org/10.22479/texturav20n1p01_25",
+   "venue": "Textura",
+   "date": "2026-10-29",
+   "authors": [
+    "Rafaelle Silva Santos",
+    "Rhadson Rezende Monteiro"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224191365",
+  "title": "From episodic to recurrent: progression of compound dry-hot hydroclimatic stress in Delhi, India",
+  "headline": "Compound dry-hot stress shifts from episodic to recurrent",
+  "bullets": [
+   "Analyzed compound dry-hot hydroclimatic stress progression in Delhi",
+   "Found a shift from episodic to recurrent compound dry-hot stress",
+   "Highlights increasing climate stress risks in major urban areas"
+  ],
+  "plain": {
+   "question": "How does compound dry-hot weather change over time in Delhi?",
+   "method": "Studied hydroclimatic stress data over time to track changes.",
+   "finding": "Compound dry-hot stress changed from occasional to frequent.",
+   "why": "It shows how climate pressures are worsening in growing cities."
+  },
+  "full": {
+   "explainer": "This paper looks at Delhi, India, to see how extreme weather changes over time. Specifically, it studies compound dry-hot hydroclimatic stress, which means combining dry conditions with high heat. The researchers found that this type of stress has changed from being episodic, meaning it happened only occasionally as separate events, to becoming recurrent, meaning it now happens repeatedly and consistently. This shift highlights growing climate challenges in urban environments in the Global South, offering important insights into how extreme weather patterns evolve in densely populated regions.",
+   "caveats": [
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "compound dry-hot hydroclimatic stress",
+     "definition": "Combined stress from dry conditions and high heat affecting water and climate systems."
+    },
+    {
+     "term": "episodic",
+     "definition": "Happening occasionally or as separate, distinct events rather than continuously."
+    },
+    {
+     "term": "recurrent",
+     "definition": "Happening repeatedly over time."
+    }
+   ],
+   "fit": "Examines urban climate stress in a Global South megacity, aiding comparative analysis on urban cooling and heat mitigation."
+  },
+  "thesis": {
+   "why": "It offers context on urban heat and climate stress dynamics in a Global South city, which helps frame urban cooling and environmental planning challenges.",
+   "action": "Check if the study links heat stress to urban land-cover changes or green infrastructure.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does this study link climate stress directly to urban land-cover changes?",
+   "evidence": "The abstract mentions compound dry-hot hydroclimatic stress in Delhi but does not explicitly mention land-cover or vegetation.",
+   "limit": "We cannot establish whether urban sprawl or loss of green space caused the recurrent stress.",
+   "check": "Verify if the full paper analyzes spatial land-cover drivers behind the shift."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.1007/s10113-026-02712-w",
+   "doi": "https://doi.org/10.1007/s10113-026-02712-w",
+   "venue": "Regional Environmental Change",
+   "date": "2026-10-29",
+   "authors": [
+    "Vaishnavi Sahu",
+    "Chaitanya Raj",
+    "Somil Swarnkar",
+    "Vikas Poonia"
+   ],
+   "n_authors": 4,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224515113",
+  "title": "Analyzing the effectiveness of urban water bodies in mitigating Urban Heat Island using geo-statistical methods",
+  "headline": "Small water bodies cool cities efficiently",
+  "bullets": [
+   "Used Landsat 8 and geostatistics to study cooling effects of water bodies.",
+   "Found small lakes or artificial water features can optimize urban cooling.",
+   "Helps improve landscape management and urban environmental sustainability."
+  ],
+  "plain": {
+   "question": "How well do different water bodies cool down cities during hot summer months?",
+   "method": "We used satellite images and statistical tools to measure how water cools the surrounding area.",
+   "finding": "Bigger water bodies cool further, but well-placed smaller lakes work well in tight spaces.",
+   "why": "This helps planners arrange water features smartly to fight urban heat and climate change."
+  },
+  "full": {
+   "explainer": "Cities often get much hotter than surrounding rural areas, a problem known as the Urban Heat Island effect. While previous research mostly looked at large lakes, this study examines how water bodies of various sizes and types help cool cities down, especially during hot summer months. The researchers looked at cooling performance, how far the cooling reaches, and the efficiency of smaller or medium-sized artificial water features, which are often ignored. They used satellite images from Landsat 8 along with computer programs like Python, R, ArcGIS, and SPSS to analyze spatial cooling patterns. They found that while bigger water bodies extend their cooling effects proportionally, compact urban environments can achieve optimal cooling through strategically arranged smaller lakes or simple artificial water features. This shows that careful landscape management can enhance how water bodies and surrounding land cover reduce heat. Ultimately, integrating these water features into urban ecosystems supports broader environmental goals.",
+   "caveats": [
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Urban Heat Island",
+     "definition": "An urban area significantly warmer than its surrounding rural areas due to human activities."
+    },
+    {
+     "term": "Kernel density theory",
+     "definition": "A spatial analysis method used to calculate the density of features across a continuous space."
+    },
+    {
+     "term": "Evapotranspiration",
+     "definition": "The process where water is transferred from the land to the atmosphere by evaporation and plants."
+    },
+    {
+     "term": "Geostatistical tools",
+     "definition": "Statistical methods used to analyze data that varies across geographic space."
+    }
+   ],
+   "fit": "Connects to urban cooling, heat mitigation, green-blue infrastructure, and spatial modeling for environmental planning in urban areas."
+  },
+  "thesis": {
+   "why": "It addresses urban cooling and heat mitigation using spatial tools, offering insights into water feature arrangements that apply to urban planning and green-blue infrastructure.",
+   "action": "Check how the study defines optimal cooling thresholds and spatial arrangements for smaller water features.",
+   "relationship": "supports"
+  },
+  "critical": {
+   "question": "How were the specific cooling distances and threshold values for smaller water bodies quantitatively measured?",
+   "evidence": "The abstract mentions that cooling efficiency and threshold values remain underexplored and were analyzed using kernel density and regression.",
+   "limit": "The abstract does not state the exact numeric cooling distances, climate zones tested, or specific urban density metrics used.",
+   "check": "Verify the exact regression models and climatic conditions used to ensure transferability to semi-arid settings."
+  },
+  "relevance": 5,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.3846/jeelm.2026.26053",
+   "doi": "https://doi.org/10.3846/jeelm.2026.26053",
+   "venue": "Journal of Environmental Engineering and Landscape Management",
+   "date": "2026-10-29",
+   "authors": [
+    "Nada Tarek Ali Abdalla",
+    "Mohga E. Embaby",
+    "Ali Essam El-Shazly"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7224081570",
   "title": "From climate hazards to diet and physical activity pathways: Investigating policy intersections for health in five global South Cities",
   "headline": "Policy intersections for health in five Global South cities",
@@ -195,6 +395,137 @@
     "Marcelo Gomes Miguez"
    ],
    "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224098184",
+  "title": "New technologies and remote places; a study of place-based adoption readiness to electrify water taxis on the Galapagos islands.",
+  "headline": "Adopting clean tech in remote islands",
+  "bullets": [
+   "Studied solar electrification of water taxis on the Galapagos islands.",
+   "Found adoption depends on technology, setting, and service configuration.",
+   "Explains why tech feasibility can remain disconnected from routine use."
+  ],
+  "plain": {
+   "question": "Why do remote places struggle to adopt new green technologies even when they are ready elsewhere?",
+   "method": "Used interviews and focus groups to study electric boat engines in the Galapagos.",
+   "finding": "Adoption depends on how the technology fits the local setting and services.",
+   "why": "It helps explain why working technologies are not always used in remote areas."
+  },
+  "full": {
+   "explainer": "New green technologies often start in large markets like the US and Europe. But how do these innovations reach smaller, more remote places, such as islands or parts of the Global South? This paper looks at that question by studying the potential use of battery electric boat engines for water taxis on the Galapagos islands. Even though these engines are mature and growing in big markets, they are rarely used in remote communities. Based on interviews and focus groups, the authors examine why this happens. They introduce a concept called place-based adoption readiness. This idea looks at how a technology fits into a specific geographical setting and the services it must provide. The study shows that successful adoption connects technical maturity with local learning, the ability to integrate services, and daily routine use. It highlights that local geography and institutions shape how these factors interact. Ultimately, the framework helps explain why a technology can look great on paper, but still fail to be adopted in daily life.",
+   "caveats": [
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "place-based adoption readiness",
+     "definition": "A relational account of the factors underpinning the processes of technology adoption."
+    },
+    {
+     "term": "heuristic framework",
+     "definition": "An organizational tool used to explore how technology connects with settings and services."
+    }
+   ],
+   "fit": "Connects via technology adoption challenges in remote or Global South settings, though it focuses on energy rather than urban ecosystem services."
+  },
+  "thesis": {
+   "why": "It explores technology adoption in remote or island settings, offering a framework on how local conditions shape the success of new implementations.",
+   "action": "Check if the paper's framework on place-based adoption readiness can apply to green-blue infrastructure in Kabul.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does an energy transition study on island water taxis help us understand urban ecosystem services?",
+   "evidence": "The abstract examines battery electric outboard engines on the Galapagos islands rather than urban land-cover change or ecosystem services.",
+   "limit": "It cannot establish direct links between energy technology adoption and the supply or demand of urban ecosystem services.",
+   "check": "Verify if the study's framework on geographical and institutional conditions can be transferred to urban planning challenges."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1017/etr.2026.10025",
+   "doi": "https://doi.org/10.1017/etr.2026.10025",
+   "venue": "Cambridge Prisms Energy Transitions",
+   "date": "2026-10-28",
+   "authors": [
+    "Zhuohan Xie",
+    "Adolfo Mejía-Montero",
+    "Cristina Mateus",
+    "Valeria Ochoa‐Herrera",
+    "William Vasquez",
+    "Dan van der Horst"
+   ],
+   "n_authors": 6,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224128973",
+  "title": "Hybrid Machine Learning–Geostatistical Modeling of Soil Quality in Saline–Sodic Soils Under Arid Agroecosystems of Northwestern Peru",
+  "headline": "Mapping soil quality in Peru using hybrid models",
+  "bullets": [
+   "Combined soil indices with machine learning and spatial modeling in Peru.",
+   "A reduced hybrid random forest and residual kriging model performed best.",
+   "The resulting map supports site-specific fertility management for crops."
+  ],
+  "plain": {
+   "question": "How can we accurately map poor soil quality in dry farming areas with many chemical problems?",
+   "method": "They tested different computer models to map soil scores using lab tests and satellite data.",
+   "finding": "A mixed computer model did the best job of predicting soil quality across the area.",
+   "why": "The resulting map helps farmers manage soil fertility better in specific fields."
+  },
+  "full": {
+   "explainer": "Managing soil fertility for mango and banana farming in northern Peru is hard because the land has a lot of chemical imbalances like high salt and alkali levels. To fix this, researchers built a spatial prediction framework to map soil quality across Morropón Province. They took over 1,300 soil samples from mango and banana fields and combined lab tests with satellite images from Sentinel-2 to create a weighted soil-quality index. They then tested different mapping methods, including standard geostatistics and machine learning models like random forest, plus a combined hybrid model. They found that a reduced hybrid model—using random forest combined with residual kriging—gave the best numerical performance for predicting soil quality. The final map can help farmers manage soil fertility precisely where it is needed most.",
+   "caveats": [
+    "The hybrid model improvement was not statistically different from other random forest models.",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Saline-sodic soils",
+     "definition": "Soils with high levels of soluble salts and exchangeable sodium that limit plant growth."
+    },
+    {
+     "term": "Random forest",
+     "definition": "A machine learning method that uses many decision trees to make predictions."
+    },
+    {
+     "term": "Kriging",
+     "definition": "A geostatistical method that uses known points to predict values at unknown locations."
+    }
+   ],
+   "fit": "It shows spatial modeling, machine learning, and index mapping methods in the Global South, useful for environmental planning tools."
+  },
+  "thesis": {
+   "why": "Demonstrates spatial modeling and machine learning techniques applied to environmental data in the Global South.",
+   "action": "Check how they handled spatial validation and covariate selection.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does a slight numerical improvement in R-squared justify using a more complex hybrid model?",
+   "evidence": "The abstract notes that the best hybrid model was not statistically different from the other random-forest-based models.",
+   "limit": "We cannot establish whether the added complexity of the hybrid model is truly worthwhile based on significance tests.",
+   "check": "Verify if the statistical comparison between the models showed a meaningful real-world difference."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1002/jpln.70133",
+   "doi": "https://doi.org/10.1002/jpln.70133",
+   "venue": "Journal of Plant Nutrition and Soil Science",
+   "date": "2026-10-28",
+   "authors": [
+    "Sebastian Casas-Niño",
+    "Gerson La Rosa",
+    "Sharon Mejía",
+    "Ruth Mercado",
+    "Kenyi R. Quispe"
+   ],
+   "n_authors": 5,
    "open_access": true,
    "basis": "abstract"
   }
@@ -594,6 +925,211 @@
   }
  },
  {
+  "id": "W7224145154",
+  "title": "Predicting Urban Expansion and Land Cover Transformation in Kano, Nigeria Using CA-Markov and GIS-Based Scenario Analysis for Sustainable City Planning",
+  "headline": "Predicting land cover and urban growth in Kano, Nigeria",
+  "bullets": [
+   "Used satellite data and CA-Markov to model land cover from 2000 to 2040.",
+   "Found rapid built-up expansion replacing agricultural and green land.",
+   "Sustainable scenarios protect agriculture and reduce ecosystem loss."
+  ],
+  "plain": {
+   "question": "How is Kano growing and how will it look in the future under different planning rules?",
+   "method": "We used satellite pictures and computer models to track past changes and project future growth.",
+   "finding": "Cities are growing fast over farms and plants, but smart planning can protect nature.",
+   "why": "This helps cities grow without destroying food supplies and the environment."
+  },
+  "full": {
+   "explainer": "This paper looks at rapid urban growth in Kano, Nigeria, a major city in the Sahel region. The authors wanted to understand how land use and land cover changed from 2000 to 2023 and predict what the city might look like in 2040. To do this, they used satellite images from Landsat and classified them into five categories, such as built-up areas, bare land, agriculture, vegetation, and water bodies, using machine learning tools. They then used a computer model called CA-Markov, combined with factors like distance to roads and population density, to simulate future growth under three different pathways: a business-as-usual trend, a moderate intervention using zoning rules, and a sustainable development path featuring green buffers and compact growth. Their findings show that past growth aggressively swallowed up agricultural land and vegetation. Looking forward, the business-as-usual pathway continues this heavy loss, whereas the sustainable scenario manages to keep more farmland and protect ecosystem services. This gives local planners helpful spatial evidence to balance urban expansion with food security and sustainability goals.",
+   "caveats": [
+    "Specific numerical values for past areas and percentage increases are omitted as placeholders in the text.",
+    "Not stated whether field validation was conducted beyond satellite classification accuracy metrics."
+   ],
+   "jargon": [
+    {
+     "term": "CA-Markov model",
+     "definition": "A computer simulation tool combining spatial cellular automata and probability to predict land changes."
+    },
+    {
+     "term": "Maximum Likelihood Classification",
+     "definition": "A statistical method used to sort satellite pixels into land cover classes based on probability."
+    },
+    {
+     "term": "Multi-Layer Perceptron neural network",
+     "definition": "A type of computer algorithm used here to model how driving variables influence land transitions."
+    },
+    {
+     "term": "Kappa coefficient",
+     "definition": "A statistical measure of how well a map classification matches reality, accounting for random chance."
+    }
+   ],
+   "fit": "Applies GIS scenario analysis and land-cover modeling to a major Global South city, offering transferable methods for urban planning."
+  },
+  "thesis": {
+   "why": "It models urban expansion and scenario comparisons, providing a direct methodological parallel for assessing trade-offs between growth, agriculture, and ecosystem services.",
+   "action": "Check how they operationalized sustainable scenarios and spatial driving variables for your own models.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How were the transition probabilities validated beyond historical trend extrapolation?",
+   "evidence": "The abstract mentions transition probability matrices derived from multi-temporal LulC maps were used to calibrate the CA-Markov model under a Business-As-Usual pathway.",
+   "limit": "The abstract does not explain how socio-economic policy shifts in the sustainable scenario were mathematically translated into the MLP neural network.",
+   "check": "Verify how the non-BAU scenarios altered the transition potential values in the multi-layer perceptron."
+  },
+  "relevance": 5,
+  "watch": null,
+  "source": {
+   "url": "https://zkdx.ch/journal/zkdx/article/view/372",
+   "doi": null,
+   "venue": "Zhongguo Kuangye Daxue Xuebao",
+   "date": "2026-10-27",
+   "authors": [
+    "Tanimu Isah",
+    "Mohd Khairul Amri Kamarudin"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224095363",
+  "title": "Rethinking Agenda Setting in low-mediatization contexts of the Global South: a constructivist-communicational study",
+  "headline": "Media does not drive agendas in low-mediatization places",
+  "bullets": [
+   "Used mixed methods in Cuba to test agenda-setting in low-mediatization contexts.",
+   "Found shared topics but no evidence that media transfers salience to other fields.",
+   "Deepens agenda-setting theory by explaining socio-anthropological particularities."
+  ],
+  "plain": {
+   "question": "How do different groups decide what topics are important when traditional media is not the main center of attention?",
+   "method": "The study used a mix of numbers, statistics, and deep ethnographic observation in a Cuban town.",
+   "finding": "Groups shared similar topics, but media did not cause others to care about them through normal transfer.",
+   "why": "It helps us understand how communication works in places where media is less powerful."
+  },
+  "full": {
+   "explainer": "Traditional theories of how the media tells people what to think were built mostly in Western places where media is very powerful. But in places with low mediatization in the Global South, media might not be the main driver of what people care about. This study looks at a municipality in Cuba to see how social agendas actually form. The researchers used a mix of methods, starting with numbers and statistics to look at political, media, and public agendas over time. Then, they used ethnography—a method where researchers closely observe daily life—to understand the habits and structures behind how different groups build their topics. The results showed that while groups talked about similar general topics, they focused on different details, and there was no proof that media transferred importance to the public. Instead, issues continuously moved between fields, shaped by each group's unique practices. This helps de-Westernize communication theory by showing how it works in different social settings.",
+   "caveats": [
+    "Based on a single case study in a Cuban municipality.",
+    "Not stated whether findings apply to other Global South contexts."
+   ],
+   "jargon": [
+    {
+     "term": "Low-mediatization contexts",
+     "definition": "Settings where mass media is not central to social life or the creation of public topics."
+    },
+    {
+     "term": "Agenda-Setting Theory",
+     "definition": "The idea that news media tells people what issues to think about by how much attention it gives them."
+    },
+    {
+     "term": "Rozelle-Campbell baseline",
+     "definition": "A statistical baseline used in time-series research to check for relationships over time."
+    },
+    {
+     "term": "Abductive orientation",
+     "definition": "A reasoning approach that moves between data and theory to find the best explanation for surprises."
+    }
+   ],
+   "fit": "Connects via Global South context and communication of agendas, though it focuses on media rather than urban ecosystem services."
+  },
+  "thesis": {
+   "why": "Provides a Global South context example of constructivist frameworks and mixed methods, relevant to studying how public and political priorities are formed.",
+   "action": "Check how the qualitative ethnographic approach could inspire ways to study community values for ecosystem services.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How can findings from a study on media agendas in Cuba inform environmental planning and ecosystem service delivery in Kabul?",
+   "evidence": "The abstract focuses purely on media, political, and public agendas in a Cuban municipality using a constructivist-communicational framework.",
+   "limit": "It cannot establish how physical land-cover changes, ecosystem services, or spatial planning operate in conflict-affected Asian settings.",
+   "check": "Verify if the paper offers transferable lessons on how local groups communicate priorities without relying on centralized institutions."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.22325/fes/res.2026.320",
+   "doi": "https://doi.org/10.22325/fes/res.2026.320",
+   "venue": "Revista Española de Sociología",
+   "date": "2026-10-27",
+   "authors": [
+    "Yánder Castillo Salina",
+    "Alicia de la Caridad Martínez Tena",
+    "Joseph Livingston Crawford-Visbal"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223677449",
+  "title": "Valorization of drilling rock powder in cementitious grout towards greener mountainous transmission construction",
+  "headline": "Drilling powder reused in cement grout",
+  "bullets": [
+   "Tested replacing cement with drilling rock powder in grout mixtures for towers.",
+   "Found mixtures with up to 6 percent powder balance workability and strength well.",
+   "Helps protect fragile mountain ecosystems by reducing construction waste."
+  ],
+  "plain": {
+   "question": "Can waste rock powder from drilling replace cement in building mountain power lines?",
+   "method": "They tested different amounts of rock powder mixed into cement grout to check flow and strength.",
+   "finding": "Adding up to 6 percent rock powder works well for strength and flow, but higher amounts cause problems.",
+   "why": "It lowers waste and protects fragile mountain environments during construction."
+  },
+  "full": {
+   "explainer": "As electricity demand grows, building transmission towers in mountains creates a lot of waste rock powder. Throwing this powder away harms fragile mountain ecosystems and costs money. This study looks at using this waste rock powder as a substitute for Portland cement in cementitious grout, which is a thick fluid used to fill gaps and anchor structures. The researchers tested different mixtures by measuring how well they flow and how strong they become after curing. They also looked closely at the internal pore structure and microscopic makeup of the materials. The tests showed that mixtures with up to 8 percent rock powder kept strong compressive strengths, but higher amounts caused a big loss in how well the mixture flowed after 30 minutes. Therefore, a 6 percent mixture is recommended as the best balance for workability and strength. Using this waste helps reduce material costs and protects mountain environments from improper waste disposal.",
+   "caveats": [
+    "Field formulation requires separate qualification because its dosage basis differs from the lab mixtures.",
+    "Not stated whether this method works for all types of rock dust or only the specific DRP tested."
+   ],
+   "jargon": [
+    {
+     "term": "Cementitious grout",
+     "definition": "A fluid mixture of cement, water, and other materials used to fill voids or bond structures."
+    },
+    {
+     "term": "Compressive strength",
+     "definition": "The capacity of a material to withstand loads that tend to reduce size."
+    },
+    {
+     "term": "Flowability",
+     "definition": "The ability of a wet mixture to flow and spread easily."
+    }
+   ],
+   "fit": "Connects via mountain construction impacts, but focuses on material engineering rather than urban ecosystem services or Kabul."
+  },
+  "thesis": {
+   "why": "The student focuses on urban ecosystem services and planning, whereas this paper studies material engineering for transmission towers.",
+   "action": "Check if the paper discusses broader environmental planning or ecosystem protection methods.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do laboratory material tests translate to actual environmental protection in mountainous regions?",
+   "evidence": "The abstract mentions protecting fragile mountain ecosystems by reducing waste and cutting costs, but focuses entirely on lab strength and flow tests.",
+   "limit": "The abstract does not measure actual ecological recovery or long-term environmental impacts in the mountains.",
+   "check": "Verify how the field application and economic offset were calculated in the full paper."
+  },
+  "relevance": 1,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.mtsust.2026.101468",
+   "doi": "https://doi.org/10.1016/j.mtsust.2026.101468",
+   "venue": "Materials Today Sustainability",
+   "date": "2026-10-27",
+   "authors": [
+    "Jian Ma",
+    "Chongjin Chen",
+    "Yong Cai",
+    "Gang Xu",
+    "Ruipeng Jiang",
+    "Xiaopeng Yu"
+   ],
+   "n_authors": 8,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7223659395",
   "title": "Analysis of Methods Employed Globally to Assess Cultural Ecosystem Services in Urban Parks",
   "headline": "Global methods for assessing urban park cultural benefits",
@@ -923,6 +1459,68 @@
     "Somi Sareen"
    ],
    "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223652860",
+  "title": "Grassland Loss and Ecological Risks in Bulgaria: A Multi-Source Remote-Sensing Assessment",
+  "headline": "Remote sensing tracks grassland loss and solar land-use risks",
+  "bullets": [
+   "Combined national statistics, satellite maps, and mapped habitats to check land changes",
+   "Found massive recorded grassland drops, confirming smaller actual losses and solar overlaps",
+   "Urges solar development to target modified land instead of species-rich grasslands"
+  ],
+  "plain": {
+   "question": "How much are grasslands in Bulgaria shrinking because of farming and new solar parks?",
+   "method": "They used national records, satellite maps, and checked sample spots to see how land changed.",
+   "finding": "Official records showed huge drops, but satellite checks showed smaller actual losses and some solar overlaps.",
+   "why": "It helps us see how new energy projects compete with natural habitats."
+  },
+  "full": {
+   "explainer": "This study looks at how new ground-mounted solar energy parks and farming create land pressures in Europe, focusing on Bulgaria. The authors wanted to measure changes to semi-natural grasslands, which are often threatened by these land-use changes. To figure this out, they combined national agricultural data, satellite maps from Copernicus, six protected grassland habitat types, and data on over 700 solar sites. They found that official numbers showed a massive drop in permanent grassland between 2010 and 2025, but much of that difference came from survey updates rather than actual habitat destruction. Using satellite data to check specific sample locations, they confirmed smaller actual losses, mostly caused by turning grasslands into plowed farmland. They also mapped how solar sites overlapped with protected grasslands, showing that some solar parks were built on grassland areas. The paper concludes that future solar energy projects should focus on land that has already been modified instead of building on valuable, species-rich grasslands.",
+   "caveats": [
+    "Neither calculated loss value is a definitive estimate of habitat loss",
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Remote-Sensing",
+     "definition": "Scanning the earth's surface using satellites or aerial cameras to gather data."
+    },
+    {
+     "term": "Habitat",
+     "definition": "A natural environment where particular plant and animal species live."
+    }
+   ],
+   "fit": "Demonstrates land-cover change assessment and spatial data integration, relevant for mapping environmental trade-offs."
+  },
+  "thesis": {
+   "why": "It applies multi-source remote sensing and land-cover change assessment methods that align with the student's spatial analysis toolkit.",
+   "action": "Examine how the authors performed their accuracy assessment and stratified sampling for land cover.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How reliable are national agricultural statistics when up to half of a recorded drop stems from survey adjustments rather than actual loss?",
+   "evidence": "The abstract explicitly states that more than half of the national agricultural grassland difference followed survey point controls and is not an equivalent loss.",
+   "limit": "We cannot establish the full socio-economic drivers behind the conversion of grasslands to arable land or solar parks from this abstract alone.",
+   "check": "Verify how the stratified sample of 250 locations was chosen and validated to avoid classification bias in the full text."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.3390/land15112034",
+   "doi": "https://doi.org/10.3390/land15112034",
+   "venue": "Land",
+   "date": "2026-10-26",
+   "authors": [
+    "Milena Tocheva",
+    "Giancarlo Antonio Statti",
+    "Ekaterina K. Kozuharova"
+   ],
+   "n_authors": 3,
    "open_access": true,
    "basis": "abstract"
   }

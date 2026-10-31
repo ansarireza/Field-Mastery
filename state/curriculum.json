@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Drivers of land use change",
-   "area": "Land use change",
-   "kind": "concept"
-  },
-  {
    "term": "Subjective human well-being metrics",
    "area": "Human well-being",
    "kind": "concept"
@@ -197,6 +192,8 @@
   "Ecosystem services classification",
   "Remote sensing",
   "Decentralized environmental governance",
-  "Geodetector"
+  "Geodetector",
+  "Drivers of land use change",
+  "Groundwater mineralization"
  ]
 }
