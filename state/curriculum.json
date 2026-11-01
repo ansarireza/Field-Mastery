@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Subjective human well-being metrics",
-   "area": "Human well-being",
-   "kind": "concept"
-  },
-  {
    "term": "Payments for ecosystem services basics",
    "area": "Payments for ecosystem services",
    "kind": "policy"
@@ -194,6 +189,8 @@
   "Decentralized environmental governance",
   "Geodetector",
   "Drivers of land use change",
-  "Groundwater mineralization"
+  "Groundwater mineralization",
+  "Subjective human well-being metrics",
+  "ecological zoning"
  ]
 }

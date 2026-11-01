@@ -1,56 +1,92 @@
 {
  "week": "2026-W44",
- "date": "2026-10-28",
+ "date": "2026-11-01",
  "world": [
   {
    "region": "World",
-   "what": "India calls for sustainable cities to meet global climate goals.",
-   "why": "Connects urban development and sustainability goals in the Global South.",
-   "action": "Review Indian urban strategies for climate targets.",
+   "what": "A global study of 10,000 urban centres found that taller cities hinder urban greening efforts.",
+   "why": "Connects urban development morphology to green-blue infrastructure and vegetation access.",
+   "action": "Examine how building height limits vegetation metrics.",
    "source": {
-    "title": "India calls for sustainable cities to meet global climate goals",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjhCWXhVaXotc29NdGxkYVB2c2x3aTRlVjYyOUZHSHhoeV8zMVZaTHZ3eThyRFVJYkhnNTVJZk0tcXpuS0N0NFdaMDU3bE1wRlBsQlJzRUd3R0ZkcTlnbTRnMkFZUnhIYkdhQWNCR2VPV3pJQXZYay1rT0JncTdmWl9zUXVmZ1U1NFhIM0l6SFd2QkhUdE1aREw4Y3dhSGpDN3ZWQQ?oc=5",
-    "date": "2026-10-27",
+    "title": "Global study finds taller cities are greener cities' worst enemy",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGNFekhCOVNuY1pYSWVPczlpbFg1VHdNSXhfdmhJd1duXzJKc0NaSV9iRTVSMXRyelRjaDJoY0pEQ09VVm02dmNmZ25wXy1Gckl3eFYzWXVjTHJXNEZOay1uYnRzNmlGbm5sNFVQcUZXem1vaWR5SHB6LUdzYlJ2bl84WHBHY1FubDhrdk9LY3k4SnhFMGlyTFhkNDlTNV9pWEFoOF8yeDJJNXVDeHNpNw?oc=5",
+    "date": "2026-10-29",
+    "basis": "news headline and feed excerpt"
+   }
+  },
+  {
+   "region": "EU",
+   "what": "The Asian Development Bank launched a nature bond and project incubator to close the region's nature finance gap.",
+   "why": "Provides financing contexts relevant for implementing green-blue infrastructure.",
+   "action": "Review nature finance mechanisms for urban projects.",
+   "source": {
+    "title": "ADB unveils nature bond and project incubator for Asia",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHZobFAtdVRuZXN4eUVfWVdncU1tMmp4Y203aS1VVXd6Q2dvbzdTa0VJLW1SVnFpVlA3UzBkX00zLTU4bVNacElhTzhOSWJManZUWEZ6Z1QyUmctX1VXY2E3YWl6dWdOakg0a3o1TXB2TlNvSGdSTU5aNnRFVDFUQXdNRTBNM2ZwNnlYNzFEM3BlYTJzV20yRm82N3pXcDdsRjZJVkd2dS11VG1icEZNbHU1WXFQaWxVNlBac2pnY1RRQWZxZG54aHB0MDI0WGFNa0Nz0gHTAUFVX3lxTE5UdmhsUC11VG5lc3h5RV9ZV2dxTW0yanhjbTdpLVVVd3pDZ29vN1NrRUktbVJWcWlWUDdTMGRfTTMtNThtU1pwSWFPOE5JYkxqdlRYRnpnVDJSZy1fVVdjYTdhaXp1Z05qSDRrejVNcHZOU29IZ1JNTlo2dEVUMVRBd01FME0zZnA2eVg3MUQzcGVhMnNXbTJGbzY3eldwN2xGNklWR3Z1LXVUbWJwRk1sdTVZcVBpbFU2UFpzamdjVFFBZnFkbnhocHQwMjRYYU1rQ3M?oc=5",
+    "date": "2026-10-28",
     "basis": "news headline and feed excerpt"
    }
   },
   {
    "region": "World",
-   "what": "Gujarat expands urban green spaces using oxygen parks and Miyawaki forests.",
-   "why": "Provides practical examples of urban green-blue infrastructure in semi-arid or growing regions.",
-   "action": "Examine Miyawaki forest applicability for urban cooling.",
+   "what": "Simulations demonstrated that adding greenery could cool Japan's Fukuyama Station Square by nearly 0.6°C.",
+   "why": "Informs spatial modelling and scenario comparisons for urban cooling and heat mitigation.",
+   "action": "Compare simulation parameters with local cooling targets.",
    "source": {
-    "title": "Gujarat expands urban green spaces using oxygen parks and Miyawaki forests",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeEhIdkVCSU4xVnJsQW91bGtGamdTcmYyekc5V01jVmtVUWpFRi1oS1ZwQmIxSV8wOTNoUm1oYUpSbjVsSUwzOER6WWhUVGFyZVA1WGs1Nk5XYmd3SlgwY3NrWVFpUkZpRW5TZ2JmejNNS0NaWW1yYzI0a1hkN3lHYU8tdWI2bjRHZkxqY3o1b3d5Z2NKU0RNVFZ0S2NEdGlYWkcybzlhVFRmVTdTc28taEppSmJtYlhHRlB6T0hFTm5VR251OFkwMHNsbzZVRENRNDFFd3VNQQ?oc=5",
-    "date": "2026-10-23",
+    "title": "Simulations show greening cools Fukuyama Station Square",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUhBM09ZdGJBQW5jUFhvMnFKWlE4djZJMnBnU0FnN29JTmNCem53S3lqazVQa05NZ1dtZDNQOGVpdVJjajlXZG9yM3pIbGZpcllHbUVudFgtWFJaQ2s0WnNMWEVWOXBCZm1Ebkloc29WbjdJWEdJRGJxY0E5dkxuSGU5aHVVUDBlNDNrWl84eEo2dG5nR0NPT0wxMlZSSFd4ZFFveTE1bW5IdDg?oc=5",
+    "date": "2026-10-29",
+    "basis": "news headline and feed excerpt"
+   }
+  },
+  {
+   "region": "World",
+   "what": "Nepal announced plans to push for a permanent mountain agenda and faster disaster funding at COP31.",
+   "why": "Relates to mountainous and data-scarce environmental planning contexts.",
+   "action": "Note mountain-specific funding and policy advocacy.",
+   "source": {
+    "title": "Nepal to Push for Mountain Agenda at COP31",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdjhwVFp1RkVnSENyMHh3U0NwTUhDV2pwa19oZlpuWUJzRmdoN3pmOEZVUlMxV1Ixb1ZEWHVGQjhfMmRjZVBKUEIwMmdkb2lfZFdiTXBiNFpzTTNseUtkTzU0RmtGMDd1V0s5R3lJUlVHTzA0dzY5THhHb0E0QUIzTTFDX3VTVjV6VVlUcjM4ZExreW9WaVA5WlRNSEFXZ250a3RKaUhRdUVVQi1kS3JMekRjZzhjLTBJMDZyUDlDZTVfeFBNTmV5Q2FB?oc=5",
+    "date": "2026-10-31",
+    "basis": "news headline and feed excerpt"
+   }
+  },
+  {
+   "region": "World",
+   "what": "Construction pressures in Baghdad are causing green spaces to shrink and threatening old trees.",
+   "why": "Reflects pressures on urban green cover in environmentally comparable Middle Eastern cities.",
+   "action": "Analyze drivers of green space loss in comparable cities.",
+   "source": {
+    "title": "Baghdad's Green Spaces Shrink as Construction Threatens Old Trees",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdi14OFpvS2hKUlZsa2JQSmFFei1qQmNCR241WHpUTm56UklLTXZmanFMdm9GTXV5VHhhdFdLdnEwM0dsVThpNVFtN0hueVlSME9LZElsSUhEM3loOTJPMEdKSVIyQ2l0clFGS0QyUlk5alhuSGRtaXF6NDFWTnpoRDNmTXI5MUNLUHpTbmpzSDZsWURKb094STlpU3hha2M0ZHZjRUw1ZW1salN3?oc=5",
+    "date": "2026-11-01",
     "basis": "news headline and feed excerpt"
    }
   }
  ],
  "reading": {
-  "id": "W7223662277",
-  "title": "Producing Adaptive Urban Space in Informal Settlements: Evidence from Maputo",
+  "id": "W7224515113",
+  "title": "Analyzing the effectiveness of urban water bodies in mitigating Urban Heat Island using geo-statistical methods",
   "source": {
-   "url": "https://doi.org/10.3390/buildings16214214",
-   "doi": "https://doi.org/10.3390/buildings16214214",
-   "venue": "Buildings",
-   "date": "2026-10-23",
+   "url": "https://doi.org/10.3846/jeelm.2026.26053",
+   "doi": "https://doi.org/10.3846/jeelm.2026.26053",
+   "venue": "Journal of Environmental Engineering and Landscape Management",
+   "date": "2026-10-29",
    "authors": [
-    "Hazrat Bilale Salamagy",
-    "Fernando Brandão Alves",
-    "Clara Pimenta do Vale"
+    "Nada Tarek Ali Abdalla",
+    "Mohga E. Embaby",
+    "Ali Essam El-Shazly"
    ],
    "n_authors": 3,
    "open_access": true,
    "basis": "abstract"
   },
-  "why": "It examines informal settlements, climate hazards like heat and flooding, and local production of space, echoing the social-ecological focus in the student's context.",
+  "why": "It addresses urban cooling and heat mitigation using spatial tools, offering insights into water feature arrangements that apply to urban planning and green-blue infrastructure.",
   "questions": [
-   "How do residents modify housing to handle heat and floods?",
-   "What is the role of co-production in infrastructure?",
-   "How does the adaptive urban space concept link to spatial domains?"
+   "How did the authors measure cooling distances for smaller water bodies?",
+   "What specific geostatistical software and data inputs were used?",
+   "How transferable are these findings to semi-arid settings?"
   ],
-  "check": "You cannot establish whether these socio-spatial practices successfully lower physical flood levels or heat stress."
+  "check": "The abstract does not state the exact numeric cooling distances, climate zones tested, or specific urban density metrics used."
  },
- "coverage": "Coverage is limited to a few world news items, EU developments, Germany, and one selected paper on Maputo, with no direct coverage of Kabul, Afghanistan."
+ "coverage": "Collected evidence is limited by a lack of direct news items on Kabul or local informal settlements, relying instead on broader regional and international developments."
 }

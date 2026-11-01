@@ -1,5 +1,74 @@
 [
  {
+  "id": "W7224768869",
+  "title": "Nonlinear Relationships and Synergies Between Wetland Landscape Patterns and Ecosystem Services Using Explainable Machine Learning: A Case Study of Wuhan, China",
+  "headline": "Wetlands shape services in non-linear ways",
+  "bullets": [
+   "Quantified wetland changes and four ecosystem services in Wuhan from 2000 to 2020.",
+   "Found non-linear links and turning points between landscape metrics and services.",
+   "Provides reference thresholds to guide wetland planning and restoration efforts."
+  ],
+  "plain": {
+   "question": "How do wetland landscape shapes and patterns affect the benefits people get from nature?",
+   "method": "We looked at Wuhan from 2000 to 2020 using maps, computer models, and machine learning tools.",
+   "finding": "Wetland areas shrank and fragmented, and landscape patterns showed clear turning points for benefits.",
+   "why": "These results help planners know how much wetland structure is needed to protect nature benefits."
+  },
+  "full": {
+   "explainer": "As cities grow quickly, natural wetlands often break apart into smaller, disconnected pieces. This study looks at how the changing patterns of wetland landscapes affect four key benefits people get from nature: water yield, water purification, soil conservation, and habitat quality. Focusing on Wuhan, China, between 2000 and 2020, the researchers tracked wetland loss and fragmentation. They also created indexes to measure overall service benefits, trade-offs, and synergies. Instead of assuming relationships are simple or straight lines, the study used advanced machine learning tools called XGBoost and SHAP. These tools helped uncover complex, non-linear relationships between landscape pattern metrics and ecosystem services. The analysis revealed specific turning points, such as precise values for shape complexity and aggregation indices. These specific numeric points matter because they can serve as practical reference thresholds for local environmental planning and wetland restoration projects.",
+   "caveats": [
+    "The study focuses on Wuhan, China, so results are specific to that context.",
+    "Only four specific wetland ecosystem services were evaluated.",
+    "Not stated whether findings apply directly to arid, conflict-affected, or informal settings."
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem service (ES)",
+     "definition": "The direct and indirect contributions of ecosystems to human well-being."
+    },
+    {
+     "term": "Landscape pattern metrics",
+     "definition": "Quantitative measurements showing the spatial arrangement and structure of landscape patches."
+    },
+    {
+     "term": "XGBoost and SHAP",
+     "definition": "Machine learning and model interpretation tools used to find complex patterns in data."
+    }
+   ],
+   "fit": "Demonstrates machine learning methods for linking landscape patterns to ecosystem service trade-offs, useful for spatial planning."
+  },
+  "thesis": {
+   "why": "It models landscape metrics and ecosystem services using advanced spatial and machine learning tools, offering a methodological reference for spatial modeling and scenario analysis.",
+   "action": "Check how they handled spatial autocorrelation and data uncertainty in their machine learning models.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Do the identified landscape turning points reflect true ecological thresholds or merely algorithmic artifacts of the machine learning models?",
+   "evidence": "The abstract relies entirely on XGBoost and SHAP curves to establish specific numerical turning points like SHAPE 1.40 and AI 96% without independent ecological verification.",
+   "limit": "The abstract cannot establish whether these specific numerical thresholds are generalizable outside Wuhan or if they represent causal ecological mechanisms.",
+   "check": "Verify if the authors tested the sensitivity of their machine learning models to different spatial scales and data inputs."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
+  "source": {
+   "url": "https://doi.org/10.3390/su182111051",
+   "doi": "https://doi.org/10.3390/su182111051",
+   "venue": "Sustainability",
+   "date": "2026-10-30",
+   "authors": [
+    "Ziqi Liu",
+    "Yuan Xiong",
+    "Yan Zhou",
+    "Bei Cao",
+    "Huizi Ouyang",
+    "Siying Wu"
+   ],
+   "n_authors": 6,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7224659150",
   "title": "Arborização Urbana como Estratégia de Adaptação Climática",
   "headline": "Urban trees help climate adaptation in Brazil",
@@ -195,6 +264,258 @@
     "Ali Essam El-Shazly"
    ],
    "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224514832",
+  "title": "Quantifying urban heat: A spatiotemporal study of climate change and population growth in Ikorodu, Lagos, Nigeria",
+  "headline": "Urban growth raises local temperatures in Lagos",
+  "bullets": [
+   "Analyzed simulated weather, population, and heat data in Ikorodu from 2010 to 2024.",
+   "Found a 0.03°C annual temperature rise driven by rapid urban growth and building density.",
+   "Warns that unmanaged expansion risks health and urges green spaces and better planning."
+  ],
+  "plain": {
+   "question": "How do climate change and fast city growth affect local temperatures in a growing area of Nigeria?",
+   "method": "The study used simulated datasets from weather records, climate projections, and population statistics from 2010 to 2024.",
+   "finding": "Temperatures rose by about 0.03 degrees Celsius each year, with the highest heat found in densely built areas.",
+   "why": "Unchecked city growth without good planning increases public health risks, energy demand, and heat discomfort."
+  },
+  "full": {
+   "explainer": "This paper looks at how climate change and rapid city growth change local weather in growing areas of the Global South. It focuses on Ikorodu, a fast-expanding peri-urban area in Lagos State, Nigeria. Because cities often become warmer than surrounding undeveloped land, the study examines how temperature trends relate to population growth and spatial heat patterns from 2010 to 2024. Using simulated datasets based on real meteorological records, climate projections, and population statistics, the authors tracked changes over time. The results show an average temperature increase of about 0.03 degrees Celsius every year, alongside population growth surging from 1.0 million to over 1.9 million people. Heat maps reveal that the highest temperatures concentrate in densely built-up areas, showing how land-use change and urban form shape heat distribution. The authors conclude that without climate-smart planning, future growth will worsen public health risks and energy demand. They recommend adding green spaces, climate-friendly buildings, and better land-use planning.",
+   "caveats": [
+    "The study relies on simulated datasets rather than direct observational records.",
+    "Causal effects of specific settlement statuses are not tested beyond spatial associations."
+   ],
+   "jargon": [
+    {
+     "term": "urban heat island (UHI) effect",
+     "definition": "A phenomenon where built-up urban areas experience higher temperatures than surrounding less-developed areas."
+    },
+    {
+     "term": "peri-urban area",
+     "definition": "An area located immediately adjacent to a city or town, often transitioning from rural to urban land use."
+    }
+   ],
+   "fit": "It explores urban growth, land-use change, and heat distribution in the Global South, matching urban cooling and planning goals."
+  },
+  "thesis": {
+   "why": "It connects rapid urban growth, land-cover change, and local heat distribution in a Global South setting, aligning with urban cooling and environmental planning themes.",
+   "action": "Check how the study validates its simulated datasets against real-world observations.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How reliable are conclusions drawn entirely from simulated datasets?",
+   "evidence": "The abstract explicitly states the study used simulated but realistic datasets derived from agency records and projections.",
+   "limit": "The abstract does not state whether actual field temperature measurements were used to cross-verify the simulation.",
+   "check": "Verify the exact modeling techniques and validation steps used for the simulated temperature data."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.5897/ajest2026.3491",
+   "doi": "https://doi.org/10.5897/ajest2026.3491",
+   "venue": "African Journal of Environmental Science and Technology",
+   "date": "2026-10-29",
+   "authors": [
+    "Ramon Ibrahim Oladayo",
+    "Sunday Eniolawun Olaleke",
+    "Patel Nilanchal",
+    "James Oyebanji Toba"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224644486",
+  "title": "Cooling effect of urban green spaces in Berlin (Germany): Comparative analysis of parks, cemeteries, and allotments using buffer analysis",
+  "headline": "Cemeteries and allotments cool cities too",
+  "bullets": [
+   "Analyzed cooling in 230 parks, 154 cemeteries, and 512 allotments in Berlin.",
+   "Parks reached furthest (259m), but cemeteries showed the highest cooling intensity.",
+   "Shows urban planners must use diverse green spaces, not just traditional parks."
+  ],
+  "plain": {
+   "question": "How well do different green spaces cool a city?",
+   "method": "Used satellite images to check the cooling effects of parks, cemeteries, and allotments in Berlin.",
+   "finding": "Parks reach further, but cemeteries cool things down the most.",
+   "why": "Helps planners use all kinds of green spaces to fight city heat."
+  },
+  "full": {
+   "explainer": "Cities get very hot, and green spaces help cool them down. While researchers usually study regular parks, other green areas like cemeteries and community gardens also exist. This study looked at Berlin, Germany, to compare how well parks, cemeteries, and allotments cool the surrounding city. The researchers used satellite images from six different dates. They measured three things: how far the cooling reaches, how intense the cooling is, and the total cooling area. They also looked at what factors inside and around these green spaces affect their cooling power. The results show that parks reach the furthest distance, but cemeteries actually have the highest cooling intensity. Allotment gardens also provide cooling, though less. Vegetation and nearby hard surfaces affect how well these places cool. The study proves that cemeteries and gardens help fight urban heat just like parks do. This means city planners should include many types of green spaces to improve comfort in crowded, built-up areas.",
+   "caveats": [
+    "Study is limited to Berlin, Germany.",
+    "Only uses Landsat 8 TM images over six dates.",
+    "Not stated how other cities or climates compare."
+   ],
+   "jargon": [
+    {
+     "term": "Urban Heat Island",
+     "definition": "A metropolitan area that is significantly warmer than its surrounding rural areas due to human activities."
+    },
+    {
+     "term": "Buffer Analysis",
+     "definition": "A geographic tool used to create zones around features to measure what is nearby."
+    },
+    {
+     "term": "Impervious Surfaces",
+     "definition": "Artificial structures like roofs and roads that prevent water from soaking into the ground."
+    }
+   ],
+   "fit": "Provides a transferable method and cooling evidence relevant to urban cooling and green-blue infrastructure planning."
+  },
+  "thesis": {
+   "why": "It evaluates urban cooling and green space performance using buffer analysis, matching the student's interest in urban cooling methods.",
+   "action": "Check how the study defines and measures cooling capacity indicators like PCD and PCI.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can buffer analysis and satellite data alone reliably capture human thermal comfort benefits?",
+   "evidence": "The study used Landsat 8 TM images and buffer analysis to determine cooling distance, intensity, and area for different green spaces.",
+   "limit": "The abstract does not report direct measurements of human exposure, social access, or actual thermal comfort benefits experienced by people.",
+   "check": "Verify how ground-level temperatures or microclimate variations were validated against satellite thermal data."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.cacint.2026.100522",
+   "doi": "https://doi.org/10.1016/j.cacint.2026.100522",
+   "venue": "City and Environment Interactions",
+   "date": "2026-10-29",
+   "authors": [
+    "Niklas Stuhrmann",
+    "Yannik Sülzer",
+    "Bernd Marschner",
+    "Britta Stumpe"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224639912",
+  "title": "Indigenous Peoples and the Rights of Nature: A comparative analysis of environmental justice from the Philippines to the global stage",
+  "headline": "Rights of Nature laws protect indigenous peoples",
+  "bullets": [
+   "Compared legal cases on indigenous rights and nature from multiple countries.",
+   "Found that Rights of Nature frameworks fill gaps in human-centered laws.",
+   "Shows how legal integration protects vulnerable environments and defenders."
+  ],
+  "plain": {
+   "question": "Can giving nature legal rights help protect indigenous peoples and the environment?",
+   "method": "Compared global court cases and laws from the Philippines, Kenya, and Australia.",
+   "finding": "Traditional laws are too weak, but giving nature its own legal standing helps bridge gaps.",
+   "why": "It offers a better way to protect nature and vulnerable indigenous defenders."
+  },
+  "full": {
+   "explainer": "This paper looks at the 'Rights of Nature' framework, which says that nature has its own legal rights separate from human economic rights. To work, courts must recognize nature's legal standing. The study connects this idea with the rights of Indigenous Peoples, arguing that putting these rights into state legal systems improves protection in biodiverse countries. It highlights the Philippines, a mega-biodiverse country where environmental defenders face extreme danger and legal remedies are very hard to use. By looking at global examples, such as the Endorois case in Kenya and the Torres Strait Islanders case in Australia, the article shows how traditional human-centered laws leave people at risk. The author concludes that using the Rights of Nature framework can strengthen protection for indigenous rights and lead to more sustainable environmental justice across different countries.",
+   "caveats": [
+    "The abstract does not provide quantitative data or empirical measurements.",
+    "Specific local outcomes in the Philippines are not fully detailed."
+   ],
+   "jargon": [
+    {
+     "term": "Rights of Nature",
+     "definition": "A legal framework stating nature has inherent rights independent of humans."
+    },
+    {
+     "term": "Anthropocentric",
+     "definition": "Focusing primarily on human needs, values, and interests."
+    },
+    {
+     "term": "Jurisprudence",
+     "definition": "The theory or philosophy of law, or a system of laws."
+    }
+   ],
+   "fit": "Connects to environmental planning, governance, and justice in the Global South by examining legal rights for nature and indigenous peoples."
+  },
+  "thesis": {
+   "why": "It offers broader context on environmental governance, plural values, and justice in the Global South, although it focuses on legal rights rather than urban ecosystems.",
+   "action": "Check how legal rights for nature might intersect with urban green-blue infrastructure planning.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does a rights-of-nature legal framework directly improve actual environmental conditions or ecosystem service supply?",
+   "evidence": "The abstract discusses legal standing, court cases, and protections for indigenous rights, but does not provide evidence of physical ecological improvements.",
+   "limit": "We cannot establish whether legal recognition actually halts environmental degradation or improves urban ecosystem services.",
+   "check": "Verify if the full paper discusses practical implementation challenges or just theoretical legal integration."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1111/reel.70092",
+   "doi": "https://doi.org/10.1111/reel.70092",
+   "venue": "Review of European Comparative & International Environmental Law",
+   "date": "2026-10-29",
+   "authors": [
+    "Josiah David Quising"
+   ],
+   "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224189925",
+  "title": "A Review of Higher Education Artificial Intelligence Frameworks to Empower Industrial & Sustainable Competitiveness in the Global South",
+  "headline": "AI education gap in the Global South examined",
+  "bullets": [
+   "Mapped AI educational infrastructure in India, China, and Brazil via Scopus.",
+   "Found a disconnect between digital education tools and economic productivity.",
+   "Provides a roadmap to align AI education with sustainable development goals."
+  ],
+  "plain": {
+   "question": "How do higher education AI frameworks help industrial competitiveness in the Global South?",
+   "method": "We used a bibliometric and comparative policy review of data from India, China, and Brazil.",
+   "finding": "There is a gap between digital education tools and actual economic productivity.",
+   "why": "This helps policymakers build a resilient society and meet sustainable development goals."
+  },
+  "full": {
+   "explainer": "This paper looks at how the Fifth Industrial Revolution and Artificial Intelligence are changing workforce skills around the world. Because there is a gap in AI implementation between the Global North and the Global South, the authors studied policies in top Global South economies: India, China, and Brazil. Using a database search, they checked how these countries use AI education to build industrial assets. Interestingly, the study discovered a major problem in engineering education: schools struggle to turn digital educational tools into real-world economic productivity across different sectors. By connecting these findings to global supply chains like rare earths and advanced power management, the authors created a roadmap. This blueprint aims to help policymakers improve industrial competitiveness while supporting global sustainable development goals.",
+   "caveats": [
+    "Focuses specifically on Tier I Global South leader economies: India, China, and Brazil.",
+    "Not stated whether other Global South countries were evaluated."
+   ],
+   "jargon": [
+    {
+     "term": "Bibliometric",
+     "definition": "A statistical analysis of books, articles, and other publication data."
+    },
+    {
+     "term": "Pedagogy",
+     "definition": "The method and practice of teaching."
+    }
+   ],
+   "fit": "This paper examines the Global South and sustainable development, but does not focus on urban ecosystem services, land-cover change, or Kabul."
+  },
+  "thesis": {
+   "why": "The paper provides broad Global South context regarding policy frameworks and sustainable development goals, though it lacks a direct link to urban ecosystem services or Kabul.",
+   "action": "Check if the full text discusses any urban land-cover or spatial planning frameworks.",
+   "relationship": "unclear"
+  },
+  "critical": {
+   "question": "How does higher education AI infrastructure relate to urban ecosystem services and land-cover change?",
+   "evidence": "The abstract maps AI-led educational and technical infrastructure to industrial competitiveness, global supply chains, and UN SDGs, but mentions nothing about urban ecosystems, land cover, or environmental planning.",
+   "limit": "It cannot be established from the abstract how educational frameworks directly impact physical urban environments or ecological functions.",
+   "check": "Verify if the full paper contains any spatial or urban-level analyses that connect to environmental planning."
+  },
+  "relevance": 1,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11026332/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11026332/v1",
+   "venue": "Research Square",
+   "date": "2026-10-29",
+   "authors": [
+    "Elise Lee",
+    "Sourojeet Chakraborty"
+   ],
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
@@ -1130,6 +1451,199 @@
   }
  },
  {
+  "id": "W7223868914",
+  "title": "Mapping urban villages and characterizing their renewal dynamics in China (2018–2025)",
+  "headline": "Mapping China's urban villages and renewal dynamics",
+  "bullets": [
+   "Mapped urban villages and renewal dynamics in China from 2018 to 2025.",
+   "Provided spatial data on urban village mapping and renewal processes.",
+   "Informs urban development, land-cover change, and planning studies."
+  ],
+  "plain": {
+   "question": "How can we map urban villages and track their renewal over time?",
+   "method": "The study maps urban villages and characterizes their renewal dynamics.",
+   "finding": "It mapped urban villages and renewal dynamics between 2018 and 2025.",
+   "why": "This helps us understand rapid urban changes and land-cover shifts."
+  },
+  "full": {
+   "explainer": "not stated",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "urban villages",
+     "definition": "Rural settlements surrounded by expanding urban areas."
+    },
+    {
+     "term": "renewal dynamics",
+     "definition": "The processes and patterns of urban redevelopment and change."
+    }
+   ],
+   "fit": "Connects to urban land-cover change and planning in developing or transitioning contexts."
+  },
+  "thesis": {
+   "why": "It deals with urban land-cover change and settlement dynamics, which relates to broader urban planning and land-change research.",
+   "action": "Check if the mapping methods can be adapted for informal settlements in Kabul.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do mapping techniques for Chinese urban villages apply to conflict-affected or data-scarce settings like Kabul?",
+   "evidence": "The abstract focuses exclusively on mapping urban villages and renewal dynamics in China from 2018 to 2025.",
+   "limit": "The abstract does not provide specific details on the algorithms, accuracy assessments, or transferability to other regions.",
+   "check": "Verify whether the remote sensing methods used are suitable for data-scarce or informal regions."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.1016/j.rse.2026.115746",
+   "doi": "https://doi.org/10.1016/j.rse.2026.115746",
+   "venue": "Remote Sensing of Environment",
+   "date": "2026-10-27",
+   "authors": [
+    "Yizhen Wu",
+    "Shirao Liu",
+    "Bingqing Sun",
+    "Zhenfeng Shao",
+    "Xi Li"
+   ],
+   "n_authors": 5,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223958700",
+  "title": "Temporal standardization of Sentinel-1 time series for annual and continuous tropical forest loss detection",
+  "headline": "Standardizing radar data detects tropical forest loss",
+  "bullets": [
+   "Developed a method to temporally standardize Sentinel-1 radar data time series.",
+   "Achieved high annual and continuous forest loss detection accuracy in the Congo Basin.",
+   "Provides reliable analysis-ready datasets for operational tropical forest monitoring."
+  ],
+  "plain": {
+   "question": "How can we reliably track forest loss in cloudy tropical regions using radar satellites?",
+   "method": "The researchers standardized radar data over time into statistical deviations to spot drops in signals.",
+   "finding": "They successfully detected most forest loss with very few false alarms annually and continuously.",
+   "why": "This helps monitor forests accurately even when clouds block normal optical satellite images."
+  },
+  "full": {
+   "explainer": "Monitoring tropical forests is hard because thick clouds often block regular satellite photos, especially in Africa. To fix this, researchers used radar satellites that can see right through clouds day and night. They created a new way to standardize radar measurements over time. Instead of getting confused by normal landscape changes, their method looks specifically for unusual drops in the radar signal that mean trees have been cut down. Tested in the Congo Basin, this technique successfully spotted almost all forest loss while making very few mistakes. It works for both yearly checks and continuous monitoring over short periods. The study also fixed geometric distortions common in radar images. Overall, this gives scientists a dependable tool to track deforestation in cloudy, hard-to-reach tropical regions.",
+   "caveats": [
+    "Tested specifically on moist tropical forests in the Congo Basin.",
+    "Not stated for urban areas or other non-forest environments."
+   ],
+   "jargon": [
+    {
+     "term": "Synthetic Aperture Radar (SAR)",
+     "definition": "A radar technology used to create 2D images of landscapes, capable of seeing through clouds."
+    },
+    {
+     "term": "Backscattering",
+     "definition": "The reflection of radar waves back toward the satellite sensor."
+    },
+    {
+     "term": "Ground Range Detected (GRD)",
+     "definition": "Satellite radar data projected onto the ellipsoid of the Earth's surface."
+    }
+   ],
+   "fit": "Focuses on remote sensing, land-cover change detection, and spatial data standardization, which are core methods for spatial modeling."
+  },
+  "thesis": {
+   "why": "It demonstrates land-cover change detection and accuracy assessment methods using time series datasets, relevant for spatial analysis.",
+   "action": "Check how temporal standardization methods might apply to land-cover change accuracy in urban environments.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can this satellite radar standardization method be applied to monitor urban land-cover change?",
+   "evidence": "The abstract discusses temporal standardization of Sentinel-1 time series specifically for tropical forest loss detection in the Congo Basin.",
+   "limit": "The abstract does not state whether this method works for urban land-cover change, built-up areas, or semi-arid settings.",
+   "check": "Verify in the full text if the spatial resolution and radar backscatter properties are suitable for urban environments."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.3389/frsen.2026.1858704",
+   "doi": "https://doi.org/10.3389/frsen.2026.1858704",
+   "venue": "Frontiers in Remote Sensing",
+   "date": "2026-10-27",
+   "authors": [
+    "Baptiste Delhez",
+    "Thibauld Collet",
+    "François Toussaint",
+    "Julien Radoux",
+    "Pierre Defourny"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223910191",
+  "title": "Reimagining nature finance",
+  "headline": "Nature markets fail to solve the biodiversity crisis",
+  "bullets": [
+   "Reviewed interdisciplinary evidence on natural capital markets and biodiversity offsets.",
+   "Found five flaws showing markets cannot protect nature at the required scale or speed.",
+   "Argues for shifting focus from financial tools to equitable conservation outcomes."
+  ],
+  "plain": {
+   "question": "Can private nature markets solve the biodiversity crisis?",
+   "method": "Looking at past interdisciplinary evidence on these markets.",
+   "finding": "No, they have five major flaws and limited impact.",
+   "why": "We must focus on fair ways to fund real nature recovery instead."
+  },
+  "full": {
+   "explainer": "Natural capital markets are widely promoted as a way to use private money to fund nature conservation and help close the gap in nature funding. However, looking across interdisciplinary evidence, these voluntary carbon and biodiversity offset markets are unlikely to ever protect or recover nature quickly or at a large enough scale. They also fail to deliver broad social and ecological benefits. The authors point out five main problems with these markets: they are hard to scale up, they focus more on compensating for damage than restoring nature, they put financial profits above ecological health, they raise serious justice and fairness concerns, and they are very hard to measure properly. Because of these issues, these markets have taken up too much political and research time for very little real-world impact. The paper suggests reimagining nature finance so that raising money is just a tool, not the main goal. Research and policy should instead focus directly on finding fair and effective ways to fund real conservation projects.",
+   "caveats": [
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Natural capital markets",
+     "definition": "Markets that trade environmental credits, like carbon or biodiversity offsets."
+    },
+    {
+     "term": "Compensatory",
+     "definition": "An approach that tries to make up for environmental damage somewhere else rather than stopping it."
+    }
+   ],
+   "fit": "Warns that market-led funding may not deliver true socio-ecological benefits for urban environments and planning."
+  },
+  "thesis": {
+   "why": "It cautions against relying on financialized market mechanisms for environmental planning and equitable socio-ecological outcomes.",
+   "action": "Check if the authors discuss urban nature finance or municipal green-blue infrastructure funding.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does this critique of global biodiversity markets apply to local urban ecosystem service planning?",
+   "evidence": "The abstract targets voluntary biodiversity and carbon offset markets broadly, claiming they fail to deliver socio-ecological benefits.",
+   "limit": "The abstract does not mention urban ecosystem services, municipal finance, or urban planning contexts specifically.",
+   "check": "Verify whether the full paper addresses urban greening projects or only large-scale rural offset schemes."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.gloenvcha.2026.103252",
+   "doi": "https://doi.org/10.1016/j.gloenvcha.2026.103252",
+   "venue": "Global Environmental Change",
+   "date": "2026-10-27",
+   "authors": [
+    "Theo Stanley",
+    "Sophus zu Ermgassen",
+    "Adrienne H.J. Buller",
+    "Katie Kedward",
+    "Yadvinder Singh Malhi",
+    "Constance L. McDermott"
+   ],
+   "n_authors": 10,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7223659395",
   "title": "Analysis of Methods Employed Globally to Assess Cultural Ecosystem Services in Urban Parks",
   "headline": "Global methods for assessing urban park cultural benefits",
@@ -1519,6 +2033,71 @@
     "Milena Tocheva",
     "Giancarlo Antonio Statti",
     "Ekaterina K. Kozuharova"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223685514",
+  "title": "Soft shores or hard lines? Comparing perceived ecosystem services for coastal protection",
+  "headline": "Mixed coastal defenses perform best overall",
+  "bullets": [
+   "Compared perceived benefits of grey, green, and mixed coastal defenses in Bangladesh.",
+   "Mixed strategies ranked best, followed closely by green approaches, with grey lowest.",
+   "Supports combining nature-based and engineered defenses for uncertain futures."
+  ],
+  "plain": {
+   "question": "Which coastal defense type do people and experts prefer?",
+   "method": "Studied three vulnerable sites in Bangladesh using household surveys and expert analysis.",
+   "finding": "Mixed approaches performed best by balancing protection, livelihoods, and socioeconomic benefits.",
+   "why": "It shows we do not have to choose strictly between hard engineering and nature."
+  },
+  "full": {
+   "explainer": "Protecting coasts is moving away from purely engineered defenses toward nature-based and hybrid methods, but we still need to know how well they work across different stakeholder priorities. This study looks at three climate-vulnerable sites in Bangladesh to compare the perceived benefits of grey, or engineered, green, and mixed coastal protection strategies. By combining household surveys and expert assessments, the researchers evaluated various ecosystem services. They found that mixed strategies performed best overall, closely followed by green approaches, while grey infrastructure ranked the lowest. Mixed options successfully balanced coastal protection with livelihood and socioeconomic benefits, whereas green approaches were stronger for biodiversity, fisheries, carbon, and culture. These results held up even when accounting for different risk attitudes and levels of uncertainty. Ultimately, the findings challenge the idea of a binary choice and support using context-specific combinations to reduce hazards while helping ecosystems and communities.",
+   "caveats": [
+    "Preferences shifted between mixed and green strategies depending on risk attitudes and uncertainty.",
+    "Not stated: exact quantitative measurements of actual physical protection outcomes."
+   ],
+   "jargon": [
+    {
+     "term": "ecosystem services",
+     "definition": "Benefits that people freely gain from the natural environment and healthy ecosystems."
+    },
+    {
+     "term": "grey infrastructure",
+     "definition": "Human-made engineered structures like seawalls and dams used for protection."
+    },
+    {
+     "term": "participatory decision analysis",
+     "definition": "A decision-making approach that integrates input from various stakeholders and experts."
+    }
+   ],
+   "fit": "Provides insight into stakeholder priorities, mixed strategy benefits, and participatory methods relevant to Global South planning."
+  },
+  "thesis": {
+   "why": "It provides valuable comparative insights on stakeholder perceptions of mixed versus engineered infrastructure strategies, useful for planning contexts.",
+   "action": "Check the full paper for details on participatory decision analysis methods.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How were household perceptions weighted against expert assessments in the participatory analysis?",
+   "evidence": "The abstract states it integrates household perceptions and expert assessments through participatory decision analysis.",
+   "limit": "The abstract does not state the exact weighting mechanism or how discrepancies between groups were resolved.",
+   "check": "Verify the exact integration methodology used to combine household and expert scores."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11330355/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11330355/v1",
+   "venue": "Research Square",
+   "date": "2026-10-26",
+   "authors": [
+    "Monzer Hossain Sarker",
+    "Animesh Kumar Gain",
+    "Carlo Giupponi"
    ],
    "n_authors": 3,
    "open_access": true,

@@ -186,5 +186,53 @@
    }
   ],
   "search": "groundwater mineralization urban development Kabul"
+ },
+ {
+  "id": "889ef9acf8",
+  "date": "2026-11-01",
+  "term": "Subjective human well-being metrics",
+  "area": "Human well-being",
+  "kind": "concept",
+  "definition": "Subjective human well-being metrics are self-reported measures of how people feel about their own happiness and quality of life.",
+  "plain": "Instead of just counting things like income or parks, these metrics ask people directly how satisfied they are with their lives. In cities, this helps researchers see how things like neighborhood green spaces actually make residents feel.",
+  "example": "A survey in an informal settlement in Kabul asking residents to rate their daily happiness and stress levels based on local green space access.",
+  "connects": "Links the actual delivery of ecosystem services to how people truly experience and benefit from them.",
+  "why_phd": "Crucial for proving that urban planning and green spaces genuinely improve people's lives, not just ecological scores.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do subjective human well-being metrics measure?",
+    "a": "Self-reported human happiness and life satisfaction."
+   },
+   {
+    "q": "Why use these metrics in urban planning?",
+    "a": "To understand how environmental changes directly affect residents' actual lived experiences."
+   }
+  ],
+  "search": "subjective well being urban green space"
+ },
+ {
+  "id": "606f6a6a5d",
+  "date": "2026-11-01",
+  "term": "ecological zoning",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Ecological zoning is the spatial division of land to protect natural functions and guide sustainable urban development.",
+  "plain": "Think of it as drawing boundaries on a map to decide which areas should be protected for nature and which can be built on. In rapidly growing cities, it helps separate vulnerable natural zones from formal or informal housing.",
+  "example": "In a semi-arid city, zoning hillsides as protected ecological zones to prevent risky informal settlements and preserve water flow.",
+  "connects": "It links landscape configuration, land-cover change, and green-blue infrastructure planning.",
+  "why_phd": "Vital for designing scenarios that balance urban growth with ecosystem service supply in data-scarce settings like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main goal of ecological zoning?",
+    "a": "To divide land spatially to protect natural functions and guide sustainable urban development."
+   },
+   {
+    "q": "Why is it useful in a city like Kabul?",
+    "a": "It helps manage risks in vulnerable areas like hillsides while preserving essential ecosystem services."
+   }
+  ],
+  "search": "ecological zoning urban environmental planning"
  }
 ]

@@ -99,5 +99,32 @@
    "Drivers of land use change",
    "Groundwater mineralization"
   ]
+ },
+ "2026-11-01": {
+  "papers": [
+   "Wetlands shape services in non-linear ways",
+   "Mapping China's urban villages and renewal dynamics",
+   "Standardizing radar data detects tropical forest loss",
+   "Urban growth raises local temperatures in Lagos",
+   "Cemeteries and allotments cool cities too",
+   "Mixed coastal defenses perform best overall",
+   "Rights of Nature laws protect indigenous peoples",
+   "Nature markets fail to solve the biodiversity crisis",
+   "AI education gap in the Global South examined"
+  ],
+  "radar": [
+   "Integrated framework for landscape connectivity in agricultural systems",
+   "Korea to Target Green Gaps With 3-30-300 Urban Forest Rule",
+   "Baghdad's Green Spaces Shrink as Construction Threatens Old Trees",
+   "Bangladesh urges grant-based climate finance at COP31",
+   "Bengaluru Eco-Parks Plan: Can Green Cover Recover?"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Subjective human well-being metrics",
+   "ecological zoning"
+  ]
  }
 }

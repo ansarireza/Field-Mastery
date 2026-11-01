@@ -1,22 +1,22 @@
 {
  "week": "2026-W44",
- "date": "2026-10-28",
- "partial": true,
+ "date": "2026-11-01",
+ "partial": false,
  "themes": [
-  "Climate practices mapped in Maputo's informal areas",
-  "Governance failures deny WASH access to the displaced",
-  "Climate change drives systemic risks and inequalities",
-  "Biodiversity finance and harmful subsidies tested in COP17 final week"
+  "Global studies explored urban ecosystem services, land-cover changes, and green infrastructure performance.",
+  "Research examined urban cooling effects of trees, small water bodies, and cemeteries in cities.",
+  "New insights emerged on land-use disturbances, ecosystem supply, demand, and restoration success factors.",
+  "Radar updates highlighted urban master plans, climate resilience, and green space pressures across regions."
  ],
- "learned": "Studied anthropogenic pressures and the security-conservation nexus.",
+ "learned": "Studied anthropogenic pressures, remote sensing, drivers of land use change, and ecological zoning.",
  "next": [
-  "India calls for sustainable cities to meet global climate goals",
-  "Study reveals continental variation in permanent chemical buildup",
-  "Plants and microbes remove wastewater pollutants in wetlands"
+  "Linking ecosystem services and land-use disturbance",
+  "Measurement design constrains urban-greening thermal evidence",
+  "Testing Local Climate Zones in an arid city"
  ],
  "counts": {
-  "papers": 3,
-  "radar": 5,
-  "lessons": 2
+  "papers": 38,
+  "radar": 25,
+  "lessons": 10
  }
 }

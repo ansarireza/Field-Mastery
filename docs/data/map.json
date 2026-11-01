@@ -1,5 +1,5 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "areas": [
   {
    "name": "urban ecosystem service theory",
@@ -43,7 +43,7 @@
   },
   {
    "name": "From today's papers",
-   "lessons": 5
+   "lessons": 6
   },
   {
    "name": "Ecosystem services valuation",
@@ -55,6 +55,10 @@
   },
   {
    "name": "Land use change",
+   "lessons": 1
+  },
+  {
+   "name": "Human well-being",
    "lessons": 1
   }
  ]

@@ -462,26 +462,27 @@
   "dd0d2a54e5",
   "4bf5f52f2b",
   "487c1d305b",
-  "6e3dded1e0"
+  "6e3dded1e0",
+  "dcef971192"
  ],
  "today": {
-  "id": "6e3dded1e0",
+  "id": "dcef971192",
   "scope": "the whole thesis",
-  "q": "How do you separate spatial associations from the causal effects of settlement status, such as formal versus informal areas?",
-  "type": "alternative explanations",
+  "q": "How transferable are InVEST models and ecosystem service frameworks from data-rich contexts to semi-arid Kabul?",
+  "type": "generalisability",
   "outline": [
-   "Acknowledge the difference between correlation and causation",
-   "Discuss settlement morphology and land-cover change variables",
-   "Propose methods to control for confounding socio-spatial factors"
+   "Discuss transferability between cities and contexts",
+   "Address semi-arid, mountainous, and data-scarce conditions",
+   "Explain adaptations needed for peri-urban agriculture and hillsides"
   ],
-  "pitfall": "Assuming settlement status directly causes specific ecological outcomes without causal proof.",
-  "follow_up": "What unmeasured confounders might explain the observed ecosystem service bundles?",
-  "bring": "Spatial statistical models or research design frameworks addressing causality.",
+  "pitfall": "Assuming standard parameterizations work universally without local calibration.",
+  "follow_up": "How do plural values and governance contexts alter model transportability?",
+  "bring": "Literature references or comparative criteria for cross-city transferability.",
   "self_check": [
-   "Addresses spatial association vs causation",
-   "Mentions settlement status",
-   "Considers confounding factors"
+   "Discusses transferability",
+   "Considers semi-arid and mountainous constraints",
+   "Notes parameterization challenges"
   ]
  },
- "today_date": "2026-10-31"
+ "today_date": "2026-11-01"
 }
