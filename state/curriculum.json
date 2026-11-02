@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Payments for ecosystem services basics",
-   "area": "Payments for ecosystem services",
-   "kind": "policy"
-  },
-  {
    "term": "Global South development paradigms",
    "area": "Global South development",
    "kind": "classic_idea"
@@ -191,6 +186,8 @@
   "Drivers of land use change",
   "Groundwater mineralization",
   "Subjective human well-being metrics",
-  "ecological zoning"
+  "ecological zoning",
+  "Payments for ecosystem services basics",
+  "High-Andean landscape"
  ]
 }

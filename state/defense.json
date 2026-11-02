@@ -463,26 +463,27 @@
   "4bf5f52f2b",
   "487c1d305b",
   "6e3dded1e0",
-  "dcef971192"
+  "dcef971192",
+  "89a4ffe3c4"
  ],
  "today": {
-  "id": "dcef971192",
+  "id": "89a4ffe3c4",
   "scope": "the whole thesis",
-  "q": "How transferable are InVEST models and ecosystem service frameworks from data-rich contexts to semi-arid Kabul?",
-  "type": "generalisability",
+  "q": "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?",
+  "type": "practical relevance",
   "outline": [
-   "Discuss transferability between cities and contexts",
-   "Address semi-arid, mountainous, and data-scarce conditions",
-   "Explain adaptations needed for peri-urban agriculture and hillsides"
+   "Connect scenario comparison to planning decisions",
+   "Incorporate green-blue infrastructure and peri-urban agriculture",
+   "Address formal and informal flatland and hillside settlements"
   ],
-  "pitfall": "Assuming standard parameterizations work universally without local calibration.",
-  "follow_up": "How do plural values and governance contexts alter model transportability?",
-  "bring": "Literature references or comparative criteria for cross-city transferability.",
+  "pitfall": "Presenting abstract ecological metrics without translating them to actionable planning.",
+  "follow_up": "How do you reconcile conflicting plural values during practical planning?",
+  "bring": "Scenario comparison frameworks or planning guideline integration examples.",
   "self_check": [
-   "Discusses transferability",
-   "Considers semi-arid and mountainous constraints",
-   "Notes parameterization challenges"
+   "Links evidence to planning",
+   "Includes diverse settlement types",
+   "Mentions green-blue infrastructure"
   ]
  },
- "today_date": "2026-11-01"
+ "today_date": "2026-11-02"
 }

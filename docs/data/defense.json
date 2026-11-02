@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "dcef971192",
+  "id": "89a4ffe3c4",
   "scope": "the whole thesis",
-  "q": "How transferable are InVEST models and ecosystem service frameworks from data-rich contexts to semi-arid Kabul?",
-  "type": "generalisability",
+  "q": "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?",
+  "type": "practical relevance",
   "outline": [
-   "Discuss transferability between cities and contexts",
-   "Address semi-arid, mountainous, and data-scarce conditions",
-   "Explain adaptations needed for peri-urban agriculture and hillsides"
+   "Connect scenario comparison to planning decisions",
+   "Incorporate green-blue infrastructure and peri-urban agriculture",
+   "Address formal and informal flatland and hillside settlements"
   ],
-  "pitfall": "Assuming standard parameterizations work universally without local calibration.",
-  "follow_up": "How do plural values and governance contexts alter model transportability?",
-  "bring": "Literature references or comparative criteria for cross-city transferability.",
+  "pitfall": "Presenting abstract ecological metrics without translating them to actionable planning.",
+  "follow_up": "How do you reconcile conflicting plural values during practical planning?",
+  "bring": "Scenario comparison frameworks or planning guideline integration examples.",
   "self_check": [
-   "Discusses transferability",
-   "Considers semi-arid and mountainous constraints",
-   "Notes parameterization challenges"
+   "Links evidence to planning",
+   "Includes diverse settlement types",
+   "Mentions green-blue infrastructure"
   ]
  },
  "bank_total": 24,
- "asked": 5,
+ "asked": 6,
  "upcoming": [
-  "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?",
   "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?",
   "What criteria determine whether methods and conclusions from the Global North transfer to semi-arid settings like Kabul?",
   "How do you account for uncertainty and sensitivity in spatial modeling when data availability is severely limited?",
-  "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?"
+  "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
+  "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?"
  ]
 }

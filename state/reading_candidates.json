@@ -1,5 +1,339 @@
 [
  {
+  "id": "W7225042082",
+  "title": "Reproducing informality: return migration from social housing as constrained agency in climate-driven relocation in coastal Jakarta",
+  "headline": "Return migration to informal housing in coastal Jakarta",
+  "bullets": [
+   "Examined return migration from social housing in coastal Jakarta.",
+   "Found that people return to informal settlements due to constrained choices.",
+   "Highlights limits of climate-driven relocation programs."
+  ],
+  "plain": {
+   "question": "Why do people move back to informal areas after being placed in social housing?",
+   "method": "Studied return migration patterns in coastal Jakarta's climate relocation.",
+   "finding": "People return because their choices are heavily constrained.",
+   "why": "It shows why climate-driven relocation programs often fail to keep people."
+  },
+  "full": {
+   "explainer": "This study looks at climate-driven relocation in coastal Jakarta, Indonesia. When people are moved into formal social housing, some choose to return to informal settlements. The paper investigates this return migration, describing it as an act of constrained agency. This means people are making choices, but their options are severely limited by their circumstances. Understanding why residents leave social housing to go back to informal areas helps planners see the shortcomings of current relocation strategies. It shows that simply moving people into new housing blocks does not automatically solve the challenges of climate adaptation and urban planning in the Global South, especially when social and economic needs are not fully met by the new housing arrangements.",
+   "caveats": [
+    "not stated",
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "constrained agency",
+     "definition": "The ability to make choices, but only within very restricted and difficult options."
+    },
+    {
+     "term": "informality",
+     "definition": "Settlements or economic activities that operate outside formal legal and regulatory frameworks."
+    }
+   ],
+   "fit": "Connects to Global South urban planning, informal settlements, and the limits of formal housing interventions."
+  },
+  "thesis": {
+   "why": "It provides insight into informal settlements and the human side of relocation in the Global South, offering context on housing and vulnerability.",
+   "action": "Check how the study defines constrained agency in relation to settlement choices.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does return migration alter overall environmental vulnerability in coastal areas?",
+   "evidence": "The abstract discusses return migration to informal housing from social housing as constrained agency during climate-driven relocation.",
+   "limit": "The abstract does not provide empirical data on environmental risks or changes in ecosystem services.",
+   "check": "Look for specific push and pull factors driving residents back to informal areas."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.1007/s12546-026-09446-w",
+   "doi": "https://doi.org/10.1007/s12546-026-09446-w",
+   "venue": "Journal of Population Research",
+   "date": "2026-11-02",
+   "authors": [
+    "Gusti Ayu Ketut Surtiari",
+    "Meirina Ayumi Malamassam",
+    "Sri Rum Giyarsih",
+    "Miko Maekawa"
+   ],
+   "n_authors": 4,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225037263",
+  "title": "Urban and peri-urban agriculture in the Global South: Nexus and policies to reduce territorial inequalities and improve social welfare",
+  "headline": "Review of urban agriculture and nexus policies in the South",
+  "bullets": [
+   "Reviewed 49 papers on urban agriculture and nexus frameworks in the Global South.",
+   "Found 17 nexus types and regional differences in focus like subsistence and institutions.",
+   "Shows how integrated policies can reduce territorial inequalities and improve welfare."
+  ],
+  "plain": {
+   "question": "How do urban agriculture and nexus frameworks help reduce inequality and improve social welfare in the Global South?",
+   "method": "The authors searched a database for past studies, chose 49 relevant papers, and analyzed their themes and patterns.",
+   "finding": "They found 17 different nexus types and saw that southern studies focus more on structural constraints and poverty than northern ones.",
+   "why": "This helps cities design better policies to connect food production with social and environmental goals."
+  },
+  "full": {
+   "explainer": "In many growing cities of the Global South, rapid development pushes farming out to vulnerable edge areas. Urban and peri-urban agriculture has become an important way to produce food, build social bonds, and fight climate change. However, researchers do not fully understand how interconnected nexus frameworks are used in this type of farming research or how they shape inclusive policies. To fill this gap, researchers conducted a systematic literature review using the Scopus database from 2017 to 2024. Out of 92 initial documents, 49 open-access papers met their criteria. By analyzing these papers, the study made three main discoveries. First, it found 17 different nexus categories, going far beyond traditional water, energy, and food links to include health, waste, and climate. Second, it noted regional differences: Global North studies focus on technology, while Global South studies look at survival, basic needs, and weak institutions. Third, it found that governance is often fragmented, meaning rules are local and lack broad territorial integration. Overall, the paper suggests that well-supported farming policies can reduce inequality.",
+   "caveats": [
+    "The review relies only on open-access, English-language peer-reviewed articles from Scopus.",
+    "The study analyzed 49 papers out of 92 identified documents, which limits the scope."
+   ],
+   "jargon": [
+    {
+     "term": "Nexus frameworks",
+     "definition": "Tools that study the close connections between different resource sectors like water, energy, and food."
+    },
+    {
+     "term": "Peri-urban areas",
+     "definition": "The transition zones where urban and rural areas meet, often surrounding cities."
+    },
+    {
+     "term": "PRISMA protocol",
+     "definition": "A structured set of rules for transparently reporting systematic reviews and meta-analyses."
+    },
+    {
+     "term": "Territorial inequalities",
+     "definition": "Gaps in wealth, services, and development between different geographic areas or regions."
+    }
+   ],
+   "fit": "Connects to Global South urban environments, peri-urban agriculture, and policy planning for equity."
+  },
+  "thesis": {
+   "why": "It connects to peri-urban agriculture and policy planning in the Global South, offering insights on institutional fragmentation and regional inequalities.",
+   "action": "Check the full text for specific governance frameworks used in peri-urban agriculture.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do fragmented local policies actually cause measurable changes in regional territorial inequalities?",
+   "evidence": "The abstract states that regulatory instruments rank most effective yet remain locally focused, limiting wider territorial integration.",
+   "limit": "The abstract does not provide direct empirical measurements or causal proof that UPA policies successfully reduce territorial inequalities.",
+   "check": "Verify how the reviewed papers measured the success of governance frameworks and policy outcomes."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.rspp.2026.100360",
+   "doi": "https://doi.org/10.1016/j.rspp.2026.100360",
+   "venue": "Regional Science Policy & Practice",
+   "date": "2026-11-01",
+   "authors": [
+    "Erick Paul Mena-Barragan",
+    "Lucía Toledo",
+    "Javier Cuestas-Caza",
+    "Oswaldo Viteri-Salazar"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225016598",
+  "title": "Inclusivity of climate services in climate-resilient urban planning: A policy analysis of Ghana's National Frameworks",
+  "headline": "Ghana's climate policy analysis",
+  "bullets": [
+   "Analyzed Ghana's national frameworks for climate services in urban planning.",
+   "Not stated in the provided abstract text.",
+   "Helps understand inclusivity in climate-resilient urban planning policies."
+  ],
+  "plain": {
+   "question": "How inclusive are climate services in Ghana's urban planning policies?",
+   "method": "A policy analysis of Ghana's National Frameworks.",
+   "finding": "Not stated in the provided abstract.",
+   "why": "It helps improve climate-resilient urban planning."
+  },
+  "full": {
+   "explainer": "This study looks at climate services in Ghana and how inclusive they are within the country's national frameworks for climate-resilient urban planning. The authors use a policy analysis approach to examine these frameworks. Because the abstract is very brief, specific details about what was found are not provided in the text. However, the research generally addresses how national policies shape urban planning to handle climate issues, focusing on inclusivity. This topic relates broadly to environmental planning and governance in the Global South, offering insights into how government frameworks address climate resilience and urban development.",
+   "caveats": [
+    "Specific findings are not stated in the abstract.",
+    "Not stated whether other countries were compared."
+   ],
+   "jargon": [
+    {
+     "term": "Climate services",
+     "definition": "Providing climate information to help decision-making."
+    },
+    {
+     "term": "Policy analysis",
+     "definition": "Evaluating public policies to see how they work."
+    }
+   ],
+   "fit": "Connects to environmental planning and policy in the Global South, offering context on climate-resilient urban frameworks."
+  },
+  "thesis": {
+   "why": "It provides a policy context for climate-resilient urban planning in a Global South setting, relating to governance and environmental planning.",
+   "action": "Check the full paper to see if specific policy evaluation methods can inform governance aspects.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How can a policy analysis of national frameworks inform urban ecosystem services and physical planning?",
+   "evidence": "The abstract mentions a policy analysis of Ghana's National Frameworks regarding climate services in urban planning, but lacks spatial or ecological data.",
+   "limit": "The abstract does not state any empirical findings, spatial data, or connections to ecosystem services.",
+   "check": "Verify if the full paper links national climate frameworks to actual urban land-cover change or ecosystem services."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.1016/j.uclim.2026.103208",
+   "doi": "https://doi.org/10.1016/j.uclim.2026.103208",
+   "venue": "Urban Climate",
+   "date": "2026-10-31",
+   "authors": [
+    "Eric Nortey",
+    "Michael Osei Asibey",
+    "Bright Osei Boateng",
+    "Darkoa Nana Adjoa Otoo",
+    "Cephas N. Tanle"
+   ],
+   "n_authors": 5,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225000318",
+  "title": "From risk governance to management efficiency: Trade-offs and synergies in the “Health-Failure-Management” of Urban Sewage Recycling System",
+  "headline": "Management shift in urban sewage recycling systems",
+  "bullets": [
+   "Studied trade-offs and synergies in urban sewage recycling systems.",
+   "Analyzed the shift from risk governance to management efficiency.",
+   "Helps improve urban infrastructure and environmental management."
+  ],
+  "plain": {
+   "question": "How do trade-offs and synergies affect urban sewage recycling systems?",
+   "method": "Not stated",
+   "finding": "Not stated",
+   "why": "It helps us understand how to manage city water and waste systems better."
+  },
+  "full": {
+   "explainer": "This paper looks at urban sewage recycling systems, focusing on what it calls the Health-Failure-Management model. It explores the balance between risk governance and management efficiency, looking for trade-offs and synergies. Because the provided text only contains a title and an abstract with no actual summary data or results, the specific details of how this was studied or what was discovered are not stated here. However, the work generally centers on improving how cities handle wastewater and infrastructure management, balancing system health, potential failures, and operational efficiency.",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "urban sewage recycling system",
+     "definition": "A system used to collect, treat, and reuse wastewater in cities."
+    },
+    {
+     "term": "risk governance",
+     "definition": "The way risks are identified, assessed, and managed by authorities."
+    },
+    {
+     "term": "management efficiency",
+     "definition": "Achieving maximum productivity with minimum wasted effort or expense."
+    }
+   ],
+   "fit": "It connects by examining urban infrastructure management, though it lacks direct focus on Kabul or ecosystem services."
+  },
+  "thesis": {
+   "why": "It provides background on urban infrastructure and management, which relates broadly to urban environmental planning.",
+   "action": "Check if the full paper discusses water cycles or water yield modeling.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How can we evaluate this paper's claims without any reported methods or results?",
+   "evidence": "The provided abstract text only contains the title and no descriptive abstract content.",
+   "limit": "We cannot establish what methods, data, or specific findings the authors generated.",
+   "check": "Read the full-text article to find the actual methods and results."
+  },
+  "relevance": 1,
+  "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
+  "source": {
+   "url": "https://doi.org/10.1016/j.jclepro.2026.149821",
+   "doi": "https://doi.org/10.1016/j.jclepro.2026.149821",
+   "venue": "Journal of Cleaner Production",
+   "date": "2026-10-31",
+   "authors": [
+    "Hao Wang",
+    "Chuqin Duan",
+    "Zijan Wang",
+    "Jiajia Wei",
+    "Weichao Yang",
+    "Jinjun Zhou"
+   ],
+   "n_authors": 6,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225006488",
+  "title": "Indigenous communities' perceptions of ecosystem services of a montane forest ecosystem in Nigeria: Implications for restoration planning",
+  "headline": "Local views shape forest restoration in Nigeria",
+  "bullets": [
+   "Interviewed eight communities near a Nigerian forest reserve to record ecosystem services.",
+   "Found food and savannah species were ranked higher than forest conservation priorities.",
+   "Restoration must balance local livelihoods with scientific biodiversity goals."
+  ],
+  "plain": {
+   "question": "How do local people view the benefits provided by a protected forest ecosystem?",
+   "method": "Interviews, group talks, plant inventories, and botanical assessments in eight local villages.",
+   "finding": "Villagers recognize many benefits, but rank food and savannah plants higher than forest services.",
+   "why": "Restoration projects must include local needs so people support protecting the environment."
+  },
+  "full": {
+   "explainer": "This paper looks at how local indigenous communities view the benefits provided by a montane forest ecosystem in Nigeria. The researchers wanted to understand how people living near a protected forest reserve use natural resources, because successful conservation must protect both wildlife and local livelihoods. By using interviews, group discussions, and plant inventories across eight nearby settlements, the study found that communities recognized anywhere from 6 to 20 different ecosystem benefits. Interestingly, people ranked provisioning services like food much higher than regulating, cultural, or supporting services. Most of these important provisioning items came from savannah plants rather than the dense forest itself. The authors suggest that landscape management should keep a mix of forest and savannah to match local needs. They also argue that restoration efforts must prioritize tangible benefits, like food and medicine, alongside wildlife conservation. Finally, because scientific goals and local priorities can clash, designing restoration plans together with local communities is essential for long-term success.",
+   "caveats": [
+    "Not stated whether quantitative biodiversity metrics were tested against community perceptions.",
+    "Not stated how long the interviews lasted or the exact demographic breakdown of participants."
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem services",
+     "definition": "The benefits that humans freely gain from a healthy natural environment."
+    },
+    {
+     "term": "Provisioning services",
+     "definition": "Products obtained directly from ecosystems, such as food, fresh water, and wood."
+    },
+    {
+     "term": "Ethnobotanical assessment",
+     "definition": "A study documenting how local people use plants for food, medicine, and other needs."
+    },
+    {
+     "term": "Adaptive governance",
+     "definition": "Flexible decision-making rules involving stakeholders to manage natural resources."
+    }
+   ],
+   "fit": "It highlights plural values, trade-offs between scientific and local priorities, and stakeholder co-design for restoration planning."
+  },
+  "thesis": {
+   "why": "It connects to your focus on plural values, environmental justice, and governance by showing how local stakeholder priorities often clash with scientific valuations.",
+   "action": "Check how the authors mapped community perceptions spatially to see if they align with GIS data.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How were the qualitative community rankings converted into reliable evidence for landscape-scale management?",
+   "evidence": "The abstract mentions communities recognized between 6 and 20 ecosystem services and ranked provisioning services higher, but does not detail the weighting method.",
+   "limit": "We cannot establish the exact spatial distribution of these perceptions or how they map onto actual biophysical supply zones.",
+   "check": "Verify how the study linked interview data geographically to the 5-km radius around the forest reserve."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.64898/2026.10.28.762469",
+   "doi": "https://doi.org/10.64898/2026.10.28.762469",
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "date": "2026-10-31",
+   "authors": [
+    "Iveren Abiem",
+    "Ahmed Difa Ali",
+    "Emmanuel Barde Elisha",
+    "Gabriel Atsen Dabo",
+    "Christopher Tumba Yohanna",
+    "Susinya Habila"
+   ],
+   "n_authors": 8,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7224768869",
   "title": "Nonlinear Relationships and Synergies Between Wetland Landscape Patterns and Ecosystem Services Using Explainable Machine Learning: A Case Study of Wuhan, China",
   "headline": "Wetlands shape services in non-linear ways",
@@ -64,6 +398,281 @@
     "Siying Wu"
    ],
    "n_authors": 6,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224961610",
+  "title": "Rethinking sustainable urban planning in the Global South: six paradigm shifts for the next decade",
+  "headline": "Six paradigm shifts needed for Global South planning",
+  "bullets": [
+   "Reviewed urban sustainability pressures across the Global South",
+   "Found current planning tools fail to match modern urban challenges",
+   "Highlights the urgent need for new planning paradigms for cities"
+  ],
+  "plain": {
+   "question": "How can cities in the Global South handle rapid growth and climate change?",
+   "method": "Reviewing current urban challenges and planning failures.",
+   "finding": "Traditional planning tools can no longer keep up with fast urban changes.",
+   "why": "Vulnerable people suffer most when cities fail to plan for environmental risks."
+  },
+  "full": {
+   "explainer": "Cities in the Global South are facing a crucial decade for sustainable development. Rapid urban growth, climate change, and growing social inequalities are putting immense pressure on urban systems. Environmental shocks and climate-induced migration are worsening resource shortages and expanding informal settlements. These pressures do not happen in isolation; they interact across housing, land use, infrastructure, and ecosystems, affecting areas far beyond city boundaries. Although the Global South is diverse, many cities across Africa, Asia, Latin America, and the Middle East share a common problem: the speed and complexity of urban change have outgrown traditional planning institutions and tools. Despite global policy commitments, progress in implementing frameworks like the New Urban Agenda continues to lag behind what is urgently needed on the ground.",
+   "caveats": [
+    "The abstract does not state the specific details of the six paradigm shifts.",
+    "Not stated how individual cities should adapt their specific planning institutions."
+   ],
+   "jargon": [
+    {
+     "term": "Global South",
+     "definition": "Regions broadly comprising Africa, Asia, Latin America, and parts of the Middle East."
+    },
+    {
+     "term": "Informality",
+     "definition": "Unofficial settlements, economic activities, and housing that operate outside formal laws."
+    },
+    {
+     "term": "New Urban Agenda",
+     "definition": "A shared vision established by the United Nations for a sustainable urban future."
+    },
+    {
+     "term": "Peri-urban",
+     "definition": "The transition zone where urban and rural areas meet and mix."
+    }
+   ],
+   "fit": "Provides broad context on why conventional planning fails in the Global South, directly supporting environmental planning research."
+  },
+  "thesis": {
+   "why": "It outlines the macro-level planning failures and systemic pressures in the Global South that make local environmental planning and ecosystem service assessments vital.",
+   "action": "Check the full paper for the specific details of the six proposed paradigm shifts.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does the abstract offer concrete solutions or just a broad critique of current planning?",
+   "evidence": "The abstract outlines systemic pressures, mismatches in planning institutions, and lagging policy implementation, but ends before detailing the six shifts.",
+   "limit": "We cannot establish what the six paradigm shifts actually are or how they apply to specific cities like Kabul from this abstract.",
+   "check": "Read the full text to see if the six shifts provide actionable methods for data-scarce or conflict-affected settings."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.3389/frsc.2026.2014131",
+   "doi": "https://doi.org/10.3389/frsc.2026.2014131",
+   "venue": "Frontiers in Sustainable Cities",
+   "date": "2026-10-30",
+   "authors": [
+    "Abdulaziz I. Almulhim"
+   ],
+   "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224816921",
+  "title": "Evaluating ecotourism potential in arid oasis landscapes using GIS, AHP, and PROMETHEE: The Saoura Corridor case study",
+  "headline": "Evaluating Ecotourism in Arid Oases",
+  "bullets": [
+   "Used GIS, AHP, and PROMETHEE to map and prioritize ecotourism potential in an arid oasis.",
+   "Found land-use/land-cover was the most influential criterion, designating three priority poles.",
+   "Provides a transferable planning tool for drylands to balance tourism and conservation."
+  ],
+  "plain": {
+   "question": "How can dryland regions plan ecotourism while protecting fragile environments?",
+   "method": "Combined satellite data, computer maps, and math rankings to evaluate areas.",
+   "finding": "Identified top priority zones for development and showed land cover matters most.",
+   "why": "It helps guide post-petroleum regional planning in sensitive desert environments."
+  },
+  "full": {
+   "explainer": "This paper looks at how to plan sustainable ecotourism in very dry, fragile oasis landscapes without damaging the environment. Looking at the Saoura corridor in Algeria, the researchers built a computer-based decision framework. They used satellite images and elevation data to model eight different environmental and logistic factors. By applying math methods like the analytic hierarchy process and PROMETHEE, they ranked 134 spatial locations. Their analysis showed that land-use and land-cover is the most important factor when deciding where ecotourism should go. The results point to Kenadsa, Béchar, and Taghit as the top priority areas for development. The authors note that this framework can be easily moved and used in other dry regions around the world, such as the Middle East, Central Asia, and sub-Saharan Africa, helping regions transition away from petroleum economies while supporting global sustainability goals.",
+   "caveats": [
+    "The empirical focus is limited to the Saoura corridor in southwestern Algeria.",
+    "Not stated whether economic viability beyond spatial suitability was fully tested."
+   ],
+   "jargon": [
+    {
+     "term": "Analytic Hierarchy Process (AHP)",
+     "definition": "A structured technique for organizing and analyzing complex decisions using math and psychology."
+    },
+    {
+     "term": "PROMETHEE",
+     "definition": "A multi-criteria decision analysis method used to rank and select alternatives."
+    },
+    {
+     "term": "Random Forest",
+     "definition": "A machine learning algorithm that uses many decision trees to classify satellite data."
+    },
+    {
+     "term": "Google Earth Engine (GEE)",
+     "definition": "A cloud-based platform for analyzing petabytes of planetary-scale satellite imagery."
+    }
+   ],
+   "fit": "Demonstrates a transferable spatial decision framework for dryland environments, relevant to arid planning challenges."
+  },
+  "thesis": {
+   "why": "It models spatial planning alternatives in a dryland setting using remote sensing and multi-criteria methods, mirroring regional environmental assessment challenges.",
+   "action": "Check how they handled spatial uncertainty and weighting subjectivity in the AHP matrix.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How robust are the priority rankings to subjective weighting in the AHP matrix?",
+   "evidence": "The AHP pairwise comparison matrix yielded a consistency ratio of 8.5% and identified LULC as the most influential criterion at 30.7%.",
+   "limit": "The abstract does not report a sensitivity or uncertainty analysis of the multi-criteria ranking outputs.",
+   "check": "Verify if the full paper tests how changes in criteria weights alter the final rankings of the 134 spatial alternatives."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.12912/27197050/240498",
+   "doi": "https://doi.org/10.12912/27197050/240498",
+   "venue": "Ecological Engineering & Environmental Technology",
+   "date": "2026-10-30",
+   "authors": [
+    "B S Maya",
+    "Saida Bahi",
+    "Ratiba Wided Biara",
+    "Abdelouahab Bouchareb",
+    "Imen Guechi"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224900249",
+  "title": "Development of a Water-Retentive Hydroponic Green Roof Using Gel Beads for Sustainable Urban Cooling",
+  "headline": "New lightweight green roof lowers temperature",
+  "bullets": [
+   "Tested a lightweight hydroponic green roof prototype with gel beads using sensors.",
+   "Found a temperature drop of 1.6 to 1.7 degrees and a 6.5 percent humidity increase.",
+   "Offers a lightweight way to improve passive urban cooling and thermal comfort."
+  ],
+  "plain": {
+   "question": "How can we cool down cities without heavy green roofs?",
+   "method": "Built a small model roof using gel beads and tested it with sensors.",
+   "finding": "It lowered the temperature by about 1.6 to 1.7 degrees.",
+   "why": "It helps cool cities and makes buildings more comfortable without heavy weight."
+  },
+  "full": {
+   "explainer": "As cities grow, temperatures go up and people lose natural cooling and comfort. Traditional green roofs can fix this, but they are very heavy and need a lot of maintenance. To solve these problems, this study created a new kind of green roof. It uses a lightweight material and gel beads. The researchers built a small test model and used sensors to check the temperature and humidity. Their tests showed that this new roof lowered the temperature by about 1.6 to 1.7 degrees. It also increased relative humidity by 6.5 percent. This proves that the new design can provide steady passive cooling during different testing sessions while solving the weight and maintenance issues of normal green roofs.",
+   "caveats": [
+    "Only tested on a small-scale prototype",
+    "Not stated how it performs on full-scale buildings over long periods"
+   ],
+   "jargon": [
+    {
+     "term": "Hydroponic",
+     "definition": "Growing plants without soil, using nutrient-rich water instead."
+    },
+    {
+     "term": "Passive cooling",
+     "definition": "Ways to cool buildings naturally without using electricity or air conditioning."
+    },
+    {
+     "term": "Thermal comfort",
+     "definition": "How comfortable a human body feels with the surrounding temperature and humidity."
+    }
+   ],
+   "fit": "It relates to urban cooling and green infrastructure, offering a lightweight cooling solution for urban areas."
+  },
+  "thesis": {
+   "why": "It explores urban cooling through green infrastructure, touching on microclimate regulation which connects to urban ecosystem services and planning.",
+   "action": "Check if gel bead durability and water retention methods apply to semi-arid settings like Kabul.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Can this small prototype scale up to real urban environments with scarce water?",
+   "evidence": "The study only tested a small-scale prototype using gel beads for water retention.",
+   "limit": "The abstract does not show long-term durability or performance in hot, dry, data-scarce climates.",
+   "check": "Verify how the gel beads manage water loss under high heat and low water availability."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.48175/ijarsct-40439",
+   "doi": "https://doi.org/10.48175/ijarsct-40439",
+   "venue": "International Journal of Advanced Research in Science Communication and Technology",
+   "date": "2026-10-30",
+   "authors": [
+    "Shreyas R. Satpute, Rohit V. Awaghade, Yash G. Mhatre",
+    "Shreyash A. Kalambate Neel D. Bodade"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224797038",
+  "title": "The Synergy Between Deterministic and Neutral Processes Drives Turnover‐Dominated Beta Diversity of Non‐Volant Small Mammals in the Western Tianshan Mountains, China",
+  "headline": "Small mammal diversity in Tianshan Mountains",
+  "bullets": [
+   "Compared taxonomic, functional, and phylogenetic beta diversity across gradients",
+   "Found species turnover dominated and synergy drives community assembly",
+   "Provides a practical basis for biodiversity conservation in Central Asian mountains"
+  ],
+  "plain": {
+   "question": "What drives the differences in small mammal types across elevations in dry mountains?",
+   "method": "Studied small mammals across environmental gradients in the western Tianshan Mountains.",
+   "finding": "Species replacement across sites is the main pattern, driven by environmental and neutral factors.",
+   "why": "Helps us understand how mountain ecosystems work to protect biodiversity."
+  },
+  "full": {
+   "explainer": "Scientists want to understand how animal communities change across different spaces and environments, known as beta diversity. This study looked at non-volant small mammals—animals that cannot fly and are not large—across the dry western Tianshan Mountains in China. They examined three angles: taxonomic (species types), functional (the roles species play), and phylogenetic (evolutionary history). The researchers found that species turnover, meaning the replacement of one species by another from place to place, was the main pattern across all three angles. Functional differences were highest among sites, followed by species and evolutionary differences. Distance in elevation was the most important factor shaping these differences. Furthermore, the analysis showed that community assembly is driven by a mix of deterministic processes, like environmental filtering, and neutral processes. As elevation distance grew, environmental filtering had less effect, while limiting similarity had more effect. These insights help explain biodiversity patterns in dry mountain regions and guide conservation efforts in Central Asia.",
+   "caveats": [
+    "The study focuses specifically on non-volant small mammals in a mountain region.",
+    "Data on other animal or plant groups are not stated.",
+    "Direct links to urban planning or ecosystem services are not stated."
+   ],
+   "jargon": [
+    {
+     "term": "beta diversity",
+     "definition": "The change in species composition between different sites or communities."
+    },
+    {
+     "term": "phylogenetic",
+     "definition": "Relating to the evolutionary history and relationships of groups of organisms."
+    },
+    {
+     "term": "environmental filtering",
+     "definition": "The process by which environmental conditions prevent certain species from surviving."
+    },
+    {
+     "term": "distance-decay relationship",
+     "definition": "The ecological pattern where community similarity decreases as the geographic distance increases."
+    }
+   ],
+   "fit": "Connects to habitat quality and biodiversity conservation, though set in mountains rather than urban areas."
+  },
+  "thesis": {
+   "why": "Provides comparative context on mountain ecosystems and environmental filtering, relevant to semi-arid and mountainous settings like Kabul's hillsides.",
+   "action": "Check how the study measures habitat quality and environmental gradients for potential methodological parallels.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do mountain ecological filtering concepts transfer to urban or semi-arid human-modified landscapes?",
+   "evidence": "The abstract discusses environmental filtering and elevation gradients in arid mountain ecosystems.",
+   "limit": "The abstract does not address urban areas, human settlements, or ecosystem services provided to people.",
+   "check": "Verify if the statistical methods for spatial gradients can be adapted for urban habitat quality modeling."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1002/ece3.74538",
+   "doi": "https://doi.org/10.1002/ece3.74538",
+   "venue": "Ecology and Evolution",
+   "date": "2026-10-30",
+   "authors": [
+    "Xiaohan Wang",
+    "Wen‐Yu Song",
+    "Yawen Xing",
+    "Yalan Wang",
+    "Xiaoxin Pei",
+    "Kenneth Otieno Onditi"
+   ],
+   "n_authors": 11,
    "open_access": true,
    "basis": "abstract"
   }

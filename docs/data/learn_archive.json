@@ -234,5 +234,53 @@
    }
   ],
   "search": "ecological zoning urban environmental planning"
+ },
+ {
+  "id": "88acfa6c4c",
+  "date": "2026-11-02",
+  "term": "Payments for ecosystem services basics",
+  "area": "Payments for ecosystem services",
+  "kind": "policy",
+  "definition": "Payments for ecosystem services are financial incentives given to landowners to protect nature and maintain ecological benefits.",
+  "plain": "Imagine paying people who own land to look after trees, rivers, or green spaces instead of destroying them for buildings. This policy tool tries to give money to those who protect nature so everyone gets fresh air, cool shade, or clean water.",
+  "example": "A city program in a Global South watershed pays upstream hillside farmers to keep natural vegetation, reducing soil erosion and floods downstream.",
+  "connects": "It links economic incentives with the ecosystem service cascade, connecting supply areas to human beneficiaries.",
+  "why_phd": "Vital for designing environmental policies in data-scarce, informal cities where traditional zoning often fails.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main goal of payments for ecosystem services?",
+    "a": "To provide financial incentives to protect nature and maintain ecological benefits."
+   },
+   {
+    "q": "Why is this relevant to informal hillside settlements?",
+    "a": "It can help incentivize communities to maintain green infrastructure for flood control."
+   }
+  ],
+  "search": "payments for ecosystem services urban"
+ },
+ {
+  "id": "5ba38cc2e3",
+  "date": "2026-11-02",
+  "term": "High-Andean landscape",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "The High-Andean landscape refers to high-altitude mountainous ecosystems in South America with unique alpine vegetation and water functions.",
+  "plain": "These are high mountain areas characterized by cold climates, unique plants, and crucial water storage functions. Even though our main focus is Kabul, studying similar mountainous regions helps us understand how high-altitude nature supplies water and cooling.",
+  "example": "High-altitude wetlands in South American mountains store water and regulate runoff for nearby growing cities.",
+  "connects": "It links mountain hydrology and green infrastructure to urban water supply and climate regulation.",
+  "why_phd": "It provides a comparative mountainous model for studying ecosystem services in data-scarce, semi-arid cities like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is a key function of High-Andean landscapes?",
+    "a": "Water storage and regulation for surrounding areas."
+   },
+   {
+    "q": "Why study this landscape for Kabul research?",
+    "a": "It offers a comparable mountainous and semi-arid environmental context."
+   }
+  ],
+  "search": "High Andean landscape urban ecosystem services"
  }
 ]

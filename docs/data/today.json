@@ -1,136 +1,130 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "summary": [
-  "Studies explore urban growth, temperature rises, and cooling effects of parks and cemeteries.",
-  "Research examines ecosystem services, land-cover changes, and environmental planning.",
-  "Assessments cover nature markets, coastal defenses, and forest loss detection."
+  "Return migration to informal housing and shifts in urban sewage recycling systems.",
+  "Paradigm shifts for Global South planning and reviews of urban agriculture.",
+  "Forest restoration in Nigeria and ecotourism evaluation in arid oases."
  ],
  "items": [
   {
-   "id": "W7224768869",
-   "title": "Nonlinear Relationships and Synergies Between Wetland Landscape Patterns and Ecosystem Services Using Explainable Machine Learning: A Case Study of Wuhan, China",
-   "headline": "Wetlands shape services in non-linear ways",
+   "id": "W7225042082",
+   "title": "Reproducing informality: return migration from social housing as constrained agency in climate-driven relocation in coastal Jakarta",
+   "headline": "Return migration to informal housing in coastal Jakarta",
    "bullets": [
-    "Quantified wetland changes and four ecosystem services in Wuhan from 2000 to 2020.",
-    "Found non-linear links and turning points between landscape metrics and services.",
-    "Provides reference thresholds to guide wetland planning and restoration efforts."
+    "Examined return migration from social housing in coastal Jakarta.",
+    "Found that people return to informal settlements due to constrained choices.",
+    "Highlights limits of climate-driven relocation programs."
    ],
    "plain": {
-    "question": "How do wetland landscape shapes and patterns affect the benefits people get from nature?",
-    "method": "We looked at Wuhan from 2000 to 2020 using maps, computer models, and machine learning tools.",
-    "finding": "Wetland areas shrank and fragmented, and landscape patterns showed clear turning points for benefits.",
-    "why": "These results help planners know how much wetland structure is needed to protect nature benefits."
+    "question": "Why do people move back to informal areas after being placed in social housing?",
+    "method": "Studied return migration patterns in coastal Jakarta's climate relocation.",
+    "finding": "People return because their choices are heavily constrained.",
+    "why": "It shows why climate-driven relocation programs often fail to keep people."
    },
    "full": {
-    "explainer": "As cities grow quickly, natural wetlands often break apart into smaller, disconnected pieces. This study looks at how the changing patterns of wetland landscapes affect four key benefits people get from nature: water yield, water purification, soil conservation, and habitat quality. Focusing on Wuhan, China, between 2000 and 2020, the researchers tracked wetland loss and fragmentation. They also created indexes to measure overall service benefits, trade-offs, and synergies. Instead of assuming relationships are simple or straight lines, the study used advanced machine learning tools called XGBoost and SHAP. These tools helped uncover complex, non-linear relationships between landscape pattern metrics and ecosystem services. The analysis revealed specific turning points, such as precise values for shape complexity and aggregation indices. These specific numeric points matter because they can serve as practical reference thresholds for local environmental planning and wetland restoration projects.",
+    "explainer": "This study looks at climate-driven relocation in coastal Jakarta, Indonesia. When people are moved into formal social housing, some choose to return to informal settlements. The paper investigates this return migration, describing it as an act of constrained agency. This means people are making choices, but their options are severely limited by their circumstances. Understanding why residents leave social housing to go back to informal areas helps planners see the shortcomings of current relocation strategies. It shows that simply moving people into new housing blocks does not automatically solve the challenges of climate adaptation and urban planning in the Global South, especially when social and economic needs are not fully met by the new housing arrangements.",
     "caveats": [
-     "The study focuses on Wuhan, China, so results are specific to that context.",
-     "Only four specific wetland ecosystem services were evaluated.",
-     "Not stated whether findings apply directly to arid, conflict-affected, or informal settings."
-    ],
-    "jargon": [
-     {
-      "term": "Ecosystem service (ES)",
-      "definition": "The direct and indirect contributions of ecosystems to human well-being."
-     },
-     {
-      "term": "Landscape pattern metrics",
-      "definition": "Quantitative measurements showing the spatial arrangement and structure of landscape patches."
-     },
-     {
-      "term": "XGBoost and SHAP",
-      "definition": "Machine learning and model interpretation tools used to find complex patterns in data."
-     }
-    ],
-    "fit": "Demonstrates machine learning methods for linking landscape patterns to ecosystem service trade-offs, useful for spatial planning."
-   },
-   "thesis": {
-    "why": "It models landscape metrics and ecosystem services using advanced spatial and machine learning tools, offering a methodological reference for spatial modeling and scenario analysis.",
-    "action": "Check how they handled spatial autocorrelation and data uncertainty in their machine learning models.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "Do the identified landscape turning points reflect true ecological thresholds or merely algorithmic artifacts of the machine learning models?",
-    "evidence": "The abstract relies entirely on XGBoost and SHAP curves to establish specific numerical turning points like SHAPE 1.40 and AI 96% without independent ecological verification.",
-    "limit": "The abstract cannot establish whether these specific numerical thresholds are generalizable outside Wuhan or if they represent causal ecological mechanisms.",
-    "check": "Verify if the authors tested the sensitivity of their machine learning models to different spatial scales and data inputs."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-   "source": {
-    "url": "https://doi.org/10.3390/su182111051",
-    "doi": "https://doi.org/10.3390/su182111051",
-    "venue": "Sustainability",
-    "date": "2026-10-30",
-    "authors": [
-     "Ziqi Liu",
-     "Yuan Xiong",
-     "Yan Zhou",
-     "Bei Cao",
-     "Huizi Ouyang",
-     "Siying Wu"
-    ],
-    "n_authors": 6,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223868914",
-   "title": "Mapping urban villages and characterizing their renewal dynamics in China (2018–2025)",
-   "headline": "Mapping China's urban villages and renewal dynamics",
-   "bullets": [
-    "Mapped urban villages and renewal dynamics in China from 2018 to 2025.",
-    "Provided spatial data on urban village mapping and renewal processes.",
-    "Informs urban development, land-cover change, and planning studies."
-   ],
-   "plain": {
-    "question": "How can we map urban villages and track their renewal over time?",
-    "method": "The study maps urban villages and characterizes their renewal dynamics.",
-    "finding": "It mapped urban villages and renewal dynamics between 2018 and 2025.",
-    "why": "This helps us understand rapid urban changes and land-cover shifts."
-   },
-   "full": {
-    "explainer": "not stated",
-    "caveats": [
+     "not stated",
      "not stated"
     ],
     "jargon": [
      {
-      "term": "urban villages",
-      "definition": "Rural settlements surrounded by expanding urban areas."
+      "term": "constrained agency",
+      "definition": "The ability to make choices, but only within very restricted and difficult options."
      },
      {
-      "term": "renewal dynamics",
-      "definition": "The processes and patterns of urban redevelopment and change."
+      "term": "informality",
+      "definition": "Settlements or economic activities that operate outside formal legal and regulatory frameworks."
      }
     ],
-    "fit": "Connects to urban land-cover change and planning in developing or transitioning contexts."
+    "fit": "Connects to Global South urban planning, informal settlements, and the limits of formal housing interventions."
    },
    "thesis": {
-    "why": "It deals with urban land-cover change and settlement dynamics, which relates to broader urban planning and land-change research.",
-    "action": "Check if the mapping methods can be adapted for informal settlements in Kabul.",
+    "why": "It provides insight into informal settlements and the human side of relocation in the Global South, offering context on housing and vulnerability.",
+    "action": "Check how the study defines constrained agency in relation to settlement choices.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How do mapping techniques for Chinese urban villages apply to conflict-affected or data-scarce settings like Kabul?",
-    "evidence": "The abstract focuses exclusively on mapping urban villages and renewal dynamics in China from 2018 to 2025.",
-    "limit": "The abstract does not provide specific details on the algorithms, accuracy assessments, or transferability to other regions.",
-    "check": "Verify whether the remote sensing methods used are suitable for data-scarce or informal regions."
+    "question": "How does return migration alter overall environmental vulnerability in coastal areas?",
+    "evidence": "The abstract discusses return migration to informal housing from social housing as constrained agency during climate-driven relocation.",
+    "limit": "The abstract does not provide empirical data on environmental risks or changes in ecosystem services.",
+    "check": "Look for specific push and pull factors driving residents back to informal areas."
+   },
+   "relevance": 3,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "source": {
+    "url": "https://doi.org/10.1007/s12546-026-09446-w",
+    "doi": "https://doi.org/10.1007/s12546-026-09446-w",
+    "venue": "Journal of Population Research",
+    "date": "2026-11-02",
+    "authors": [
+     "Gusti Ayu Ketut Surtiari",
+     "Meirina Ayumi Malamassam",
+     "Sri Rum Giyarsih",
+     "Miko Maekawa"
+    ],
+    "n_authors": 4,
+    "open_access": false,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225016598",
+   "title": "Inclusivity of climate services in climate-resilient urban planning: A policy analysis of Ghana's National Frameworks",
+   "headline": "Ghana's climate policy analysis",
+   "bullets": [
+    "Analyzed Ghana's national frameworks for climate services in urban planning.",
+    "Not stated in the provided abstract text.",
+    "Helps understand inclusivity in climate-resilient urban planning policies."
+   ],
+   "plain": {
+    "question": "How inclusive are climate services in Ghana's urban planning policies?",
+    "method": "A policy analysis of Ghana's National Frameworks.",
+    "finding": "Not stated in the provided abstract.",
+    "why": "It helps improve climate-resilient urban planning."
+   },
+   "full": {
+    "explainer": "This study looks at climate services in Ghana and how inclusive they are within the country's national frameworks for climate-resilient urban planning. The authors use a policy analysis approach to examine these frameworks. Because the abstract is very brief, specific details about what was found are not provided in the text. However, the research generally addresses how national policies shape urban planning to handle climate issues, focusing on inclusivity. This topic relates broadly to environmental planning and governance in the Global South, offering insights into how government frameworks address climate resilience and urban development.",
+    "caveats": [
+     "Specific findings are not stated in the abstract.",
+     "Not stated whether other countries were compared."
+    ],
+    "jargon": [
+     {
+      "term": "Climate services",
+      "definition": "Providing climate information to help decision-making."
+     },
+     {
+      "term": "Policy analysis",
+      "definition": "Evaluating public policies to see how they work."
+     }
+    ],
+    "fit": "Connects to environmental planning and policy in the Global South, offering context on climate-resilient urban frameworks."
+   },
+   "thesis": {
+    "why": "It provides a policy context for climate-resilient urban planning in a Global South setting, relating to governance and environmental planning.",
+    "action": "Check the full paper to see if specific policy evaluation methods can inform governance aspects.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How can a policy analysis of national frameworks inform urban ecosystem services and physical planning?",
+    "evidence": "The abstract mentions a policy analysis of Ghana's National Frameworks regarding climate services in urban planning, but lacks spatial or ecological data.",
+    "limit": "The abstract does not state any empirical findings, spatial data, or connections to ecosystem services.",
+    "check": "Verify if the full paper links national climate frameworks to actual urban land-cover change or ecosystem services."
    },
    "relevance": 2,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
    "source": {
-    "url": "https://doi.org/10.1016/j.rse.2026.115746",
-    "doi": "https://doi.org/10.1016/j.rse.2026.115746",
-    "venue": "Remote Sensing of Environment",
-    "date": "2026-10-27",
+    "url": "https://doi.org/10.1016/j.uclim.2026.103208",
+    "doi": "https://doi.org/10.1016/j.uclim.2026.103208",
+    "venue": "Urban Climate",
+    "date": "2026-10-31",
     "authors": [
-     "Yizhen Wu",
-     "Shirao Liu",
-     "Bingqing Sun",
-     "Zhenfeng Shao",
-     "Xi Li"
+     "Eric Nortey",
+     "Michael Osei Asibey",
+     "Bright Osei Boateng",
+     "Darkoa Nana Adjoa Otoo",
+     "Cephas N. Tanle"
     ],
     "n_authors": 5,
     "open_access": false,
@@ -138,323 +132,133 @@
    }
   },
   {
-   "id": "W7223958700",
-   "title": "Temporal standardization of Sentinel-1 time series for annual and continuous tropical forest loss detection",
-   "headline": "Standardizing radar data detects tropical forest loss",
+   "id": "W7225000318",
+   "title": "From risk governance to management efficiency: Trade-offs and synergies in the “Health-Failure-Management” of Urban Sewage Recycling System",
+   "headline": "Management shift in urban sewage recycling systems",
    "bullets": [
-    "Developed a method to temporally standardize Sentinel-1 radar data time series.",
-    "Achieved high annual and continuous forest loss detection accuracy in the Congo Basin.",
-    "Provides reliable analysis-ready datasets for operational tropical forest monitoring."
+    "Studied trade-offs and synergies in urban sewage recycling systems.",
+    "Analyzed the shift from risk governance to management efficiency.",
+    "Helps improve urban infrastructure and environmental management."
    ],
    "plain": {
-    "question": "How can we reliably track forest loss in cloudy tropical regions using radar satellites?",
-    "method": "The researchers standardized radar data over time into statistical deviations to spot drops in signals.",
-    "finding": "They successfully detected most forest loss with very few false alarms annually and continuously.",
-    "why": "This helps monitor forests accurately even when clouds block normal optical satellite images."
+    "question": "How do trade-offs and synergies affect urban sewage recycling systems?",
+    "method": "Not stated",
+    "finding": "Not stated",
+    "why": "It helps us understand how to manage city water and waste systems better."
    },
    "full": {
-    "explainer": "Monitoring tropical forests is hard because thick clouds often block regular satellite photos, especially in Africa. To fix this, researchers used radar satellites that can see right through clouds day and night. They created a new way to standardize radar measurements over time. Instead of getting confused by normal landscape changes, their method looks specifically for unusual drops in the radar signal that mean trees have been cut down. Tested in the Congo Basin, this technique successfully spotted almost all forest loss while making very few mistakes. It works for both yearly checks and continuous monitoring over short periods. The study also fixed geometric distortions common in radar images. Overall, this gives scientists a dependable tool to track deforestation in cloudy, hard-to-reach tropical regions.",
+    "explainer": "This paper looks at urban sewage recycling systems, focusing on what it calls the Health-Failure-Management model. It explores the balance between risk governance and management efficiency, looking for trade-offs and synergies. Because the provided text only contains a title and an abstract with no actual summary data or results, the specific details of how this was studied or what was discovered are not stated here. However, the work generally centers on improving how cities handle wastewater and infrastructure management, balancing system health, potential failures, and operational efficiency.",
     "caveats": [
-     "Tested specifically on moist tropical forests in the Congo Basin.",
-     "Not stated for urban areas or other non-forest environments."
+     "not stated"
     ],
     "jargon": [
      {
-      "term": "Synthetic Aperture Radar (SAR)",
-      "definition": "A radar technology used to create 2D images of landscapes, capable of seeing through clouds."
+      "term": "urban sewage recycling system",
+      "definition": "A system used to collect, treat, and reuse wastewater in cities."
      },
      {
-      "term": "Backscattering",
-      "definition": "The reflection of radar waves back toward the satellite sensor."
+      "term": "risk governance",
+      "definition": "The way risks are identified, assessed, and managed by authorities."
      },
      {
-      "term": "Ground Range Detected (GRD)",
-      "definition": "Satellite radar data projected onto the ellipsoid of the Earth's surface."
+      "term": "management efficiency",
+      "definition": "Achieving maximum productivity with minimum wasted effort or expense."
      }
     ],
-    "fit": "Focuses on remote sensing, land-cover change detection, and spatial data standardization, which are core methods for spatial modeling."
+    "fit": "It connects by examining urban infrastructure management, though it lacks direct focus on Kabul or ecosystem services."
    },
    "thesis": {
-    "why": "It demonstrates land-cover change detection and accuracy assessment methods using time series datasets, relevant for spatial analysis.",
-    "action": "Check how temporal standardization methods might apply to land-cover change accuracy in urban environments.",
-    "relationship": "method"
+    "why": "It provides background on urban infrastructure and management, which relates broadly to urban environmental planning.",
+    "action": "Check if the full paper discusses water cycles or water yield modeling.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "Can this satellite radar standardization method be applied to monitor urban land-cover change?",
-    "evidence": "The abstract discusses temporal standardization of Sentinel-1 time series specifically for tropical forest loss detection in the Congo Basin.",
-    "limit": "The abstract does not state whether this method works for urban land-cover change, built-up areas, or semi-arid settings.",
-    "check": "Verify in the full text if the spatial resolution and radar backscatter properties are suitable for urban environments."
+    "question": "How can we evaluate this paper's claims without any reported methods or results?",
+    "evidence": "The provided abstract text only contains the title and no descriptive abstract content.",
+    "limit": "We cannot establish what methods, data, or specific findings the authors generated.",
+    "check": "Read the full-text article to find the actual methods and results."
    },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+   "relevance": 1,
+   "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
    "source": {
-    "url": "https://doi.org/10.3389/frsen.2026.1858704",
-    "doi": "https://doi.org/10.3389/frsen.2026.1858704",
-    "venue": "Frontiers in Remote Sensing",
-    "date": "2026-10-27",
+    "url": "https://doi.org/10.1016/j.jclepro.2026.149821",
+    "doi": "https://doi.org/10.1016/j.jclepro.2026.149821",
+    "venue": "Journal of Cleaner Production",
+    "date": "2026-10-31",
     "authors": [
-     "Baptiste Delhez",
-     "Thibauld Collet",
-     "François Toussaint",
-     "Julien Radoux",
-     "Pierre Defourny"
+     "Hao Wang",
+     "Chuqin Duan",
+     "Zijan Wang",
+     "Jiajia Wei",
+     "Weichao Yang",
+     "Jinjun Zhou"
     ],
-    "n_authors": 5,
-    "open_access": true,
+    "n_authors": 6,
+    "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7224514832",
-   "title": "Quantifying urban heat: A spatiotemporal study of climate change and population growth in Ikorodu, Lagos, Nigeria",
-   "headline": "Urban growth raises local temperatures in Lagos",
+   "id": "W7224961610",
+   "title": "Rethinking sustainable urban planning in the Global South: six paradigm shifts for the next decade",
+   "headline": "Six paradigm shifts needed for Global South planning",
    "bullets": [
-    "Analyzed simulated weather, population, and heat data in Ikorodu from 2010 to 2024.",
-    "Found a 0.03°C annual temperature rise driven by rapid urban growth and building density.",
-    "Warns that unmanaged expansion risks health and urges green spaces and better planning."
+    "Reviewed urban sustainability pressures across the Global South",
+    "Found current planning tools fail to match modern urban challenges",
+    "Highlights the urgent need for new planning paradigms for cities"
    ],
    "plain": {
-    "question": "How do climate change and fast city growth affect local temperatures in a growing area of Nigeria?",
-    "method": "The study used simulated datasets from weather records, climate projections, and population statistics from 2010 to 2024.",
-    "finding": "Temperatures rose by about 0.03 degrees Celsius each year, with the highest heat found in densely built areas.",
-    "why": "Unchecked city growth without good planning increases public health risks, energy demand, and heat discomfort."
+    "question": "How can cities in the Global South handle rapid growth and climate change?",
+    "method": "Reviewing current urban challenges and planning failures.",
+    "finding": "Traditional planning tools can no longer keep up with fast urban changes.",
+    "why": "Vulnerable people suffer most when cities fail to plan for environmental risks."
    },
    "full": {
-    "explainer": "This paper looks at how climate change and rapid city growth change local weather in growing areas of the Global South. It focuses on Ikorodu, a fast-expanding peri-urban area in Lagos State, Nigeria. Because cities often become warmer than surrounding undeveloped land, the study examines how temperature trends relate to population growth and spatial heat patterns from 2010 to 2024. Using simulated datasets based on real meteorological records, climate projections, and population statistics, the authors tracked changes over time. The results show an average temperature increase of about 0.03 degrees Celsius every year, alongside population growth surging from 1.0 million to over 1.9 million people. Heat maps reveal that the highest temperatures concentrate in densely built-up areas, showing how land-use change and urban form shape heat distribution. The authors conclude that without climate-smart planning, future growth will worsen public health risks and energy demand. They recommend adding green spaces, climate-friendly buildings, and better land-use planning.",
+    "explainer": "Cities in the Global South are facing a crucial decade for sustainable development. Rapid urban growth, climate change, and growing social inequalities are putting immense pressure on urban systems. Environmental shocks and climate-induced migration are worsening resource shortages and expanding informal settlements. These pressures do not happen in isolation; they interact across housing, land use, infrastructure, and ecosystems, affecting areas far beyond city boundaries. Although the Global South is diverse, many cities across Africa, Asia, Latin America, and the Middle East share a common problem: the speed and complexity of urban change have outgrown traditional planning institutions and tools. Despite global policy commitments, progress in implementing frameworks like the New Urban Agenda continues to lag behind what is urgently needed on the ground.",
     "caveats": [
-     "The study relies on simulated datasets rather than direct observational records.",
-     "Causal effects of specific settlement statuses are not tested beyond spatial associations."
+     "The abstract does not state the specific details of the six paradigm shifts.",
+     "Not stated how individual cities should adapt their specific planning institutions."
     ],
     "jargon": [
      {
-      "term": "urban heat island (UHI) effect",
-      "definition": "A phenomenon where built-up urban areas experience higher temperatures than surrounding less-developed areas."
+      "term": "Global South",
+      "definition": "Regions broadly comprising Africa, Asia, Latin America, and parts of the Middle East."
      },
      {
-      "term": "peri-urban area",
-      "definition": "An area located immediately adjacent to a city or town, often transitioning from rural to urban land use."
+      "term": "Informality",
+      "definition": "Unofficial settlements, economic activities, and housing that operate outside formal laws."
+     },
+     {
+      "term": "New Urban Agenda",
+      "definition": "A shared vision established by the United Nations for a sustainable urban future."
+     },
+     {
+      "term": "Peri-urban",
+      "definition": "The transition zone where urban and rural areas meet and mix."
      }
     ],
-    "fit": "It explores urban growth, land-use change, and heat distribution in the Global South, matching urban cooling and planning goals."
+    "fit": "Provides broad context on why conventional planning fails in the Global South, directly supporting environmental planning research."
    },
    "thesis": {
-    "why": "It connects rapid urban growth, land-cover change, and local heat distribution in a Global South setting, aligning with urban cooling and environmental planning themes.",
-    "action": "Check how the study validates its simulated datasets against real-world observations.",
+    "why": "It outlines the macro-level planning failures and systemic pressures in the Global South that make local environmental planning and ecosystem service assessments vital.",
+    "action": "Check the full paper for the specific details of the six proposed paradigm shifts.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How reliable are conclusions drawn entirely from simulated datasets?",
-    "evidence": "The abstract explicitly states the study used simulated but realistic datasets derived from agency records and projections.",
-    "limit": "The abstract does not state whether actual field temperature measurements were used to cross-verify the simulation.",
-    "check": "Verify the exact modeling techniques and validation steps used for the simulated temperature data."
+    "question": "Does the abstract offer concrete solutions or just a broad critique of current planning?",
+    "evidence": "The abstract outlines systemic pressures, mismatches in planning institutions, and lagging policy implementation, but ends before detailing the six shifts.",
+    "limit": "We cannot establish what the six paradigm shifts actually are or how they apply to specific cities like Kabul from this abstract.",
+    "check": "Read the full text to see if the six shifts provide actionable methods for data-scarce or conflict-affected settings."
    },
    "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.5897/ajest2026.3491",
-    "doi": "https://doi.org/10.5897/ajest2026.3491",
-    "venue": "African Journal of Environmental Science and Technology",
-    "date": "2026-10-29",
+    "url": "https://doi.org/10.3389/frsc.2026.2014131",
+    "doi": "https://doi.org/10.3389/frsc.2026.2014131",
+    "venue": "Frontiers in Sustainable Cities",
+    "date": "2026-10-30",
     "authors": [
-     "Ramon Ibrahim Oladayo",
-     "Sunday Eniolawun Olaleke",
-     "Patel Nilanchal",
-     "James Oyebanji Toba"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7224644486",
-   "title": "Cooling effect of urban green spaces in Berlin (Germany): Comparative analysis of parks, cemeteries, and allotments using buffer analysis",
-   "headline": "Cemeteries and allotments cool cities too",
-   "bullets": [
-    "Analyzed cooling in 230 parks, 154 cemeteries, and 512 allotments in Berlin.",
-    "Parks reached furthest (259m), but cemeteries showed the highest cooling intensity.",
-    "Shows urban planners must use diverse green spaces, not just traditional parks."
-   ],
-   "plain": {
-    "question": "How well do different green spaces cool a city?",
-    "method": "Used satellite images to check the cooling effects of parks, cemeteries, and allotments in Berlin.",
-    "finding": "Parks reach further, but cemeteries cool things down the most.",
-    "why": "Helps planners use all kinds of green spaces to fight city heat."
-   },
-   "full": {
-    "explainer": "Cities get very hot, and green spaces help cool them down. While researchers usually study regular parks, other green areas like cemeteries and community gardens also exist. This study looked at Berlin, Germany, to compare how well parks, cemeteries, and allotments cool the surrounding city. The researchers used satellite images from six different dates. They measured three things: how far the cooling reaches, how intense the cooling is, and the total cooling area. They also looked at what factors inside and around these green spaces affect their cooling power. The results show that parks reach the furthest distance, but cemeteries actually have the highest cooling intensity. Allotment gardens also provide cooling, though less. Vegetation and nearby hard surfaces affect how well these places cool. The study proves that cemeteries and gardens help fight urban heat just like parks do. This means city planners should include many types of green spaces to improve comfort in crowded, built-up areas.",
-    "caveats": [
-     "Study is limited to Berlin, Germany.",
-     "Only uses Landsat 8 TM images over six dates.",
-     "Not stated how other cities or climates compare."
-    ],
-    "jargon": [
-     {
-      "term": "Urban Heat Island",
-      "definition": "A metropolitan area that is significantly warmer than its surrounding rural areas due to human activities."
-     },
-     {
-      "term": "Buffer Analysis",
-      "definition": "A geographic tool used to create zones around features to measure what is nearby."
-     },
-     {
-      "term": "Impervious Surfaces",
-      "definition": "Artificial structures like roofs and roads that prevent water from soaking into the ground."
-     }
-    ],
-    "fit": "Provides a transferable method and cooling evidence relevant to urban cooling and green-blue infrastructure planning."
-   },
-   "thesis": {
-    "why": "It evaluates urban cooling and green space performance using buffer analysis, matching the student's interest in urban cooling methods.",
-    "action": "Check how the study defines and measures cooling capacity indicators like PCD and PCI.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "Can buffer analysis and satellite data alone reliably capture human thermal comfort benefits?",
-    "evidence": "The study used Landsat 8 TM images and buffer analysis to determine cooling distance, intensity, and area for different green spaces.",
-    "limit": "The abstract does not report direct measurements of human exposure, social access, or actual thermal comfort benefits experienced by people.",
-    "check": "Verify how ground-level temperatures or microclimate variations were validated against satellite thermal data."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.cacint.2026.100522",
-    "doi": "https://doi.org/10.1016/j.cacint.2026.100522",
-    "venue": "City and Environment Interactions",
-    "date": "2026-10-29",
-    "authors": [
-     "Niklas Stuhrmann",
-     "Yannik Sülzer",
-     "Bernd Marschner",
-     "Britta Stumpe"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7223685514",
-   "title": "Soft shores or hard lines? Comparing perceived ecosystem services for coastal protection",
-   "headline": "Mixed coastal defenses perform best overall",
-   "bullets": [
-    "Compared perceived benefits of grey, green, and mixed coastal defenses in Bangladesh.",
-    "Mixed strategies ranked best, followed closely by green approaches, with grey lowest.",
-    "Supports combining nature-based and engineered defenses for uncertain futures."
-   ],
-   "plain": {
-    "question": "Which coastal defense type do people and experts prefer?",
-    "method": "Studied three vulnerable sites in Bangladesh using household surveys and expert analysis.",
-    "finding": "Mixed approaches performed best by balancing protection, livelihoods, and socioeconomic benefits.",
-    "why": "It shows we do not have to choose strictly between hard engineering and nature."
-   },
-   "full": {
-    "explainer": "Protecting coasts is moving away from purely engineered defenses toward nature-based and hybrid methods, but we still need to know how well they work across different stakeholder priorities. This study looks at three climate-vulnerable sites in Bangladesh to compare the perceived benefits of grey, or engineered, green, and mixed coastal protection strategies. By combining household surveys and expert assessments, the researchers evaluated various ecosystem services. They found that mixed strategies performed best overall, closely followed by green approaches, while grey infrastructure ranked the lowest. Mixed options successfully balanced coastal protection with livelihood and socioeconomic benefits, whereas green approaches were stronger for biodiversity, fisheries, carbon, and culture. These results held up even when accounting for different risk attitudes and levels of uncertainty. Ultimately, the findings challenge the idea of a binary choice and support using context-specific combinations to reduce hazards while helping ecosystems and communities.",
-    "caveats": [
-     "Preferences shifted between mixed and green strategies depending on risk attitudes and uncertainty.",
-     "Not stated: exact quantitative measurements of actual physical protection outcomes."
-    ],
-    "jargon": [
-     {
-      "term": "ecosystem services",
-      "definition": "Benefits that people freely gain from the natural environment and healthy ecosystems."
-     },
-     {
-      "term": "grey infrastructure",
-      "definition": "Human-made engineered structures like seawalls and dams used for protection."
-     },
-     {
-      "term": "participatory decision analysis",
-      "definition": "A decision-making approach that integrates input from various stakeholders and experts."
-     }
-    ],
-    "fit": "Provides insight into stakeholder priorities, mixed strategy benefits, and participatory methods relevant to Global South planning."
-   },
-   "thesis": {
-    "why": "It provides valuable comparative insights on stakeholder perceptions of mixed versus engineered infrastructure strategies, useful for planning contexts.",
-    "action": "Check the full paper for details on participatory decision analysis methods.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How were household perceptions weighted against expert assessments in the participatory analysis?",
-    "evidence": "The abstract states it integrates household perceptions and expert assessments through participatory decision analysis.",
-    "limit": "The abstract does not state the exact weighting mechanism or how discrepancies between groups were resolved.",
-    "check": "Verify the exact integration methodology used to combine household and expert scores."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.21203/rs.3.rs-11330355/v1",
-    "doi": "https://doi.org/10.21203/rs.3.rs-11330355/v1",
-    "venue": "Research Square",
-    "date": "2026-10-26",
-    "authors": [
-     "Monzer Hossain Sarker",
-     "Animesh Kumar Gain",
-     "Carlo Giupponi"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7224639912",
-   "title": "Indigenous Peoples and the Rights of Nature: A comparative analysis of environmental justice from the Philippines to the global stage",
-   "headline": "Rights of Nature laws protect indigenous peoples",
-   "bullets": [
-    "Compared legal cases on indigenous rights and nature from multiple countries.",
-    "Found that Rights of Nature frameworks fill gaps in human-centered laws.",
-    "Shows how legal integration protects vulnerable environments and defenders."
-   ],
-   "plain": {
-    "question": "Can giving nature legal rights help protect indigenous peoples and the environment?",
-    "method": "Compared global court cases and laws from the Philippines, Kenya, and Australia.",
-    "finding": "Traditional laws are too weak, but giving nature its own legal standing helps bridge gaps.",
-    "why": "It offers a better way to protect nature and vulnerable indigenous defenders."
-   },
-   "full": {
-    "explainer": "This paper looks at the 'Rights of Nature' framework, which says that nature has its own legal rights separate from human economic rights. To work, courts must recognize nature's legal standing. The study connects this idea with the rights of Indigenous Peoples, arguing that putting these rights into state legal systems improves protection in biodiverse countries. It highlights the Philippines, a mega-biodiverse country where environmental defenders face extreme danger and legal remedies are very hard to use. By looking at global examples, such as the Endorois case in Kenya and the Torres Strait Islanders case in Australia, the article shows how traditional human-centered laws leave people at risk. The author concludes that using the Rights of Nature framework can strengthen protection for indigenous rights and lead to more sustainable environmental justice across different countries.",
-    "caveats": [
-     "The abstract does not provide quantitative data or empirical measurements.",
-     "Specific local outcomes in the Philippines are not fully detailed."
-    ],
-    "jargon": [
-     {
-      "term": "Rights of Nature",
-      "definition": "A legal framework stating nature has inherent rights independent of humans."
-     },
-     {
-      "term": "Anthropocentric",
-      "definition": "Focusing primarily on human needs, values, and interests."
-     },
-     {
-      "term": "Jurisprudence",
-      "definition": "The theory or philosophy of law, or a system of laws."
-     }
-    ],
-    "fit": "Connects to environmental planning, governance, and justice in the Global South by examining legal rights for nature and indigenous peoples."
-   },
-   "thesis": {
-    "why": "It offers broader context on environmental governance, plural values, and justice in the Global South, although it focuses on legal rights rather than urban ecosystems.",
-    "action": "Check how legal rights for nature might intersect with urban green-blue infrastructure planning.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "Does a rights-of-nature legal framework directly improve actual environmental conditions or ecosystem service supply?",
-    "evidence": "The abstract discusses legal standing, court cases, and protections for indigenous rights, but does not provide evidence of physical ecological improvements.",
-    "limit": "We cannot establish whether legal recognition actually halts environmental degradation or improves urban ecosystem services.",
-    "check": "Verify if the full paper discusses practical implementation challenges or just theoretical legal integration."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1111/reel.70092",
-    "doi": "https://doi.org/10.1111/reel.70092",
-    "venue": "Review of European Comparative & International Environmental Law",
-    "date": "2026-10-29",
-    "authors": [
-     "Josiah David Quising"
+     "Abdulaziz I. Almulhim"
     ],
     "n_authors": 1,
     "open_access": true,
@@ -462,125 +266,351 @@
    }
   },
   {
-   "id": "W7223910191",
-   "title": "Reimagining nature finance",
-   "headline": "Nature markets fail to solve the biodiversity crisis",
+   "id": "W7225037263",
+   "title": "Urban and peri-urban agriculture in the Global South: Nexus and policies to reduce territorial inequalities and improve social welfare",
+   "headline": "Review of urban agriculture and nexus policies in the South",
    "bullets": [
-    "Reviewed interdisciplinary evidence on natural capital markets and biodiversity offsets.",
-    "Found five flaws showing markets cannot protect nature at the required scale or speed.",
-    "Argues for shifting focus from financial tools to equitable conservation outcomes."
+    "Reviewed 49 papers on urban agriculture and nexus frameworks in the Global South.",
+    "Found 17 nexus types and regional differences in focus like subsistence and institutions.",
+    "Shows how integrated policies can reduce territorial inequalities and improve welfare."
    ],
    "plain": {
-    "question": "Can private nature markets solve the biodiversity crisis?",
-    "method": "Looking at past interdisciplinary evidence on these markets.",
-    "finding": "No, they have five major flaws and limited impact.",
-    "why": "We must focus on fair ways to fund real nature recovery instead."
+    "question": "How do urban agriculture and nexus frameworks help reduce inequality and improve social welfare in the Global South?",
+    "method": "The authors searched a database for past studies, chose 49 relevant papers, and analyzed their themes and patterns.",
+    "finding": "They found 17 different nexus types and saw that southern studies focus more on structural constraints and poverty than northern ones.",
+    "why": "This helps cities design better policies to connect food production with social and environmental goals."
    },
    "full": {
-    "explainer": "Natural capital markets are widely promoted as a way to use private money to fund nature conservation and help close the gap in nature funding. However, looking across interdisciplinary evidence, these voluntary carbon and biodiversity offset markets are unlikely to ever protect or recover nature quickly or at a large enough scale. They also fail to deliver broad social and ecological benefits. The authors point out five main problems with these markets: they are hard to scale up, they focus more on compensating for damage than restoring nature, they put financial profits above ecological health, they raise serious justice and fairness concerns, and they are very hard to measure properly. Because of these issues, these markets have taken up too much political and research time for very little real-world impact. The paper suggests reimagining nature finance so that raising money is just a tool, not the main goal. Research and policy should instead focus directly on finding fair and effective ways to fund real conservation projects.",
+    "explainer": "In many growing cities of the Global South, rapid development pushes farming out to vulnerable edge areas. Urban and peri-urban agriculture has become an important way to produce food, build social bonds, and fight climate change. However, researchers do not fully understand how interconnected nexus frameworks are used in this type of farming research or how they shape inclusive policies. To fill this gap, researchers conducted a systematic literature review using the Scopus database from 2017 to 2024. Out of 92 initial documents, 49 open-access papers met their criteria. By analyzing these papers, the study made three main discoveries. First, it found 17 different nexus categories, going far beyond traditional water, energy, and food links to include health, waste, and climate. Second, it noted regional differences: Global North studies focus on technology, while Global South studies look at survival, basic needs, and weak institutions. Third, it found that governance is often fragmented, meaning rules are local and lack broad territorial integration. Overall, the paper suggests that well-supported farming policies can reduce inequality.",
     "caveats": [
-     "Not stated",
-     "Not stated"
+     "The review relies only on open-access, English-language peer-reviewed articles from Scopus.",
+     "The study analyzed 49 papers out of 92 identified documents, which limits the scope."
     ],
     "jargon": [
      {
-      "term": "Natural capital markets",
-      "definition": "Markets that trade environmental credits, like carbon or biodiversity offsets."
+      "term": "Nexus frameworks",
+      "definition": "Tools that study the close connections between different resource sectors like water, energy, and food."
      },
      {
-      "term": "Compensatory",
-      "definition": "An approach that tries to make up for environmental damage somewhere else rather than stopping it."
+      "term": "Peri-urban areas",
+      "definition": "The transition zones where urban and rural areas meet, often surrounding cities."
+     },
+     {
+      "term": "PRISMA protocol",
+      "definition": "A structured set of rules for transparently reporting systematic reviews and meta-analyses."
+     },
+     {
+      "term": "Territorial inequalities",
+      "definition": "Gaps in wealth, services, and development between different geographic areas or regions."
      }
     ],
-    "fit": "Warns that market-led funding may not deliver true socio-ecological benefits for urban environments and planning."
+    "fit": "Connects to Global South urban environments, peri-urban agriculture, and policy planning for equity."
    },
    "thesis": {
-    "why": "It cautions against relying on financialized market mechanisms for environmental planning and equitable socio-ecological outcomes.",
-    "action": "Check if the authors discuss urban nature finance or municipal green-blue infrastructure funding.",
+    "why": "It connects to peri-urban agriculture and policy planning in the Global South, offering insights on institutional fragmentation and regional inequalities.",
+    "action": "Check the full text for specific governance frameworks used in peri-urban agriculture.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does this critique of global biodiversity markets apply to local urban ecosystem service planning?",
-    "evidence": "The abstract targets voluntary biodiversity and carbon offset markets broadly, claiming they fail to deliver socio-ecological benefits.",
-    "limit": "The abstract does not mention urban ecosystem services, municipal finance, or urban planning contexts specifically.",
-    "check": "Verify whether the full paper addresses urban greening projects or only large-scale rural offset schemes."
+    "question": "How do fragmented local policies actually cause measurable changes in regional territorial inequalities?",
+    "evidence": "The abstract states that regulatory instruments rank most effective yet remain locally focused, limiting wider territorial integration.",
+    "limit": "The abstract does not provide direct empirical measurements or causal proof that UPA policies successfully reduce territorial inequalities.",
+    "check": "Verify how the reviewed papers measured the success of governance frameworks and policy outcomes."
    },
-   "relevance": 2,
+   "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103252",
-    "doi": "https://doi.org/10.1016/j.gloenvcha.2026.103252",
-    "venue": "Global Environmental Change",
-    "date": "2026-10-27",
+    "url": "https://doi.org/10.1016/j.rspp.2026.100360",
+    "doi": "https://doi.org/10.1016/j.rspp.2026.100360",
+    "venue": "Regional Science Policy & Practice",
+    "date": "2026-11-01",
     "authors": [
-     "Theo Stanley",
-     "Sophus zu Ermgassen",
-     "Adrienne H.J. Buller",
-     "Katie Kedward",
-     "Yadvinder Singh Malhi",
-     "Constance L. McDermott"
+     "Erick Paul Mena-Barragan",
+     "Lucía Toledo",
+     "Javier Cuestas-Caza",
+     "Oswaldo Viteri-Salazar"
     ],
-    "n_authors": 10,
+    "n_authors": 4,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7224189925",
-   "title": "A Review of Higher Education Artificial Intelligence Frameworks to Empower Industrial & Sustainable Competitiveness in the Global South",
-   "headline": "AI education gap in the Global South examined",
+   "id": "W7225006488",
+   "title": "Indigenous communities' perceptions of ecosystem services of a montane forest ecosystem in Nigeria: Implications for restoration planning",
+   "headline": "Local views shape forest restoration in Nigeria",
    "bullets": [
-    "Mapped AI educational infrastructure in India, China, and Brazil via Scopus.",
-    "Found a disconnect between digital education tools and economic productivity.",
-    "Provides a roadmap to align AI education with sustainable development goals."
+    "Interviewed eight communities near a Nigerian forest reserve to record ecosystem services.",
+    "Found food and savannah species were ranked higher than forest conservation priorities.",
+    "Restoration must balance local livelihoods with scientific biodiversity goals."
    ],
    "plain": {
-    "question": "How do higher education AI frameworks help industrial competitiveness in the Global South?",
-    "method": "We used a bibliometric and comparative policy review of data from India, China, and Brazil.",
-    "finding": "There is a gap between digital education tools and actual economic productivity.",
-    "why": "This helps policymakers build a resilient society and meet sustainable development goals."
+    "question": "How do local people view the benefits provided by a protected forest ecosystem?",
+    "method": "Interviews, group talks, plant inventories, and botanical assessments in eight local villages.",
+    "finding": "Villagers recognize many benefits, but rank food and savannah plants higher than forest services.",
+    "why": "Restoration projects must include local needs so people support protecting the environment."
    },
    "full": {
-    "explainer": "This paper looks at how the Fifth Industrial Revolution and Artificial Intelligence are changing workforce skills around the world. Because there is a gap in AI implementation between the Global North and the Global South, the authors studied policies in top Global South economies: India, China, and Brazil. Using a database search, they checked how these countries use AI education to build industrial assets. Interestingly, the study discovered a major problem in engineering education: schools struggle to turn digital educational tools into real-world economic productivity across different sectors. By connecting these findings to global supply chains like rare earths and advanced power management, the authors created a roadmap. This blueprint aims to help policymakers improve industrial competitiveness while supporting global sustainable development goals.",
+    "explainer": "This paper looks at how local indigenous communities view the benefits provided by a montane forest ecosystem in Nigeria. The researchers wanted to understand how people living near a protected forest reserve use natural resources, because successful conservation must protect both wildlife and local livelihoods. By using interviews, group discussions, and plant inventories across eight nearby settlements, the study found that communities recognized anywhere from 6 to 20 different ecosystem benefits. Interestingly, people ranked provisioning services like food much higher than regulating, cultural, or supporting services. Most of these important provisioning items came from savannah plants rather than the dense forest itself. The authors suggest that landscape management should keep a mix of forest and savannah to match local needs. They also argue that restoration efforts must prioritize tangible benefits, like food and medicine, alongside wildlife conservation. Finally, because scientific goals and local priorities can clash, designing restoration plans together with local communities is essential for long-term success.",
     "caveats": [
-     "Focuses specifically on Tier I Global South leader economies: India, China, and Brazil.",
-     "Not stated whether other Global South countries were evaluated."
+     "Not stated whether quantitative biodiversity metrics were tested against community perceptions.",
+     "Not stated how long the interviews lasted or the exact demographic breakdown of participants."
     ],
     "jargon": [
      {
-      "term": "Bibliometric",
-      "definition": "A statistical analysis of books, articles, and other publication data."
+      "term": "Ecosystem services",
+      "definition": "The benefits that humans freely gain from a healthy natural environment."
      },
      {
-      "term": "Pedagogy",
-      "definition": "The method and practice of teaching."
+      "term": "Provisioning services",
+      "definition": "Products obtained directly from ecosystems, such as food, fresh water, and wood."
+     },
+     {
+      "term": "Ethnobotanical assessment",
+      "definition": "A study documenting how local people use plants for food, medicine, and other needs."
+     },
+     {
+      "term": "Adaptive governance",
+      "definition": "Flexible decision-making rules involving stakeholders to manage natural resources."
      }
     ],
-    "fit": "This paper examines the Global South and sustainable development, but does not focus on urban ecosystem services, land-cover change, or Kabul."
+    "fit": "It highlights plural values, trade-offs between scientific and local priorities, and stakeholder co-design for restoration planning."
    },
    "thesis": {
-    "why": "The paper provides broad Global South context regarding policy frameworks and sustainable development goals, though it lacks a direct link to urban ecosystem services or Kabul.",
-    "action": "Check if the full text discusses any urban land-cover or spatial planning frameworks.",
-    "relationship": "unclear"
+    "why": "It connects to your focus on plural values, environmental justice, and governance by showing how local stakeholder priorities often clash with scientific valuations.",
+    "action": "Check how the authors mapped community perceptions spatially to see if they align with GIS data.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "How does higher education AI infrastructure relate to urban ecosystem services and land-cover change?",
-    "evidence": "The abstract maps AI-led educational and technical infrastructure to industrial competitiveness, global supply chains, and UN SDGs, but mentions nothing about urban ecosystems, land cover, or environmental planning.",
-    "limit": "It cannot be established from the abstract how educational frameworks directly impact physical urban environments or ecological functions.",
-    "check": "Verify if the full paper contains any spatial or urban-level analyses that connect to environmental planning."
+    "question": "How were the qualitative community rankings converted into reliable evidence for landscape-scale management?",
+    "evidence": "The abstract mentions communities recognized between 6 and 20 ecosystem services and ranked provisioning services higher, but does not detail the weighting method.",
+    "limit": "We cannot establish the exact spatial distribution of these perceptions or how they map onto actual biophysical supply zones.",
+    "check": "Verify how the study linked interview data geographically to the 5-km radius around the forest reserve."
    },
-   "relevance": 1,
+   "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.21203/rs.3.rs-11026332/v1",
-    "doi": "https://doi.org/10.21203/rs.3.rs-11026332/v1",
-    "venue": "Research Square",
-    "date": "2026-10-29",
+    "url": "https://doi.org/10.64898/2026.10.28.762469",
+    "doi": "https://doi.org/10.64898/2026.10.28.762469",
+    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+    "date": "2026-10-31",
     "authors": [
-     "Elise Lee",
-     "Sourojeet Chakraborty"
+     "Iveren Abiem",
+     "Ahmed Difa Ali",
+     "Emmanuel Barde Elisha",
+     "Gabriel Atsen Dabo",
+     "Christopher Tumba Yohanna",
+     "Susinya Habila"
+    ],
+    "n_authors": 8,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7224816921",
+   "title": "Evaluating ecotourism potential in arid oasis landscapes using GIS, AHP, and PROMETHEE: The Saoura Corridor case study",
+   "headline": "Evaluating Ecotourism in Arid Oases",
+   "bullets": [
+    "Used GIS, AHP, and PROMETHEE to map and prioritize ecotourism potential in an arid oasis.",
+    "Found land-use/land-cover was the most influential criterion, designating three priority poles.",
+    "Provides a transferable planning tool for drylands to balance tourism and conservation."
+   ],
+   "plain": {
+    "question": "How can dryland regions plan ecotourism while protecting fragile environments?",
+    "method": "Combined satellite data, computer maps, and math rankings to evaluate areas.",
+    "finding": "Identified top priority zones for development and showed land cover matters most.",
+    "why": "It helps guide post-petroleum regional planning in sensitive desert environments."
+   },
+   "full": {
+    "explainer": "This paper looks at how to plan sustainable ecotourism in very dry, fragile oasis landscapes without damaging the environment. Looking at the Saoura corridor in Algeria, the researchers built a computer-based decision framework. They used satellite images and elevation data to model eight different environmental and logistic factors. By applying math methods like the analytic hierarchy process and PROMETHEE, they ranked 134 spatial locations. Their analysis showed that land-use and land-cover is the most important factor when deciding where ecotourism should go. The results point to Kenadsa, Béchar, and Taghit as the top priority areas for development. The authors note that this framework can be easily moved and used in other dry regions around the world, such as the Middle East, Central Asia, and sub-Saharan Africa, helping regions transition away from petroleum economies while supporting global sustainability goals.",
+    "caveats": [
+     "The empirical focus is limited to the Saoura corridor in southwestern Algeria.",
+     "Not stated whether economic viability beyond spatial suitability was fully tested."
+    ],
+    "jargon": [
+     {
+      "term": "Analytic Hierarchy Process (AHP)",
+      "definition": "A structured technique for organizing and analyzing complex decisions using math and psychology."
+     },
+     {
+      "term": "PROMETHEE",
+      "definition": "A multi-criteria decision analysis method used to rank and select alternatives."
+     },
+     {
+      "term": "Random Forest",
+      "definition": "A machine learning algorithm that uses many decision trees to classify satellite data."
+     },
+     {
+      "term": "Google Earth Engine (GEE)",
+      "definition": "A cloud-based platform for analyzing petabytes of planetary-scale satellite imagery."
+     }
+    ],
+    "fit": "Demonstrates a transferable spatial decision framework for dryland environments, relevant to arid planning challenges."
+   },
+   "thesis": {
+    "why": "It models spatial planning alternatives in a dryland setting using remote sensing and multi-criteria methods, mirroring regional environmental assessment challenges.",
+    "action": "Check how they handled spatial uncertainty and weighting subjectivity in the AHP matrix.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "How robust are the priority rankings to subjective weighting in the AHP matrix?",
+    "evidence": "The AHP pairwise comparison matrix yielded a consistency ratio of 8.5% and identified LULC as the most influential criterion at 30.7%.",
+    "limit": "The abstract does not report a sensitivity or uncertainty analysis of the multi-criteria ranking outputs.",
+    "check": "Verify if the full paper tests how changes in criteria weights alter the final rankings of the 134 spatial alternatives."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.12912/27197050/240498",
+    "doi": "https://doi.org/10.12912/27197050/240498",
+    "venue": "Ecological Engineering & Environmental Technology",
+    "date": "2026-10-30",
+    "authors": [
+     "B S Maya",
+     "Saida Bahi",
+     "Ratiba Wided Biara",
+     "Abdelouahab Bouchareb",
+     "Imen Guechi"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7224900249",
+   "title": "Development of a Water-Retentive Hydroponic Green Roof Using Gel Beads for Sustainable Urban Cooling",
+   "headline": "New lightweight green roof lowers temperature",
+   "bullets": [
+    "Tested a lightweight hydroponic green roof prototype with gel beads using sensors.",
+    "Found a temperature drop of 1.6 to 1.7 degrees and a 6.5 percent humidity increase.",
+    "Offers a lightweight way to improve passive urban cooling and thermal comfort."
+   ],
+   "plain": {
+    "question": "How can we cool down cities without heavy green roofs?",
+    "method": "Built a small model roof using gel beads and tested it with sensors.",
+    "finding": "It lowered the temperature by about 1.6 to 1.7 degrees.",
+    "why": "It helps cool cities and makes buildings more comfortable without heavy weight."
+   },
+   "full": {
+    "explainer": "As cities grow, temperatures go up and people lose natural cooling and comfort. Traditional green roofs can fix this, but they are very heavy and need a lot of maintenance. To solve these problems, this study created a new kind of green roof. It uses a lightweight material and gel beads. The researchers built a small test model and used sensors to check the temperature and humidity. Their tests showed that this new roof lowered the temperature by about 1.6 to 1.7 degrees. It also increased relative humidity by 6.5 percent. This proves that the new design can provide steady passive cooling during different testing sessions while solving the weight and maintenance issues of normal green roofs.",
+    "caveats": [
+     "Only tested on a small-scale prototype",
+     "Not stated how it performs on full-scale buildings over long periods"
+    ],
+    "jargon": [
+     {
+      "term": "Hydroponic",
+      "definition": "Growing plants without soil, using nutrient-rich water instead."
+     },
+     {
+      "term": "Passive cooling",
+      "definition": "Ways to cool buildings naturally without using electricity or air conditioning."
+     },
+     {
+      "term": "Thermal comfort",
+      "definition": "How comfortable a human body feels with the surrounding temperature and humidity."
+     }
+    ],
+    "fit": "It relates to urban cooling and green infrastructure, offering a lightweight cooling solution for urban areas."
+   },
+   "thesis": {
+    "why": "It explores urban cooling through green infrastructure, touching on microclimate regulation which connects to urban ecosystem services and planning.",
+    "action": "Check if gel bead durability and water retention methods apply to semi-arid settings like Kabul.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Can this small prototype scale up to real urban environments with scarce water?",
+    "evidence": "The study only tested a small-scale prototype using gel beads for water retention.",
+    "limit": "The abstract does not show long-term durability or performance in hot, dry, data-scarce climates.",
+    "check": "Verify how the gel beads manage water loss under high heat and low water availability."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.48175/ijarsct-40439",
+    "doi": "https://doi.org/10.48175/ijarsct-40439",
+    "venue": "International Journal of Advanced Research in Science Communication and Technology",
+    "date": "2026-10-30",
+    "authors": [
+     "Shreyas R. Satpute, Rohit V. Awaghade, Yash G. Mhatre",
+     "Shreyash A. Kalambate Neel D. Bodade"
     ],
     "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7224797038",
+   "title": "The Synergy Between Deterministic and Neutral Processes Drives Turnover‐Dominated Beta Diversity of Non‐Volant Small Mammals in the Western Tianshan Mountains, China",
+   "headline": "Small mammal diversity in Tianshan Mountains",
+   "bullets": [
+    "Compared taxonomic, functional, and phylogenetic beta diversity across gradients",
+    "Found species turnover dominated and synergy drives community assembly",
+    "Provides a practical basis for biodiversity conservation in Central Asian mountains"
+   ],
+   "plain": {
+    "question": "What drives the differences in small mammal types across elevations in dry mountains?",
+    "method": "Studied small mammals across environmental gradients in the western Tianshan Mountains.",
+    "finding": "Species replacement across sites is the main pattern, driven by environmental and neutral factors.",
+    "why": "Helps us understand how mountain ecosystems work to protect biodiversity."
+   },
+   "full": {
+    "explainer": "Scientists want to understand how animal communities change across different spaces and environments, known as beta diversity. This study looked at non-volant small mammals—animals that cannot fly and are not large—across the dry western Tianshan Mountains in China. They examined three angles: taxonomic (species types), functional (the roles species play), and phylogenetic (evolutionary history). The researchers found that species turnover, meaning the replacement of one species by another from place to place, was the main pattern across all three angles. Functional differences were highest among sites, followed by species and evolutionary differences. Distance in elevation was the most important factor shaping these differences. Furthermore, the analysis showed that community assembly is driven by a mix of deterministic processes, like environmental filtering, and neutral processes. As elevation distance grew, environmental filtering had less effect, while limiting similarity had more effect. These insights help explain biodiversity patterns in dry mountain regions and guide conservation efforts in Central Asia.",
+    "caveats": [
+     "The study focuses specifically on non-volant small mammals in a mountain region.",
+     "Data on other animal or plant groups are not stated.",
+     "Direct links to urban planning or ecosystem services are not stated."
+    ],
+    "jargon": [
+     {
+      "term": "beta diversity",
+      "definition": "The change in species composition between different sites or communities."
+     },
+     {
+      "term": "phylogenetic",
+      "definition": "Relating to the evolutionary history and relationships of groups of organisms."
+     },
+     {
+      "term": "environmental filtering",
+      "definition": "The process by which environmental conditions prevent certain species from surviving."
+     },
+     {
+      "term": "distance-decay relationship",
+      "definition": "The ecological pattern where community similarity decreases as the geographic distance increases."
+     }
+    ],
+    "fit": "Connects to habitat quality and biodiversity conservation, though set in mountains rather than urban areas."
+   },
+   "thesis": {
+    "why": "Provides comparative context on mountain ecosystems and environmental filtering, relevant to semi-arid and mountainous settings like Kabul's hillsides.",
+    "action": "Check how the study measures habitat quality and environmental gradients for potential methodological parallels.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How do mountain ecological filtering concepts transfer to urban or semi-arid human-modified landscapes?",
+    "evidence": "The abstract discusses environmental filtering and elevation gradients in arid mountain ecosystems.",
+    "limit": "The abstract does not address urban areas, human settlements, or ecosystem services provided to people.",
+    "check": "Verify if the statistical methods for spatial gradients can be adapted for urban habitat quality modeling."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1002/ece3.74538",
+    "doi": "https://doi.org/10.1002/ece3.74538",
+    "venue": "Ecology and Evolution",
+    "date": "2026-10-30",
+    "authors": [
+     "Xiaohan Wang",
+     "Wen‐Yu Song",
+     "Yawen Xing",
+     "Yalan Wang",
+     "Xiaoxin Pei",
+     "Kenneth Otieno Onditi"
+    ],
+    "n_authors": 11,
     "open_access": true,
     "basis": "abstract"
    }
@@ -588,21 +618,51 @@
  ],
  "more": [
   {
-   "title": "Understanding Poverty Dynamics and Household Vulnerability in Urban Slums of Purulia (India) across the Pre…",
-   "url": "https://doi.org/10.21203/rs.3.rs-11009266/v1",
-   "venue": "Research Square",
+   "title": "Ecological-state and modeled ecosystem-service trajectories of persistent cropland-to-forest transitions…",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115673",
+   "venue": "Ecological Indicators",
    "date": "2026-10-28"
   },
   {
-   "title": "Road features shape taxon-specific wildlife roadkill patterns in the western Colombian Caribbean",
-   "url": "https://doi.org/10.1007/s11252-026-02155-5",
-   "venue": "Urban Ecosystems",
+   "title": "Reimagining nature finance",
+   "url": "https://doi.org/10.1016/j.gloenvcha.2026.103252",
+   "venue": "Global Environmental Change",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Beyond heatwave vulnerability rankings: Sustainability dimensions and urban vulnerability profiles",
+   "url": "https://doi.org/10.1016/j.cacint.2026.100521",
+   "venue": "City and Environment Interactions",
    "date": "2026-10-29"
   },
   {
-   "title": "Afforestation as a dual climate strategy in Kenya's arid lands: A mixed-methods analysis of challenges and…",
-   "url": "https://doi.org/10.1016/j.crm.2026.100905",
-   "venue": "Climate Risk Management",
+   "title": "High resolution spatiotemporal modelling of outdoor temperature for assessment of heat-related health…",
+   "url": "https://doi.org/10.1088/2752-5309/aebbe2",
+   "venue": "Environmental Research Health",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Long-term bioacoustic monitoring of arid-zone bats: the boom and bust",
+   "url": "https://doi.org/10.1016/j.jaridenv.2026.105774",
+   "venue": "Journal of Arid Environments",
+   "date": "2026-10-29"
+  },
+  {
+   "title": "Sand tank and field scale investigation of the impact of bioengineering and soil siphoning in controlling…",
+   "url": "https://doi.org/10.1007/s44447-026-00197-x",
+   "venue": "Journal of the Saudi Society of Agricultural Sciences",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Spatiotemporal environmental dynamics and predictive modeling of mining-driven land use/land cover change at…",
+   "url": "https://doi.org/10.12912/27197050/240324",
+   "venue": "Ecological Engineering & Environmental Technology",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "Towards understanding stomatal decoupling under extreme heat: integrating stomatal kinetics, leaf light…",
+   "url": "https://doi.org/10.64898/2026.10.24.760857",
+   "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
    "date": "2026-10-27"
   }
  ]

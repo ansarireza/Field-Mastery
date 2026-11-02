@@ -126,5 +126,32 @@
    "Subjective human well-being metrics",
    "ecological zoning"
   ]
+ },
+ "2026-11-02": {
+  "papers": [
+   "Return migration to informal housing in coastal Jakarta",
+   "Ghana's climate policy analysis",
+   "Management shift in urban sewage recycling systems",
+   "Six paradigm shifts needed for Global South planning",
+   "Review of urban agriculture and nexus policies in the South",
+   "Local views shape forest restoration in Nigeria",
+   "Evaluating Ecotourism in Arid Oases",
+   "New lightweight green roof lowers temperature",
+   "Small mammal diversity in Tianshan Mountains"
+  ],
+  "radar": [
+   "UNDP and Adaptation Fund equip water users in Kafernighan River",
+   "Green Climate Fund Approves Record $3.3B Climate Investments",
+   "EBRD and Green Climate Fund Allocate €87m for Greener Cities",
+   "Delhi Declaration 2026 Calls for Stronger City Role in Climate Governance",
+   "Southeast Asian voices on climate change in Nature"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Payments for ecosystem services basics",
+   "High-Andean landscape"
+  ]
  }
 }

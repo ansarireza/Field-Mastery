@@ -1,64 +1,64 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "lessons": [
   {
-   "id": "889ef9acf8",
-   "date": "2026-11-01",
-   "term": "Subjective human well-being metrics",
-   "area": "Human well-being",
-   "kind": "concept",
-   "definition": "Subjective human well-being metrics are self-reported measures of how people feel about their own happiness and quality of life.",
-   "plain": "Instead of just counting things like income or parks, these metrics ask people directly how satisfied they are with their lives. In cities, this helps researchers see how things like neighborhood green spaces actually make residents feel.",
-   "example": "A survey in an informal settlement in Kabul asking residents to rate their daily happiness and stress levels based on local green space access.",
-   "connects": "Links the actual delivery of ecosystem services to how people truly experience and benefit from them.",
-   "why_phd": "Crucial for proving that urban planning and green spaces genuinely improve people's lives, not just ecological scores.",
+   "id": "88acfa6c4c",
+   "date": "2026-11-02",
+   "term": "Payments for ecosystem services basics",
+   "area": "Payments for ecosystem services",
+   "kind": "policy",
+   "definition": "Payments for ecosystem services are financial incentives given to landowners to protect nature and maintain ecological benefits.",
+   "plain": "Imagine paying people who own land to look after trees, rivers, or green spaces instead of destroying them for buildings. This policy tool tries to give money to those who protect nature so everyone gets fresh air, cool shade, or clean water.",
+   "example": "A city program in a Global South watershed pays upstream hillside farmers to keep natural vegetation, reducing soil erosion and floods downstream.",
+   "connects": "It links economic incentives with the ecosystem service cascade, connecting supply areas to human beneficiaries.",
+   "why_phd": "Vital for designing environmental policies in data-scarce, informal cities where traditional zoning often fails.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What do subjective human well-being metrics measure?",
-     "a": "Self-reported human happiness and life satisfaction."
+     "q": "What is the main goal of payments for ecosystem services?",
+     "a": "To provide financial incentives to protect nature and maintain ecological benefits."
     },
     {
-     "q": "Why use these metrics in urban planning?",
-     "a": "To understand how environmental changes directly affect residents' actual lived experiences."
+     "q": "Why is this relevant to informal hillside settlements?",
+     "a": "It can help incentivize communities to maintain green infrastructure for flood control."
     }
    ],
-   "search": "subjective well being urban green space"
+   "search": "payments for ecosystem services urban"
   },
   {
-   "id": "606f6a6a5d",
-   "date": "2026-11-01",
-   "term": "ecological zoning",
+   "id": "5ba38cc2e3",
+   "date": "2026-11-02",
+   "term": "High-Andean landscape",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Ecological zoning is the spatial division of land to protect natural functions and guide sustainable urban development.",
-   "plain": "Think of it as drawing boundaries on a map to decide which areas should be protected for nature and which can be built on. In rapidly growing cities, it helps separate vulnerable natural zones from formal or informal housing.",
-   "example": "In a semi-arid city, zoning hillsides as protected ecological zones to prevent risky informal settlements and preserve water flow.",
-   "connects": "It links landscape configuration, land-cover change, and green-blue infrastructure planning.",
-   "why_phd": "Vital for designing scenarios that balance urban growth with ecosystem service supply in data-scarce settings like Kabul.",
+   "definition": "The High-Andean landscape refers to high-altitude mountainous ecosystems in South America with unique alpine vegetation and water functions.",
+   "plain": "These are high mountain areas characterized by cold climates, unique plants, and crucial water storage functions. Even though our main focus is Kabul, studying similar mountainous regions helps us understand how high-altitude nature supplies water and cooling.",
+   "example": "High-altitude wetlands in South American mountains store water and regulate runoff for nearby growing cities.",
+   "connects": "It links mountain hydrology and green infrastructure to urban water supply and climate regulation.",
+   "why_phd": "It provides a comparative mountainous model for studying ecosystem services in data-scarce, semi-arid cities like Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the main goal of ecological zoning?",
-     "a": "To divide land spatially to protect natural functions and guide sustainable urban development."
+     "q": "What is a key function of High-Andean landscapes?",
+     "a": "Water storage and regulation for surrounding areas."
     },
     {
-     "q": "Why is it useful in a city like Kabul?",
-     "a": "It helps manage risks in vulnerable areas like hillsides while preserving essential ecosystem services."
+     "q": "Why study this landscape for Kabul research?",
+     "a": "It offers a comparable mountainous and semi-arid environmental context."
     }
    ],
-   "search": "ecological zoning urban environmental planning"
+   "search": "High Andean landscape urban ecosystem services"
   }
  ],
- "total_learned": 10,
+ "total_learned": 12,
  "path": {
   "stage": "Foundation",
   "next_topics": [
-   "Payments for ecosystem services basics",
    "Global South development paradigms",
    "Nature contributions to people framework",
    "Conservation policy instruments",
-   "Socioecological systems thinking"
+   "Socioecological systems thinking",
+   "Community-based natural resource management"
   ],
   "stages": [
    "Foundation: understand concepts",
