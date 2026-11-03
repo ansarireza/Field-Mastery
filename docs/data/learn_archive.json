@@ -282,5 +282,53 @@
    }
   ],
   "search": "High Andean landscape urban ecosystem services"
+ },
+ {
+  "id": "ff06cc0e76",
+  "date": "2026-11-03",
+  "term": "Global South development paradigms",
+  "area": "Global South development",
+  "kind": "classic_idea",
+  "definition": "Global South development paradigms are frameworks guiding economic and social progress in regions historically shaped by colonialism.",
+  "plain": "These are big ideas about how poorer or developing nations should grow. Instead of just copying rich Western countries, they look at local needs, informal economies, and unique environmental challenges, which helps us understand cities like Kabul.",
+  "example": "In many Global South cities, development plans now focus on upgrading informal settlements rather than demolishing them to build high-rises.",
+  "connects": "Links to how urban ecosystem services and green spaces are planned in fast-growing, resource-limited cities.",
+  "why_phd": "Vital for framing how Kabul's growth responds to local realities rather than mismatched foreign models.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do development paradigms in the Global South challenge?",
+    "a": "They challenge the idea that Western growth models fit all nations."
+   },
+   {
+    "q": "Why are these paradigms important for Kabul?",
+    "a": "They help address local informal settlements and environmental issues realistically."
+   }
+  ],
+  "search": "Global South development paradigms"
+ },
+ {
+  "id": "00a457c0db",
+  "date": "2026-11-03",
+  "term": "compound dry-hot hydroclimatic stress",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Compound dry-hot hydroclimatic stress is the simultaneous occurrence of severe drought and extreme heat events in an area.",
+  "plain": "It happens when a place gets extremely hot while also suffering from a severe lack of water. This combination creates heavy stress on plants, water supplies, and people living in cities, making everyday life and urban nature much harder to sustain.",
+  "example": "In Kabul, intense summer heatwaves combine with dry soil and low water availability, severely stressing trees and green spaces.",
+  "connects": "It directly limits urban cooling and stormwater retention ecosystem services.",
+  "why_phd": "Vital for evaluating how climate extremes affect ecosystem service supply and human well-being in Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What two weather extremes make up this stress?",
+    "a": "Severe drought and extreme heat occurring together."
+   },
+   {
+    "q": "Why does it matter for urban ecosystem services?",
+    "a": "It strains water supplies and reduces the ability of urban nature to cool cities."
+   }
+  ],
+  "search": "compound dry hot hydroclimatic stress Kabul"
  }
 ]

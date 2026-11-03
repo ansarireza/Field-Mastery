@@ -62,6 +62,70 @@
   }
  },
  {
+  "id": "W7128700805",
+  "title": "Role of hydrometeorological variables and catchment area to flood generation over the monsoonal climate region of India",
+  "headline": "Rainfall drivers of floods in India's Godavari basin",
+  "bullets": [
+   "Analyzed rainfall, runoff, and streamflow data in the Godavari River basin using VIC simulations.",
+   "Found that semi-humid floods need multi-day rain, while semi-arid floods need single-day rain.",
+   "Helps improve flood control and management in monsoonal climate regions of the Indian Subcontinent."
+  ],
+  "plain": {
+   "question": "What causes floods in India's large Godavari River basin?",
+   "method": "Examined observed and simulated weather and water data over time.",
+   "finding": "Different areas flood from either multi-day or single-day heavy rainfall.",
+   "why": "Understanding flood causes helps manage flood risks in the region."
+  },
+  "full": {
+   "explainer": "Indian river basins often flood during the summer monsoon, creating major challenges for large populations. To help manage these risks, researchers looked at what drives floods in the Godavari River basin using observed data and computer simulations. They studied how weather and catchment areas control flooding. The study showed that in semi-humid sub-basins, floods mostly happen after 10 to 11 days of built-up rain with multiple heavy drops before the flood. In contrast, floods in the semi-arid Mancherial sub-basin are usually triggered by just a single day of heavy rain and short two-day rain accumulation. Using spatial data analysis, the team also found that central and downstream areas contribute most to floods, with the Tekra sub-basin generating high runoff due to its specific land traits. Overall, this research improves our understanding of how floods are generated during monsoonal rains, which can aid in flood control and management.",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Hydrometeorological variables",
+     "definition": "Factors relating to atmospheric water, such as precipitation and surface runoff."
+    },
+    {
+     "term": "VIC-simulated datasets",
+     "definition": "Data produced by a computer model that simulates land surface hydrology."
+    },
+    {
+     "term": "Empirical Orthogonal Functions",
+     "definition": "A statistical method used to find patterns in spatial and temporal data."
+    }
+   ],
+   "fit": "Connects to stormwater runoff retention, watershed-scale interpretation, and environmental planning in monsoonal or data-scarce settings."
+  },
+  "thesis": {
+   "why": "It examines runoff generation and catchment areas, which relates to stormwater runoff retention and watershed interpretation.",
+   "action": "Check how the study handles runoff simulation and catchment characteristics for watershed-scale analysis.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How do catchment characteristics precisely alter runoff generation compared to precipitation timing?",
+   "evidence": "The abstract mentions that the Tekra sub-basin generates substantially higher runoff due to favorable catchment characteristics.",
+   "limit": "The abstract does not give exact causal mechanisms or numerical values for how specific land covers alter the runoff.",
+   "check": "Verify how catchment area properties were isolated from precipitation intensity in the spatial analysis."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.5194/hess-30-6747-2026",
+   "doi": "https://doi.org/10.5194/hess-30-6747-2026",
+   "venue": "Hydrology and earth system sciences",
+   "date": "2026-11-02",
+   "authors": [
+    "Saran Aadhar",
+    "Efrat Morin",
+    "Utkarsh Gupta"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225037263",
   "title": "Urban and peri-urban agriculture in the Global South: Nexus and policies to reduce territorial inequalities and improve social welfare",
   "headline": "Review of urban agriculture and nexus policies in the South",
@@ -127,6 +191,77 @@
     "Oswaldo Viteri-Salazar"
    ],
    "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7148509516",
+  "title": "Groundwater quality dynamics and hydrochemical indicators of water insecurity in the semi-arid Sokoto Basin, Northwestern Nigeria",
+  "headline": "Groundwater quality linked to geology in Sokoto Basin",
+  "bullets": [
+   "Collected 54 groundwater samples from wells and boreholes across different geological areas",
+   "Found basement complex aquifers are more mineralised and metal-enriched than sedimentary rocks",
+   "Provides early-warning indicators to track water insecurity and support sustainable management"
+  ],
+  "plain": {
+   "question": "How do climate and geology affect groundwater quality and water security in a dry region?",
+   "method": "Tested water samples from wells for chemicals and heavy metals, then used mapping and statistics.",
+   "finding": "Basement rock areas have more minerals and heavy metals than sedimentary areas due to rock reactions.",
+   "why": "It helps track water safety and plan better management to ensure clean water for people."
+  },
+  "full": {
+   "explainer": "In dry areas like the Sokoto Basin in northwestern Nigeria, groundwater is vital because surface water changes with the seasons. However, climate stress and human activities threaten this essential water source. This study explored groundwater chemistry to identify predictors of water insecurity across different geological settings. The researchers collected fifty-four water samples from wells and boreholes, testing them for physical, chemical, and heavy-metal properties. They used statistical methods and mapping techniques to show spatial patterns and controlling factors. The results showed that groundwater quality varies based on rock type. Specifically, basement complex aquifers contain more minerals and metals like manganese, chromium, and arsenic than sedimentary rocks, driven by rock weathering and climate evaporation. The maps revealed contamination hot spots in low-lying areas. Theoretically, this improves our understanding of groundwater in data-limited, climate-sensitive basins. Practically, it offers early-warning indicators for water insecurity to help meet sustainable development goals through adaptive management.",
+   "caveats": [
+    "Data is specific to the semi-arid Sokoto Basin in northwestern Nigeria",
+    "Not stated whether urban ecosystem services or Kabul contexts were directly evaluated"
+   ],
+   "jargon": [
+    {
+     "term": "Hydrochemistry",
+     "definition": "The study of the chemical characteristics of water in natural environments."
+    },
+    {
+     "term": "Basement complex",
+     "definition": "Ancient, hard igneous and metamorphic rocks that underlie younger sedimentary layers."
+    },
+    {
+     "term": "Ordinary Kriging",
+     "definition": "A geostatistical mapping method that predicts values at unmeasured locations using sample data."
+    },
+    {
+     "term": "Lithology",
+     "definition": "The general physical characteristics of rocks in a specific area or geological formation."
+    }
+   ],
+   "fit": "Connects via semi-arid environmental planning and spatial geostatistical modeling, though it focuses on groundwater rather than urban services."
+  },
+  "thesis": {
+   "why": "Provides methodological parallels in spatial interpolation and data-scarce environmental modeling, but lacks urban ecosystem service metrics.",
+   "action": "Check how their spatial interpolation and uncertainty mapping compare to your planned spatial statistics approach.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do you separate natural geogenic mineralisation from anthropogenic contamination in spatial models?",
+   "evidence": "The abstract attributes metal enrichment to natural water-rock interactions and weathering, yet also cites anthropogenic pressures.",
+   "limit": "The abstract does not detail the specific human activities versus natural baselines causing the heavy metal presence.",
+   "check": "Verify how the authors statistically distinguished human-induced pollution from natural geological weathering in the full text."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1038/s41598-026-76975-y",
+   "doi": "https://doi.org/10.1038/s41598-026-76975-y",
+   "venue": "Scientific Reports",
+   "date": "2026-11-01",
+   "authors": [
+    "Saadu Umar Wali",
+    "Noraliani  Binti Alias",
+    "Ismail Usman Kaoje",
+    "Sa’ad Ibrahim",
+    "Abdullahi Umar"
+   ],
+   "n_authors": 5,
    "open_access": true,
    "basis": "abstract"
   }
@@ -678,6 +813,69 @@
   }
  },
  {
+  "id": "W7224839089",
+  "title": "Assessing the Climate Robustness of Residential Shading Devices across Multiple Climate Zones under Future Climate Scenarios",
+  "headline": "Combined shading devices reduce heat and cooling demand",
+  "bullets": [
+   "Tested 14 shading configurations across Algerian climate zones using EnergyPlus.",
+   "Combined 3D systems cut solar gains by 60 to 80 percent with double Low-E glazing.",
+   "Shows adaptive shading design is crucial for climate-resilient architecture."
+  ],
+  "plain": {
+   "question": "How well do different window covers keep homes cool in hot places now and in the future?",
+   "method": "Computer simulations tested 14 shading designs across different climate zones.",
+   "finding": "Using combined 3D shading covers blocked up to 80 percent of unwanted heat.",
+   "why": "This helps homes stay cool without using too much energy as the climate warms."
+  },
+  "full": {
+   "explainer": "Climate change is making heat waves worse and increasing the need for cooling energy in buildings. Shading devices offer a simple and cheap way to prevent indoor overheating and keep people comfortable. This study tests how well different residential window shading devices perform across various climate zones in Algeria, including Mediterranean, semi-arid, and hot desert climates, looking at both current weather and future climate scenarios. The researchers used dynamic computer simulations to test fourteen different shading setups combined with special glass and insulated walls. Their findings show that advanced 3D shading systems, like egg-crates combined with side fins and overhangs, do the best job of blocking solar heat gains. They cut solar heat by up to 80 percent when paired with efficient glass. Simpler single-element shades do not work as well under extreme future conditions. A special robustness index proves that deeper, combined shades stay reliable over time. Ultimately, integrating smart shading with insulated walls helps buildings become more resilient and energy-efficient.",
+   "caveats": [
+    "Tested specifically in Algerian climate zones.",
+    "Relies on computer simulation models rather than physical field observations."
+   ],
+   "jargon": [
+    {
+     "term": "EnergyPlus",
+     "definition": "A computer program used to simulate how buildings use energy for heating and cooling."
+    },
+    {
+     "term": "Low-E glazing",
+     "definition": "Window glass coated with a thin material to reflect heat while letting light through."
+    },
+    {
+     "term": "Composite Robustness Index",
+     "definition": "A metric built from statistical measures to test how well shading holds up under future changes."
+    }
+   ],
+   "fit": "Demonstrates micro-scale climate mitigation and building performance modeling, relevant for urban cooling and heat adaptation strategies."
+  },
+  "thesis": {
+   "why": "It shows how micro-scale building design and shading reduce urban heat challenges, aligning with urban cooling and environmental planning goals.",
+   "action": "Check how building-scale shading translates to city-wide urban microclimate models.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do building-level shading benefits scale up to affect wider urban heat island mitigation?",
+   "evidence": "The abstract focuses entirely on individual residential shading devices and indoor thermal comfort across climate zones.",
+   "limit": "It cannot establish how these shading devices impact city-wide outdoor microclimates or broader urban ecosystem services.",
+   "check": "Verify if the study discusses broader urban-scale implications or strictly focuses on building energy performance."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.47480/isibted.1822766",
+   "doi": "https://doi.org/10.47480/isibted.1822766",
+   "venue": "Isı Bilimi ve Tekniği Dergisi",
+   "date": "2026-10-30",
+   "authors": [
+    "Soufiane Boukarta"
+   ],
+   "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7224659150",
   "title": "Arborização Urbana como Estratégia de Adaptação Climática",
   "headline": "Urban trees help climate adaptation in Brazil",
@@ -1130,6 +1328,75 @@
   }
  },
  {
+  "id": "W7108325583",
+  "title": "Mapping the spatial extent of agroforestry lands across Africa by characterizing tree spatial arrangements",
+  "headline": "Mapped agroforestry in Africa using tree spatial patterns",
+  "bullets": [
+   "Used 10m imagery and U-Net models to map agroforestry lands in Africa at 100m resolution.",
+   "Achieved an overall validation accuracy of 77.2% using ground data and Google Earth.",
+   "Provides a baseline for assessing environmental impacts and crop yields."
+  ],
+  "plain": {
+   "question": "How can we better map where trees and farms are mixed together across Africa?",
+   "method": "Used satellite images and computer models to find scattered trees and tree rows on farms.",
+   "finding": "Created a new 100-meter resolution map showing agroforestry land across Africa with 77.2% accuracy.",
+   "why": "This map helps us better understand and measure the environmental and food benefits of mixing trees on farms."
+  },
+  "full": {
+   "explainer": "Agroforestry mixes trees into farmland, which helps with food security, livelihoods, and climate benefits. However, old large-scale studies often used rough tree cover or biomass data, leading to biased estimates. To fix this, researchers created a new 100-meter resolution map of agroforestry in Africa for the year 2019 using detailed 10-meter satellite imagery from PlanetScope and Sentinel-2. Instead of just looking at total tree cover, they looked at how trees are arranged on farms. They mapped irregularly scattered trees using distance measures, and trees planted in neat rows using a special computer model trained on thousands of manual examples. They checked their final map against ground data and Google Earth images, finding it was correct 77.2 percent of the time. This new dataset gives scientists a clear baseline to study environmental impacts, track changes in crop yields, and build better computer models for agroforestry ecosystems.",
+   "caveats": [
+    "Accuracy was tested against ground-based sites and Google Earth imagery, yielding 77.2% overall accuracy.",
+    "Not stated whether the map applies outside of Africa.",
+    "Not stated how local-scale variations in management might affect the dataset."
+   ],
+   "jargon": [
+    {
+     "term": "agroforestry",
+     "definition": "A land-use practice that integrates trees into agricultural lands."
+    },
+    {
+     "term": "U-Net model",
+     "definition": "A computer model used here to detect trees planted in rows."
+    },
+    {
+     "term": "PlanetScope and Sentinel-2",
+     "definition": "Satellite systems providing high-resolution imagery used in the study."
+    }
+   ],
+   "fit": "Demonstrates remote sensing and spatial pattern analysis of land-cover to map specific land-use arrangements."
+  },
+  "thesis": {
+   "why": "Connects to land-cover change and spatial modelling methods, though the study context is rural agroforestry in Africa rather than urban ecosystems in Kabul.",
+   "action": "Examine how they detected tree arrangements using machine learning for potential adaptation to urban green spaces.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How reliable is a 77.2% accuracy map when applied to highly heterogeneous or data-sparse environments?",
+   "evidence": "The abstract reports an overall validation accuracy of 77.2% based on literature sites and Google Earth imagery.",
+   "limit": "The abstract does not show how well these specific spatial tree detection methods perform in urban or semi-arid settings.",
+   "check": "Check the full paper for details on validation sample distribution across different climatic and land-cover zones."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.1016/j.jag.2026.105644",
+   "doi": "https://doi.org/10.1016/j.jag.2026.105644",
+   "venue": "International Journal of Applied Earth Observation and Geoinformation",
+   "date": "2026-10-29",
+   "authors": [
+    "Minxuan Sun",
+    "Martin Brandt",
+    "Philippe Ciais",
+    "David Makowski",
+    "Youngryel Ryu",
+    "Yidi Xu"
+   ],
+   "n_authors": 16,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7224081570",
   "title": "From climate hazards to diet and physical activity pathways: Investigating policy intersections for health in five global South Cities",
   "headline": "Policy intersections for health in five Global South cities",
@@ -1456,6 +1723,149 @@
     "Kenyi R. Quispe"
    ],
    "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224099009",
+  "title": "Bridging Long-Term Landsat Time Series and Sentinel-2 Machine Learning to Decipher the Urban–Vacant Land Paradox in Arid Metropolitan Systems",
+  "headline": "Undeveloped land matches urban footprint in arid cities",
+  "bullets": [
+   "Combined Landsat time series with Sentinel-2 Random Forest mapping.",
+   "Found undeveloped land equals urban footprint, but long trends reflect sensor shifts.",
+   "Informs infill-oriented planning and land tracking in arid cities."
+  ],
+  "plain": {
+   "question": "How much unused land sits inside the borders of growing desert cities?",
+   "method": "Used satellite images from different years and computer tools to map built areas and bare land.",
+   "finding": "Undeveloped land is massive, almost matching the size of the actual city footprint.",
+   "why": "This helps cities plan better by building on empty spaces inside existing borders."
+  },
+  "full": {
+   "explainer": "In many desert cities, like those in the Gulf, a strange thing happens: there is a huge amount of empty or unused land sitting right inside the official city boundaries, but no one has properly tracked how much of it actually exists or how it changes over time. To solve this mystery, researchers looked at the Dammam Metropolitan Area in Saudi Arabia. They used a cloud computing platform to analyze long-term satellite images spanning from the year 2000 to 2024. By combining yearly Landsat historical composites with a machine learning tool called Random Forest applied to newer Sentinel-2 images, they mapped out built-up spaces and bright bare land. Their analysis revealed a surprising reality: the amount of undeveloped land is almost as large as the entire built-up urban footprint itself. However, the study also issues a strong warning. They found that an apparent drop in bright bare land over the years was actually an illusion caused by changing satellite sensors and threshold settings rather than real-world construction. This highlights the hidden risks in using long satellite timelines to measure land change.",
+   "caveats": [
+    "Apparent long-term trends matched sensor shifts rather than land-cover change.",
+    "Negative correlation between categories arose from compositional closure.",
+    "Overall map accuracy was 75.05% with disagreement clustering along boundaries."
+   ],
+   "jargon": [
+    {
+     "term": "Random Forest",
+     "definition": "A machine learning method that uses many decision trees to classify satellite images."
+    },
+    {
+     "term": "Compositional closure",
+     "definition": "A mathematical artifact where an increase in one fixed-sum category forces a decrease in another."
+    },
+    {
+     "term": "Google Earth Engine",
+     "definition": "A cloud platform for analyzing massive planetary-scale satellite datasets."
+    },
+    {
+     "term": "Area-weighted accuracy",
+     "definition": "A statistical measure of map correctness that accounts for the varying sizes of mapped regions."
+    }
+   ],
+   "fit": "Connects via remote sensing, land-cover mapping, and data-scarce urban planning contexts relevant to the Global South."
+  },
+  "thesis": {
+   "why": "Demonstrates remote sensing and machine learning methods for mapping land-cover and tracking urban footprints, which connects to spatial modeling and land-change validation.",
+   "action": "Check how they handled sensor transitions and accuracy assessments for your own land-cover mapping workflow.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How can you trust long-term urban land trends when sensor changes mimic actual physical shifts?",
+   "evidence": "The abstract explicitly notes that a significant decline in bright bare land matched a threshold shift and the withdrawal of Landsat 7 rather than real land-cover change.",
+   "limit": "The abstract cannot establish true historical land-cover change trends before 2024 because the 2000-2024 trajectory was confounded by sensor differences.",
+   "check": "Verify how the full paper separates true urban expansion from sensor-induced artifacts in time-series analysis."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.3390/land15112054",
+   "doi": "https://doi.org/10.3390/land15112054",
+   "venue": "Land",
+   "date": "2026-10-28",
+   "authors": [
+    "Afnan Abdullah Alturki",
+    "Islam M. Hamdi",
+    "Bojana Aleksova",
+    "Suraj Kumar Bhagat",
+    "Youssef M. Youssef"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7224094745",
+  "title": "Sentinel-1 SAR and Sentinel-2 optical land-cover classification with a prototype decision-support dashboard for the monsoon-driven Cauvery Delta",
+  "headline": "Radar and optical data map delta farmland",
+  "bullets": [
+   "Tested ML models using radar and optical features to map land cover",
+   "Combining radar time series and NDVI achieved up to 72.4% accuracy",
+   "Shows reference label quality limits accuracy more than model choice"
+  ],
+  "plain": {
+   "question": "Can radar and optical data accurately map farmland despite heavy cloud cover?",
+   "method": "Tested three computer models using satellite radar and optical data with 449 sample points.",
+   "finding": "Combining radar data over time with vegetation indexes achieved up to 72.4% accuracy.",
+   "why": "Helps monitor food and water security in cloudy regions where standard satellite data fails."
+  },
+  "full": {
+   "explainer": "In many delta regions, heavy monsoon clouds block standard optical satellite cameras, making it hard to monitor farmland reliably. This paper tests a combination of Sentinel-1 radar, which can see through clouds, and Sentinel-2 optical data to classify land into Rice, Vegetation, and Built-up areas in the Cauvery Delta, India. The researchers used 449 verified points and compared three classification methods: logistic regression, Random Forest, and a neural network. They found that using only a yearly vegetation index performed poorly, barely beating random guessing. Adding radar data improved the results, and combining radar time-series summaries with the vegetation index raised accuracy up to 72.4 percent. Interestingly, simpler logistic regression performed as well as or better than complex neural networks. The authors conclude that the quality and reliability of human-made reference labels set the true limit on accuracy, rather than the complexity of the computer model. They also built a prototype dashboard combining these classifications with tools for irrigation and pest risk, though those extra modules are not yet field-tested.",
+   "caveats": [
+    "Reference data reliability sets the ceiling on classification accuracy.",
+    "Dashboard modules run on placeholder inputs and are not field-tested.",
+    "Field trials are needed before claiming contributions to SDGs."
+   ],
+   "jargon": [
+    {
+     "term": "Sentinel-1 SAR",
+     "definition": "A radar satellite that sends signals through clouds to image the Earth's surface day or night."
+    },
+    {
+     "term": "NDVI",
+     "definition": "A numerical indicator using light reflection to measure live green vegetation density."
+    },
+    {
+     "term": "Cohen’s kappa",
+     "definition": "A statistical measure of inter-rater agreement or classification reliability beyond chance."
+    },
+    {
+     "term": "Cross-validation",
+     "definition": "A technique for evaluating how well a statistical model generalizes to an independent dataset."
+    }
+   ],
+   "fit": "Demonstrates land-cover classification methods using radar and optical data, accuracy assessment, and decision-support tool design."
+  },
+  "thesis": {
+   "why": "Provides practical methods for land-cover classification accuracy assessment and handling data-scarce or cloudy conditions using radar and optical data.",
+   "action": "Examine how the authors structured their spatial block cross-validation to test spatial autocorrelation.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does a 72.4% overall classification accuracy provide a reliable baseline for environmental planning?",
+   "evidence": "The best model achieved 72.4% accuracy and a kappa of 0.475, with significant confusion between Rice and Vegetation classes.",
+   "limit": "The abstract does not establish whether a 72.4% accuracy is sufficient to support practical policy or planning decisions.",
+   "check": "Check the confusion matrix in the full paper to see how built-up areas were separated from vegetation."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.3389/fsufs.2026.1875985",
+   "doi": "https://doi.org/10.3389/fsufs.2026.1875985",
+   "venue": "Frontiers in Sustainable Food Systems",
+   "date": "2026-10-28",
+   "authors": [
+    "S. J. Rithikkaa",
+    "S. G. Rahul",
+    "T. M. Amirthalakshmi",
+    "M V Gayathri"
+   ],
+   "n_authors": 4,
    "open_access": true,
    "basis": "abstract"
   }
@@ -2248,6 +2658,79 @@
     "Constance L. McDermott"
    ],
    "n_authors": 10,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7223967742",
+  "title": "Salinity imposes selection on the occurrence of antibiotic resistance genes in lake ecosystems under increasing salinization",
+  "headline": "Salinity drives antibiotic resistance gene patterns in lakes",
+  "bullets": [
+   "Tested how salinity affects antibiotic resistance genes in lake water and sediments.",
+   "Found salinity relates differently to resistance genes in water versus sediments.",
+   "Shows salty lake sediments can store resistance genes via salt-tolerant microbes."
+  ],
+  "plain": {
+   "question": "How does increasing salt in lake water and mud change antibiotic resistance genes?",
+   "method": "Measured genes using lab tests across water and sediment samples plus salt experiments.",
+   "finding": "Salt levels changed gene amounts differently in water versus mud, boosting some genes.",
+   "why": "Salt-tolerant microbes in lake mud can hold onto these genes as water gets saltier."
+  },
+  "full": {
+   "explainer": "This study looks at how increasing salt levels in lake ecosystems affect the spread and survival of antibiotic resistance genes, which are genes that help bacteria resist medical drugs. The researchers checked both surface water and surface sediments in a dry region lake getting saltier over time. They found that different resistance genes show up in different amounts depending on whether you look in the water or the mud. For example, some genes were more common in water, while others were richer in the sediment. Salinity played a big role, but its effects depended on the environment compartment: salt was mostly negatively linked to certain gene abundances in the water, but positively linked to some genes in the sediments. Lab experiments with rising salt levels confirmed that a specific resistance gene accumulated in the mud. The researchers also found that salt-loving bacteria, like Rhodococcus, linked with these genes in the sediment. This suggests salty lake mud acts as a biological storage place for resistance genes.",
+   "caveats": [
+    "Tested only one lake ecosystem in an arid and semi-arid region",
+    "Focus was limited to specific targeted antibiotic resistance genes and intI 1",
+    "Not stated whether findings apply to urban stormwater or broader ecosystem services"
+   ],
+   "jargon": [
+    {
+     "term": "Antibiotic resistance genes",
+     "definition": "Genes that allow bacteria to survive exposure to antibiotics."
+    },
+    {
+     "term": "Salinization",
+     "definition": "The process of increasing salt concentration in water or soil."
+    },
+    {
+     "term": "Quantitative PCR",
+     "definition": "A laboratory method used to measure the exact amount of specific DNA targets."
+    },
+    {
+     "term": "Halotolerant communities",
+     "definition": "Groups of microorganisms that can survive in high salt environments."
+    }
+   ],
+   "fit": "Connects to environmental planning and water quality in dry settings, though focused on lake microbiology rather than urban ecosystem services."
+  },
+  "thesis": {
+   "why": "The student's context involves semi-arid settings and water resources, but this paper studies microbial water quality rather than urban ecosystem services.",
+   "action": "Check if similar water quality parameters or salinity impacts apply to urban water yield models.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does salt concentration truly cause the persistence of these genes, or is it just correlated?",
+   "evidence": "The abstract notes correlations in field samples and changes in microcosm experiments, but doesn't prove long-term ecological causation.",
+   "limit": "The abstract does not show broader ecosystem service impacts or urban water interactions.",
+   "check": "Review the full paper to see how the microcosm salinity gradients match real-world lake changes."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.hazadv.2026.101706",
+   "doi": "https://doi.org/10.1016/j.hazadv.2026.101706",
+   "venue": "Journal of Hazardous Materials Advances",
+   "date": "2026-10-27",
+   "authors": [
+    "Zenghui Li",
+    "Xiaozhuang Wang",
+    "Hongyang Wang",
+    "赵仁鑫",
+    "Ruihong Yu",
+    "Yuepeng Sun"
+   ],
+   "n_authors": 6,
    "open_access": true,
    "basis": "abstract"
   }

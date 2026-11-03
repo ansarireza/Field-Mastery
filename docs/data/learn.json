@@ -1,64 +1,64 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "lessons": [
   {
-   "id": "88acfa6c4c",
-   "date": "2026-11-02",
-   "term": "Payments for ecosystem services basics",
-   "area": "Payments for ecosystem services",
-   "kind": "policy",
-   "definition": "Payments for ecosystem services are financial incentives given to landowners to protect nature and maintain ecological benefits.",
-   "plain": "Imagine paying people who own land to look after trees, rivers, or green spaces instead of destroying them for buildings. This policy tool tries to give money to those who protect nature so everyone gets fresh air, cool shade, or clean water.",
-   "example": "A city program in a Global South watershed pays upstream hillside farmers to keep natural vegetation, reducing soil erosion and floods downstream.",
-   "connects": "It links economic incentives with the ecosystem service cascade, connecting supply areas to human beneficiaries.",
-   "why_phd": "Vital for designing environmental policies in data-scarce, informal cities where traditional zoning often fails.",
+   "id": "ff06cc0e76",
+   "date": "2026-11-03",
+   "term": "Global South development paradigms",
+   "area": "Global South development",
+   "kind": "classic_idea",
+   "definition": "Global South development paradigms are frameworks guiding economic and social progress in regions historically shaped by colonialism.",
+   "plain": "These are big ideas about how poorer or developing nations should grow. Instead of just copying rich Western countries, they look at local needs, informal economies, and unique environmental challenges, which helps us understand cities like Kabul.",
+   "example": "In many Global South cities, development plans now focus on upgrading informal settlements rather than demolishing them to build high-rises.",
+   "connects": "Links to how urban ecosystem services and green spaces are planned in fast-growing, resource-limited cities.",
+   "why_phd": "Vital for framing how Kabul's growth responds to local realities rather than mismatched foreign models.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the main goal of payments for ecosystem services?",
-     "a": "To provide financial incentives to protect nature and maintain ecological benefits."
+     "q": "What do development paradigms in the Global South challenge?",
+     "a": "They challenge the idea that Western growth models fit all nations."
     },
     {
-     "q": "Why is this relevant to informal hillside settlements?",
-     "a": "It can help incentivize communities to maintain green infrastructure for flood control."
+     "q": "Why are these paradigms important for Kabul?",
+     "a": "They help address local informal settlements and environmental issues realistically."
     }
    ],
-   "search": "payments for ecosystem services urban"
+   "search": "Global South development paradigms"
   },
   {
-   "id": "5ba38cc2e3",
-   "date": "2026-11-02",
-   "term": "High-Andean landscape",
+   "id": "00a457c0db",
+   "date": "2026-11-03",
+   "term": "compound dry-hot hydroclimatic stress",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "The High-Andean landscape refers to high-altitude mountainous ecosystems in South America with unique alpine vegetation and water functions.",
-   "plain": "These are high mountain areas characterized by cold climates, unique plants, and crucial water storage functions. Even though our main focus is Kabul, studying similar mountainous regions helps us understand how high-altitude nature supplies water and cooling.",
-   "example": "High-altitude wetlands in South American mountains store water and regulate runoff for nearby growing cities.",
-   "connects": "It links mountain hydrology and green infrastructure to urban water supply and climate regulation.",
-   "why_phd": "It provides a comparative mountainous model for studying ecosystem services in data-scarce, semi-arid cities like Kabul.",
+   "definition": "Compound dry-hot hydroclimatic stress is the simultaneous occurrence of severe drought and extreme heat events in an area.",
+   "plain": "It happens when a place gets extremely hot while also suffering from a severe lack of water. This combination creates heavy stress on plants, water supplies, and people living in cities, making everyday life and urban nature much harder to sustain.",
+   "example": "In Kabul, intense summer heatwaves combine with dry soil and low water availability, severely stressing trees and green spaces.",
+   "connects": "It directly limits urban cooling and stormwater retention ecosystem services.",
+   "why_phd": "Vital for evaluating how climate extremes affect ecosystem service supply and human well-being in Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is a key function of High-Andean landscapes?",
-     "a": "Water storage and regulation for surrounding areas."
+     "q": "What two weather extremes make up this stress?",
+     "a": "Severe drought and extreme heat occurring together."
     },
     {
-     "q": "Why study this landscape for Kabul research?",
-     "a": "It offers a comparable mountainous and semi-arid environmental context."
+     "q": "Why does it matter for urban ecosystem services?",
+     "a": "It strains water supplies and reduces the ability of urban nature to cool cities."
     }
    ],
-   "search": "High Andean landscape urban ecosystem services"
+   "search": "compound dry hot hydroclimatic stress Kabul"
   }
  ],
- "total_learned": 12,
+ "total_learned": 14,
  "path": {
   "stage": "Foundation",
   "next_topics": [
-   "Global South development paradigms",
    "Nature contributions to people framework",
    "Conservation policy instruments",
    "Socioecological systems thinking",
-   "Community-based natural resource management"
+   "Community-based natural resource management",
+   "Total economic value framework"
   ],
   "stages": [
    "Foundation: understand concepts",

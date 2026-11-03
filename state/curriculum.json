@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Global South development paradigms",
-   "area": "Global South development",
-   "kind": "classic_idea"
-  },
-  {
    "term": "Nature contributions to people framework",
    "area": "Nature contributions to people",
    "kind": "framework"
@@ -188,6 +183,8 @@
   "Subjective human well-being metrics",
   "ecological zoning",
   "Payments for ecosystem services basics",
-  "High-Andean landscape"
+  "High-Andean landscape",
+  "Global South development paradigms",
+  "compound dry-hot hydroclimatic stress"
  ]
 }

@@ -153,5 +153,30 @@
    "Payments for ecosystem services basics",
    "High-Andean landscape"
   ]
+ },
+ "2026-11-03": {
+  "papers": [
+   "Undeveloped land matches urban footprint in arid cities",
+   "Mapped agroforestry in Africa using tree spatial patterns",
+   "Radar and optical data map delta farmland",
+   "Groundwater quality linked to geology in Sokoto Basin",
+   "Salinity drives antibiotic resistance gene patterns in lakes",
+   "Rainfall drivers of floods in India's Godavari basin",
+   "Combined shading devices reduce heat and cooling demand"
+  ],
+  "radar": [
+   "ANK-Projekt des Monats: Neue Lebensräume an Burg Vischering",
+   "Climate change affects Modesto’s poorest areas the most",
+   "Maternal mental health liveability shaped by environmental profiles",
+   "For COPs to Deliver: National Ambition Met with Local Action",
+   "Developing green spaces for a livable capital city in Vietnam"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Global South development paradigms",
+   "compound dry-hot hydroclimatic stress"
+  ]
  }
 }

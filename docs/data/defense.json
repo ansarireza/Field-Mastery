@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "89a4ffe3c4",
-  "scope": "the whole thesis",
-  "q": "How can evidence on ecosystem service bundles and green-blue infrastructure directly inform practical environmental planning?",
-  "type": "practical relevance",
+  "id": "af155913e8",
+  "scope": "Foundations and international evidence",
+  "q": "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?",
+  "type": "theory",
   "outline": [
-   "Connect scenario comparison to planning decisions",
-   "Incorporate green-blue infrastructure and peri-urban agriculture",
-   "Address formal and informal flatland and hillside settlements"
+   "Define modeled supply using tools like InVEST versus actual human benefits",
+   "Discuss how demand and service flows mediate between supply and delivery",
+   "Contrast formal development settings with informal settlements"
   ],
-  "pitfall": "Presenting abstract ecological metrics without translating them to actionable planning.",
-  "follow_up": "How do you reconcile conflicting plural values during practical planning?",
-  "bring": "Scenario comparison frameworks or planning guideline integration examples.",
+  "pitfall": "Confusing potential ecological capacity with actual human consumption or well-being benefits.",
+  "follow_up": "How does this distinction shift when evaluating access to urban nature in conflict-affected data-scarce cities?",
+  "bring": "Comparative frameworks separating ecological potential from realized benefits using service flow cascades.",
   "self_check": [
-   "Links evidence to planning",
-   "Includes diverse settlement types",
-   "Mentions green-blue infrastructure"
+   "Clearly defines supply versus delivery",
+   "Addresses demand-side factors",
+   "Maintains theoretical distinction without assuming empirical results"
   ]
  },
  "bank_total": 24,
- "asked": 6,
+ "asked": 7,
  "upcoming": [
-  "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?",
   "What criteria determine whether methods and conclusions from the Global North transfer to semi-arid settings like Kabul?",
   "How do you account for uncertainty and sensitivity in spatial modeling when data availability is severely limited?",
   "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
-  "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?"
+  "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?",
+  "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?"
  ]
 }

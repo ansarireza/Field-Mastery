@@ -1,5 +1,5 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "areas": [
   {
    "name": "urban ecosystem service theory",
@@ -43,7 +43,7 @@
   },
   {
    "name": "From today's papers",
-   "lessons": 7
+   "lessons": 8
   },
   {
    "name": "Ecosystem services valuation",
@@ -63,6 +63,10 @@
   },
   {
    "name": "Payments for ecosystem services",
+   "lessons": 1
+  },
+  {
+   "name": "Global South development",
    "lessons": 1
   }
  ]
