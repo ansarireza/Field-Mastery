@@ -465,26 +465,27 @@
   "6e3dded1e0",
   "dcef971192",
   "89a4ffe3c4",
-  "af155913e8"
+  "af155913e8",
+  "4eb651d18b"
  ],
  "today": {
-  "id": "af155913e8",
+  "id": "4eb651d18b",
   "scope": "Foundations and international evidence",
-  "q": "How do you distinguish between modeled supply potential and actual service delivery across different urban governance contexts?",
-  "type": "theory",
+  "q": "What criteria determine whether methods and conclusions from the Global North transfer to semi-arid settings like Kabul?",
+  "type": "generalisability",
   "outline": [
-   "Define modeled supply using tools like InVEST versus actual human benefits",
-   "Discuss how demand and service flows mediate between supply and delivery",
-   "Contrast formal development settings with informal settlements"
+   "Evaluate biophysical and socio-economic similarities",
+   "Assess data scarcity and conflict impacts as transfer barriers",
+   "Compare formal versus informal morphology constraints"
   ],
-  "pitfall": "Confusing potential ecological capacity with actual human consumption or well-being benefits.",
-  "follow_up": "How does this distinction shift when evaluating access to urban nature in conflict-affected data-scarce cities?",
-  "bring": "Comparative frameworks separating ecological potential from realized benefits using service flow cascades.",
+  "pitfall": "Assuming northern methods transfer automatically without checking semi-arid and mountainous constraints.",
+  "follow_up": "Which specific InVEST assumptions break down when applied to data-scarce hillside informal settlements?",
+  "bring": "Examples of methodological adjustments needed for semi-arid, mountainous, and data-scarce cities.",
   "self_check": [
-   "Clearly defines supply versus delivery",
-   "Addresses demand-side factors",
-   "Maintains theoretical distinction without assuming empirical results"
+   "Identifies transferability boundaries",
+   "Considers biophysical constraints",
+   "Addresses data scarcity"
   ]
  },
- "today_date": "2026-11-03"
+ "today_date": "2026-11-04"
 }

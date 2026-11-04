@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Nature contributions to people framework",
-   "area": "Nature contributions to people",
-   "kind": "framework"
-  },
-  {
    "term": "Conservation policy instruments",
    "area": "Conservation policy",
    "kind": "policy"
@@ -185,6 +180,8 @@
   "Payments for ecosystem services basics",
   "High-Andean landscape",
   "Global South development paradigms",
-  "compound dry-hot hydroclimatic stress"
+  "compound dry-hot hydroclimatic stress",
+  "Nature contributions to people framework",
+  "renewal dynamics"
  ]
 }

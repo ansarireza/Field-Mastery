@@ -330,5 +330,53 @@
    }
   ],
   "search": "compound dry hot hydroclimatic stress Kabul"
+ },
+ {
+  "id": "e8915244d7",
+  "date": "2026-11-04",
+  "term": "Nature contributions to people framework",
+  "area": "Nature contributions to people",
+  "kind": "framework",
+  "definition": "The Nature Contributions to People framework broadens ecosystem services to include diverse positive and negative human-nature relationships.",
+  "plain": "While traditional ecosystem services focus mainly on economic or ecological functions, this framework includes diverse cultural, spiritual, and contextual ways people interact with nature, acknowledging multiple worldviews and values.",
+  "example": "In an informal hillside settlement, residents may value green spaces for cultural gatherings and livestock grazing alongside cooling.",
+  "connects": "It connects to the ecosystem service cascade, linking ecological structures to human well-being and plural values.",
+  "why_phd": "It provides the conceptual basis for evaluating how different communities in Kabul actually perceive and benefit from nature.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does the Nature Contributions to People framework expand beyond?",
+    "a": "It expands beyond standard ecosystem services to include diverse cultural and contextual human-nature relations."
+   },
+   {
+    "q": "Why is this framework useful for diverse urban settings?",
+    "a": "It accounts for multiple worldviews and plural values regarding how people use and value urban nature."
+   }
+  ],
+  "search": "Nature contributions to people framework"
+ },
+ {
+  "id": "040f575bc2",
+  "date": "2026-11-04",
+  "term": "renewal dynamics",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Renewal dynamics refer to how urban areas physically change, rebuild, and transform over time, altering land cover and ecosystems.",
+  "plain": "Renewal dynamics look at how cities change and rebuild over time. Instead of staying the same, urban areas experience new construction, densification, or abandonment. These physical changes directly affect green spaces, local temperatures, and nature benefits.",
+  "example": "In a growing Global South city, informal hillside settlements slowly upgrade into denser, more permanent housing, replacing bare soil and scrub with roofs and concrete.",
+  "connects": "It links land-cover change with how ecosystem services are supplied and how human settlements evolve.",
+  "why_phd": "Vital for predicting how future city rebuilding will alter cooling, water retention, and environmental planning in Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do renewal dynamics describe in an urban setting?",
+    "a": "How cities physically change, rebuild, and transform over time, altering land cover."
+   },
+   {
+    "q": "Why do renewal dynamics matter for ecosystem services?",
+    "a": "Physical changes like new construction alter green spaces, cooling, and water retention."
+   }
+  ],
+  "search": "urban renewal dynamics land cover"
  }
 ]

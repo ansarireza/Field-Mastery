@@ -178,5 +178,32 @@
    "Global South development paradigms",
    "compound dry-hot hydroclimatic stress"
   ]
+ },
+ "2026-11-04": {
+  "papers": [
+   "Tourism drives land change and adaptation in peri-urban Batu",
+   "Climate change threatens Amazon mammals and functions",
+   "Urban blind spots in migrant precarity governance",
+   "Urban growth causes land loss in South Africa",
+   "Przewalski's horse habitat quality remained stable",
+   "Aerosol cuts temporarily boost extreme heat risks",
+   "GIS-TOPSIS maps sunflower land suitability in dry Algeria",
+   "Review of Paulownia biomass under drought and salinity",
+   "Aridity drives genomic divergence in a southern African rodent"
+  ],
+  "radar": [
+   "EBRD and GCF scale up support for greener cities",
+   "Six paradigm shifts for Global South cities sustainability",
+   "Nature-based solutions for flood protection in Europe",
+   "UN report: Rich countries fall short on adaptation funding",
+   "UNEP warns adaptation is too slow amid 1.5°C overshoot"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Nature contributions to people framework",
+   "renewal dynamics"
+  ]
  }
 }

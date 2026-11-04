@@ -1,64 +1,64 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "lessons": [
   {
-   "id": "ff06cc0e76",
-   "date": "2026-11-03",
-   "term": "Global South development paradigms",
-   "area": "Global South development",
-   "kind": "classic_idea",
-   "definition": "Global South development paradigms are frameworks guiding economic and social progress in regions historically shaped by colonialism.",
-   "plain": "These are big ideas about how poorer or developing nations should grow. Instead of just copying rich Western countries, they look at local needs, informal economies, and unique environmental challenges, which helps us understand cities like Kabul.",
-   "example": "In many Global South cities, development plans now focus on upgrading informal settlements rather than demolishing them to build high-rises.",
-   "connects": "Links to how urban ecosystem services and green spaces are planned in fast-growing, resource-limited cities.",
-   "why_phd": "Vital for framing how Kabul's growth responds to local realities rather than mismatched foreign models.",
+   "id": "e8915244d7",
+   "date": "2026-11-04",
+   "term": "Nature contributions to people framework",
+   "area": "Nature contributions to people",
+   "kind": "framework",
+   "definition": "The Nature Contributions to People framework broadens ecosystem services to include diverse positive and negative human-nature relationships.",
+   "plain": "While traditional ecosystem services focus mainly on economic or ecological functions, this framework includes diverse cultural, spiritual, and contextual ways people interact with nature, acknowledging multiple worldviews and values.",
+   "example": "In an informal hillside settlement, residents may value green spaces for cultural gatherings and livestock grazing alongside cooling.",
+   "connects": "It connects to the ecosystem service cascade, linking ecological structures to human well-being and plural values.",
+   "why_phd": "It provides the conceptual basis for evaluating how different communities in Kabul actually perceive and benefit from nature.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What do development paradigms in the Global South challenge?",
-     "a": "They challenge the idea that Western growth models fit all nations."
+     "q": "What does the Nature Contributions to People framework expand beyond?",
+     "a": "It expands beyond standard ecosystem services to include diverse cultural and contextual human-nature relations."
     },
     {
-     "q": "Why are these paradigms important for Kabul?",
-     "a": "They help address local informal settlements and environmental issues realistically."
+     "q": "Why is this framework useful for diverse urban settings?",
+     "a": "It accounts for multiple worldviews and plural values regarding how people use and value urban nature."
     }
    ],
-   "search": "Global South development paradigms"
+   "search": "Nature contributions to people framework"
   },
   {
-   "id": "00a457c0db",
-   "date": "2026-11-03",
-   "term": "compound dry-hot hydroclimatic stress",
+   "id": "040f575bc2",
+   "date": "2026-11-04",
+   "term": "renewal dynamics",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Compound dry-hot hydroclimatic stress is the simultaneous occurrence of severe drought and extreme heat events in an area.",
-   "plain": "It happens when a place gets extremely hot while also suffering from a severe lack of water. This combination creates heavy stress on plants, water supplies, and people living in cities, making everyday life and urban nature much harder to sustain.",
-   "example": "In Kabul, intense summer heatwaves combine with dry soil and low water availability, severely stressing trees and green spaces.",
-   "connects": "It directly limits urban cooling and stormwater retention ecosystem services.",
-   "why_phd": "Vital for evaluating how climate extremes affect ecosystem service supply and human well-being in Kabul.",
+   "definition": "Renewal dynamics refer to how urban areas physically change, rebuild, and transform over time, altering land cover and ecosystems.",
+   "plain": "Renewal dynamics look at how cities change and rebuild over time. Instead of staying the same, urban areas experience new construction, densification, or abandonment. These physical changes directly affect green spaces, local temperatures, and nature benefits.",
+   "example": "In a growing Global South city, informal hillside settlements slowly upgrade into denser, more permanent housing, replacing bare soil and scrub with roofs and concrete.",
+   "connects": "It links land-cover change with how ecosystem services are supplied and how human settlements evolve.",
+   "why_phd": "Vital for predicting how future city rebuilding will alter cooling, water retention, and environmental planning in Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What two weather extremes make up this stress?",
-     "a": "Severe drought and extreme heat occurring together."
+     "q": "What do renewal dynamics describe in an urban setting?",
+     "a": "How cities physically change, rebuild, and transform over time, altering land cover."
     },
     {
-     "q": "Why does it matter for urban ecosystem services?",
-     "a": "It strains water supplies and reduces the ability of urban nature to cool cities."
+     "q": "Why do renewal dynamics matter for ecosystem services?",
+     "a": "Physical changes like new construction alter green spaces, cooling, and water retention."
     }
    ],
-   "search": "compound dry hot hydroclimatic stress Kabul"
+   "search": "urban renewal dynamics land cover"
   }
  ],
- "total_learned": 14,
+ "total_learned": 16,
  "path": {
   "stage": "Foundation",
   "next_topics": [
-   "Nature contributions to people framework",
    "Conservation policy instruments",
    "Socioecological systems thinking",
    "Community-based natural resource management",
-   "Total economic value framework"
+   "Total economic value framework",
+   "Polycentric governance systems"
   ],
   "stages": [
    "Foundation: understand concepts",
