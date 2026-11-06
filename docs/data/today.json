@@ -1,76 +1,141 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-06",
  "summary": [
-  "Today's papers investigate land-cover change, urban growth, and environmental planning.",
-  "Studies also examine habitat quality, climate threats, and ecosystem impacts."
+  "Studies investigate land-use optimization, ecological deficits, and ecosystem service valuation.",
+  "Research covers climate impacts, carbon sequestration, and ecosystem resilience across regions."
  ],
  "items": [
   {
-   "id": "W7224429891",
-   "title": "Dinamika Peri Urban dan Strategi Adaptasi Menuju Sustainable Village di Desa Oro-Oro Ombo, Kecamatan Batu, Kota Batu",
-   "headline": "Tourism drives land change and adaptation in peri-urban Batu",
+   "id": "W7225191990",
+   "title": "Land Use Optimization for Multi-Dimensional Ecosystem Service Deficit Areas with Disrupted Spatial Connectivity on the Northern Slopes of the Tianshan Mountains",
+   "headline": "Land-use optimization in arid northern Tianshan slopes",
    "bullets": [
-    "Analyzed peri-urban dynamics and adaptation strategies in Oro-Oro Ombo Village using qualitative…",
-    "Found tourism converted farmland to commercial zones, causing traffic and waste issues.",
-    "Recommends strengthening local enterprise and governance for sustainable village development."
+    "Used multi-source data (1980–2025) and a multi-step framework to optimize land use",
+    "Found 35,034 km2 of ecological deficit zones near oasis edges and city peripheries",
+    "Helps manage ecological risks by restructuring land configurations and limits"
    ],
    "plain": {
-    "question": "How does tourism change a peri-urban village and how do locals adapt?",
-    "method": "Interviews, observations, and documents with 20 informants analyzed descriptively.",
-    "finding": "Tourism turned farms into shops, causing traffic and trash, but social bonds stayed strong.",
-    "why": "Shows villages need better planning and enterprise management to handle tourism growth."
+    "question": "How can we fix damaged nature values and poor connections in dry regions?",
+    "method": "Used maps and computer models from 1980 to 2025 to study and fix land use.",
+    "finding": "Found big areas with low nature value near cities and deserts, and tested fixing them.",
+    "why": "It helps plan land use to protect nature and stop environmental risks."
    },
    "full": {
-    "explainer": "This paper looks at how areas near tourism cities change over time. Specifically, it studies Oro-Oro Ombo Village in Batu City, Indonesia, where a major tourist attraction called Batu Night Spectacular has changed the local landscape. The researchers wanted to understand how this growth affects the environment, society, and the local economy, and how people and the village government adapt to these changes. Using a descriptive qualitative approach, they gathered information from 20 people, including local residents, government officials, and business owners. They found that tourism turned farmland into commercial areas and caused new problems like traffic jams and trash buildup, even though people still get along well. Because current reactions are mostly individual and lack a big plan, the study suggests improving local village-owned businesses, managing the environment better, and involving the community in decisions to reach true sustainability.",
+    "explainer": "This paper looks at how land use changes over time in dry areas and how to fix nature values that are out of balance. Looking at data from 1980 to 2025 on the northern slopes of the Tianshan Mountains, the researchers built a special framework to analyze, diagnose, and optimize land use. They found that changes in nature values are strongly driven by human lights and water runoff. By mapping cold spots across four ecosystem services, they found over 35,000 square kilometers of ecological deficit zones, mostly near cities and the edges of oases. When they tested a plan that stops cities from growing and enforces ecological security rules, it reduced landscape connectivity and made the biggest patches smaller. This helps break up low-value areas and stops environmental risks from spreading, showing a clear way to plan land use in fragile dry regions.",
     "caveats": [
-     "Based on a small sample of 20 informants in a single village context.",
-     "Qualitative findings rely on interviews, observations, and documentation without spatial modeling."
+     "The study focuses specifically on the northern slopes of the Tianshan Mountains and may not apply everywhere.",
+     "The abstract does not state specific details about individual local species or ground-level social impacts."
     ],
     "jargon": [
      {
-      "term": "peri-urban",
-      "definition": "The transition zone where urban and rural areas meet and mix."
+      "term": "Ecosystem Service Values",
+      "definition": "A monetary or weighted measure of the benefits humans get from nature."
      },
      {
-      "term": "livelihood diversification",
-      "definition": "The process of people building a diverse portfolio of activities to survive and escape poverty."
+      "term": "Oasis-desert ecotones",
+      "definition": "The transition boundary zones where fertile oases meet dry deserts."
      },
      {
-      "term": "BUMDes",
-      "definition": "A village-owned enterprise in Indonesia aimed at strengthening the village economy."
-     },
-     {
-      "term": "sustainable village framework",
-      "definition": "An analytical perspective focused on rural-urban transition areas rather than standard cities."
+      "term": "Landscape connectivity",
+      "definition": "A measure of how well connected different patches of natural habitat are across a landscape."
      }
     ],
-    "fit": "Connects to peri-urban land-cover change, environmental impacts, and planning strategies in the Global South."
+    "fit": "Matches research on land-cover change, spatial planning, and ecosystem services in arid and vulnerable settings."
    },
    "thesis": {
-    "why": "It illustrates how tourism-driven land conversion creates environmental pressures in Global South peri-urban areas, matching broader land-cover change and planning themes.",
-    "action": "Check how the study defines and maps land-cover change qualitatively compared to your remote sensing methods.",
-    "relationship": "context"
+    "why": "It provides a framework for multi-objective spatial optimization and mapping ecological deficits in dry regions, fitting spatial planning goals.",
+    "action": "Check how they modeled the spatial trade-offs between construction limits and ecological preservation.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "How reliable are purely qualitative interviews for assessing complex environmental and land-cover changes?",
-    "evidence": "The study relies on semi-structured interviews, field observations, and documentation with 20 informants to evaluate environmental impacts.",
-    "limit": "It cannot provide precise spatial measurements of land-cover conversion or ecosystem service loss like remote sensing can.",
-    "check": "Verify whether the authors cross-referenced interview claims about land conversion with actual spatial or historical maps."
+    "question": "Does restricting landscape connectivity in optimization models actually improve long-term ecosystem health?",
+    "evidence": "The study notes an 11.63% reduction in landscape connectivity alongside a 41.17% contraction in maximum patch size within deficit areas.",
+    "limit": "The abstract cannot establish whether breaking up patches caused actual, measurable ecological recovery on the ground.",
+    "check": "Verify how the model defines and validates ecological security constraints against real-world biodiversity changes."
    },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "relevance": 4,
+   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
    "source": {
-    "url": "https://doi.org/10.22146/tourisma.v8i2.120528",
-    "doi": "https://doi.org/10.22146/tourisma.v8i2.120528",
-    "venue": "Tourisma Jurnal Pariwisata",
-    "date": "2026-10-29",
+    "url": "https://doi.org/10.3390/land15112092",
+    "doi": "https://doi.org/10.3390/land15112092",
+    "venue": "Land",
+    "date": "2026-11-03",
     "authors": [
-     "Evangeline Renata Daeli",
-     "Ahmad Mahendra Pratama",
-     "Melydia Brilian Saraswati",
-     "Prayoga Dwi Anggara",
-     "Sinai Tabuni",
-     "Dwi Fauzia Putra"
+     "Jianming Meng",
+     "Qi Zhang"
+    ],
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225233178",
+   "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
+   "headline": "Forest structure alters water and ecosystem services",
+   "bullets": [
+    "Synthesized how forest structure shapes water and multiple services.",
+    "Found service changes depend on environmental context and scale.",
+    "Informs adaptive management and trade-off analysis in planning."
+   ],
+   "plain": {
+    "question": "How do forest structures and management change water and other benefits?",
+    "method": "Reviewed global studies, experiments, models, and a long-term forest case study.",
+    "finding": "Forest changes alter water and other services together, but results vary by scale and setting.",
+    "why": "Helps planners manage trade-offs between different environmental benefits."
+   },
+   "full": {
+    "explainer": "Forests give us many benefits at once, like clean water, soil protection, carbon storage, and wildlife habitats. These benefits come from natural processes happening across plant canopies, litter, soil, and entire watersheds. When climate, land use, or forest management changes, it alters these processes, which changes the benefits we get. However, whether a change is good or bad depends on the local environment and scale. This paper looks at how managing forests changes water movement—like rain falling through leaves, soaking into soil, and flowing underground—and how that affects other ecosystem services. The authors review field experiments, watershed data, computer models, and machine learning. They also look at a long-term pine forest experiment in China to see how different treatments relate to soil and water processes. Finally, they point out big knowledge gaps, such as hidden underground water movements, tipping points, and model uncertainties, and suggest a framework combining long-term studies, remote sensing, and models to improve future management.",
+    "caveats": [
+     "Hydrological measurements for the case study represent 2023 observations, not a 27-year time series.",
+     "The case study is not presented as a formal causal mediation test.",
+     "Not stated: specific economic valuations of the timber or water outputs."
+    ],
+    "jargon": [
+     {
+      "term": "Ecosystem multifunctionality",
+      "definition": "The capacity of an ecosystem to provide multiple services or benefits at the same time."
+     },
+     {
+      "term": "Hydrological partitioning",
+      "definition": "How precipitation is divided into different water pathways like runoff, evaporation, and storage."
+     },
+     {
+      "term": "Causal inference",
+      "definition": "Statistical methods used to determine whether a specific action actually caused an observed outcome."
+     },
+     {
+      "term": "Hydraulic redistribution",
+      "definition": "The movement of water through plant roots from moist soil layers to drier soil layers."
+     }
+    ],
+    "fit": "Connects via ecosystem service trade-offs, spatial modelling, watershed-scale hydrology, and methods like remote sensing and scenarios."
+   },
+   "thesis": {
+    "why": "It addresses ecosystem service bundles, trade-offs, and hydrological processes that parallel urban water yield and stormwater retention goals.",
+    "action": "Check how their process-based frameworks and uncertainty methods can apply to urban green-blue infrastructure.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does structural modification directly cause predictable changes in multi-service delivery across all settings?",
+    "evidence": "The abstract notes that the direction of change depends on process pathways, environmental context, and scale, and that the case study is not a formal causal test.",
+    "limit": "You cannot establish universal, direct causal links between forest structure and multi-service outcomes from this synthesis alone.",
+    "check": "Verify how the authors separate true causal effects from site-specific spatial associations in their global evidence synthesis."
+   },
+   "relevance": 4,
+   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
+   "source": {
+    "url": "https://doi.org/10.3389/ffgc.2026.1973044",
+    "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
+    "venue": "Frontiers in Forests and Global Change",
+    "date": "2026-11-04",
+    "authors": [
+     "Boyuan Zhang",
+     "冯方林",
+     "Qian Liu",
+     "Zhenzhao Zhou",
+     "Tieshi Dong",
+     "Lihui Yin"
     ],
     "n_authors": 7,
     "open_access": true,
@@ -78,480 +143,133 @@
    }
   },
   {
-   "id": "W4413942517",
-   "title": "Projected range contractions threaten mammal-driven ecosystem functions in a conservation mosaic of southeastern Amazonia",
-   "headline": "Climate change threatens Amazon mammals and functions",
+   "id": "W7225240154",
+   "title": "Making water ecosystem services count: a purpose-driven systematic literature review of economic valuation",
+   "headline": "Review on valuing water ecosystem services",
    "bullets": [
-    "Modeled distribution of 44 mammal species for 2050 and 2070 under two climate scenarios.",
-    "Found nearly half the species may lose over 90 percent of suitable habitat.",
-    "Highlights a disconnect between IUCN threat categories and actual functional vulnerability."
+    "Conducted a systematic literature review focused on economic valuation of water ecosystem services",
+    "Results are not stated in the provided abstract text",
+    "Helps make water ecosystem services count through purpose-driven economic valuation"
    ],
    "plain": {
-    "question": "How will future climate change affect mammals and their roles in southeastern Amazonia?",
-    "method": "They used computer models to map where 44 mammal species might live in the future under different climate scenarios.",
-    "finding": "Almost half of the species could lose most of their suitable homes, including some currently seen as safe.",
-    "why": "We must protect these animals because losing them harms important nature benefits, even inside protected areas."
+    "question": "How can we put a monetary value on water ecosystem services for better use?",
+    "method": "A systematic literature review with a clear purpose.",
+    "finding": "Not stated in the text.",
+    "why": "It helps decision-makers account for the value of nature's water benefits."
    },
    "full": {
-    "explainer": "This study looks at how future climate change might impact mammals in southeastern Amazonia. The researchers used computer models to map the expected living spaces of 44 mammal species for the years 2050 and 2070 under both hopeful and pessimistic climate scenarios. Their results show a serious threat: nearly half of these mammal species could lose more than 90 percent of their suitable habitats. Animals that perform crucial jobs in nature, like fruit-eaters and large meat-eaters, are at the highest risk. Surprisingly, some species currently rated as safe by conservation groups are predicted to face massive habitat loss, showing a gap between current risk levels and true functional vulnerability. This means we could see functional extinctions that damage important nature benefits, even inside protected areas. The authors suggest focusing monitoring on these vulnerable species and using trait-based vulnerability in regional planning to help adapt to climate change.",
+    "explainer": "This paper is a systematic literature review published in November 2026, focusing on the economic valuation of water ecosystem services. Systematic literature reviews are structured studies that collect and analyze lots of existing research on a specific topic to see what is already known. The title suggests the goal is making these water-related benefits count in decision-making through better economic valuation. However, because the provided text is only a short title and abstract snippet, the specific details, methods for selecting papers, and exact findings are not stated. For a student studying urban ecosystem services, this type of review could offer insights into how water benefits like annual water yield are valued economically, though one would need to read the full paper to see if it covers urban settings or data-scarce regions like Kabul.",
     "caveats": [
-     "Not stated whether field observations were used to validate the distribution models.",
-     "Not stated how specific local microclimates or human pressures other than climate change were measured."
+     "not stated",
+     "not stated",
+     "not stated"
     ],
     "jargon": [
      {
-      "term": "frugivores",
-      "definition": "Animals that feed primarily on fruit, playing a key role in spreading seeds."
+      "term": "systematic literature review",
+      "definition": "A structured method to find, appraise, and synthesize all research answering a specific question."
      },
      {
-      "term": "functional extinctions",
-      "definition": "When a species becomes so rare it no longer plays its ecological role in the ecosystem."
-     },
-     {
-      "term": "IUCN",
-      "definition": "International Union for Conservation of Nature, an organization assessing species extinction risk."
+      "term": "economic valuation",
+      "definition": "Assigning monetary values to natural resources or ecosystem services."
      }
     ],
-    "fit": "Shows how climate change threatens species and service supply, offering scenario modeling and vulnerability assessment methods."
+    "fit": "It relates to water ecosystem services and annual water yield modeling in urban environmental planning."
    },
    "thesis": {
-    "why": "It illustrates scenario comparison and the gap between status classifications and actual ecosystem service supply, relevant to spatial modeling.",
-    "action": "Check how they handled uncertainty in future climate distribution models.",
+    "why": "It addresses water ecosystem services, which connects to the student's focus on annual water yield and hydrological services in urban areas.",
+    "action": "Check if the review discusses valuation methods applicable to semi-arid or data-scarce cities.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How do we know these modeled habitat losses translate into actual functional extinctions on the ground?",
-    "evidence": "The abstract states results reveal potential functional extinctions that may compromise key ecosystem services, based on modeled habitat loss.",
-    "limit": "The abstract does not establish direct measurements of actual ecosystem service delivery or confirmed functional extinctions.",
-    "check": "Verify how habitat suitability was linked directly to service delivery and whether uncertainty was assessed."
+    "question": "Does this review cover urban or data-scarce contexts relevant to Kabul?",
+    "evidence": "The abstract mentions economic valuation of water ecosystem services generally, but provides no details on geographic focus or urban settings.",
+    "limit": "It is impossible to establish the review's scope, inclusion criteria, or specific findings from the abstract alone.",
+    "check": "Review the full paper to see if urban water services or developing regions are specifically analyzed."
    },
    "relevance": 2,
-   "watch": "Cites your reference doi:10.1111/ecog.02881",
+   "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
    "source": {
-    "url": "https://doi.org/10.1016/j.jnc.2026.127479",
-    "doi": "https://doi.org/10.1016/j.jnc.2026.127479",
-    "venue": "Journal for Nature Conservation",
-    "date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.ecoser.2026.101923",
+    "doi": "https://doi.org/10.1016/j.ecoser.2026.101923",
+    "venue": "Ecosystem Services",
+    "date": "2026-11-05",
     "authors": [
-     "Raquel Ribeiro",
-     "Gabriela Alves‐Ferreira",
-     "Jader Marinho‐Filho",
-     "Jader Marinho‐Filho"
+     "Leonardo Lanata",
+     "Benedetto Rocchi",
+     "Gino Sturla"
     ],
-    "n_authors": 4,
+    "n_authors": 3,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225191888",
-   "title": "Urban blind spots: Informal settlements and the governance of migrant precarity",
-   "headline": "Urban blind spots in migrant precarity governance",
+   "id": "W7225079138",
+   "title": "Land use and vegetation conditions shape the dynamics of ecosystem resilience in an arid and semi-arid region: evidence from the Fenhe River Basin, China",
+   "headline": "Land use and vegetation shape ecosystem resilience in China",
    "bullets": [
-    "Examined informal settlements and migrant precarity governance.",
-    "Found urban blind spots relating to informal settlements.",
-    "Matters for understanding governance in the Global South."
+    "Used satellite data, land use metrics, carbon storage, and habitat quality to track resilience.",
+    "Found that land use changes and vegetation cover drive ecosystem resilience fluctuations over time.",
+    "Provides a remote sensing framework for ecosystem health and vegetation restoration governance."
    ],
    "plain": {
-    "question": "How are informal settlements and migrant precarity governed?",
-    "method": "Not stated",
-    "finding": "Identified urban blind spots regarding informal settlements.",
-    "why": "It helps us see how cities fail to govern migrant precarity."
+    "question": "How do land use and plant cover affect the resilience of an ecosystem in a dry region over time?",
+    "method": "The researchers used long-term satellite data to measure carbon storage, habitat quality, and land changes.",
+    "finding": "Carbon storage and habitat quality declined slightly, leading to lower overall ecosystem resilience.",
+    "why": "This helps monitor ecosystem health and manage sustainable land and water practices in semi-arid areas."
    },
    "full": {
-    "explainer": "This paper looks at urban blind spots, focusing on informal settlements and how migrant precarity is governed. Because the abstract is very brief, specific details about the exact methods, study locations, or concrete data results are not stated. However, the title and abstract highlight the critical issue of how informal settlements are overlooked in urban management and governance structures. This is particularly relevant for understanding vulnerable populations and migrant precarity in developing urban areas. For a student studying urban planning and ecosystem services in the Global South, it points to the governance challenges tied to informal settlement growth, even though environmental services are not explicitly mentioned in this specific text.",
+    "explainer": "This study looks at how ecosystems bounce back and change over time in a dry region called the Fenhe River Basin in China. To figure this out, researchers used long-term satellite data to track two main indicators of ecosystem health: how much carbon is stored and how good the habitat quality is for nature. They combined these indicators with land use data to measure overall ecosystem resilience. The results showed that both carbon storage and habitat quality dropped slightly during the study period, which caused regional resilience to decline and high-resilience zones to break apart into fragmented pieces. The researchers found that shifts in how land is used, along with changes in plant coverage, were the main factors controlling these shifts in resilience. Interestingly, even though plant coverage improved overall, it could not completely stop the ecosystem from degrading, though it did help slow down the decline. Ultimately, this paper offers a helpful satellite-based framework for monitoring ecosystem health and planning better environmental governance in semi-arid environments.",
     "caveats": [
-     "Not stated",
-     "Not stated"
+     "The study focuses specifically on the Fenhe River Basin in China.",
+     "Not stated whether findings apply directly to urban or conflict-affected settings."
     ],
     "jargon": [
      {
-      "term": "informal settlements",
-      "definition": "Residential areas where housing units have been constructed without legal land rights."
+      "term": "Ecosystem resilience",
+      "definition": "The capacity of an ecosystem to recover from disturbances and maintain its core functions."
      },
      {
-      "term": "migrant precarity",
-      "definition": "The uncertain and vulnerable living and working conditions experienced by migrants."
+      "term": "Carbon storage",
+      "definition": "The amount of carbon kept within the ecosystem's plants and soils over time."
      },
      {
-      "term": "governance",
-      "definition": "The way that rules, norms, and actions are structured and executed to manage a system."
+      "term": "Habitat quality",
+      "definition": "An indicator of how well an area can provide suitable living conditions for organisms."
+     },
+     {
+      "term": "Fractional vegetation cover",
+      "definition": "The percentage of the ground covered by green vegetation as viewed from overhead."
      }
     ],
-    "fit": "Connects to informal settlements and governance in the Global South, addressing urban blind spots in vulnerable areas."
+    "fit": "Connects via semi-arid watershed context, land-cover change, habitat quality, and remote sensing applications for environmental planning."
    },
    "thesis": {
-    "why": "It relates to informal settlements, which are a key part of the student's focus on urban planning and land-cover change in the Global South, despite lacking ecological data.",
-    "action": "Check the full paper to see if it discusses land-cover change or resource access in informal areas.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How does the governance of migrant precarity relate to urban ecosystem services?",
-    "evidence": "The abstract focuses purely on urban blind spots, informal settlements, and migrant precarity governance without mentioning ecosystems.",
-    "limit": "We cannot establish any direct links to environmental planning, ecosystem services, or spatial modeling from this abstract.",
-    "check": "Verify if the paper offers transferable governance frameworks that can apply to Kabul's informal settlements."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-   "source": {
-    "url": "https://doi.org/10.1016/j.wdp.2026.100844",
-    "doi": "https://doi.org/10.1016/j.wdp.2026.100844",
-    "venue": "World Development Perspectives",
-    "date": "2026-11-03",
-    "authors": [
-     "Hossein Azemati",
-     "‌Ali Hosseini",
-     "Mohsen Abbasnejad Jelogir",
-     "Brandon Marc Finn"
-    ],
-    "n_authors": 4,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225170573",
-   "title": "Patterns and implications of land use and land cover change in King Sabata Dalindyebo Local Municipality (1994–2022): insights from remote sensing data",
-   "headline": "Urban growth causes land loss in South Africa",
-   "bullets": [
-    "Analyzed land cover changes using Landsat images from 1994 to 2022.",
-    "Found built-up areas grew while croplands and grasslands declined.",
-    "Informs better land management in rapidly urbanizing regions."
-   ],
-   "plain": {
-    "question": "How did land use change over time in a rapidly growing South African municipality?",
-    "method": "Used satellite images from different years to classify land types and check accuracy.",
-    "finding": "Cities and informal settlements grew a lot, while farms and grass areas shrank.",
-    "why": "This helps local leaders make better plans to protect nature and guide city growth."
-   },
-   "full": {
-    "explainer": "This paper looks at how land use and land cover changed over nearly three decades in the King Sabata Dalindyebo Local Municipality in South Africa. Using satellite images from 1994, 2004, 2014, and 2022, the researchers mapped the landscape to see how human activities altered the environment. They found that cities and informal settlements expanded significantly, which led to a decrease in croplands and grasslands. The study connects these physical landscape shifts to human drivers like urban growth, informal settlement expansion, and land reform policies. It also points out the environmental consequences, such as the loss of biodiversity, soil erosion, and a drop in ecosystem services. By comparing these findings with other low- and middle-income regions, the authors argue that balancing urban development with ecological health is a shared global challenge. Finally, they offer policy suggestions, including stronger land-use planning, support for climate-smart farming, and regular monitoring of land changes by local governments to improve future management.",
-    "caveats": [
-     "Not stated whether specific ecosystem service values were quantified.",
-     "Not stated how biodiversity loss was directly measured beyond noting ecological consequences."
-    ],
-    "jargon": [
-     {
-      "term": "Supervised classification",
-      "definition": "A computer-led method to categorize satellite image pixels using training samples."
-     },
-     {
-      "term": "Confusion matrices",
-      "definition": "A table used to evaluate the accuracy of a map created from remote sensing data."
-     },
-     {
-      "term": "Ecosystem services",
-      "definition": "The benefits that humans freely gain from a healthy natural environment."
-     }
-    ],
-    "fit": "Connects to Global South urban land-cover change, informal settlements, and linking remote sensing evidence to environmental planning."
-   },
-   "thesis": {
-    "why": "It links multi-decadal land-cover change analysis with informal settlement growth and ecological consequences, directly mirroring the student's methodological and regional interests.",
-    "action": "Check how they integrated socio-economic drivers with accuracy-assessed land cover maps.",
+    "why": "It demonstrates how land-cover change and vegetation metrics interact to influence ecosystem service indicators like habitat quality, directly matching the student's methodological toolkit.",
+    "action": "Check how the authors validate their land-cover and proxy indicators to inform accuracy assessments.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How were socio-economic drivers explicitly integrated with the spatial land-cover analysis?",
-    "evidence": "The abstract claims novelty in integrating socio-economic drivers and ecological implications into long-term LULC analysis, but only summarizes broad trends like land reform and informal growth.",
-    "limit": "The abstract does not detail the exact mathematical or statistical models used to link socio-economic drivers to specific land cover changes.",
-    "check": "Examine the full paper to see the exact methods used to combine social data with Landsat classification."
+    "question": "Can proxies like carbon storage and habitat quality fully capture overall ecosystem resilience on their own?",
+    "evidence": "The study builds its proxy for resilience evaluation specifically and solely using two core ecosystem service indicators, carbon storage and habitat quality, alongside land use metrics.",
+    "limit": "The abstract does not establish direct causal mechanisms for how specific socio-economic drivers caused the land use transitions.",
+    "check": "Verify how the proxy components were weighted and combined to ensure the resilience evaluation is robust."
    },
    "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1080/24749508.2026.2681972",
-    "doi": "https://doi.org/10.1080/24749508.2026.2681972",
-    "venue": "Geology Ecology and Landscapes",
-    "date": "2026-11-03",
+    "url": "https://doi.org/10.3389/fpls.2026.1990444",
+    "doi": "https://doi.org/10.3389/fpls.2026.1990444",
+    "venue": "Frontiers in Plant Science",
+    "date": "2026-11-02",
     "authors": [
-     "Lwanda Matiso",
-     "Tom Were Okello",
-     "Grace Emily Okuthe",
-     "Grey Magaiza",
-     "Samkelo S’boniso Mhlongo",
-     "Zanele Xelelo"
-    ],
-    "n_authors": 9,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7224861858",
-   "title": "Spatiotemporal patterns and drivers of habitat quality for Przewalski’s horse in Kalamaili National Park, arid northwestern China",
-   "headline": "Przewalski's horse habitat quality remained stable",
-   "bullets": [
-    "Used MaxEnt, InVEST, XGBoost-SHAP and GWR to study habitats from 2000 to 2020.",
-    "Found habitat quality was mostly stable with localized improvements in the west.",
-    "Provides a scientific basis for habitat restoration and national park management."
-   ],
-   "plain": {
-    "question": "How did the home for a rare wild horse change over twenty years in a dry park?",
-    "method": "Computer maps and models were used to track nature quality and what drives it.",
-    "finding": "The quality of the horse's home stayed mostly steady overall from 2000 to 2020.",
-    "why": "This helps people protect wildlife better by showing where to restore nature."
-   },
-   "full": {
-    "explainer": "This paper looks at how the home of a rare animal, the Przewalski’s horse, changed over time in a dry national park in northwestern China. Scientists wanted to see how well the horse's environment was doing and what things in nature caused those changes between the years 2000 and 2020. To figure this out, they used computer programs to map out where the horses liked to live and to measure the quality of their environment over the long term. They also used advanced statistical tools to figure out which natural factors mattered the most. Their results showed that the best places for the horses were mostly found in the western part of the park. Overall, the quality of the habitat stayed pretty stable across the twenty years, though some areas got a little better. The main things that affected the habitat were weather, landscape shape, plant cover, and how close water was. This research gives park managers useful scientific information to help them protect and restore nature for wildlife.",
-    "caveats": [
-     "The study focuses on a specific national park in arid northwestern China.",
-     "Not stated whether these exact methods apply directly to urban or human-settled areas."
-    ],
-    "jargon": [
-     {
-      "term": "MaxEnt",
-      "definition": "A computer model used to predict where species might find suitable habitats."
-     },
-     {
-      "term": "InVEST",
-      "definition": "A tool used to map and value the goods and services that nature provides to people."
-     },
-     {
-      "term": "XGBoost-SHAP",
-      "definition": "Machine learning tools used to figure out which factors drive a certain outcome."
-     },
-     {
-      "term": "Geographically weighted regression",
-      "definition": "A statistical method that looks at how relationships between variables change across space."
-     }
-    ],
-    "fit": "Demonstrates habitat quality modeling and spatial driver analysis, aligning with InVEST and spatial statistical methods in the study context."
-   },
-   "thesis": {
-    "why": "It shows how to combine habitat quality modeling with spatial driver analysis using InVEST, which matches the student's methodological preparation.",
-    "action": "Check how the authors handled spatial autocorrelation and validation in their InVEST and regression models.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How were the InVEST habitat quality scores validated against actual observations of Przewalski's horses?",
-    "evidence": "The abstract mentions using InVEST to assess habitat quality and an optimised MaxEnt model for suitable habitat, but does not state how the two outputs were validated together against field data.",
-    "limit": "It cannot be established from the abstract whether the habitat quality model accurately reflects real population health or actual biological observations.",
-    "check": "Review the full paper to see the exact validation metrics used for both the MaxEnt and InVEST model outputs."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.gecco.2026.e04505",
-    "doi": "https://doi.org/10.1016/j.gecco.2026.e04505",
-    "venue": "Global Ecology and Conservation",
-    "date": "2026-10-30",
-    "authors": [
-     "Junru Guo",
-     "Xi Jin",
-     "郑江华 ZHENG Jianghua",
-     "Changliang Shao",
-     "Chuqiao Han",
-     "Zhong Liang"
-    ],
-    "n_authors": 8,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7165142606",
-   "title": "Regional anthropogenic aerosol reductions temporarily increase probability of record-breaking heat extremes",
-   "headline": "Aerosol cuts temporarily boost extreme heat risks",
-   "bullets": [
-    "Combined climate simulations, future scenarios, and reanalysis weather data to assess heat.",
-    "Found that regional aerosol drops increase the chance of record-breaking heat extremes.",
-    "Shows aerosol cuts unmask greenhouse warming, temporarily raising heat wave probabilities."
-   ],
-   "plain": {
-    "question": "How do human-made air pollution particles affect the chance of record-breaking heat waves?",
-    "method": "The authors used computer climate simulations and past weather data to study heat and pollution trends.",
-    "finding": "When air pollution particles decrease, the chance of setting new record-high temperatures goes up.",
-    "why": "It explains how cleaning up air pollution can temporarily make global warming heat effects feel worse."
-   },
-   "full": {
-    "explainer": "Record-breaking heat is becoming more common due to climate change. However, tiny air pollution particles, called aerosols, can reflect sunlight and cool the planet, slowing down regional warming. As these aerosol emissions decline globally, researchers wanted to know how this reduction affects the probability of extreme heat. By combining weather data and complex climate model simulations, the study found a clear link: when air pollution drops, the chance of experiencing record-breaking heat goes up. For instance, in data from recent years, a drop in sulfate particles correlated with a higher annual probability of record heat. Computer models confirmed this, showing that present-day heat records are higher when aerosols are included than they would be with greenhouse gases alone. Future scenarios suggest that reducing aerosol emissions further could temporarily elevate extreme heat probabilities in regions with high remaining pollution, such as South Asia, by unmasking the warming caused by greenhouse gases. Ultimately, while greenhouse gases remain the main driver of long-term warming, regional air pollution trends heavily shape short-term heat extremes.",
-    "caveats": [
-     "Greenhouse gas forcing remains the dominant long-term driver of warming.",
-     "The effect of aerosol reductions on heat probabilities is described as temporary."
-    ],
-    "jargon": [
-     {
-      "term": "anthropogenic aerosol",
-      "definition": "Tiny airborne pollution particles produced by human activities like industry and burning fossil fuels."
-     },
-     {
-      "term": "reanalysis data",
-      "definition": "A blend of historical weather observations and computer models to create a complete picture of past climate."
-     },
-     {
-      "term": "ensemble simulations",
-      "definition": "Running a climate model multiple times with slight variations to account for uncertainty in predictions."
-     }
-    ],
-    "fit": "Connects to urban cooling and heat mitigation strategies by showing how air pollution changes local warming rates."
-   },
-   "thesis": {
-    "why": "It provides vital background on regional warming rates and heat extremes, which relates to urban cooling and heat mitigation research.",
-    "action": "Check how regional air pollution trends interact with urban heat island studies in semi-arid environments.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "Does this global and regional climate study account for local urban microclimates and surface materials?",
-    "evidence": "The abstract relies on large-scale model simulations, reanalysis data, and broad regional metrics like sulfate optical depth.",
-    "limit": "It is not possible to establish how these broad aerosol and warming trends translate to specific neighborhood-level urban heat.",
-    "check": "Verify if the study discusses urban land-cover changes or if its findings apply strictly to regional climate scales."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1088/2752-5295/aebb5b",
-    "doi": "https://doi.org/10.1088/2752-5295/aebb5b",
-    "venue": "Environmental Research Climate",
-    "date": "2026-10-29",
-    "authors": [
-     "Florian Kraulich",
-     "Peter Pfleiderer",
-     "Sharar Ahmadi",
-     "Robert Allen",
-     "Pierre Nabat",
-     "Geeta G. Persad"
-    ],
-    "n_authors": 9,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225086612",
-   "title": "GIS–TOPSIS assessment of soil and water constraints on sunflower in arid Algeria",
-   "headline": "GIS-TOPSIS maps sunflower land suitability in dry Algeria",
-   "bullets": [
-    "Integrated GIS and TOPSIS to evaluate land suitability for sunflowers using eight indicators.",
-    "Found that 85.3% of sites are moderately suitable and identified dominant soil drivers.",
-    "Provides a scalable platform to guide oilseed expansion under climate stress."
-   ],
-   "plain": {
-    "question": "Which land areas in dry Algeria are best for growing sunflowers despite water stress?",
-    "method": "They used computer maps and a ranking method based on soil and water data from 34 sites.",
-    "finding": "Most sites are moderately good for sunflowers, driven mostly by soil chemistry.",
-    "why": "It helps farmers plan crop growth in dry regions to support food goals."
-   },
-   "full": {
-    "explainer": "Researchers in Algeria wanted to find out where oilseed crops like sunflowers can grow successfully as the climate gets drier. They looked at 34 sites in a specific basin and used a computer framework that combines geographic information systems (GIS) with a decision-making tool called TOPSIS to rank the land. They checked eight different soil and water factors, such as organic matter, soil texture, acidity, and water quality. After weighting these factors and testing their results with statistics, they found that only a tiny fraction of the land is highly suitable, while most is moderately suitable. A few sites were marginal. Soil traits like cation exchange capacity, organic matter, and sodium levels turned out to be the most important independent drivers of how well sunflowers will grow. The study points out a central zone that is ready for sunflower farming, while other areas need fixes like gypsum and drainage. This approach offers a clear way to plan farming under climate stress.",
-    "caveats": [
-     "No location in the studied perimeter was classified as completely unsuitable.",
-     "Sensitivity tests showed that weight changes caused under 15% shifts in suitability class."
-    ],
-    "jargon": [
-     {
-      "term": "GIS",
-      "definition": "Computer tools used to store, view, and analyze geographic and spatial data maps."
-     },
-     {
-      "term": "TOPSIS",
-      "definition": "A mathematical method that ranks options based on how close they are to an ideal solution."
-     },
-     {
-      "term": "Cation exchange capacity",
-      "definition": "A measure of how well soil can hold and exchange vital nutrient minerals."
-     },
-     {
-      "term": "Irrigation Water Quality Index",
-      "definition": "A single score used to describe the overall quality of water used for watering crops."
-     }
-    ],
-    "fit": "It demonstrates spatial multi-criteria decision analysis and GIS mapping techniques relevant to environmental and agricultural planning."
-   },
-   "thesis": {
-    "why": "It provides a rigorous spatial suitability framework and sensitivity testing method that can inspire similar land-use planning workflows.",
-    "action": "Check how they handled spatial weighting and validation tests to inform your own modeling.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How well do multi-criteria ranking weights transfer to data-scarce urban or peri-urban settings?",
-    "evidence": "The study relies on detailed, geo-referenced soil and water site data across 34 specific locations.",
-    "limit": "The abstract does not show how this agricultural suitability framework applies to urban ecosystem services.",
-    "check": "Verify if the analytic hierarchy process weights can be adjusted for different regional priorities."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1002/agj2.70607",
-    "doi": "https://doi.org/10.1002/agj2.70607",
-    "venue": "Agronomy Journal",
-    "date": "2026-11-01",
-    "authors": [
-     "Alia Hosni",
-     "Tayeb Nouri",
-     "Abdessamed Derdour",
-     "Tayyib Moussaoui",
-     "Manuel Ballesta de‐los‐Santos",
-     "Miguel Ángel Pardo Picazo"
-    ],
-    "n_authors": 6,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7224954972",
-   "title": "Paulownia biomass under drought and salinity: From stress adaptation to functional materials and biorefinery valorization",
-   "headline": "Review of Paulownia biomass under drought and salinity",
-   "bullets": [
-    "Reviewed Paulownia stress responses, wood properties, and biorefinery pathways.",
-    "Found performance varies widely and stress-grown benefits lack paired measurements.",
-    "Shows Paulownia needs site-matching before regional or industrial recommendations."
-   ],
-   "plain": {
-    "question": "How do drought and salt affect Paulownia trees and their use for materials?",
-    "method": "A review of field studies, stress tests, and wood processing research.",
-    "finding": "Tree growth varies a lot, and stress-grown benefits are unproven without tests.",
-    "why": "It shows we need careful testing before planting these trees for industry."
-   },
-   "full": {
-    "explainer": "As dry and salty lands grow due to climate change, people are interested in fast-growing trees like Paulownia for land rehabilitation and making materials. This review looks at how Paulownia species handle drought and high salt levels, and how their wood can be used. The authors look at field data, stress experiments, and laboratory studies using a framework that considers genetics, environment, and management. They find that while these trees grow quickly, their performance varies a lot depending on the water, soil, and clone type. Available studies do not show a clear, universal limit for drought or salt tolerance. Furthermore, laboratory tests show that processing is possible, but they do not prove that using stressed trees is better than normal trees. The paper concludes that Paulownia is a management-dependent option requiring careful site-matching. More field checks, genetic identification, and soil measurements are needed before making big regional recommendations.",
-    "caveats": [
-     "Universal drought or salinity thresholds are not established.",
-     "Comparative superiority across environments and lower invasion risk remain unverified.",
-     "Stressed-grown feedstock benefits are not established without paired measurements."
-    ],
-    "jargon": [
-     {
-      "term": "biorefinery",
-      "definition": "A facility that integrates biomass conversion processes to produce fuels, power, and chemicals."
-     },
-     {
-      "term": "lignocellulosic",
-      "definition": "Plant dry matter composed of lignin, cellulose, and hemicellulose."
-     },
-     {
-      "term": "fractionation",
-      "definition": "Separating plant biomass into its constituent parts for different uses."
-     }
-    ],
-    "fit": "It covers woody biomass management under semi-arid conditions, relevant to land-cover and environmental planning in dry regions."
-   },
-   "thesis": {
-    "why": "It explores plant performance in semi-arid and stressed environments, offering context on vegetation and land management.",
-    "action": "Check how the review handles site matching for vegetation in drylands.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "Can stress-grown biomass be assumed to provide industrial or ecological benefits?",
-    "evidence": "The abstract explicitly notes that processing results establish feasibility but cannot establish advantages of stress-grown biomass without paired feedstock measurements.",
-    "limit": "The abstract does not establish whether stress-grown wood is superior or inferior for industrial or biorefinery end uses.",
-    "check": "Verify if the full paper provides any direct comparative data between stress-grown and normal feedstock."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.12912/27197050/240292",
-    "doi": "https://doi.org/10.12912/27197050/240292",
-    "venue": "Ecological Engineering & Environmental Technology",
-    "date": "2026-10-30",
-    "authors": [
-     "S.M. Valiyeva",
-     "Amrahov Nurlan Rashid",
-     "Haji Vahid Akhundzada",
-     "Ulviyya Alimammad Hasanova",
-     "Akif Salehov",
-     "A.Kh. Mammadov"
+     "Chengjie Xie",
+     "Yingzheng Zeng",
+     "Chuandong He",
+     "Lei Wang",
+     "Xiaoyu Li",
+     "Guangbo Lu"
     ],
     "n_authors": 10,
     "open_access": true,
@@ -559,78 +277,354 @@
    }
   },
   {
-   "id": "W4412765326",
-   "title": "Role of aridity in shaping adaptive genomic divergence and population connectivity in a southern African rodent",
-   "headline": "Aridity drives genomic divergence in a southern African rodent",
+   "id": "W7225184517",
+   "title": "Sea-level rise drives unequal erosion of global ecosystem service value",
+   "headline": "Sea-level rise causes unequal global ecosystem losses",
    "bullets": [
-    "Used genomic data from 230 four-striped mice across an aridity gradient",
-    "Found genetic divergence linked to aridity, water conservation, and neurology",
-    "Shows how dry conditions shape population connectivity and climate resilience"
+    "Assessed global ecosystem-service value exposure to sea-level rise under five SSP pathways.",
+    "Found annual value losses between 130.06 and 339.41 billion dollars by 2100 depending on path.",
+    "Revealed a systemic mismatch where low-responsibility small islands face high relative losses."
    ],
    "plain": {
-    "question": "How does dryness shape the evolution and genes of desert-adapted animals?",
-    "method": "Examined genes of 230 mice across a dry region and compared them with past and present dryness.",
-    "finding": "Mouse genes show distinct changes related to water preservation and brain functions linked to dry areas.",
-    "why": "It helps us understand how wildlife survives and adapts to climate change and increasing dryness."
+    "question": "How does sea-level rise affect the value of nature's benefits globally?",
+    "method": "We used climate projections and valuation models to study losses from 2030 to 2100.",
+    "finding": "Billions of dollars in ecosystem value will be lost, hitting small islands the hardest.",
+    "why": "It shows a major injustice between historic polluters and those suffering the worst impacts."
    },
    "full": {
-    "explainer": "Understanding how animals evolve in dry areas is important for predicting how they will cope with climate change. This study looked at how dryness influences the genetics of the four-striped mouse in southern Africa. Researchers used genomic data from 230 mice gathered across a changing dryness gradient. They combined this information with past climate reconstructions and current dryness measures to see how genetic variation connects to environmental conditions over time. The results showed that past population sizes dropped during a historical dry period. Today, the genetic structure of the mouse populations reflects both geographic distance and the dryness gradient. By analyzing gene-environment links, the study identified specific genetic variants associated with dryness. These genes help with water and energy conservation, as well as neurological processes. This highlights that brain functions play a surprising role in dealing with scarce water and resources. Ultimately, the work shows that aridity shapes population connectivity and genetic adaptation, giving us clues about climate resilience in vulnerable species.",
+    "explainer": "Sea-level rise is quickly changing coastal areas, but its global effects on the value of nature's benefits are still poorly understood. This study looks at how exposed global ecosystem-service values are to sea-level rise between 2030 and 2100 using five different shared socioeconomic pathways and IPCC projections. The results show that annual income-adjusted ecosystem-service value losses in the year 2100 will range from about 130 billion to nearly 340 billion international dollars. While built-up surfaces and croplands account for most of the absolute losses, wetlands suffer the greatest relative losses. The study also uncovers a major unfairness: countries with low historical carbon responsibility, like small island and delta states, face disproportionately high relative declines in nature's value compared to large countries like China and the United States. This highlights hotspots of nature loss that can help guide adaptation and loss-and-damage talks.",
     "caveats": [
-     "Only tests a single rodent species in southern Africa",
-     "Past population size inferred from genetic data and models",
-     "Exact causal mechanisms of neurological genes are not directly tested"
+     "Exact causal mechanisms between individual local policies and specific losses are not stated.",
+     "Detailed localized adaptation responses within individual cities or sub-national areas are not stated."
     ],
     "jargon": [
      {
-      "term": "Intraspecific divergence",
-      "definition": "The genetic differences that develop within a single species over time."
+      "term": "ecosystem-service value",
+      "definition": "The monetary measurement of the benefits that human societies receive from natural environments."
      },
      {
-      "term": "Isolation by distance",
-      "definition": "A pattern where populations that are further apart geographically are also more genetically different."
+      "term": "shared socioeconomic pathways",
+      "definition": "Scenarios of projected socio-economic global changes used to model future climate impacts."
      },
      {
-      "term": "Genotype-environment association",
-      "definition": "Statistical methods used to find links between genetic traits and specific environmental factors."
-     },
-     {
-      "term": "Single nucleotide polymorphisms",
-      "definition": "Common variations in the DNA sequence among individuals in a species."
+      "term": "ESV injustice index",
+      "definition": "A metric measuring the mismatch between historical carbon responsibility and future ecosystem losses."
      }
     ],
-    "fit": "Not directly focused on urban ecosystem services, but touches on climate resilience, environmental gradients, and habitat connectivity."
+    "fit": "Connects via global environmental planning, unequal impacts on vulnerable regions, and valuation methods for ecosystem service losses."
    },
    "thesis": {
-    "why": "The student's focus is on urban ecosystem services and land-cover change in the Global South, not wildlife genomics in southern Africa.",
-    "action": "Check if spatial connectivity methods used here apply to habitat quality mapping.",
-    "relationship": "unclear"
+    "why": "It connects to environmental planning, valuation methods, and spatial inequality in ecosystem service benefits, though it focuses on global sea-level rise rather than land-cover change in Kabul.",
+    "action": "Check the valuation modeling approach to see if similar economic valuation methods apply to urban water and cooling services.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "Can genomic adaptation patterns across natural aridity gradients inform urban ecological planning?",
-    "evidence": "The abstract demonstrates how aridity shapes population connectivity and genetic divergence through environmental gradients.",
-    "limit": "The study evaluates a non-urban rodent species in southern Africa, lacking any urban land-cover or ecosystem service metrics.",
-    "check": "Verify whether landscape genetics methods discussed can transfer to fragmented urban habitat quality assessments."
+    "question": "How can global economic valuation models accurately reflect the localized plural values of coastal ecosystems in diverse regions?",
+    "evidence": "The study uses detailed valuation modeling over 2030-2100 across five shared socioeconomic pathways to compute broad monetary losses like billions of Int$2020yr-1.",
+    "limit": "The abstract does not establish localized qualitative community values or specific on-the-ground ecological responses for individual coastal settlements.",
+    "check": "Verify how income adjustments and valuation coefficients were applied across vastly different national economies in the full text."
    },
-   "relevance": 1,
+   "relevance": 3,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1098/rspb.2026.1628",
-    "doi": "https://doi.org/10.1098/rspb.2026.1628",
-    "venue": "Proceedings of the Royal Society B Biological Sciences",
-    "date": "2026-11-04",
+    "url": "https://doi.org/10.1093/pnasnexus/pgag339",
+    "doi": "https://doi.org/10.1093/pnasnexus/pgag339",
+    "venue": "PNAS Nexus",
+    "date": "2026-10-30",
     "authors": [
-     "Hamilcar Keilani",
-     "Anna-Sophie Fiston-Lavier",
-     "Pierre Caminade",
-     "Anne Loiseau",
-     "Maxime Galan",
-     "Hugues Parrinello"
+     "Hongyu Hu",
+     "Yaping Chen",
+     "Dong Xu",
+     "Yue Zhu",
+     "Jiankun He",
+     "Qinglong Shao"
     ],
-    "n_authors": 12,
+    "n_authors": 6,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225170615",
+   "title": "Heatwaves as Invisible Disasters: Disability, Climate Justice, and Urban and Peri-Urban Risk Reduction in Bangladesh",
+   "headline": "Heatwaves disproportionately harm disabled people",
+   "bullets": [
+    "Conducted 8 interviews with disabled people and caregivers in urban Bangladesh",
+    "Found heatwaves worsen health and expose infrastructure and care gaps",
+    "Shows heatwaves must be treated as inclusive disaster risks"
+   ],
+   "plain": {
+    "question": "How do people with disabilities experience severe heatwaves in Bangladesh?",
+    "method": "Interviews with disabled people and caregivers in three cities during 2025.",
+    "finding": "Heatwaves worsen health and daily life, highlighting a lack of accessible support.",
+    "why": "To ensure climate plans protect vulnerable groups through inclusive policies."
+   },
+   "full": {
+    "explainer": "This paper looks at how severe heatwaves affect people with disabilities in urban and suburban areas of Bangladesh, a topic that is often ignored. The authors used a qualitative community-based approach, meaning they focused on the real-life experiences of people. Between July and September 2025, they did eight semi-structured interviews in Dhaka, Rajshahi, and Pabna with individuals who have mobility, intellectual, and speech disabilities. When direct communication was not possible, they included caregivers. Using a decolonial framework that values local knowledge and everyday practices, the study found that extreme heat worsens physical and mental health, makes getting around harder, disrupts jobs, and reveals major shortages in healthcare, infrastructure, and institutional readiness. However, the study also found strong community resilience through family care, spiritual practices, and solidarity. The authors argue that heatwaves should be officially treated as disaster risks, and that cities must include disability-friendly planning and accessible infrastructure to achieve true climate justice.",
+    "caveats": [
+     "The study relies on a small sample of only eight interviews.",
+     "Findings are qualitative and based on self-reported experiences in specific cities in Bangladesh.",
+     "Not stated whether quantitative health or temperature metrics were measured."
+    ],
+    "jargon": [
+     {
+      "term": "Decolonial framework",
+      "definition": "An approach that centers local and marginalized knowledge instead of traditional Western perspectives."
+     },
+     {
+      "term": "Relational thematic analysis",
+      "definition": "A qualitative method used to identify common patterns or themes within interview transcripts."
+     },
+     {
+      "term": "Climate justice",
+      "definition": "The fair treatment of all people and the equitable protection from the impacts of climate change."
+     }
+    ],
+    "fit": "Connects to environmental planning, equity, and urban climate risk reduction in the Global South."
+   },
+   "thesis": {
+    "why": "It connects to the student's focus on environmental planning and vulnerability in the Global South by addressing social justice and human benefits in urban heat studies.",
+    "action": "Check how the study defines urban versus peri-urban risk boundaries.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How can qualitative interviews on disability translate into spatial urban planning models?",
+    "evidence": "The abstract recommends embedding disability-inclusive planning and accessible infrastructure based on interview findings, but does not provide spatial data.",
+    "limit": "The abstract does not state how these social insights are mapped or integrated into physical urban cooling models.",
+    "check": "Verify if the full paper links qualitative vulnerability data with spatial heat risk maps."
+   },
+   "relevance": 3,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1007/s13753-026-00778-y",
+    "doi": "https://doi.org/10.1007/s13753-026-00778-y",
+    "venue": "International Journal of Disaster Risk Science",
+    "date": "2026-11-03",
+    "authors": [
+     "Arifatul Kibria",
+     "Ranjan Datta",
+     "Jamiul Hasan"
+    ],
+    "n_authors": 3,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7163514564",
+   "title": "Blue carbon development and ecosystem services in oligotrophic environments: the case for a shallow coastal installation on the shelf off Tenerife (Canary Islands)",
+   "headline": "Submarine station creates carbon and biodiversity",
+   "bullets": [
+    "Studied a shallow coastal submarine station off Tenerife over 18 months.",
+    "Found benthic biomass growth, carbon sequestration, and 46 associated species.",
+    "Shows oligotrophic waters can support blue carbon and restoration projects."
+   ],
+   "plain": {
+    "question": "Can a man-made underwater station help generate nature benefits in poor coastal waters?",
+    "method": "Checked the environment, measured marine growth, and counted species over 18 months.",
+    "finding": "The station grew sea life, stored carbon, and acted as a fish nursery.",
+    "why": "It proves that poor waters can still support coastal nature restoration."
+   },
+   "full": {
+    "explainer": "This study looked at what happens when a submarine monitoring station is placed in shallow coastal waters off Tenerife. Over an 18-month period, researchers checked the physical, chemical, and biological conditions of the area. They calculated how much sea-floor life, known as benthic biomass, grew on the station, and how much carbon it stored, which is called blue carbon. They also identified 46 different species during four regular diving checks. The results showed that the station provided several ecosystem services. These included producing organic matter, sequestering carbon, and serving as a fish nursery and shelter, which supports biodiversity. While the carbon storage was lower than in major wetlands like mangroves, it was similar to certain Mediterranean ecosystems. The researchers conclude that this type of environment is a good candidate for future marine restoration because it can naturally support carbon growth and useful ecological functions.",
+    "caveats": [
+     "The study only looked at a single shallow coastal installation site off SW Tenerife.",
+     "Carbon generation was lower compared to main blue carbon ecosystems like mangroves."
+    ],
+    "jargon": [
+     {
+      "term": "Blue carbon",
+      "definition": "Carbon captured and stored by the world's ocean and coastal ecosystems."
+     },
+     {
+      "term": "Oligotrophic",
+      "definition": "Relating to a body of water that is low in plant nutrients and relatively free of plant life."
+     },
+     {
+      "term": "Benthic biomass",
+      "definition": "The total mass of living organisms on the bottom of a body of water."
+     }
+    ],
+    "fit": "Connects via ecosystem service assessment and biodiversity maintenance, though focused on marine rather than urban terrestrial settings."
+   },
+   "thesis": {
+    "why": "It shows how human structures can unintentionally supply ecosystem services and biodiversity, which relates broadly to evaluating ecosystem service supply.",
+    "action": "Check how the study quantified biomass and carbon to see if methods translate to urban water bodies.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does an artificial marine installation represent genuine ecosystem restoration or just localized colonization?",
+    "evidence": "The abstract notes that the study assessed unplanned ecosystem services and benthic biomass developed on a submarine monitoring station.",
+    "limit": "The abstract does not establish long-term ecological stability beyond 18 months or large-scale regional benefits.",
+    "check": "Verify how carbon sequestration and biomass were accurately measured in the field."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.5194/os-22-3567-2026",
+    "doi": "https://doi.org/10.5194/os-22-3567-2026",
+    "venue": "Ocean science",
+    "date": "2026-11-03",
+    "authors": [
+     "Juan Usó-Canós",
+     "Enrique Isla",
+     "Isabelle Peeters",
+     "Karima Gabriela López de Vargas-Machuca"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225183009",
+   "title": "Assessing virtual ecosystem services in the global metacoupled renewable energy supply chains",
+   "headline": "Energy supply chains trade ecosystem services globally",
+   "bullets": [
+    "Assessed eight virtual ecosystem services linked to global renewable energy supply chains.",
+    "Found that 64.7% to 81.1% of global virtual ecosystem service flows occur between distant countries.",
+    "Helps ensure natural capital benefits support sustainable development transitions equitably."
+   ],
+   "plain": {
+    "question": "How do renewable energy supply chains rely on nature across borders?",
+    "method": "We measured eight types of nature benefits tied to traded energy goods globally.",
+    "finding": "Most nature benefits flow between distant countries rather than neighbors.",
+    "why": "This helps distribute nature's benefits fairly to support global green energy."
+   },
+   "full": {
+    "explainer": "This paper looks at how renewable energy supply chains depend on nature across the world. When countries trade goods for renewable energy, they also rely on the ecosystem services—like water provisioning or environmental regulation—embedded in making those goods. The authors call these cross-border dependencies \"virtual ecosystem services.\" Until now, how these services work globally for renewable energy was largely unknown. To fix this, the researchers measured eight types of virtual ecosystem services tied to renewable energy consumption. They discovered that most global flows of these services happen between countries far away from each other, rather than neighboring nations. For example, a large share of virtual water provisioning comes from Africa, which faces water stress. Their results suggest that renewable energy supply chains help ecologically deficit countries use nature from more abundant regions. This exchange can help distribute the benefits of natural capital more equitably, supporting sustainable development everywhere.",
+    "caveats": [
+     "Not stated"
+    ],
+    "jargon": [
+     {
+      "term": "Virtual ecosystem services",
+      "definition": "Cross-border dependence on ecosystem services embedded in the production and distribution of traded goods."
+     },
+     {
+      "term": "Ecologically deficit countries",
+      "definition": "Nations that use more ecological resources than what is locally available or sustainable."
+     }
+    ],
+    "fit": "It highlights transboundary natural resource flows, though focused on global energy supply chains rather than urban ecosystem services."
+   },
+   "thesis": {
+    "why": "It shows how ecosystem service dependencies span across regions, offering a broader perspective on resource flows that contrasts with localized urban planning.",
+    "action": "Check how the study tracks resource flows across borders.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does trading virtual ecosystem services worsen local environmental degradation in source regions like Africa?",
+    "evidence": "The abstract notes that 36.0% of global virtual water provisioning originates from water-stressed Africa to support distant energy transitions.",
+    "limit": "The abstract does not establish whether exporting these services causes local ecological harm or water scarcity in the source regions.",
+    "check": "Verify how the paper accounts for local environmental impacts and whether resource exports harm source regions."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1016/j.geosus.2026.100566",
+    "doi": "https://doi.org/10.1016/j.geosus.2026.100566",
+    "venue": "Geography and sustainability",
+    "date": "2026-11-01",
+    "authors": [
+     "Z. Sun",
+     "Bolin Yu",
+     "Yanni Cao",
+     "Yingjie Li",
+     "Zhenci Xu"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225119386",
+   "title": "The impacts of payments for forest ecosystem services programs on sustainable rural livelihoods in developing countries: a systematic review",
+   "headline": "Programs improve rural livelihoods in developing countries",
+   "bullets": [
+    "Reviewed 34 programs across developing countries using a livelihood index.",
+    "Found program participants had better overall livelihood scores than non-participants.",
+    "Informs policy by showing how environmental payments affect human communities."
+   ],
+   "plain": {
+    "question": "Do payments for protecting forests help improve rural people's living conditions in developing nations?",
+    "method": "The researchers combined data from 34 different programs and measured livelihood assets for participants and non-participants.",
+    "finding": "People in the programs had a higher overall livelihood score than those not in the programs.",
+    "why": "This helps policy makers understand the social impacts of environmental protection programs."
+   },
+   "full": {
+    "explainer": "This paper looks at how paying people to protect forests affects their daily lives and well-being in developing countries. The researchers wanted to see if people who join these forest programs do better than those who do not. To figure this out, they gathered data from 34 different programs across multiple developing nations. They used a special index based on five types of capital, such as natural, financial, physical, human, and social assets. They tested their data using statistical tests and also checked how sensitive their results were by changing the weight of different factors. The main finding was that program participants had a higher livelihood score, meaning a potentially sustainable degree, compared to a potentially unsustainable score for non-participants. However, the difference between the two groups was small, and both groups showed unbalanced scores across the different livelihood types. The authors suggest that policy decisions should look at these score changes alongside specific local contexts and what local people think.",
+    "caveats": [
+     "The size strength of the overall livelihood difference between the two groups was small.",
+     "Both groups showed generally unbalanced scores across livelihood capitals, showing skewed pentagons."
+    ],
+    "jargon": [
+     {
+      "term": "Payments for forest ecosystem services programs",
+      "definition": "Programs that pay people or communities to protect and maintain forest environments."
+     },
+     {
+      "term": "Sustainable livelihood index",
+      "definition": "A measure used to assess people's assets across natural, financial, physical, human, and social areas."
+     },
+     {
+      "term": "Sensitivity analysis",
+      "definition": "A method to test how much the final results change when the input weights or values are shifted."
+     }
+    ],
+    "fit": "Connects by looking at how ecosystem service programs affect human well-being and capitals in developing regions."
+   },
+   "thesis": {
+    "why": "It connects to broader questions of ecosystem service benefits and human well-being, though it focuses on rural forest payments rather than urban ecosystem services.",
+    "action": "Check how the study evaluates social capital and human benefits, which may offer ideas for assessing human dimensions of ecosystem services.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Can we apply rural forest payment livelihood findings to urban ecosystem service planning?",
+    "evidence": "The abstract examines rural livelihoods and forest programs in developing countries using a livelihood index.",
+    "limit": "The abstract does not provide data on urban settings, urban cooling, stormwater, or spatial land-cover change.",
+    "check": "Verify if the paper's methods for assessing human and social capitals can be adapted for urban case studies."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.3389/fenvs.2026.1916870",
+    "doi": "https://doi.org/10.3389/fenvs.2026.1916870",
+    "venue": "Frontiers in Environmental Science",
+    "date": "2026-11-02",
+    "authors": [
+     "Tuyet‐Anh T. Le",
+     "Gabriela Sabau",
+     "Kelly M. Vodden",
+     "Jianghua Wu",
+     "Ryan C. L. Bullock",
+     "Ngai Ba Nguyen"
+    ],
+    "n_authors": 13,
     "open_access": true,
     "basis": "abstract"
    }
   }
  ],
- "more": []
+ "more": [
+  {
+   "title": "Modified Biochar for Wastewater Nutrient Recovery and Slow‐Release Fertilization in Sandy Agroecosystems",
+   "url": "https://doi.org/10.1002/ldr.70951",
+   "venue": "Land Degradation and Development",
+   "date": "2026-11-03"
+  },
+  {
+   "title": "Limits to adaptation: Agroforestry buffers but does not offset climate change impacts on maize yields in…",
+   "url": "https://doi.org/10.1007/s13593-026-01158-y",
+   "venue": "Agronomy for Sustainable Development",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Organic fertilization enhances carbon–water coordination and water use efficiency of greenhouse tomato under…",
+   "url": "https://doi.org/10.1016/j.scienta.2026.115285",
+   "venue": "Scientia Horticulturae",
+   "date": "2026-11-01"
+  }
+ ]
 }

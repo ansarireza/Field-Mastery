@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Conservation policy instruments",
-   "area": "Conservation policy",
-   "kind": "policy"
-  },
-  {
    "term": "Socioecological systems thinking",
    "area": "Socioecological systems",
    "kind": "framework"
@@ -182,6 +177,8 @@
   "Global South development paradigms",
   "compound dry-hot hydroclimatic stress",
   "Nature contributions to people framework",
-  "renewal dynamics"
+  "renewal dynamics",
+  "Conservation policy instruments",
+  "urban sewage recycling system"
  ]
 }

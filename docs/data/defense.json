@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-04",
+ "date": "2026-11-06",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "4eb651d18b",
+  "id": "4c124bcb31",
   "scope": "Foundations and international evidence",
-  "q": "What criteria determine whether methods and conclusions from the Global North transfer to semi-arid settings like Kabul?",
-  "type": "generalisability",
+  "q": "How do you account for uncertainty and sensitivity in spatial modeling when data availability is severely limited?",
+  "type": "methods",
   "outline": [
-   "Evaluate biophysical and socio-economic similarities",
-   "Assess data scarcity and conflict impacts as transfer barriers",
-   "Compare formal versus informal morphology constraints"
+   "Outline uncertainty assessment and sensitivity testing approaches",
+   "Address data-scarce setting challenges for validation",
+   "Discuss land-change validation limits"
   ],
-  "pitfall": "Assuming northern methods transfer automatically without checking semi-arid and mountainous constraints.",
-  "follow_up": "Which specific InVEST assumptions break down when applied to data-scarce hillside informal settlements?",
-  "bring": "Examples of methodological adjustments needed for semi-arid, mountainous, and data-scarce cities.",
+  "pitfall": "Treating model outputs as direct observations rather than estimates subject to high uncertainty.",
+  "follow_up": "If validation data is missing, how can scenario comparison test the robustness of your spatial models?",
+  "bring": "Uncertainty assessment protocols and sensitivity analysis methods applicable to InVEST.",
   "self_check": [
-   "Identifies transferability boundaries",
-   "Considers biophysical constraints",
-   "Addresses data scarcity"
+   "Acknowledges model estimates are not direct observations",
+   "Addresses data scarcity impacts",
+   "Proposes robust uncertainty checks"
   ]
  },
  "bank_total": 24,
- "asked": 8,
+ "asked": 9,
  "upcoming": [
-  "How do you account for uncertainty and sensitivity in spatial modeling when data availability is severely limited?",
   "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
   "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?",
   "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?",
-  "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?"
+  "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
+  "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?"
  ]
 }

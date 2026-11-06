@@ -378,5 +378,53 @@
    }
   ],
   "search": "urban renewal dynamics land cover"
+ },
+ {
+  "id": "cf9cdc651d",
+  "date": "2026-11-06",
+  "term": "Conservation policy instruments",
+  "area": "Conservation policy",
+  "kind": "policy",
+  "definition": "Conservation policy instruments are tools like laws, incentives, or rules used to protect nature and manage land use.",
+  "plain": "Conservation policy instruments are the rules, laws, or financial tools governments use to protect nature and guide how land is built on. In rapidly growing cities, these tools help preserve green spaces, cool hot areas, and manage stormwater runoff.",
+  "example": "A city in the Global South creates rules to protect hillside areas from informal building to preserve nature and stop floods.",
+  "connects": "Links governance and environmental planning to the actual supply of ecosystem services.",
+  "why_phd": "Vital for turning your spatial maps and ecological models into real-world policy recommendations for Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is a conservation policy instrument?",
+    "a": "A tool or rule used by governments to protect nature and guide land use."
+   },
+   {
+    "q": "Why are these instruments important in the Global South?",
+    "a": "They help protect green-blue infrastructure amidst rapid urban growth and informal settlements."
+   }
+  ],
+  "search": "urban conservation policy instruments"
+ },
+ {
+  "id": "a5c87cd192",
+  "date": "2026-11-06",
+  "term": "urban sewage recycling system",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "An urban sewage recycling system treats and reuses wastewater to support city environments and resource needs.",
+  "plain": "Instead of throwing away dirty water from homes and businesses, a recycling system cleans it up so it can be safely reused. In places like Kabul, this treated water can help water local crops and green spaces without wasting clean drinking water.",
+  "example": "Using treated wastewater to irrigate peri-urban farms and parks in a growing semi-arid city.",
+  "connects": "Links to water yield, green-blue infrastructure, and managing scarce resources in dry cities.",
+  "why_phd": "Critical for assessing how water recycling impacts ecosystem service supply and environmental planning in data-scarce settings.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main purpose of an urban sewage recycling system?",
+    "a": "To clean wastewater so it can be safely reused for tasks like irrigation and supporting green spaces."
+   },
+   {
+    "q": "Why is this system especially useful in semi-arid cities like Kabul?",
+    "a": "It helps conserve scarce freshwater by using treated wastewater for peri-urban agriculture and nature."
+   }
+  ],
+  "search": "urban sewage recycling system"
  }
 ]
