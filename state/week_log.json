@@ -232,5 +232,32 @@
    "Conservation policy instruments",
    "urban sewage recycling system"
   ]
+ },
+ "2026-11-07": {
+  "papers": [
+   "3D Eco-Geological Framework Evaluates Alpine Regions",
+   "Night lights erode cultural ecosystem services at scale",
+   "Social-ecological factors shape human-nature links in Brazil",
+   "People view small songbirds as helpful and large gulls as bad",
+   "Public support for mangrove restoration and perceptions",
+   "Review of forest ecosystem services in sustainability tools",
+   "Tree rings reveal past climate signals in the Andes",
+   "Green marketing boosts business, but faces challenges.",
+   "Leopards and hyenas coexist in arid Namibia"
+  ],
+  "radar": [
+   "Urban greenspace exposure and inequality link to mortality",
+   "Brazilian Cities Accelerate Urban Climate Action from COP30",
+   "Gujarat Urban Greening Policy Sets 20% Green Cover Target",
+   "Climate Adaptation Funding Is Falling Behind",
+   "CREAF Research on Urban Trees at Smart City Expo 2026"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Socioecological systems thinking",
+   "Compositional closure"
+  ]
  }
 }

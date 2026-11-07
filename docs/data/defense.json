@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "4c124bcb31",
+  "id": "4b4f5f6322",
   "scope": "Foundations and international evidence",
-  "q": "How do you account for uncertainty and sensitivity in spatial modeling when data availability is severely limited?",
-  "type": "methods",
+  "q": "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
+  "type": "alternative explanations",
   "outline": [
-   "Outline uncertainty assessment and sensitivity testing approaches",
-   "Address data-scarce setting challenges for validation",
-   "Discuss land-change validation limits"
+   "Distinguish spatial correlation from causal effects of settlement status",
+   "Evaluate underlying socio-economic drivers of location choices",
+   "Consider historical land-cover change confounders"
   ],
-  "pitfall": "Treating model outputs as direct observations rather than estimates subject to high uncertainty.",
-  "follow_up": "If validation data is missing, how can scenario comparison test the robustness of your spatial models?",
-  "bring": "Uncertainty assessment protocols and sensitivity analysis methods applicable to InVEST.",
+  "pitfall": "Conflating spatial associations of formal and informal settlements with direct causal impacts.",
+  "follow_up": "How would you test whether settlement morphology causes service variation rather than underlying topography?",
+  "bring": "Methodological strategies to separate correlation from causation in spatial statistics.",
   "self_check": [
-   "Acknowledges model estimates are not direct observations",
-   "Addresses data scarcity impacts",
-   "Proposes robust uncertainty checks"
+   "Separates spatial association from causality",
+   "Considers morphological confounders",
+   "Evaluates socioeconomic drivers"
   ]
  },
  "bank_total": 24,
- "asked": 9,
+ "asked": 10,
  "upcoming": [
-  "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
   "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?",
   "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?",
   "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
-  "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?"
+  "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
+  "How do you account for alternative explanations when linking settlement morphology to ecological functions?"
  ]
 }

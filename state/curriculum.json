@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Socioecological systems thinking",
-   "area": "Socioecological systems",
-   "kind": "framework"
-  },
-  {
    "term": "Community-based natural resource management",
    "area": "Natural resource management",
    "kind": "concept"
@@ -179,6 +174,8 @@
   "Nature contributions to people framework",
   "renewal dynamics",
   "Conservation policy instruments",
-  "urban sewage recycling system"
+  "urban sewage recycling system",
+  "Socioecological systems thinking",
+  "Compositional closure"
  ]
 }

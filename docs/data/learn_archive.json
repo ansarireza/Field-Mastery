@@ -426,5 +426,53 @@
    }
   ],
   "search": "urban sewage recycling system"
+ },
+ {
+  "id": "c929e2adbf",
+  "date": "2026-11-07",
+  "term": "Socioecological systems thinking",
+  "area": "Socioecological systems",
+  "kind": "framework",
+  "definition": "Socioecological systems thinking views human communities and natural environments as one connected, interacting system.",
+  "plain": "It looks at cities not just as human spaces, but as systems where people and nature affect each other. For example, how housing growth changes local plant life, which then changes how cool the neighborhood stays.",
+  "example": "In Kabul, cutting down hillside shrubs for informal housing changes soil stability, increasing flood risks during heavy rains.",
+  "connects": "It links ecosystem service supplies with human demand and environmental justice.",
+  "why_phd": "It helps you design better plans that account for both human needs and ecological limits in complex cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What two main parts make up a socioecological system?",
+    "a": "Human communities and natural environments."
+   },
+   {
+    "q": "Why is this framework useful for Kabul's informal settlements?",
+    "a": "It connects housing changes directly to ecological impacts like flooding."
+   }
+  ],
+  "search": "socioecological systems urban planning Kabul"
+ },
+ {
+  "id": "b423df0570",
+  "date": "2026-11-07",
+  "term": "Compositional closure",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Compositional closure means land-cover proportions must sum to one hundred percent within a fixed area.",
+  "plain": "When you study how land changes over time, different types of land cover must always add up to the whole area. If one type like built-up land grows, another type like bare soil or vegetation must shrink because there is limited space.",
+  "example": "In Kabul, mapping urban expansion shows that as new settlements grow on hillsides, the percentages of bare land and sparse vegetation must decrease by the exact same amount.",
+  "connects": "It connects to land-cover change analysis and spatial modeling techniques used in urban planning.",
+  "why_phd": "You must account for this constraint in spatial modeling so your land-change predictions make logical mathematical sense.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What must land-cover proportions always equal in a fixed area?",
+    "a": "One hundred percent of the total area."
+   },
+   {
+    "q": "Why is compositional closure important for spatial modeling?",
+    "a": "It ensures that an increase in one land type forces a corresponding decrease elsewhere."
+   }
+  ],
+  "search": "compositional closure land cover change"
  }
 ]
