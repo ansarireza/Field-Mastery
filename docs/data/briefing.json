@@ -1,92 +1,71 @@
 {
- "week": "2026-W44",
- "date": "2026-11-01",
+ "week": "2026-W45",
+ "date": "2026-11-08",
  "world": [
   {
-   "region": "World",
-   "what": "A global study of 10,000 urban centres found that taller cities hinder urban greening efforts.",
-   "why": "Connects urban development morphology to green-blue infrastructure and vegetation access.",
-   "action": "Examine how building height limits vegetation metrics.",
+   "region": "Gujarat",
+   "what": "Gujarat's new urban greening policy sets a mandatory target of 20% green cover for urban areas.",
+   "why": "Informs green-blue infrastructure targets and urban planning standards for vegetation cover.",
+   "action": "Review how mandatory green cover policies impact urban cooling and ecosystem service delivery.",
    "source": {
-    "title": "Global study finds taller cities are greener cities' worst enemy",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGNFekhCOVNuY1pYSWVPczlpbFg1VHdNSXhfdmhJd1duXzJKc0NaSV9iRTVSMXRyelRjaDJoY0pEQ09VVm02dmNmZ25wXy1Gckl3eFYzWXVjTHJXNEZOay1uYnRzNmlGbm5sNFVQcUZXem1vaWR5SHB6LUdzYlJ2bl84WHBHY1FubDhrdk9LY3k4SnhFMGlyTFhkNDlTNV9pWEFoOF8yeDJJNXVDeHNpNw?oc=5",
-    "date": "2026-10-29",
+    "title": "Gujarat Urban Greening Policy Sets 20% Green Cover Target",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk5hLWNfNkIwYm9aUzJrck5FR0NqUF9NdmFodkZrb2w5dXlpOHNqR0ZLUkM5UnJvaThUSExEMnF1LUpxNWpfcE16djgtN3VyZU51QWxuUVFZWDFZdF91Xy15YnktMFE2UGkwLW1DczdLQVkyYVlqQldiRl9QczRNMXRKTnpQV1Vh?oc=5",
+    "date": "2026-11-06",
     "basis": "news headline and feed excerpt"
    }
   },
   {
-   "region": "EU",
-   "what": "The Asian Development Bank launched a nature bond and project incubator to close the region's nature finance gap.",
-   "why": "Provides financing contexts relevant for implementing green-blue infrastructure.",
-   "action": "Review nature finance mechanisms for urban projects.",
+   "region": "Metro Manila",
+   "what": "Metro Manila links smart urban governance policies to climate-resilient design strategies.",
+   "why": "Provides a Global South context for integrating smart governance with climate resilience.",
+   "action": "Examine the policy mechanisms connecting smart governance to resilient design.",
    "source": {
-    "title": "ADB unveils nature bond and project incubator for Asia",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHZobFAtdVRuZXN4eUVfWVdncU1tMmp4Y203aS1VVXd6Q2dvbzdTa0VJLW1SVnFpVlA3UzBkX00zLTU4bVNacElhTzhOSWJManZUWEZ6Z1QyUmctX1VXY2E3YWl6dWdOakg0a3o1TXB2TlNvSGdSTU5aNnRFVDFUQXdNRTBNM2ZwNnlYNzFEM3BlYTJzV20yRm82N3pXcDdsRjZJVkd2dS11VG1icEZNbHU1WXFQaWxVNlBac2pnY1RRQWZxZG54aHB0MDI0WGFNa0Nz0gHTAUFVX3lxTE5UdmhsUC11VG5lc3h5RV9ZV2dxTW0yanhjbTdpLVVVd3pDZ29vN1NrRUktbVJWcWlWUDdTMGRfTTMtNThtU1pwSWFPOE5JYkxqdlRYRnpnVDJSZy1fVVdjYTdhaXp1Z05qSDRrejVNcHZOU29IZ1JNTlo2dEVUMVRBd01FME0zZnA2eVg3MUQzcGVhMnNXbTJGbzY3eldwN2xGNklWR3Z1LXVUbWJwRk1sdTVZcVBpbFU2UFpzamdjVFFBZnFkbnhocHQwMjRYYU1rQ3M?oc=5",
-    "date": "2026-10-28",
+    "title": "Smart Urban Governance Links Policy to Climate-Resilient Design in Metro Manila",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3RHcmUzSm56VndwQ2kwNkx1aUJ0OXVYZmhhb1NRT2JwVUtHNzhPSkZaLXZKSkFYdFJzODlGVWZRQXdaX0NjcF8xSy1HVUZsYkxYQkZJcGI3c2NSb0FvakpfQlJyd2Vqam9qd3NYT01ubnBLamIwWHRBc2xwRU9MTmVxOU1iT1JwT3I1elVVeTFGVUpPTW1YSGJRcThPZzRlSjd4b2xaNA?oc=5",
+    "date": "2026-11-07",
     "basis": "news headline and feed excerpt"
    }
   },
   {
-   "region": "World",
-   "what": "Simulations demonstrated that adding greenery could cool Japan's Fukuyama Station Square by nearly 0.6°C.",
-   "why": "Informs spatial modelling and scenario comparisons for urban cooling and heat mitigation.",
-   "action": "Compare simulation parameters with local cooling targets.",
+   "region": "Mumbai",
+   "what": "A High Court seeks a robust policy to stop garbage dumping in informal slum areas of Mumbai.",
+   "why": "Highlights environmental management challenges in informal settlements and urban planning.",
+   "action": "Check how legal frameworks address environmental degradation in informal areas.",
    "source": {
-    "title": "Simulations show greening cools Fukuyama Station Square",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUhBM09ZdGJBQW5jUFhvMnFKWlE4djZJMnBnU0FnN29JTmNCem53S3lqazVQa05NZ1dtZDNQOGVpdVJjajlXZG9yM3pIbGZpcllHbUVudFgtWFJaQ2s0WnNMWEVWOXBCZm1Ebkloc29WbjdJWEdJRGJxY0E5dkxuSGU5aHVVUDBlNDNrWl84eEo2dG5nR0NPT0wxMlZSSFd4ZFFveTE1bW5IdDg?oc=5",
-    "date": "2026-10-29",
-    "basis": "news headline and feed excerpt"
-   }
-  },
-  {
-   "region": "World",
-   "what": "Nepal announced plans to push for a permanent mountain agenda and faster disaster funding at COP31.",
-   "why": "Relates to mountainous and data-scarce environmental planning contexts.",
-   "action": "Note mountain-specific funding and policy advocacy.",
-   "source": {
-    "title": "Nepal to Push for Mountain Agenda at COP31",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdjhwVFp1RkVnSENyMHh3U0NwTUhDV2pwa19oZlpuWUJzRmdoN3pmOEZVUlMxV1Ixb1ZEWHVGQjhfMmRjZVBKUEIwMmdkb2lfZFdiTXBiNFpzTTNseUtkTzU0RmtGMDd1V0s5R3lJUlVHTzA0dzY5THhHb0E0QUIzTTFDX3VTVjV6VVlUcjM4ZExreW9WaVA5WlRNSEFXZ250a3RKaUhRdUVVQi1kS3JMekRjZzhjLTBJMDZyUDlDZTVfeFBNTmV5Q2FB?oc=5",
-    "date": "2026-10-31",
-    "basis": "news headline and feed excerpt"
-   }
-  },
-  {
-   "region": "World",
-   "what": "Construction pressures in Baghdad are causing green spaces to shrink and threatening old trees.",
-   "why": "Reflects pressures on urban green cover in environmentally comparable Middle Eastern cities.",
-   "action": "Analyze drivers of green space loss in comparable cities.",
-   "source": {
-    "title": "Baghdad's Green Spaces Shrink as Construction Threatens Old Trees",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdi14OFpvS2hKUlZsa2JQSmFFei1qQmNCR241WHpUTm56UklLTXZmanFMdm9GTXV5VHhhdFdLdnEwM0dsVThpNVFtN0hueVlSME9LZElsSUhEM3loOTJPMEdKSVIyQ2l0clFGS0QyUlk5alhuSGRtaXF6NDFWTnpoRDNmTXI5MUNLUHpTbmpzSDZsWURKb094STlpU3hha2M0ZHZjRUw1ZW1salN3?oc=5",
-    "date": "2026-11-01",
+    "title": "HC seeks robust policy to deter garbage dumping in Mumbai’s slum areas",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNGF5d0dDblBBV1pzeTJiM0N3amVUZkJCekVqaWYtMF83a0c2VVBEQUx1QlE1WDN6N1Nhbll1SXllYWc3SzNXcVBwSFNndzJHRGtCZ0xReGJLMVBWcGJxb0p5TVJuR3JKbzNqVXIzdW1RSmtENGM2WjBCaXhVVXNjcXEyTDZZR2JHWHM1MXpCTDE0NTdXbW5qZHNnWC1MbnUzaVVRdTA1ZVRsaDBnSFdUcXBxUWpJZVBfZmxLVUxDSHpxZkMwU3ZjVldSWnlaQzRVQjN6QXlQbXNpNVnSAeABQVVfeXFMT2VsdndHc0NBVnVHOTdyd3RyZGZuZkdPTW1aNmVhbGNJZjdYYkctLU9Dbjlza1NvMWhhb25sQVZSVUdRaW9NWF9lVFBaYW9oQnJnbmQtZkpscXlDTF8zMkVMa1RaRnBXZXdHR2JEV1VnNkRNaUd3S19zeU53TmRseUdjbmpleTNELWlweU1lRnpxUkExTERzcVprUWdld1NwalZteTItZlY3VzdmWTZMb1RmUDFhXzgxTjZ5ZDE2RWpoUF9PSjAydmFBX0NWbUJKSTBoMkRmRGlLZkM3LWNUblc?oc=5",
+    "date": "2026-11-08",
     "basis": "news headline and feed excerpt"
    }
   }
  ],
  "reading": {
-  "id": "W7224515113",
-  "title": "Analyzing the effectiveness of urban water bodies in mitigating Urban Heat Island using geo-statistical methods",
+  "id": "W7225233178",
+  "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
   "source": {
-   "url": "https://doi.org/10.3846/jeelm.2026.26053",
-   "doi": "https://doi.org/10.3846/jeelm.2026.26053",
-   "venue": "Journal of Environmental Engineering and Landscape Management",
-   "date": "2026-10-29",
+   "url": "https://doi.org/10.3389/ffgc.2026.1973044",
+   "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
+   "venue": "Frontiers in Forests and Global Change",
+   "date": "2026-11-04",
    "authors": [
-    "Nada Tarek Ali Abdalla",
-    "Mohga E. Embaby",
-    "Ali Essam El-Shazly"
+    "Boyuan Zhang",
+    "冯方林",
+    "Qian Liu",
+    "Zhenzhao Zhou",
+    "Tieshi Dong",
+    "Lihui Yin"
    ],
-   "n_authors": 3,
+   "n_authors": 7,
    "open_access": true,
    "basis": "abstract"
   },
-  "why": "It addresses urban cooling and heat mitigation using spatial tools, offering insights into water feature arrangements that apply to urban planning and green-blue infrastructure.",
+  "why": "It addresses ecosystem service bundles, trade-offs, and hydrological processes that parallel urban water yield and stormwater retention goals.",
   "questions": [
-   "How did the authors measure cooling distances for smaller water bodies?",
-   "What specific geostatistical software and data inputs were used?",
-   "How transferable are these findings to semi-arid settings?"
+   "How do structural modifications alter multiple ecosystem services simultaneously?",
+   "What role does environmental context play in scaling hydrological processes?",
+   "How do the authors address model uncertainties and hidden underground flows?"
   ],
-  "check": "The abstract does not state the exact numeric cooling distances, climate zones tested, or specific urban density metrics used."
+  "check": "You cannot establish universal, direct causal links between forest structure and multi-service outcomes from this synthesis alone."
  },
- "coverage": "Collected evidence is limited by a lack of direct news items on Kabul or local informal settlements, relying instead on broader regional and international developments."
+ "coverage": "Collected news is limited to global announcements, policy updates, and climate adaptation financing reports, with no specific coverage of Kabul, Afghanistan."
 }

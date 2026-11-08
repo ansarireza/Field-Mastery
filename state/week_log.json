@@ -259,5 +259,32 @@
    "Socioecological systems thinking",
    "Compositional closure"
   ]
+ },
+ "2026-11-08": {
+  "papers": [
+   "Animal biodiversity and its role in human benefits",
+   "Mapping hunting types in South American forests over time",
+   "Biodiversity aids specific food security measures",
+   "Urban growth near Bogotá wetlands from 1998 to 2024",
+   "Conflict drives forest loss and drops ecosystem value",
+   "Tall buildings affect microclimate and open space livability",
+   "Groundwater fauna boost carbon degradation",
+   "Parasitic plants face shifts under climate change",
+   "Digital food apps reproduce urban inequality in Mexico City"
+  ],
+  "radar": [
+   "International Climate Conference COP31 Begins",
+   "Integrating Adaptation Pathways and Global Scenarios for Water Scarcity",
+   "HC seeks robust policy to deter garbage dumping in Mumbai’s slum areas",
+   "Climate Finance and Trade on COP31 Agenda",
+   "Climate Finance and Justice Take Center Stage at COP31 Antalya Summit"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Community-based natural resource management",
+   "Supervised classification"
+  ]
  }
 }

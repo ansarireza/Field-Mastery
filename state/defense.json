@@ -468,26 +468,27 @@
   "af155913e8",
   "4eb651d18b",
   "4c124bcb31",
-  "4b4f5f6322"
+  "4b4f5f6322",
+  "b05f2fd5cd"
  ],
  "today": {
-  "id": "4b4f5f6322",
+  "id": "b05f2fd5cd",
   "scope": "Foundations and international evidence",
-  "q": "What alternative explanations could account for observed spatial associations between settlement status and ecological functions?",
-  "type": "alternative explanations",
+  "q": "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?",
+  "type": "practical relevance",
   "outline": [
-   "Distinguish spatial correlation from causal effects of settlement status",
-   "Evaluate underlying socio-economic drivers of location choices",
-   "Consider historical land-cover change confounders"
+   "Define plural values in socio-ecological systems",
+   "Incorporate environmental justice into access and benefit metrics",
+   "Link justice considerations to environmental planning governance"
   ],
-  "pitfall": "Conflating spatial associations of formal and informal settlements with direct causal impacts.",
-  "follow_up": "How would you test whether settlement morphology causes service variation rather than underlying topography?",
-  "bring": "Methodological strategies to separate correlation from causation in spatial statistics.",
+  "pitfall": "Treating service demand as uniform rather than shaped by unequal access and diverse values.",
+  "follow_up": "How can planning governance integrate conflicting plural values in informal flatland and hillside areas?",
+  "bring": "Frameworks for plural valuation and environmental justice in urban planning governance.",
   "self_check": [
-   "Separates spatial association from causality",
-   "Considers morphological confounders",
-   "Evaluates socioeconomic drivers"
+   "Addresses plural values",
+   "Incorporates environmental justice",
+   "Connects to planning governance"
   ]
  },
- "today_date": "2026-11-07"
+ "today_date": "2026-11-08"
 }

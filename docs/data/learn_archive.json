@@ -474,5 +474,53 @@
    }
   ],
   "search": "compositional closure land cover change"
+ },
+ {
+  "id": "01b437ffb0",
+  "date": "2026-11-08",
+  "term": "Community-based natural resource management",
+  "area": "Natural resource management",
+  "kind": "concept",
+  "definition": "Community-based natural resource management involves local residents directly governing and protecting shared environmental assets.",
+  "plain": "Instead of top-down government rules, local communities take the lead in managing nearby nature like trees, water, and green spaces. Because people live right next to these resources, they make decisions based on daily needs and local knowledge, helping protect nature while supporting themselves.",
+  "example": "In an informal settlement, residents organize to maintain a shared neighborhood garden and manage local water runoff to prevent flooding.",
+  "connects": "It links to governance, environmental justice, and how people access ecosystem benefits.",
+  "why_phd": "It bridges formal planning with grassroots realities, showing how local residents influence urban ecosystem services.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is community-based natural resource management?",
+    "a": "It is when local communities directly manage and protect shared natural resources."
+   },
+   {
+    "q": "Why is it important for urban planning?",
+    "a": "It helps connect top-down policies with the actual needs and actions of local residents."
+   }
+  ],
+  "search": "community based natural resource management urban"
+ },
+ {
+  "id": "ad956e97ec",
+  "date": "2026-11-08",
+  "term": "Supervised classification",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Supervised classification uses training data with known classes to teach a computer algorithm to categorize satellite image pixels.",
+  "plain": "Imagine teaching a computer to recognize different parts of a city by showing it a few examples first. You point out what a park, a concrete roof, or bare soil looks like, and the computer uses those examples to label the rest of the satellite image automatically.",
+  "example": "Mapping informal settlements and green spaces in Kabul by manually selecting training pixels for buildings, soil, and vegetation.",
+  "connects": "It turns raw satellite images into land-cover maps needed to study urban ecosystem services and land-cover change.",
+  "why_phd": "Essential for mapping land-cover change and green-blue infrastructure in data-scarce settings like Kabul for your research.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do you provide to the algorithm in supervised classification?",
+    "a": "Training data with known land-cover classes to teach the computer."
+   },
+   {
+    "q": "Why is this method useful for studying Kabul?",
+    "a": "It converts raw satellite data into detailed maps of urban land-cover changes."
+   }
+  ],
+  "search": "supervised classification urban land cover"
  }
 ]

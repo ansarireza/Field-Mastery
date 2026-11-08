@@ -1,64 +1,64 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "lessons": [
   {
-   "id": "c929e2adbf",
-   "date": "2026-11-07",
-   "term": "Socioecological systems thinking",
-   "area": "Socioecological systems",
-   "kind": "framework",
-   "definition": "Socioecological systems thinking views human communities and natural environments as one connected, interacting system.",
-   "plain": "It looks at cities not just as human spaces, but as systems where people and nature affect each other. For example, how housing growth changes local plant life, which then changes how cool the neighborhood stays.",
-   "example": "In Kabul, cutting down hillside shrubs for informal housing changes soil stability, increasing flood risks during heavy rains.",
-   "connects": "It links ecosystem service supplies with human demand and environmental justice.",
-   "why_phd": "It helps you design better plans that account for both human needs and ecological limits in complex cities.",
+   "id": "01b437ffb0",
+   "date": "2026-11-08",
+   "term": "Community-based natural resource management",
+   "area": "Natural resource management",
+   "kind": "concept",
+   "definition": "Community-based natural resource management involves local residents directly governing and protecting shared environmental assets.",
+   "plain": "Instead of top-down government rules, local communities take the lead in managing nearby nature like trees, water, and green spaces. Because people live right next to these resources, they make decisions based on daily needs and local knowledge, helping protect nature while supporting themselves.",
+   "example": "In an informal settlement, residents organize to maintain a shared neighborhood garden and manage local water runoff to prevent flooding.",
+   "connects": "It links to governance, environmental justice, and how people access ecosystem benefits.",
+   "why_phd": "It bridges formal planning with grassroots realities, showing how local residents influence urban ecosystem services.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What two main parts make up a socioecological system?",
-     "a": "Human communities and natural environments."
+     "q": "What is community-based natural resource management?",
+     "a": "It is when local communities directly manage and protect shared natural resources."
     },
     {
-     "q": "Why is this framework useful for Kabul's informal settlements?",
-     "a": "It connects housing changes directly to ecological impacts like flooding."
+     "q": "Why is it important for urban planning?",
+     "a": "It helps connect top-down policies with the actual needs and actions of local residents."
     }
    ],
-   "search": "socioecological systems urban planning Kabul"
+   "search": "community based natural resource management urban"
   },
   {
-   "id": "b423df0570",
-   "date": "2026-11-07",
-   "term": "Compositional closure",
+   "id": "ad956e97ec",
+   "date": "2026-11-08",
+   "term": "Supervised classification",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Compositional closure means land-cover proportions must sum to one hundred percent within a fixed area.",
-   "plain": "When you study how land changes over time, different types of land cover must always add up to the whole area. If one type like built-up land grows, another type like bare soil or vegetation must shrink because there is limited space.",
-   "example": "In Kabul, mapping urban expansion shows that as new settlements grow on hillsides, the percentages of bare land and sparse vegetation must decrease by the exact same amount.",
-   "connects": "It connects to land-cover change analysis and spatial modeling techniques used in urban planning.",
-   "why_phd": "You must account for this constraint in spatial modeling so your land-change predictions make logical mathematical sense.",
+   "definition": "Supervised classification uses training data with known classes to teach a computer algorithm to categorize satellite image pixels.",
+   "plain": "Imagine teaching a computer to recognize different parts of a city by showing it a few examples first. You point out what a park, a concrete roof, or bare soil looks like, and the computer uses those examples to label the rest of the satellite image automatically.",
+   "example": "Mapping informal settlements and green spaces in Kabul by manually selecting training pixels for buildings, soil, and vegetation.",
+   "connects": "It turns raw satellite images into land-cover maps needed to study urban ecosystem services and land-cover change.",
+   "why_phd": "Essential for mapping land-cover change and green-blue infrastructure in data-scarce settings like Kabul for your research.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What must land-cover proportions always equal in a fixed area?",
-     "a": "One hundred percent of the total area."
+     "q": "What do you provide to the algorithm in supervised classification?",
+     "a": "Training data with known land-cover classes to teach the computer."
     },
     {
-     "q": "Why is compositional closure important for spatial modeling?",
-     "a": "It ensures that an increase in one land type forces a corresponding decrease elsewhere."
+     "q": "Why is this method useful for studying Kabul?",
+     "a": "It converts raw satellite data into detailed maps of urban land-cover changes."
     }
    ],
-   "search": "compositional closure land cover change"
+   "search": "supervised classification urban land cover"
   }
  ],
- "total_learned": 20,
+ "total_learned": 22,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Community-based natural resource management",
    "Total economic value framework",
    "Polycentric governance systems",
    "Remote sensing for land cover",
-   "Multidimensional poverty and well-being"
+   "Multidimensional poverty and well-being",
+   "Conditional cash transfers in conservation"
   ],
   "stages": [
    "Foundation: understand concepts",

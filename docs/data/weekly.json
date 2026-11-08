@@ -1,22 +1,22 @@
 {
- "week": "2026-W44",
- "date": "2026-11-01",
+ "week": "2026-W45",
+ "date": "2026-11-08",
  "partial": false,
  "themes": [
-  "Global studies explored urban ecosystem services, land-cover changes, and green infrastructure performance.",
-  "Research examined urban cooling effects of trees, small water bodies, and cemeteries in cities.",
-  "New insights emerged on land-use disturbances, ecosystem supply, demand, and restoration success factors.",
-  "Radar updates highlighted urban master plans, climate resilience, and green space pressures across regions."
+  "Global South urban planning and ecosystem services discussions advanced.",
+  "Green spaces and urban forestry policy initiatives gained traction.",
+  "Land-cover change and urban growth impacts were examined.",
+  "Climate adaptation finance and policy frameworks were highlighted."
  ],
- "learned": "Studied anthropogenic pressures, remote sensing, drivers of land use change, and ecological zoning.",
+ "learned": "Studied global south development paradigms and socioecological systems thinking.",
  "next": [
-  "Linking ecosystem services and land-use disturbance",
-  "Measurement design constrains urban-greening thermal evidence",
-  "Testing Local Climate Zones in an arid city"
+  "Review Six paradigm shifts needed for Global South planning",
+  "Read Review of urban agriculture and nexus policies in the South",
+  "Examine Six paradigm shifts for Global South cities sustainability"
  ],
  "counts": {
-  "papers": 38,
-  "radar": 25,
-  "lessons": 10
+  "papers": 61,
+  "radar": 35,
+  "lessons": 14
  }
 }

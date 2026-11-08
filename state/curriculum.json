@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Community-based natural resource management",
-   "area": "Natural resource management",
-   "kind": "concept"
-  },
-  {
    "term": "Total economic value framework",
    "area": "Ecosystem services valuation",
    "kind": "framework"
@@ -176,6 +171,8 @@
   "Conservation policy instruments",
   "urban sewage recycling system",
   "Socioecological systems thinking",
-  "Compositional closure"
+  "Compositional closure",
+  "Community-based natural resource management",
+  "Supervised classification"
  ]
 }
