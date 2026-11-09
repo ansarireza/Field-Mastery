@@ -286,5 +286,30 @@
    "Community-based natural resource management",
    "Supervised classification"
   ]
+ },
+ "2026-11-09": {
+  "papers": [
+   "Regional surplus masks urban ecosystem service deficits",
+   "A risk framework for nature's harmful contributions",
+   "Socioeconomic dimensions of sediment quality",
+   "Open defecation degrades cultural services in Ghana's forest",
+   "Urban sprawl replaces open spaces in Agroha Town",
+   "Emigrant investments reshape urban landscapes in Pakistan",
+   "News reports reveal human dimensions of water scarcity"
+  ],
+  "radar": [
+   "COP31 Climate Summit Opens in Türkiye",
+   "EU Water Sector Digitalisation Action Plan",
+   "33 Cities Commit to Climate Urban Planning Model",
+   "Draft National Restoration Plan in EU",
+   "City of Kamloops Climate Action Grants"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Total economic value framework",
+   "Isolation by distance"
+  ]
  }
 }

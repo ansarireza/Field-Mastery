@@ -63,6 +63,262 @@
   }
  },
  {
+  "id": "W7225410286",
+  "title": "Socioeconomic dimensions of sediment quality and sediment management",
+  "headline": "Socioeconomic dimensions of sediment quality",
+  "bullets": [
+   "Examined socioeconomic dimensions of sediment quality and sediment management.",
+   "Not stated in the provided abstract text.",
+   "Helps understand the social and economic aspects of managing sediment."
+  ],
+  "plain": {
+   "question": "What is the study about?",
+   "method": "Not stated in the text.",
+   "finding": "Not stated in the text.",
+   "why": "It looks at the social and economic sides of managing sediment."
+  },
+  "full": {
+   "explainer": "This paper looks at the socioeconomic dimensions of sediment quality and sediment management. Because the text provided is very short and only contains a title and no detailed abstract, specific details about how the study was conducted, what exact data was analyzed, and what specific results were found are not stated. However, the topic connects broadly to how human societies interact with environmental materials, specifically sediments, and how management decisions are influenced by social and economic factors. For a researcher studying urban environments, land-cover changes, and environmental planning, understanding the broader social and economic drivers behind sediment or environmental management can offer helpful context, even though this particular paper's abstract lacks specific geographic or methodological details.",
+   "caveats": [
+    "No abstract text was provided beyond the title, limiting specific conclusions.",
+    "Methods and findings are not stated.",
+    "Geographic context is not stated."
+   ],
+   "jargon": [
+    {
+     "term": "Sediment quality",
+     "definition": "The physical, chemical, and biological condition of sediment."
+    },
+    {
+     "term": "Sediment management",
+     "definition": "The practice of handling, treating, or controlling sediment in water systems."
+    }
+   ],
+   "fit": "Connects to environmental planning and management themes, though lacks explicit links to urban ecosystem services or Kabul."
+  },
+  "thesis": {
+   "why": "It touches on environmental management, but lacks direct connection to urban ecosystem services, land-cover change, or Kabul.",
+   "action": "Check the full text to see if any urban or watershed management methods apply.",
+   "relationship": "unclear"
+  },
+  "critical": {
+   "question": "How do socioeconomic factors specifically alter sediment management outcomes?",
+   "evidence": "The title indicates a focus on 'Socioeconomic dimensions of sediment quality and sediment management.'",
+   "limit": "The abstract provides zero details regarding empirical evidence, study sites, or analytical methods.",
+   "check": "Verify whether the paper includes transferable frameworks for environmental management."
+  },
+  "relevance": 1,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.1016/b978-0-443-45846-0.00021-6",
+   "doi": "https://doi.org/10.1016/b978-0-443-45846-0.00021-6",
+   "venue": "Elsevier eBooks",
+   "date": "2026-11-06",
+   "authors": [
+    "Sabine E. Apitz",
+    "Richard J. Wenning"
+   ],
+   "n_authors": 2,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225422437",
+  "title": "Community Perceptions of Cultural Ecosystem Services in Restoring Degraded Urban Forests: Evidence from Aboabo Forest, Ghana",
+  "headline": "Open defecation degrades cultural services in Ghana's forest",
+  "bullets": [
+   "Surveyed 110 households and interviewed 10 leaders using mixed methods.",
+   "Found open defecation severely damages aesthetic, educational, and spiritual values.",
+   "Highlights community restoration priorities for urban forest environmental planning."
+  ],
+  "plain": {
+   "question": "How does open defecation affect cultural values in an urban forest in Ghana?",
+   "method": "Surveys of 110 households and 10 interviews with leaders.",
+   "finding": "It ruins aesthetic, educational, and spiritual values by making people avoid the forest.",
+   "why": "It shows how human behaviours directly harm non-material benefits from nature."
+  },
+  "full": {
+   "explainer": "This paper looks at cultural ecosystem services, which are the non-material benefits people get from nature, such as beauty, education, recreation, and spiritual value. It focuses on the Aboabo Forest in Tamale, Ghana, which is badly affected by open defecation from nearby residents. While past work looked at why this open defecation happens, this study asks how it impacts the forest's cultural benefits and how the community wants to restore them. The authors used a mixed-methods design, surveying 110 households and interviewing ten key leaders. The results show that open defecation severely harms aesthetic, educational, recreational, and spiritual values. People avoid the forest because of the foul environment and fear of stigma, and sacred shrines have lost their sacred status. Paradoxically, the practice actually strengthens social ties among those who practice it. To fix this, community members want to restore aesthetic and educational values through public education, religious activities, teamwork, and new recreational facilities.",
+   "caveats": [
+    "Findings rely on self-reported survey responses from 110 households.",
+    "Not stated whether quantitative ecological assessments were performed alongside interviews."
+   ],
+   "jargon": [
+    {
+     "term": "Cultural ecosystem services",
+     "definition": "Non-material benefits people obtain from ecosystems, like spiritual, aesthetic, and educational values."
+    },
+    {
+     "term": "Open defecation",
+     "definition": "The human practice of defecating outside rather than into a toilet."
+    },
+    {
+     "term": "Desacralisation",
+     "definition": "The removal of sacred, holy, or religious status from a place or object."
+    },
+    {
+     "term": "Mixed-methods research design",
+     "definition": "A study design that combines both qualitative and quantitative data collection methods."
+    }
+   ],
+   "fit": "Connects to Global South urban ecosystem services and community-based environmental planning."
+  },
+  "thesis": {
+   "why": "It offers insight into cultural ecosystem services and community perspectives on environmental degradation and restoration in the Global South.",
+   "action": "Check how the study measures subjective cultural values alongside physical degradation.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How reliable are self-reported community perceptions for measuring actual ecosystem service loss?",
+   "evidence": "The study relies heavily on a structured survey of 110 households and ten key-informant interviews to assess degraded values.",
+   "limit": "The abstract does not establish direct ecological or physical measurements of forest degradation beyond community perceptions.",
+   "check": "Verify the household sampling strategy and how survey questions operationalized perceived degradation."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11072894/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11072894/v1",
+   "venue": "Research Square",
+   "date": "2026-11-06",
+   "authors": [
+    "Bismark Yayra Adzah"
+   ],
+   "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225465508",
+  "title": "Assessing Urban Growth Patterns of Agroha Town of Hisar, Haryana Using Directional and Geostatistical Approaches",
+  "headline": "Urban sprawl replaces open spaces in Agroha Town",
+  "bullets": [
+   "Mapped land cover changes in Agroha from 2015 to 2024 using satellite images.",
+   "Found built-up areas grew by 188.5%, wiping out open spaces and shrinking farms.",
+   "Argues for using spatial statistics in regional plans to manage urban growth."
+  ],
+  "plain": {
+   "question": "How did Agroha Town grow and spread out between 2015 and 2024?",
+   "method": "Used satellite images and digital maps to measure land changes over time.",
+   "finding": "Built-up areas grew a lot, completely destroying open spaces and reducing farms.",
+   "why": "It shows how unguided city growth harms natural resources and farmland."
+  },
+  "full": {
+   "explainer": "This paper looks at how a rapidly growing town called Agroha in India expanded between 2015 and 2024. The researchers used satellite images and official maps to track changes in land use across a 15.10 square kilometer area. They found that city buildings and homes grew by nearly 189 percent, mostly spreading out along a major highway. As towns and settlements expanded, they completely wiped out open spaces and reduced the amount of fertile farmland. The study used change matrix analysis to prove that open spaces and farms were directly swallowed up by new construction. These unguided growth patterns put heavy pressure on local roads, utilities, and natural resources. The authors conclude that city planners must use satellite data and spatial statistics to guide future development, control messy urban sprawl, and protect important agricultural and ecological buffers in the Global South.",
+   "caveats": [
+    "Only evaluates changes within a 15.10 sq. km municipal boundary",
+    "Focuses on a single town, Agroha in Haryana, India"
+   ],
+   "jargon": [
+    {
+     "term": "Geostatistical cross-tabulation change matrix",
+     "definition": "A table method used to calculate exact amounts of land converted from one type to another."
+    },
+    {
+     "term": "Ribbon development",
+     "definition": "Urban growth that stretches out along major transportation routes or highways."
+    },
+    {
+     "term": "Peri-urban",
+     "definition": "The transition zone where urban and rural areas meet."
+    }
+   ],
+   "fit": "Demonstrates rapid land-cover change and peri-urban sprawl in a Global South setting, aligning with urban growth planning themes."
+  },
+  "thesis": {
+   "why": "It provides a clear example of land-cover change analysis and spatial statistics in a Global South peri-urban setting, mirroring your interest in planning.",
+   "action": "Check how the authors validate their land-cover classification accuracy using the satellite imagery.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Did the authors perform an accuracy assessment for their satellite-based land cover classification?",
+   "evidence": "The abstract mentions using multi-temporal high-resolution satellite imagery and GIS frameworks, but does not state if classification accuracy was tested.",
+   "limit": "It cannot be established from the abstract whether the land cover maps contain classification errors or how those errors were handled.",
+   "check": "Look in the full text for the error matrix or overall accuracy percentage of the 2015 and 2024 maps."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.36948/ijfmr.2026.v08i06.91497",
+   "doi": "https://doi.org/10.36948/ijfmr.2026.v08i06.91497",
+   "venue": "International Journal For Multidisciplinary Research",
+   "date": "2026-11-06",
+   "authors": [
+    "Asha Rani",
+    "Sandeep Kumar",
+    "Neha Bhatti"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225415768",
+  "title": "EMIGRE CITY ‐ MAKING : The Micropolitics of Diasporic Real Estate Investment and Urban Growth in Pakistan",
+  "headline": "Emigrant investments reshape urban landscapes in Pakistan",
+  "bullets": [
+   "Examined how elite emigrants use remittances for speculative real estate investments.",
+   "Found that these investments drive low-density suburban growth and vacant land niches.",
+   "Shows how financialization happens through non-corporate private capital in postcolonial cities."
+  ],
+  "plain": {
+   "question": "How do people living abroad change cities in their home country through real estate money?",
+   "method": "Studied the case of Pakistan and how emigrant money is spent.",
+   "finding": "Emigrants buy real estate speculatively to help settle abroad, creating low-density gated suburbs.",
+   "why": "It explains a new way cities grow through global money flows from individuals rather than big banks."
+  },
+  "full": {
+   "explainer": "This paper looks at how contemporary cities in the global South change because of real estate growth and money sent from people living abroad, known as remittances. Focusing on Pakistan, the study explores how emigration and money practices transform urban landscapes. Over time, a growing real estate sector has mixed with the investment habits of wealthy emigrants. Instead of building homes for a future return, these emigrants now use remittances for speculative real estate investments as part of a strategy to stay permanently in North Atlantic countries. These purchases, often made early through presales, help build a market for vacant land in projects run by the military and its allies. This leads to urban growth via low-density suburban gated communities in major and emerging cities. By following these investment patterns, the article highlights new ways of transnational urban growth and neoliberalization. It shows how land and housing finance happens in postcolonial cities through global flows of private money from individuals, rather than large institutional investors and advanced financial markets.",
+   "caveats": [
+    "Focuses specifically on the case of Pakistan.",
+    "Not stated: quantitative measurements of environmental impacts or ecosystem services."
+   ],
+   "jargon": [
+    {
+     "term": "Remittances",
+     "definition": "Money sent back by workers or emigrants to their home country."
+    },
+    {
+     "term": "Financialization",
+     "definition": "The increasing role of financial markets and motives in shaping housing and land."
+    },
+    {
+     "term": "Transnational urbanism",
+     "definition": "Urban growth and social processes that cross national borders."
+    }
+   ],
+   "fit": "Connects to Global South urban contexts, showing how private capital and real estate shape land-cover change and low-density suburban growth."
+  },
+  "thesis": {
+   "why": "It provides context on how global private capital and real estate sectors drive land-cover change and low-density urban growth in the Global South.",
+   "action": "Check how this type of speculative land development impacts green space availability.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does low-density suburban real estate growth driven by emigrant capital directly degrade urban ecosystem services?",
+   "evidence": "The abstract states that these investments create low-density suburban gated communities and a niche market for vacant land, but does not measure ecological impacts.",
+   "limit": "The abstract does not provide data on ecological consequences, loss of vegetation, or changes in ecosystem service supply.",
+   "check": "Verify if the full paper discusses the physical environmental footprint or land-cover changes resulting from these gated communities."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1111/1468-2427.70156",
+   "doi": "https://doi.org/10.1111/1468-2427.70156",
+   "venue": "International Journal of Urban and Regional Research",
+   "date": "2026-11-06",
+   "authors": [
+    "Fatima Tassadiq"
+   ],
+   "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225240154",
   "title": "Making water ecosystem services count: a purpose-driven systematic literature review of economic valuation",
   "headline": "Review on valuing water ecosystem services",
@@ -467,6 +723,133 @@
     "Mohamed Nasser"
    ],
    "n_authors": 7,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225333360",
+  "title": "Supply–Demand Differentiation and Ecological Functional Zoning of Ecosystem Services in the Pearl River Basin Based on Explainable Ensemble Machine Learning",
+  "headline": "Regional surplus masks urban ecosystem service deficits",
+  "bullets": [
+   "Mapped water, carbon, soil, and habitat supply and demand from 2000 to 2020",
+   "Found regional service surpluses mask growing local deficits in urban areas",
+   "Helps target local ecological management and zoning in rapidly urbanizing basins"
+  ],
+  "plain": {
+   "question": "How do supplies and needs of nature benefits change across a growing river basin?",
+   "method": "Used computer models and data maps to track changes from 2000 to 2020.",
+   "finding": "Overall nature supplies stayed positive, but cities showed large local shortages.",
+   "why": "This helps planners spot where nature is running low near growing cities."
+  },
+  "full": {
+   "explainer": "As cities grow rapidly, looking at a whole region can hide local problems. This study looks at the Pearl River Basin to see how the supply and demand for four nature-based benefits—water yield, carbon storage, soil conservation, and habitat quality—changed between 2000 and 2020. The researchers combined standard environmental models with advanced machine learning and grouping methods to see where nature benefits are abundant and where they are running short. They found that while the region as a whole looks healthy, cities like Guangzhou, Foshan, and others face growing shortages, especially for carbon storage and water. For example, carbon demand soared by over two hundred percent in growing urban areas. The team used machine learning to figure out which factors drive these shortages, discovering that things like rainfall, population growth, and human disturbances play major roles. Finally, they used clustering tools to divide the basin into different zones, helping leaders figure out where to focus protection and management.",
+   "caveats": [
+    "Study area is limited to the Pearl River Basin",
+    "Analysis covers the period from 2000 to 2020",
+    "Not stated for other global regions or Kabul"
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem service supply-demand ratio",
+     "definition": "A measure comparing what nature provides against what people use."
+    },
+    {
+     "term": "SHAP analysis",
+     "definition": "A method to explain how different factors influence machine learning predictions."
+    },
+    {
+     "term": "Gaussian mixture model",
+     "definition": "A clustering tool used to group data points into different categories."
+    }
+   ],
+   "fit": "Connects supply-demand gaps and modeling approaches to urban ecosystem services and planning."
+  },
+  "thesis": {
+   "why": "It demonstrates how to analyze supply-demand gaps and use advanced machine learning models for spatial zoning, relevant to urban environmental planning.",
+   "action": "Check how they integrated the InVEST model with machine learning algorithms for scenario work.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does a regional method work for fine-scale urban planning in data-scarce settings?",
+   "evidence": "The abstract relies on extensive regional data inputs and advanced machine learning for a massive river basin over a twenty-year period.",
+   "limit": "The abstract does not show how these complex machine learning workflows perform in data-scarce or conflict settings.",
+   "check": "Verify if the machine learning approach can be adapted or if simpler models are better for data-scarce areas."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.3390/su182111310",
+   "doi": "https://doi.org/10.3390/su182111310",
+   "venue": "Sustainability",
+   "date": "2026-11-05",
+   "authors": [
+    "Yongbing Yu",
+    "Shaoquan Yang",
+    "燕武 陳"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225302361",
+  "title": "Global news reports reveal the human dimensions of water scarcity",
+  "headline": "News reports reveal human dimensions of water scarcity",
+  "bullets": [
+   "Used large language models on global news reports to find real water scarcity events from 2014 to…",
+   "Found reported water scarcity does not match traditional hydrologic models and often peaks…",
+   "Complements hydrologic models by showing how human factors and infrastructure create water…"
+  ],
+  "plain": {
+   "question": "How can we better track real water shortages experienced by people worldwide?",
+   "method": "Used computer tools to scan global news reports for actual water scarcity events.",
+   "finding": "Real shortages do not always match maps based only on physical water supplies.",
+   "why": "It helps us see how human actions and infrastructure affect water access."
+  },
+  "full": {
+   "explainer": "Traditional water scarcity is usually measured using hydrologic models that look at physical water pressure. However, physical stress does not always mean people actually face water shortages. Human adaptation can help buffer limits, while broken infrastructure or poor governance can cause scarcity even where water is plentiful. To explore this, researchers used large language models to find concrete news reports about real water scarcity across 190 countries from 2014 to 2024. The results show that reported water scarcity increased in most regions, peaking globally in 2023. These spatial patterns are very mixed and only partly match traditional hydrologic maps. For instance, water-abundant areas like the eastern United States appeared as hotspots for reported scarcity, while some dry regions showed little reporting despite physical stress. This suggests human systems help shape water shortages, though differences in media reporting may also play a role.",
+   "caveats": [
+    "Differences in media reporting may contribute to the observed patterns.",
+    "Not stated whether specific urban areas or Kabul were analyzed."
+   ],
+   "jargon": [
+    {
+     "term": "Hydrologic models",
+     "definition": "Computer tools used to estimate water resources and physical pressure on water."
+    },
+    {
+     "term": "Large language models",
+     "definition": "Advanced computer programs that can process and analyze large amounts of text."
+    }
+   ],
+   "fit": "It highlights how human systems and infrastructure mediate resource access, relevant for studying ecosystem service supply and demand."
+  },
+  "thesis": {
+   "why": "It connects physical resource constraints to human systems, offering insight into actual service delivery versus modeled potential.",
+   "action": "Check how the paper separates media reporting biases from actual human water shortages.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Are news reports a reliable measure of actual water scarcity rather than media attention biases?",
+   "evidence": "The abstract notes that differences in media reporting may contribute to the contrasting spatial patterns observed.",
+   "limit": "The abstract does not establish how media reporting bias was mathematically separated from real scarcity events.",
+   "check": "Verify how the authors validated news reports against ground-truth water shortage data."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.31223/x5223v",
+   "doi": "https://doi.org/10.31223/x5223v",
+   "venue": "",
+   "date": "2026-11-05",
+   "authors": [
+    "Arushi Arnav",
+    "Lav R. Varshney",
+    "Megan Konar"
+   ],
+   "n_authors": 3,
    "open_access": true,
    "basis": "abstract"
   }
@@ -1000,6 +1383,62 @@
    ],
    "n_authors": 2,
    "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225245422",
+  "title": "A risk framework for addressing nature’s harmful contributions to people",
+  "headline": "A risk framework for nature's harmful contributions",
+  "bullets": [
+   "Not stated in the provided abstract text.",
+   "Not stated in the provided abstract text.",
+   "Helps address negative impacts of nature on people."
+  ],
+  "plain": {
+   "question": "How can we address the harmful impacts that nature has on people?",
+   "method": "Not stated in the abstract.",
+   "finding": "Not stated in the abstract.",
+   "why": "It helps us understand and manage risks from nature."
+  },
+  "full": {
+   "explainer": "The abstract for this study is not provided in the prompt text. Therefore, a detailed retelling cannot be given. However, based on the title, the paper introduces a risk framework to address nature's harmful contributions to people. In environmental planning and urban ecosystems, nature does not always provide benefits; it can also pose risks or disservices. Having a risk framework allows researchers and planners to systematically evaluate and manage these negative aspects alongside positive ecosystem services. This is especially important in diverse urban or regional settings where people interact closely with natural elements that might also present hazards.",
+   "caveats": [
+    "not stated",
+    "not stated",
+    "not stated"
+   ],
+   "jargon": [],
+   "fit": "It connects by offering a risk framework for negative nature impacts, useful for balancing ecosystem services in urban planning."
+  },
+  "thesis": {
+   "why": "It addresses harmful nature impacts, complementing ecosystem service assessments in urban and regional planning contexts like Kabul.",
+   "action": "Check the full text for specific risk assessment methods that can be paired with InVEST modeling.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does this framework apply to urban environments and specific ecosystem service models?",
+   "evidence": "The abstract only provides a title about a risk framework for nature's harmful contributions without details.",
+   "limit": "Nothing about methods, urban areas, or specific applications can be established from the abstract.",
+   "check": "Verify if the paper discusses urban applications or disservices relevant to urban planning."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1126/science.aap8826",
+  "source": {
+   "url": "https://doi.org/10.1038/s41559-026-03225-9",
+   "doi": "https://doi.org/10.1038/s41559-026-03225-9",
+   "venue": "Nature Ecology & Evolution",
+   "date": "2026-11-04",
+   "authors": [
+    "Matthew P. Faith",
+    "Siân E. Rees",
+    "Rory Gibb",
+    "Briana L. Abrahms",
+    "Lisa Hartmann",
+    "Yvonne Walz"
+   ],
+   "n_authors": 11,
+   "open_access": false,
    "basis": "abstract"
   }
  },
@@ -3540,475 +3979,6 @@
     "Josiah David Quising"
    ],
    "n_authors": 1,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224189925",
-  "title": "A Review of Higher Education Artificial Intelligence Frameworks to Empower Industrial & Sustainable Competitiveness in the Global South",
-  "headline": "AI education gap in the Global South examined",
-  "bullets": [
-   "Mapped AI educational infrastructure in India, China, and Brazil via Scopus.",
-   "Found a disconnect between digital education tools and economic productivity.",
-   "Provides a roadmap to align AI education with sustainable development goals."
-  ],
-  "plain": {
-   "question": "How do higher education AI frameworks help industrial competitiveness in the Global South?",
-   "method": "We used a bibliometric and comparative policy review of data from India, China, and Brazil.",
-   "finding": "There is a gap between digital education tools and actual economic productivity.",
-   "why": "This helps policymakers build a resilient society and meet sustainable development goals."
-  },
-  "full": {
-   "explainer": "This paper looks at how the Fifth Industrial Revolution and Artificial Intelligence are changing workforce skills around the world. Because there is a gap in AI implementation between the Global North and the Global South, the authors studied policies in top Global South economies: India, China, and Brazil. Using a database search, they checked how these countries use AI education to build industrial assets. Interestingly, the study discovered a major problem in engineering education: schools struggle to turn digital educational tools into real-world economic productivity across different sectors. By connecting these findings to global supply chains like rare earths and advanced power management, the authors created a roadmap. This blueprint aims to help policymakers improve industrial competitiveness while supporting global sustainable development goals.",
-   "caveats": [
-    "Focuses specifically on Tier I Global South leader economies: India, China, and Brazil.",
-    "Not stated whether other Global South countries were evaluated."
-   ],
-   "jargon": [
-    {
-     "term": "Bibliometric",
-     "definition": "A statistical analysis of books, articles, and other publication data."
-    },
-    {
-     "term": "Pedagogy",
-     "definition": "The method and practice of teaching."
-    }
-   ],
-   "fit": "This paper examines the Global South and sustainable development, but does not focus on urban ecosystem services, land-cover change, or Kabul."
-  },
-  "thesis": {
-   "why": "The paper provides broad Global South context regarding policy frameworks and sustainable development goals, though it lacks a direct link to urban ecosystem services or Kabul.",
-   "action": "Check if the full text discusses any urban land-cover or spatial planning frameworks.",
-   "relationship": "unclear"
-  },
-  "critical": {
-   "question": "How does higher education AI infrastructure relate to urban ecosystem services and land-cover change?",
-   "evidence": "The abstract maps AI-led educational and technical infrastructure to industrial competitiveness, global supply chains, and UN SDGs, but mentions nothing about urban ecosystems, land cover, or environmental planning.",
-   "limit": "It cannot be established from the abstract how educational frameworks directly impact physical urban environments or ecological functions.",
-   "check": "Verify if the full paper contains any spatial or urban-level analyses that connect to environmental planning."
-  },
-  "relevance": 1,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-11026332/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-11026332/v1",
-   "venue": "Research Square",
-   "date": "2026-10-29",
-   "authors": [
-    "Elise Lee",
-    "Sourojeet Chakraborty"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7108325583",
-  "title": "Mapping the spatial extent of agroforestry lands across Africa by characterizing tree spatial arrangements",
-  "headline": "Mapped agroforestry in Africa using tree spatial patterns",
-  "bullets": [
-   "Used 10m imagery and U-Net models to map agroforestry lands in Africa at 100m resolution.",
-   "Achieved an overall validation accuracy of 77.2% using ground data and Google Earth.",
-   "Provides a baseline for assessing environmental impacts and crop yields."
-  ],
-  "plain": {
-   "question": "How can we better map where trees and farms are mixed together across Africa?",
-   "method": "Used satellite images and computer models to find scattered trees and tree rows on farms.",
-   "finding": "Created a new 100-meter resolution map showing agroforestry land across Africa with 77.2% accuracy.",
-   "why": "This map helps us better understand and measure the environmental and food benefits of mixing trees on farms."
-  },
-  "full": {
-   "explainer": "Agroforestry mixes trees into farmland, which helps with food security, livelihoods, and climate benefits. However, old large-scale studies often used rough tree cover or biomass data, leading to biased estimates. To fix this, researchers created a new 100-meter resolution map of agroforestry in Africa for the year 2019 using detailed 10-meter satellite imagery from PlanetScope and Sentinel-2. Instead of just looking at total tree cover, they looked at how trees are arranged on farms. They mapped irregularly scattered trees using distance measures, and trees planted in neat rows using a special computer model trained on thousands of manual examples. They checked their final map against ground data and Google Earth images, finding it was correct 77.2 percent of the time. This new dataset gives scientists a clear baseline to study environmental impacts, track changes in crop yields, and build better computer models for agroforestry ecosystems.",
-   "caveats": [
-    "Accuracy was tested against ground-based sites and Google Earth imagery, yielding 77.2% overall accuracy.",
-    "Not stated whether the map applies outside of Africa.",
-    "Not stated how local-scale variations in management might affect the dataset."
-   ],
-   "jargon": [
-    {
-     "term": "agroforestry",
-     "definition": "A land-use practice that integrates trees into agricultural lands."
-    },
-    {
-     "term": "U-Net model",
-     "definition": "A computer model used here to detect trees planted in rows."
-    },
-    {
-     "term": "PlanetScope and Sentinel-2",
-     "definition": "Satellite systems providing high-resolution imagery used in the study."
-    }
-   ],
-   "fit": "Demonstrates remote sensing and spatial pattern analysis of land-cover to map specific land-use arrangements."
-  },
-  "thesis": {
-   "why": "Connects to land-cover change and spatial modelling methods, though the study context is rural agroforestry in Africa rather than urban ecosystems in Kabul.",
-   "action": "Examine how they detected tree arrangements using machine learning for potential adaptation to urban green spaces.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "How reliable is a 77.2% accuracy map when applied to highly heterogeneous or data-sparse environments?",
-   "evidence": "The abstract reports an overall validation accuracy of 77.2% based on literature sites and Google Earth imagery.",
-   "limit": "The abstract does not show how well these specific spatial tree detection methods perform in urban or semi-arid settings.",
-   "check": "Check the full paper for details on validation sample distribution across different climatic and land-cover zones."
-  },
-  "relevance": 3,
-  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
-  "source": {
-   "url": "https://doi.org/10.1016/j.jag.2026.105644",
-   "doi": "https://doi.org/10.1016/j.jag.2026.105644",
-   "venue": "International Journal of Applied Earth Observation and Geoinformation",
-   "date": "2026-10-29",
-   "authors": [
-    "Minxuan Sun",
-    "Martin Brandt",
-    "Philippe Ciais",
-    "David Makowski",
-    "Youngryel Ryu",
-    "Yidi Xu"
-   ],
-   "n_authors": 16,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224429891",
-  "title": "Dinamika Peri Urban dan Strategi Adaptasi Menuju Sustainable Village di Desa Oro-Oro Ombo, Kecamatan Batu, Kota Batu",
-  "headline": "Tourism drives land change and adaptation in peri-urban Batu",
-  "bullets": [
-   "Analyzed peri-urban dynamics and adaptation strategies in Oro-Oro Ombo Village using qualitative…",
-   "Found tourism converted farmland to commercial zones, causing traffic and waste issues.",
-   "Recommends strengthening local enterprise and governance for sustainable village development."
-  ],
-  "plain": {
-   "question": "How does tourism change a peri-urban village and how do locals adapt?",
-   "method": "Interviews, observations, and documents with 20 informants analyzed descriptively.",
-   "finding": "Tourism turned farms into shops, causing traffic and trash, but social bonds stayed strong.",
-   "why": "Shows villages need better planning and enterprise management to handle tourism growth."
-  },
-  "full": {
-   "explainer": "This paper looks at how areas near tourism cities change over time. Specifically, it studies Oro-Oro Ombo Village in Batu City, Indonesia, where a major tourist attraction called Batu Night Spectacular has changed the local landscape. The researchers wanted to understand how this growth affects the environment, society, and the local economy, and how people and the village government adapt to these changes. Using a descriptive qualitative approach, they gathered information from 20 people, including local residents, government officials, and business owners. They found that tourism turned farmland into commercial areas and caused new problems like traffic jams and trash buildup, even though people still get along well. Because current reactions are mostly individual and lack a big plan, the study suggests improving local village-owned businesses, managing the environment better, and involving the community in decisions to reach true sustainability.",
-   "caveats": [
-    "Based on a small sample of 20 informants in a single village context.",
-    "Qualitative findings rely on interviews, observations, and documentation without spatial modeling."
-   ],
-   "jargon": [
-    {
-     "term": "peri-urban",
-     "definition": "The transition zone where urban and rural areas meet and mix."
-    },
-    {
-     "term": "livelihood diversification",
-     "definition": "The process of people building a diverse portfolio of activities to survive and escape poverty."
-    },
-    {
-     "term": "BUMDes",
-     "definition": "A village-owned enterprise in Indonesia aimed at strengthening the village economy."
-    },
-    {
-     "term": "sustainable village framework",
-     "definition": "An analytical perspective focused on rural-urban transition areas rather than standard cities."
-    }
-   ],
-   "fit": "Connects to peri-urban land-cover change, environmental impacts, and planning strategies in the Global South."
-  },
-  "thesis": {
-   "why": "It illustrates how tourism-driven land conversion creates environmental pressures in Global South peri-urban areas, matching broader land-cover change and planning themes.",
-   "action": "Check how the study defines and maps land-cover change qualitatively compared to your remote sensing methods.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How reliable are purely qualitative interviews for assessing complex environmental and land-cover changes?",
-   "evidence": "The study relies on semi-structured interviews, field observations, and documentation with 20 informants to evaluate environmental impacts.",
-   "limit": "It cannot provide precise spatial measurements of land-cover conversion or ecosystem service loss like remote sensing can.",
-   "check": "Verify whether the authors cross-referenced interview claims about land conversion with actual spatial or historical maps."
-  },
-  "relevance": 3,
-  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-  "source": {
-   "url": "https://doi.org/10.22146/tourisma.v8i2.120528",
-   "doi": "https://doi.org/10.22146/tourisma.v8i2.120528",
-   "venue": "Tourisma Jurnal Pariwisata",
-   "date": "2026-10-29",
-   "authors": [
-    "Evangeline Renata Daeli",
-    "Ahmad Mahendra Pratama",
-    "Melydia Brilian Saraswati",
-    "Prayoga Dwi Anggara",
-    "Sinai Tabuni",
-    "Dwi Fauzia Putra"
-   ],
-   "n_authors": 7,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7165142606",
-  "title": "Regional anthropogenic aerosol reductions temporarily increase probability of record-breaking heat extremes",
-  "headline": "Aerosol cuts temporarily boost extreme heat risks",
-  "bullets": [
-   "Combined climate simulations, future scenarios, and reanalysis weather data to assess heat.",
-   "Found that regional aerosol drops increase the chance of record-breaking heat extremes.",
-   "Shows aerosol cuts unmask greenhouse warming, temporarily raising heat wave probabilities."
-  ],
-  "plain": {
-   "question": "How do human-made air pollution particles affect the chance of record-breaking heat waves?",
-   "method": "The authors used computer climate simulations and past weather data to study heat and pollution trends.",
-   "finding": "When air pollution particles decrease, the chance of setting new record-high temperatures goes up.",
-   "why": "It explains how cleaning up air pollution can temporarily make global warming heat effects feel worse."
-  },
-  "full": {
-   "explainer": "Record-breaking heat is becoming more common due to climate change. However, tiny air pollution particles, called aerosols, can reflect sunlight and cool the planet, slowing down regional warming. As these aerosol emissions decline globally, researchers wanted to know how this reduction affects the probability of extreme heat. By combining weather data and complex climate model simulations, the study found a clear link: when air pollution drops, the chance of experiencing record-breaking heat goes up. For instance, in data from recent years, a drop in sulfate particles correlated with a higher annual probability of record heat. Computer models confirmed this, showing that present-day heat records are higher when aerosols are included than they would be with greenhouse gases alone. Future scenarios suggest that reducing aerosol emissions further could temporarily elevate extreme heat probabilities in regions with high remaining pollution, such as South Asia, by unmasking the warming caused by greenhouse gases. Ultimately, while greenhouse gases remain the main driver of long-term warming, regional air pollution trends heavily shape short-term heat extremes.",
-   "caveats": [
-    "Greenhouse gas forcing remains the dominant long-term driver of warming.",
-    "The effect of aerosol reductions on heat probabilities is described as temporary."
-   ],
-   "jargon": [
-    {
-     "term": "anthropogenic aerosol",
-     "definition": "Tiny airborne pollution particles produced by human activities like industry and burning fossil fuels."
-    },
-    {
-     "term": "reanalysis data",
-     "definition": "A blend of historical weather observations and computer models to create a complete picture of past climate."
-    },
-    {
-     "term": "ensemble simulations",
-     "definition": "Running a climate model multiple times with slight variations to account for uncertainty in predictions."
-    }
-   ],
-   "fit": "Connects to urban cooling and heat mitigation strategies by showing how air pollution changes local warming rates."
-  },
-  "thesis": {
-   "why": "It provides vital background on regional warming rates and heat extremes, which relates to urban cooling and heat mitigation research.",
-   "action": "Check how regional air pollution trends interact with urban heat island studies in semi-arid environments.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does this global and regional climate study account for local urban microclimates and surface materials?",
-   "evidence": "The abstract relies on large-scale model simulations, reanalysis data, and broad regional metrics like sulfate optical depth.",
-   "limit": "It is not possible to establish how these broad aerosol and warming trends translate to specific neighborhood-level urban heat.",
-   "check": "Verify if the study discusses urban land-cover changes or if its findings apply strictly to regional climate scales."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1088/2752-5295/aebb5b",
-   "doi": "https://doi.org/10.1088/2752-5295/aebb5b",
-   "venue": "Environmental Research Climate",
-   "date": "2026-10-29",
-   "authors": [
-    "Florian Kraulich",
-    "Peter Pfleiderer",
-    "Sharar Ahmadi",
-    "Robert Allen",
-    "Pierre Nabat",
-    "Geeta G. Persad"
-   ],
-   "n_authors": 9,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224081570",
-  "title": "From climate hazards to diet and physical activity pathways: Investigating policy intersections for health in five global South Cities",
-  "headline": "Policy intersections for health in five Global South cities",
-  "bullets": [
-   "Investigated policy intersections for health in five Global South cities.",
-   "Not stated in the provided abstract text.",
-   "Highlights health and policy pathways in Global South urban areas."
-  ],
-  "plain": {
-   "question": "How do policies connect climate hazards to diet and physical activity in five cities?",
-   "method": "Not stated in the provided abstract.",
-   "finding": "Not stated in the provided abstract.",
-   "-": "not stated",
-   "why": "It helps us understand health policies in cities of the Global South."
-  },
-  "full": {
-   "explainer": "This paper looks at how different policies connect climate hazards to diet and physical activity in five cities located in the Global South. Urban areas face unique challenges related to environmental changes and human health. By investigating the intersections of these policies, researchers can better understand how city planning and health outcomes link together. The study focuses specifically on five Global South cities, examining pathways from climate hazards to everyday health behaviors like eating and moving. However, because the provided text is only an abstract header and lacks the core results section, specific details about the methods used, the exact findings discovered, and the broader implications are not stated. For a student studying urban environments and planning, this work provides a relevant regional context regarding health and climate intersections in the Global South, even though the exact details require reading the full paper.",
-   "caveats": [
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "Global South",
-     "definition": "Regions often characterized by lower income and developing economies, mostly in the Southern Hemisphere."
-    },
-    {
-     "term": "Policy intersections",
-     "definition": "Areas where different government rules and strategies overlap and affect one another."
-    }
-   ],
-   "fit": "It relates to Global South urban contexts and health pathways, complementing broader environmental planning and ecosystem service research."
-  },
-  "thesis": {
-   "why": "It provides contextual background on health and policy pathways in five Global South cities, which relates broadly to urban planning and human well-being.",
-   "action": "Check the full text to see if any ecosystem services or environmental planning policies are explicitly linked to health.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can we evaluate policy intersections without explicit ecosystem service or spatial data in the abstract?",
-   "evidence": "The abstract mentions investigating policy intersections for health in five cities, but provides no data, methods, or specific findings.",
-   "limit": "It is impossible to establish any concrete findings, methods, or direct links to environmental planning from this abstract alone.",
-   "check": "Verify whether the full text uses spatial modelling, scenario comparisons, or addresses environmental services."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-  "source": {
-   "url": "https://doi.org/10.1016/j.joclim.2026.100766",
-   "doi": "https://doi.org/10.1016/j.joclim.2026.100766",
-   "venue": "The Journal of Climate Change and Health",
-   "date": "2026-10-28",
-   "authors": [
-    "Meelan Thondoo",
-    "Nina Abrahams",
-    "Elise Borde",
-    "Lidia Morais",
-    "Erin Mathieu",
-    "Damilola Odekunle"
-   ],
-   "n_authors": 20,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224090949",
-  "title": "Land use transitions drive ecosystem service supply–demand balance: spatiotemporal assessment and risk zoning in the Three Gorges Reservoir Area (Hubei section)",
-  "headline": "Land use shifts drive ecosystem supply and demand",
-  "bullets": [
-   "Used InVEST and multiple regression to study ecosystem services from 2000 to 2020.",
-   "Found land use changes are the leading driver, causing soil retention deficits.",
-   "Categorized zones into risk areas to support customized land management."
-  ],
-  "plain": {
-   "question": "How do changes in land use affect the balance of nature's benefits and human needs over time?",
-   "method": "They used computer models and maps to track land changes, water yield, carbon storage, food, and soil retention.",
-   "finding": "Land changes caused major shifts in the balance of benefits, with soil retention staying in deficit.",
-   "why": "It helps divide regions into risk zones to plan better land management and protect nature."
-  },
-  "full": {
-   "explainer": "This paper looks at how human activities and land changes alter the balance between what nature provides and what people need. Focusing on an ecologically vulnerable region from 2000 to 2020, the researchers studied four main benefits: water yield, carbon storage, food production, and soil retention. By combining land use maps with computer models like InVEST, they tracked how these benefits changed over time. They discovered that shifts between cropland, forest, and built-up areas were the main drivers of the changes. While carbon storage, food, and water improved, soil retention remained in deficit. Statistical tests showed that land use alone accounted for over half of the variation in these benefits. By grouping areas with similar changes, the researchers mapped out risk zones—such as high-risk and stable areas—to help local leaders plan better land management and protect the environment.",
-   "caveats": [
-    "The study focuses on the Three Gorges Reservoir Area, so results may differ elsewhere.",
-    "Soil retention remained in deficit, but exact flood or economic risks are not stated."
-   ],
-   "jargon": [
-    {
-     "term": "Ecosystem services",
-     "definition": "The benefits that humans freely gain from natural environments and properly functioning ecosystems."
-    },
-    {
-     "term": "InVEST model",
-     "definition": "A software tool used to map and value the goods and services from nature that sustain human life."
-    },
-    {
-     "term": "Redundancy analysis",
-     "definition": "A statistical method used to explain how much variation in one set of variables is explained by another."
-    },
-    {
-     "term": "Spatial autocorrelation",
-     "definition": "A measure of how much objects or values that are close to each other in space are similar."
-    }
-   ],
-   "fit": "Connects via land use transitions, ecosystem service supply-demand balances, InVEST modeling, and spatial clustering methods."
-  },
-  "thesis": {
-   "why": "It shows how land use transitions affect ecosystem service supply and demand using InVEST, matching the student's focus on modeling and planning.",
-   "action": "Check how they measured service demand versus supply to improve your own indicator selection.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "How was service demand quantified independently of supply in this spatial assessment?",
-   "evidence": "The abstract mentions supply-demand ratios and spatial clustering of changes but does not explain how human demand was measured.",
-   "limit": "It cannot be established how human demand metrics were calculated or if they reflect actual consumption.",
-   "check": "Verify the exact datasets and equations used to calculate service demand in the full paper text."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.3389/fenvs.2026.1948370",
-   "doi": "https://doi.org/10.3389/fenvs.2026.1948370",
-   "venue": "Frontiers in Environmental Science",
-   "date": "2026-10-28",
-   "authors": [
-    "Jun Shao",
-    "Tianci Liu",
-    "Li Zeng",
-    "Xincan Yu"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224087405",
-  "title": "Blue-Green Infrastructure as a Territorial Planning Instrument: Quantifying the Contributions of Land Use Change and Climate Forcing to 2050 Flood Risk in a Peri-Urban Coastal Watershed, Rio de Janeiro, Brazil",
-  "headline": "Land changes drive future floods more than climate",
-  "bullets": [
-   "Modeled 2050 flood risk under different land and climate futures",
-   "Uncontrolled growth doubled high-risk areas while climate alone grew less",
-   "Helps plan better land use and green infrastructure to cut flood risk"
-  ],
-  "plain": {
-   "question": "How will future land changes and climate shifts affect urban flood risks?",
-   "method": "They used a computer flood model to test different 2050 growth and climate futures.",
-   "finding": "Bad land growth increased flood depths and risks much more than climate changes alone.",
-   "why": "It shows that smart land planning can protect cities from future floods."
-  },
-  "full": {
-   "explainer": "This study looks at how future flooding in a coastal watershed in Rio de Janeiro will be affected by two things: changes in how land is used, and changes in the climate. The researchers tested twelve different futures for the year 2050. These combined three different urban growth paths—ranging from uncontrolled development to a planned path using nature-based solutions and moving people out of danger zones—with different levels of heavy rain and sea-level rise. They used a computer model to simulate floods and created a risk index based on water depth and exposure. Their results show that uncontrolled urban growth causes much worse flooding across the area than climate change does on its own. Only the planned scenario, which included green infrastructure and relocating residents, successfully reduced overall flood risk and increased safe areas compared to the baseline. This proves that local land management plays a massive role in future flood safety.",
-   "caveats": [
-    "Results are specific to this watershed, scenario set, and 2050 horizon.",
-    "The computer model represented open channels but not the storm sewer network."
-   ],
-   "jargon": [
-    {
-     "term": "Blue-Green Infrastructure",
-     "definition": "Network of natural and semi-natural water and vegetation elements used for planning."
-    },
-    {
-     "term": "Hydrodynamic model",
-     "definition": "A computer program that simulates how water flows and moves across the land or in channels."
-    },
-    {
-     "term": "Design storm",
-     "definition": "A hypothetical rainfall event used to test how drainage and flood systems perform."
-    }
-   ],
-   "fit": "Shows how urban land-cover change and scenario planning affect environmental risks in the Global South."
-  },
-  "thesis": {
-   "why": "It models future urban development scenarios and environmental planning in the Global South, testing how land-cover change impacts environmental risks.",
-   "action": "Check how they combined hazard and exposure into a single risk index for your own spatial models.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Does this study prove that land use changes always outweigh climate change everywhere?",
-   "evidence": "The abstract states that uncontrolled urban growth increased simulated depths in 50.2% of cells, compared to 20.3% for climate alone in this basin.",
-   "limit": "You cannot establish whether this specific ratio of land use to climate impact applies outside this coastal watershed.",
-   "check": "Verify how they weighted hazard and exposure in the Flood Risk Index to ensure it matches your framework."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.3390/land15112044",
-   "doi": "https://doi.org/10.3390/land15112044",
-   "venue": "Land",
-   "date": "2026-10-28",
-   "authors": [
-    "Lucas Magalhães Carneiro Alves",
-    "Bruno Lima Tabet",
-    "Osvaldo Moura Rezende",
-    "Marcelo Gomes Miguez"
-   ],
-   "n_authors": 4,
    "open_access": true,
    "basis": "abstract"
   }

@@ -1,47 +1,48 @@
 {
- "week": "2026-W45",
+ "week": "2026-W46",
  "current": {
-  "name": "Victor Aboyans",
-  "institution": "Inserm, Princess Grace Hospital Centre",
-  "headline": "Victor Aboyans is a researcher known for cardiovascular health and disease studies.",
+  "name": "Johan Rockström",
+  "institution": "Stockholm Resilience Centre, Stockholm University",
+  "headline": "Johan Rockström is a researcher known for sustainability, climate change, and resilience.",
   "known_for": [
-   "Peripheral Artery Disease Management",
-   "Cardiovascular Health and Disease Prevention",
-   "Blood Pressure and Hypertension Studies"
+   "Sustainability and climate change governance",
+   "Ecosystem dynamics and resilience",
+   "Water resources management and optimization"
   ],
-  "why_follow": "He has published extensive research on global disease burdens and cardiovascular health with high citation counts.",
+  "why_follow": "Follow to learn about sustainability, climate change, and ecosystem resilience from a highly cited researcher.",
   "stats": {
-   "works": 1031,
-   "citations": 500749,
-   "h_index": 159
+   "works": 506,
+   "citations": 142400,
+   "h_index": 116
   },
   "read_first": [
    {
-    "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic…",
-    "year": "2020",
-    "citations": 19359,
-    "url": "https://doi.org/10.1016/s0140-6736(20)30925-9",
-    "why": "It covers the global burden of numerous diseases and injuries from 1990 to 2019."
+    "title": "A safe operating space for humanity",
+    "year": "2009",
+    "citations": 14746,
+    "url": "https://doi.org/10.1038/461472a",
+    "why": "It discusses a safe operating space for humanity."
    },
    {
-    "title": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure",
-    "year": "2021",
-    "citations": 13344,
-    "url": "https://doi.org/10.1093/eurheartj/ehab368",
-    "why": "It provides guidelines for diagnosing and treating acute and chronic heart failure."
+    "title": "Planetary boundaries: Guiding human development on a changing planet",
+    "year": "2015",
+    "citations": 14095,
+    "url": "https://doi.org/10.1126/science.1259855",
+    "why": "It explores planetary boundaries to guide human development."
    },
    {
-    "title": "Global Burden of Cardiovascular Diseases and Risk Factors, 1990–2019",
-    "year": "2020",
-    "citations": 11456,
-    "url": "https://doi.org/10.1016/j.jacc.2020.11.010",
-    "why": "It analyzes the global burden of cardiovascular diseases and risk factors."
+    "title": "Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems",
+    "year": "2019",
+    "citations": 11820,
+    "url": "https://doi.org/10.1016/s0140-6736(18)31788-4",
+    "why": "It examines food in the Anthropocene and sustainable food systems."
    }
   ],
-  "profile_url": "https://openalex.org/A5061188268",
+  "profile_url": "https://openalex.org/A5038584174",
   "basis": "OpenAlex data"
  },
  "featured": [
+  "A5038584174",
   "A5061188268",
   "A5064887876"
  ]

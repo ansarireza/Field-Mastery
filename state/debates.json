@@ -1,69 +1,69 @@
 {
- "week": "2026-W45",
- "index": 1,
+ "week": "2026-W46",
+ "index": 2,
  "current": {
-  "title": "How do spatial associations differ from true causal effects of informal settlement status on ecology?",
-  "question": "How do spatial associations differ from true causal effects of informal settlement status on ecology?",
+  "title": "Can ecosystem service models developed in the Global North be reliably transferred to mountainous semi-arid cities?",
+  "question": "Can ecosystem service models from the Global North be reliably transferred to Kabul?",
   "side_a": {
-   "claim": "Not covered",
-   "argument": "The provided papers do not cover the side arguing how spatial associations differ from true causal effects of informal settlement status on ecology.",
+   "claim": "Not stated in the provided papers",
+   "argument": "The provided papers do not cover the transferability of ecosystem service models from the Global North to mountainous semi-arid cities.",
    "cites": []
   },
   "side_b": {
-   "claim": "Not covered",
-   "argument": "The provided papers do not cover the side addressing the distinction between spatial associations and true causal effects regarding informal settlements.",
+   "claim": "Not stated in the provided papers",
+   "argument": "The provided papers do not contain evidence regarding arguments against transferring ecosystem service models to cities like Kabul.",
    "cites": []
   },
-  "middle": "Not stated in the provided literature.",
-  "committee": "Not stated.",
+  "middle": "The provided literature does not cover this debate, as the texts focus on deep learning, climate pathways, biomass, ecology scales, black carbon, mortality, and AI.",
+  "committee": "How can you debate model transferability when the provided literature contains no evidence on ecosystem services in Kabul?",
   "sources": [
    {
     "n": 0,
-    "title": "“Economic man” in cross-cultural perspective: Behavioral experiments in 15 small-scale societies",
-    "year": "2005",
-    "url": "https://doi.org/10.1017/s0140525x05000142"
+    "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+    "year": "2021",
+    "url": "https://doi.org/10.1186/s40537-021-00444-8"
    },
    {
     "n": 1,
-    "title": "Global numbers of infection and disease burden of soil transmitted helminth infections in 2010",
-    "year": "2014",
-    "url": "https://doi.org/10.1186/1756-3305-7-37"
+    "title": "The representative concentration pathways: an overview",
+    "year": "2011",
+    "url": "https://doi.org/10.1007/s10584-011-0148-z"
    },
    {
     "n": 2,
-    "title": "Tackling Climate Change with Machine Learning",
-    "year": "2022",
-    "url": "https://doi.org/10.1145/3485128"
+    "title": "Synthesis of Transportation Fuels from Biomass: Chemistry, Catalysts, and Engineering",
+    "year": "2006",
+    "url": "https://doi.org/10.1021/cr068360d"
    },
    {
     "n": 3,
-    "title": "Defining greenspace: Multiple uses across multiple disciplines",
-    "year": "2016",
-    "url": "https://doi.org/10.1016/j.landurbplan.2016.09.024"
+    "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+    "year": "1992",
+    "url": "https://doi.org/10.2307/1941447"
    },
    {
     "n": 4,
-    "title": "Changing Perspectives on Pearly Mussels, North America's Most Imperiled Animals",
-    "year": "2004",
-    "url": "https://doi.org/10.1641/0006-3568(2004)054[0429:cpopmn]2.0.co;2"
+    "title": "Bounding the role of black carbon in the climate system: A scientific assessment",
+    "year": "2013",
+    "url": "https://doi.org/10.1002/jgrd.50171"
    },
    {
     "n": 5,
-    "title": "Appraising Adaptive Management",
-    "year": "1999",
-    "url": "https://doi.org/10.5751/es-00131-030203"
+    "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249…",
+    "year": "2016",
+    "url": "https://doi.org/10.1016/s0140-6736(16)31012-1"
    },
    {
     "n": 6,
-    "title": "Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence",
-    "year": "2014",
-    "url": "https://doi.org/10.1017/s0140525x1400106x"
+    "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges…",
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642"
    },
    {
     "n": 7,
-    "title": "Contingent Valuation: A Practical Alternative when Prices Aren't Available",
-    "year": "2012",
-    "url": "https://doi.org/10.1257/jep.26.4.27"
+    "title": "The Human Microbiome Project",
+    "year": "2007",
+    "url": "https://doi.org/10.1038/nature06244"
    }
   ]
  }

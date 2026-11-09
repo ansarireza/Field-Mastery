@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Total economic value framework",
-   "area": "Ecosystem services valuation",
-   "kind": "framework"
-  },
-  {
    "term": "Polycentric governance systems",
    "area": "Environmental governance",
    "kind": "concept"
@@ -173,6 +168,8 @@
   "Socioecological systems thinking",
   "Compositional closure",
   "Community-based natural resource management",
-  "Supervised classification"
+  "Supervised classification",
+  "Total economic value framework",
+  "Isolation by distance"
  ]
 }

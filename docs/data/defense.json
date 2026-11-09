@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "b05f2fd5cd",
+  "id": "162124c84c",
   "scope": "Foundations and international evidence",
-  "q": "How do plural values and environmental justice alter the interpretation of urban ecosystem service demand?",
-  "type": "practical relevance",
+  "q": "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?",
+  "type": "limitations",
   "outline": [
-   "Define plural values in socio-ecological systems",
-   "Incorporate environmental justice into access and benefit metrics",
-   "Link justice considerations to environmental planning governance"
+   "Clarify that habitat quality is a proxy index, not direct biodiversity",
+   "Explain watershed-scale interpretation limits for annual water yield",
+   "Note runoff retention is not a direct estimate of flood risk"
   ],
-  "pitfall": "Treating service demand as uniform rather than shaped by unequal access and diverse values.",
-  "follow_up": "How can planning governance integrate conflicting plural values in informal flatland and hillside areas?",
-  "bring": "Frameworks for plural valuation and environmental justice in urban planning governance.",
+  "pitfall": "Treating proxy indices like habitat quality or runoff retention as direct ecological or flood measurements.",
+  "follow_up": "How do these proxy limitations constrain scenario comparison exercises in environmental planning?",
+  "bring": "Explicit definitions of model boundaries stating what metrics like runoff retention do not measure.",
   "self_check": [
-   "Addresses plural values",
-   "Incorporates environmental justice",
-   "Connects to planning governance"
+   "Distinguishes proxy from direct measurement",
+   "Interprets water yield at watershed scale",
+   "Limits flood risk claims"
   ]
  },
  "bank_total": 24,
- "asked": 11,
+ "asked": 12,
  "upcoming": [
-  "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?",
   "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
   "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
   "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
-  "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?"
+  "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
+  "To what extent can methods and theories developed in the Global North transfer to Kabul's context?"
  ]
 }

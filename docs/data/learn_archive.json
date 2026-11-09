@@ -522,5 +522,53 @@
    }
   ],
   "search": "supervised classification urban land cover"
+ },
+ {
+  "id": "ea62c5208b",
+  "date": "2026-11-09",
+  "term": "Total economic value framework",
+  "area": "Ecosystem services valuation",
+  "kind": "framework",
+  "definition": "The total economic value framework categorizes various human benefits from ecosystems into distinct monetary and non-monetary values.",
+  "plain": "It helps researchers and planners list and measure all the ways nature helps people, from direct things like food and water to indirect benefits like climate cooling, plus cultural values and the intrinsic worth of nature itself.",
+  "example": "Valuing a peri-urban agricultural green space in Kabul by assessing crop yields, local cooling benefits, and community cultural uses.",
+  "connects": "It links ecosystem service supply with plural values and human benefits for environmental planning.",
+  "why_phd": "It helps you integrate diverse ecological benefits into comprehensive planning decisions for data-scarce cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main goal of the total economic value framework?",
+    "a": "To categorize and evaluate the diverse benefits humans receive from ecosystems."
+   },
+   {
+    "q": "Why is it useful for urban planning?",
+    "a": "It ensures both direct and indirect benefits of nature are considered in decisions."
+   }
+  ],
+  "search": "total economic value framework urban ecosystems"
+ },
+ {
+  "id": "1d1c28e3cd",
+  "date": "2026-11-09",
+  "term": "Isolation by distance",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Isolation by distance means that genetic or ecological separation increases as the physical space between populations grows.",
+  "plain": "Imagine species living in patches of nature across a city. As the physical distance between these patches gets bigger, it becomes harder for plants or animals to move between them. This distance reduces the sharing of genes and slows down the recolonization of empty spaces.",
+  "example": "In a sprawling city like Kabul, birds or insects find it hard to cross large, dense built-up zones to move between distant mountain habitats and urban parks.",
+  "connects": "It links landscape configuration, habitat quality, and how urban fragmentation affects ecological functions.",
+  "why_phd": "It helps explain how urban expansion and settlement morphology disrupt ecological connectivity and species survival.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does isolation by distance mean for ecological patches?",
+    "a": "As physical distance increases, movement and genetic sharing between populations decrease."
+   },
+   {
+    "q": "How does urban expansion worsen this effect?",
+    "a": "By creating vast built-up areas that act as barriers, increasing the effective distance between habitats."
+   }
+  ],
+  "search": "isolation by distance urban fragmentation"
  }
 ]

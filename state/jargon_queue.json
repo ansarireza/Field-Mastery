@@ -1,15 +1,4 @@
 [
- "Confusion matrices",
- "MaxEnt",
- "InVEST",
- "anthropogenic aerosol",
- "reanalysis data",
- "GIS",
- "TOPSIS",
- "biorefinery",
- "lignocellulosic",
- "Intraspecific divergence",
- "Isolation by distance",
  "Ecosystem Service Values",
  "Oasis-desert ecotones",
  "Ecosystem multifunctionality",
@@ -57,5 +46,16 @@
  "keystone species",
  "maximum entropy model",
  "Geographic Information Systems",
- "Socio-spatial differentiation"
+ "Socio-spatial differentiation",
+ "Ecosystem service supply-demand ratio",
+ "SHAP analysis",
+ "Sediment quality",
+ "Sediment management",
+ "Open defecation",
+ "Geostatistical cross-tabulation change matrix",
+ "Ribbon development",
+ "Remittances",
+ "Financialization",
+ "Hydrologic models",
+ "Large language models"
 ]

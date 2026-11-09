@@ -1,262 +1,255 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "summary": [
-  "Animal and plant biodiversity supports ecological functions, food security, and carbon degradation processes.",
-  "Urban growth, conflict, and land changes impact wetlands, forests, ecosystem values, and local microclimates."
+  "Regional surpluses mask local urban ecosystem service deficits.",
+  "Urban sprawl and investments change landscapes and open spaces.",
+  "Open defecation degrades cultural services in forest areas."
  ],
  "items": [
   {
-   "id": "W7225425628",
-   "title": "From Biodiversity to Benefits",
-   "headline": "Animal biodiversity and its role in human benefits",
+   "id": "W7225333360",
+   "title": "Supply–Demand Differentiation and Ecological Functional Zoning of Ecosystem Services in the Pearl River Basin Based on Explainable Ensemble Machine Learning",
+   "headline": "Regional surplus masks urban ecosystem service deficits",
    "bullets": [
-    "Examined links between animal biodiversity, ecosystem functioning, and human well-being.",
-    "Found animal communities support ecological functions generating essential ecosystem services.",
-    "Matters for understanding how biodiversity supports productivity, stability, and resilience."
+    "Mapped water, carbon, soil, and habitat supply and demand from 2000 to 2020",
+    "Found regional service surpluses mask growing local deficits in urban areas",
+    "Helps target local ecological management and zoning in rapidly urbanizing basins"
    ],
    "plain": {
-    "question": "How do animals and biodiversity help nature work and give benefits to people?",
-    "method": "A book chapter review of research on biodiversity and ecosystem services.",
-    "finding": "Animal communities maintain ecosystem structure and support services like food and environmental regulation.",
-    "why": "It shows why protecting animals helps nature stay strong and helps human well-being."
+    "question": "How do supplies and needs of nature benefits change across a growing river basin?",
+    "method": "Used computer models and data maps to track changes from 2000 to 2020.",
+    "finding": "Overall nature supplies stayed positive, but cities showed large local shortages.",
+    "why": "This helps planners spot where nature is running low near growing cities."
    },
    "full": {
-    "explainer": "This chapter looks at how animal biodiversity is a major part of global diversity. It helps keep ecosystems stable and working across land, freshwater, and ocean environments. Animal communities do important jobs that create services people need, such as food security, regulating the environment, and cultural benefits. The text explains how having different types of animals helps nature stay productive, stable, and resilient through functional traits. It also talks about new scientific tools like environmental DNA, trait-based ecology, and computer models. However, these systems face big threats, including habitat loss, climate change, pollution, invasive species, and over-harvesting. To fight these threats, the chapter discusses strategies for conservation, ecosystem restoration, and management to protect animal biodiversity and the benefits it provides to human societies.",
+    "explainer": "As cities grow rapidly, looking at a whole region can hide local problems. This study looks at the Pearl River Basin to see how the supply and demand for four nature-based benefits—water yield, carbon storage, soil conservation, and habitat quality—changed between 2000 and 2020. The researchers combined standard environmental models with advanced machine learning and grouping methods to see where nature benefits are abundant and where they are running short. They found that while the region as a whole looks healthy, cities like Guangzhou, Foshan, and others face growing shortages, especially for carbon storage and water. For example, carbon demand soared by over two hundred percent in growing urban areas. The team used machine learning to figure out which factors drive these shortages, discovering that things like rainfall, population growth, and human disturbances play major roles. Finally, they used clustering tools to divide the basin into different zones, helping leaders figure out where to focus protection and management.",
     "caveats": [
-     "not stated",
-     "not stated"
+     "Study area is limited to the Pearl River Basin",
+     "Analysis covers the period from 2000 to 2020",
+     "Not stated for other global regions or Kabul"
     ],
     "jargon": [
      {
-      "term": "eDNA",
-      "definition": "Environmental DNA left behind by organisms in their habitat, used to detect species."
+      "term": "Ecosystem service supply-demand ratio",
+      "definition": "A measure comparing what nature provides against what people use."
      },
      {
-      "term": "Functional redundancy",
-      "definition": "When multiple species perform similar ecological roles within an ecosystem."
+      "term": "SHAP analysis",
+      "definition": "A method to explain how different factors influence machine learning predictions."
+     },
+     {
+      "term": "Gaussian mixture model",
+      "definition": "A clustering tool used to group data points into different categories."
      }
     ],
-    "fit": "Connects broadly to ecosystem service concepts and ecological stability, though it lacks urban, Global South, or Kabul focus."
+    "fit": "Connects supply-demand gaps and modeling approaches to urban ecosystem services and planning."
    },
    "thesis": {
-    "why": "It connects biodiversity to ecosystem services and human well-being, offering foundational background on ecological functions and stability.",
-    "action": "Check if the chapter discusses urban animal communities or urban biodiversity management.",
+    "why": "It demonstrates how to analyze supply-demand gaps and use advanced machine learning models for spatial zoning, relevant to urban environmental planning.",
+    "action": "Check how they integrated the InVEST model with machine learning algorithms for scenario work.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does a regional method work for fine-scale urban planning in data-scarce settings?",
+    "evidence": "The abstract relies on extensive regional data inputs and advanced machine learning for a massive river basin over a twenty-year period.",
+    "limit": "The abstract does not show how these complex machine learning workflows perform in data-scarce or conflict settings.",
+    "check": "Verify if the machine learning approach can be adapted or if simpler models are better for data-scarce areas."
+   },
+   "relevance": 4,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+   "source": {
+    "url": "https://doi.org/10.3390/su182111310",
+    "doi": "https://doi.org/10.3390/su182111310",
+    "venue": "Sustainability",
+    "date": "2026-11-05",
+    "authors": [
+     "Yongbing Yu",
+     "Shaoquan Yang",
+     "燕武 陳"
+    ],
+    "n_authors": 3,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225245422",
+   "title": "A risk framework for addressing nature’s harmful contributions to people",
+   "headline": "A risk framework for nature's harmful contributions",
+   "bullets": [
+    "Not stated in the provided abstract text.",
+    "Not stated in the provided abstract text.",
+    "Helps address negative impacts of nature on people."
+   ],
+   "plain": {
+    "question": "How can we address the harmful impacts that nature has on people?",
+    "method": "Not stated in the abstract.",
+    "finding": "Not stated in the abstract.",
+    "why": "It helps us understand and manage risks from nature."
+   },
+   "full": {
+    "explainer": "The abstract for this study is not provided in the prompt text. Therefore, a detailed retelling cannot be given. However, based on the title, the paper introduces a risk framework to address nature's harmful contributions to people. In environmental planning and urban ecosystems, nature does not always provide benefits; it can also pose risks or disservices. Having a risk framework allows researchers and planners to systematically evaluate and manage these negative aspects alongside positive ecosystem services. This is especially important in diverse urban or regional settings where people interact closely with natural elements that might also present hazards.",
+    "caveats": [
+     "not stated",
+     "not stated",
+     "not stated"
+    ],
+    "jargon": [],
+    "fit": "It connects by offering a risk framework for negative nature impacts, useful for balancing ecosystem services in urban planning."
+   },
+   "thesis": {
+    "why": "It addresses harmful nature impacts, complementing ecosystem service assessments in urban and regional planning contexts like Kabul.",
+    "action": "Check the full text for specific risk assessment methods that can be paired with InVEST modeling.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does this general biodiversity chapter apply directly to densely built urban areas or semi-arid cities?",
-    "evidence": "The abstract discusses global environments and general ecosystem services like food security without mentioning urban spaces.",
-    "limit": "It is not possible to establish how these biodiversity principles translate to urban environments or informal settlements.",
-    "check": "Verify if the full text covers urban biodiversity or restricts its scope to non-urban ecosystems."
+    "question": "How does this framework apply to urban environments and specific ecosystem service models?",
+    "evidence": "The abstract only provides a title about a risk framework for nature's harmful contributions without details.",
+    "limit": "Nothing about methods, urban areas, or specific applications can be established from the abstract.",
+    "check": "Verify if the paper discusses urban applications or disservices relevant to urban planning."
    },
    "relevance": 2,
    "watch": "Cites your reference doi:10.1126/science.aap8826",
    "source": {
-    "url": "https://doi.org/10.4018/979-8-3693-6492-5.ch003",
-    "doi": "https://doi.org/10.4018/979-8-3693-6492-5.ch003",
-    "venue": "IGI Global eBooks",
-    "date": "2026-11-06",
+    "url": "https://doi.org/10.1038/s41559-026-03225-9",
+    "doi": "https://doi.org/10.1038/s41559-026-03225-9",
+    "venue": "Nature Ecology & Evolution",
+    "date": "2026-11-04",
     "authors": [
-     "Ayyoub Skaou",
-     "Houda Benkhalifa",
-     "Hafsa Mahmoudi",
-     "Aziz Ait Akka",
-     "El Hassan El Mouden"
+     "Matthew P. Faith",
+     "Siân E. Rees",
+     "Rory Gibb",
+     "Briana L. Abrahms",
+     "Lisa Hartmann",
+     "Yvonne Walz"
     ],
-    "n_authors": 5,
+    "n_authors": 11,
     "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225228324",
-   "title": "Mapping major types of hunting across the South American Dry Chaco and Chiquitano forests",
-   "headline": "Mapping hunting types in South American forests over time",
+   "id": "W7225410286",
+   "title": "Socioeconomic dimensions of sediment quality and sediment management",
+   "headline": "Socioeconomic dimensions of sediment quality",
    "bullets": [
-    "Used a literature review and expert opinions to map four major hunting types.",
-    "Found that commercial, retaliatory, and recreational hunting footprints grew over time.",
-    "Helps improve conservation and sustainability planning across large regions."
+    "Examined socioeconomic dimensions of sediment quality and sediment management.",
+    "Not stated in the provided abstract text.",
+    "Helps understand the social and economic aspects of managing sediment."
    ],
    "plain": {
-    "question": "Where are different types of hunting happening in large South American forests?",
-    "method": "The researchers used past studies and expert knowledge to map hunting types from 1985 to 2023.",
-    "finding": "Retaliatory, recreational, and commercial hunting footprints grew significantly over the years.",
-    "why": "This helps planners understand human-nature relationships to protect wildlife and ecosystems."
+    "question": "What is the study about?",
+    "method": "Not stated in the text.",
+    "finding": "Not stated in the text.",
+    "why": "It looks at the social and economic sides of managing sediment."
    },
    "full": {
-    "explainer": "Hunting is an important relationship between people and nature, but it also causes wildlife declines. Because hunting involves many different actors and techniques, its impacts vary. However, the exact locations of different hunting types remain unclear, which hurts conservation efforts. To solve this, researchers developed a way to identify and map key types of hunting across the large Dry Chaco and Chiquitano tropical dry forests. Using a structured literature review and expert knowledge, they linked hunting types to land systems to track their spatial footprints from 1985 to 2023. They found four major hunting types: traditional, retaliatory, commercial, and recreational. All types were widespread with many overlapping areas. The footprints of retaliatory, recreational, and commercial hunting grew considerably over time, while traditional hunting increased less and recently declined. This approach shows how different hunting types are distributed and change as landscapes shift, aiding future sustainability planning.",
+    "explainer": "This paper looks at the socioeconomic dimensions of sediment quality and sediment management. Because the text provided is very short and only contains a title and no detailed abstract, specific details about how the study was conducted, what exact data was analyzed, and what specific results were found are not stated. However, the topic connects broadly to how human societies interact with environmental materials, specifically sediments, and how management decisions are influenced by social and economic factors. For a researcher studying urban environments, land-cover changes, and environmental planning, understanding the broader social and economic drivers behind sediment or environmental management can offer helpful context, even though this particular paper's abstract lacks specific geographic or methodological details.",
     "caveats": [
-     "The study area is specific to the South American Dry Chaco and Chiquitano forests.",
-     "Not stated whether these methods apply directly to urban areas or Kabul."
+     "No abstract text was provided beyond the title, limiting specific conclusions.",
+     "Methods and findings are not stated.",
+     "Geographic context is not stated."
     ],
     "jargon": [
      {
-      "term": "expert elicitation",
-      "definition": "A formal method of gathering knowledge and judgments from experts on a specific topic."
+      "term": "Sediment quality",
+      "definition": "The physical, chemical, and biological condition of sediment."
      },
      {
-      "term": "land systems",
-      "definition": "Categories describing the combined characteristics of human and natural land use."
-     },
-     {
-      "term": "spatial footprint",
-      "definition": "The geographic area or physical space occupied by a specific activity or phenomenon."
+      "term": "Sediment management",
+      "definition": "The practice of handling, treating, or controlling sediment in water systems."
      }
     ],
-    "fit": "Connects to environmental planning and land-cover change, though focused on rural hunting in South America rather than urban Kabul."
+    "fit": "Connects to environmental planning and management themes, though lacks explicit links to urban ecosystem services or Kabul."
    },
    "thesis": {
-    "why": "It shows how land-cover and land systems can be linked to human activities over time, offering a broad parallel to tracking environmental changes in regional planning.",
-    "action": "Check how the authors linked land system typologies to specific human activities.",
-    "relationship": "context"
+    "why": "It touches on environmental management, but lacks direct connection to urban ecosystem services, land-cover change, or Kabul.",
+    "action": "Check the full text to see if any urban or watershed management methods apply.",
+    "relationship": "unclear"
    },
    "critical": {
-    "question": "Can mapping land systems accurately reflect the true extent of hidden human activities like hunting?",
-    "evidence": "The paper links a typology of land systems to map the spatial footprints of different hunting types using expert elicitation and a literature review.",
-    "limit": "The abstract does not provide field validation data to prove the actual presence or intensity of hunting within those mapped land systems.",
-    "check": "Verify how the authors validated the accuracy of their mapped hunting footprints against ground data."
+    "question": "How do socioeconomic factors specifically alter sediment management outcomes?",
+    "evidence": "The title indicates a focus on 'Socioeconomic dimensions of sediment quality and sediment management.'",
+    "limit": "The abstract provides zero details regarding empirical evidence, study sites, or analytical methods.",
+    "check": "Verify whether the paper includes transferable frameworks for environmental management."
    },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
+   "relevance": 1,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
    "source": {
-    "url": "https://doi.org/10.1002/pan3.70474",
-    "doi": "https://doi.org/10.1002/pan3.70474",
-    "venue": "People and Nature",
-    "date": "2026-11-04",
+    "url": "https://doi.org/10.1016/b978-0-443-45846-0.00021-6",
+    "doi": "https://doi.org/10.1016/b978-0-443-45846-0.00021-6",
+    "venue": "Elsevier eBooks",
+    "date": "2026-11-06",
     "authors": [
-     "Julia Martínez Pardo",
-     "Jamie Burton",
-     "Marie Pratzer",
-     "Matthias Baumann",
-     "Alfredo Romero‐Muñoz",
-     "Verónica Andrea Quiroga"
-    ],
-    "n_authors": 24,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225241518",
-   "title": "Biodiversity and Food Security in Sub‐Saharan Africa: Evidence From a Dynamic Spatial Durbin Model",
-   "headline": "Biodiversity aids specific food security measures",
-   "bullets": [
-    "Analyzed 40 Sub-Saharan African countries from 2001 to 2002 using a dynamic spatial model.",
-    "Found biodiversity improves specific nutrition outcomes but has no effect on composite indices.",
-    "Highlights the need to link biodiversity protection with agricultural policies."
-   ],
-   "plain": {
-    "question": "Does nature health help people have enough food in Sub-Saharan Africa?",
-    "method": "The researchers studied data from 40 countries over many years using advanced spatial statistics.",
-    "finding": "General food scores did not change, but specific nutrition and cereal supplies improved.",
-    "why": "It shows we must look at specific nutrition outcomes rather than broad scores."
-   },
-   "full": {
-    "explainer": "This study looks at how biodiversity, measured by the Red List Index, affects food security across 40 countries in Sub-Saharan Africa between 2001 and 2022. The authors used a complex statistical tool called a Dynamic Spatial Durbin Model to account for how things change over time and spread across borders. Interestingly, they found that biodiversity does not have a statistically significant effect on a broad, combined food security index. However, when looking at specific parts of the data, biodiversity actually improves dietary energy adequacy and the share of energy from basic crops like cereals, roots, and tubers. It also reduces food deprivation when measured by undernourishment prevalence. Other factors like food production and political stability helped food security, while unemployment and fast population growth hurt it. The paper suggests combining nature conservation with farming rules.",
-    "caveats": [
-     "The study focuses on Sub-Saharan Africa, so results may not apply to other regions.",
-     "It uses proxy measures like the Red List Index for biodiversity."
-    ],
-    "jargon": [
-     {
-      "term": "Dynamic Spatial Durbin Model",
-      "definition": "A statistical method that looks at how things change over time and across neighboring geographic areas."
-     },
-     {
-      "term": "Red List Index",
-      "definition": "A measure of the changing risk of extinction for groups of species over time."
-     },
-     {
-      "term": "Principal Component Analysis",
-      "definition": "A math method used to turn many variables into a smaller set of composite values."
-     }
-    ],
-    "fit": "Connects to Global South environmental planning, showing how ecological health links to human well-being and basic needs."
-   },
-   "thesis": {
-    "why": "It provides regional evidence from the Global South on how ecosystem metrics relate to human resource outcomes, relevant for ecosystem service valuation.",
-    "action": "Check how the spatial dependence was modeled to see if lessons apply to urban settlement analyses.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "Why did broad composite indexes fail to show an effect while specific nutritional outcomes did?",
-    "evidence": "The abstract notes biodiversity has no effect on the aggregate index, but significantly improves dietary energy supply adequacy.",
-    "limit": "The abstract does not explain the exact causal mechanisms behind how biodiversity specifically boosts cereal and root supplies.",
-    "check": "Verify how spatial spillovers were defined and calculated across national borders in the full text."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
-   "source": {
-    "url": "https://doi.org/10.1002/pei3.70232",
-    "doi": "https://doi.org/10.1002/pei3.70232",
-    "venue": "Plant-Environment Interactions",
-    "date": "2026-11-04",
-    "authors": [
-     "Etonam Julien Adangbedou",
-     "Boris O. K. Lokonon"
+     "Sabine E. Apitz",
+     "Richard J. Wenning"
     ],
     "n_authors": 2,
-    "open_access": true,
+    "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225331225",
-   "title": "Land use occupation and construction around the Córdoba, Capellanía and El Tunjo wetland reserves 1998–2024",
-   "headline": "Urban growth near Bogotá wetlands from 1998 to 2024",
+   "id": "W7225422437",
+   "title": "Community Perceptions of Cultural Ecosystem Services in Restoring Degraded Urban Forests: Evidence from Aboabo Forest, Ghana",
+   "headline": "Open defecation degrades cultural services in Ghana's forest",
    "bullets": [
-    "Examined land use and building metrics near three Bogotá wetlands from 1998 to 2024.",
-    "Found 148 ha developed near wetlands since 1999, with higher building densities in new residential…",
-    "Provides essential data on city development impacts to help protect urban and peri-urban wetlands."
+    "Surveyed 110 households and interviewed 10 leaders using mixed methods.",
+    "Found open defecation severely damages aesthetic, educational, and spiritual values.",
+    "Highlights community restoration priorities for urban forest environmental planning."
    ],
    "plain": {
-    "question": "How has city growth affected the areas around three important wetlands in Bogotá, Colombia, between 1998 and 2024?",
-    "method": "The study looked at changes in land use, building coverage, and floor space within a 500-meter buffer around the wetlands.",
-    "finding": "About 148 hectares of land were developed near the wetlands since 1999, showing higher building densities, especially for homes.",
-    "why": "This helps researchers understand how urban growth impacts natural wetlands so cities can better protect these vital ecosystems."
+    "question": "How does open defecation affect cultural values in an urban forest in Ghana?",
+    "method": "Surveys of 110 households and 10 interviews with leaders.",
+    "finding": "It ruins aesthetic, educational, and spiritual values by making people avoid the forest.",
+    "why": "It shows how human behaviours directly harm non-material benefits from nature."
    },
    "full": {
-    "explainer": "Urban wetlands are valuable ecosystems that provide essential services like clean air and water, help cities adapt to climate change, and protect biodiversity. However, growing cities often cause these wetlands to degrade through pollution, habitat loss, and land conversion. To better understand these pressures, this study looks at land use and urban development around three wetland reserves in Bogotá, Colombia, from 1998 to 2024. The researchers used buffers of 500 meters around the Capellanía, Córdoba, and El Tunjo wetlands to measure changes in land use, building coverage index, and floor space index. They found that land-use setups vary by location, with some areas still hosting polluting industries. Furthermore, about 148 hectares of land were developed near these wetlands since 1999. Newer buildings, especially residential ones, showed higher mean floor space values than older buildings. This work highlights the ongoing tension between urban expansion and wetland conservation in the Global South.",
+    "explainer": "This paper looks at cultural ecosystem services, which are the non-material benefits people get from nature, such as beauty, education, recreation, and spiritual value. It focuses on the Aboabo Forest in Tamale, Ghana, which is badly affected by open defecation from nearby residents. While past work looked at why this open defecation happens, this study asks how it impacts the forest's cultural benefits and how the community wants to restore them. The authors used a mixed-methods design, surveying 110 households and interviewing ten key leaders. The results show that open defecation severely harms aesthetic, educational, recreational, and spiritual values. People avoid the forest because of the foul environment and fear of stigma, and sacred shrines have lost their sacred status. Paradoxically, the practice actually strengthens social ties among those who practice it. To fix this, community members want to restore aesthetic and educational values through public education, religious activities, teamwork, and new recreational facilities.",
     "caveats": [
-     "The study only looks at three wetland reserves in Bogotá, Colombia.",
-     "The abstract does not state the exact ecological impacts on biodiversity or water quality resulting from the development."
+     "Findings rely on self-reported survey responses from 110 households.",
+     "Not stated whether quantitative ecological assessments were performed alongside interviews."
     ],
     "jargon": [
      {
-      "term": "urban wetlands",
-      "definition": "Wetlands located within or near cities that provide natural services like water regulation and biodiversity."
+      "term": "Cultural ecosystem services",
+      "definition": "Non-material benefits people obtain from ecosystems, like spiritual, aesthetic, and educational values."
      },
      {
-      "term": "building coverage index",
-      "definition": "A metric measuring the proportion of a land area covered by buildings."
+      "term": "Open defecation",
+      "definition": "The human practice of defecating outside rather than into a toilet."
      },
      {
-      "term": "floor space index",
-      "definition": "The ratio of a building's total floor area to the size of the piece of land upon which it is built."
+      "term": "Desacralisation",
+      "definition": "The removal of sacred, holy, or religious status from a place or object."
+     },
+     {
+      "term": "Mixed-methods research design",
+      "definition": "A study design that combines both qualitative and quantitative data collection methods."
      }
     ],
-    "fit": "Examines urban growth and land-use change near Global South wetlands, offering context on how city expansion impacts natural areas."
+    "fit": "Connects to Global South urban ecosystem services and community-based environmental planning."
    },
    "thesis": {
-    "why": "It evaluates land-cover change and urban development around sensitive ecosystems in the Global South, offering a comparative perspective on urban pressures.",
-    "action": "Check how the study measures building coverage and floor space to see if it benefits your spatial mapping methods.",
+    "why": "It offers insight into cultural ecosystem services and community perspectives on environmental degradation and restoration in the Global South.",
+    "action": "Check how the study measures subjective cultural values alongside physical degradation.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does higher building density directly cause ecological degradation of the wetlands in this study?",
-    "evidence": "The abstract notes urban growth near the wetlands and mentions degradation risks, but does not measure actual ecological damage.",
-    "limit": "The abstract does not prove a direct causal link between the increased building density and specific wetland degradation outcomes.",
-    "check": "Verify in the full paper whether the authors establish a direct causal link or only show spatial associations."
+    "question": "How reliable are self-reported community perceptions for measuring actual ecosystem service loss?",
+    "evidence": "The study relies heavily on a structured survey of 110 households and ten key-informant interviews to assess degraded values.",
+    "limit": "The abstract does not establish direct ecological or physical measurements of forest degradation beyond community perceptions.",
+    "check": "Verify the household sampling strategy and how survey questions operationalized perceived degradation."
    },
    "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1016/j.cacint.2026.100529",
-    "doi": "https://doi.org/10.1016/j.cacint.2026.100529",
-    "venue": "City and Environment Interactions",
-    "date": "2026-11-01",
+    "url": "https://doi.org/10.21203/rs.3.rs-11072894/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11072894/v1",
+    "venue": "Research Square",
+    "date": "2026-11-06",
     "authors": [
-     "Angela Bedoya-Ruiz"
+     "Bismark Yayra Adzah"
     ],
     "n_authors": 1,
     "open_access": true,
@@ -264,205 +257,64 @@
    }
   },
   {
-   "id": "W7225397212",
-   "title": "Pre‐ and Post‐Conflict Land Use Detection Matrix and Ecosystem Service Value Analysis in Hirmi State Forest, Northwestern Ethiopia",
-   "headline": "Conflict drives forest loss and drops ecosystem value",
+   "id": "W7225465508",
+   "title": "Assessing Urban Growth Patterns of Agroha Town of Hisar, Haryana Using Directional and Geostatistical Approaches",
+   "headline": "Urban sprawl replaces open spaces in Agroha Town",
    "bullets": [
-    "Used remote sensing and GIS to map land cover changes from 2013 to 2023.",
-    "Found forest land decreased by 33.13% and ecosystem service value dropped.",
-    "Shows armed conflict accelerates deforestation and requires urgent restoration."
+    "Mapped land cover changes in Agroha from 2015 to 2024 using satellite images.",
+    "Found built-up areas grew by 188.5%, wiping out open spaces and shrinking farms.",
+    "Argues for using spatial statistics in regional plans to manage urban growth."
    ],
    "plain": {
-    "question": "How did land cover and ecosystem values change before and after conflict?",
-    "method": "Used satellite images and maps to track land changes and calculate value.",
-    "finding": "Forests shrank significantly and their value dropped due to the conflict.",
-    "why": "It shows how conflict harms nature, guiding recovery efforts."
+    "question": "How did Agroha Town grow and spread out between 2015 and 2024?",
+    "method": "Used satellite images and digital maps to measure land changes over time.",
+    "finding": "Built-up areas grew a lot, completely destroying open spaces and reducing farms.",
+    "why": "It shows how unguided city growth harms natural resources and farmland."
    },
    "full": {
-    "explainer": "This study looks at how human activities and armed conflict change land use and the value of nature in the Hirmi State Forest of Northwestern Ethiopia. Using satellite images and maps divided across three periods between 2013 and 2023, the researchers tracked changes in land types. They checked their maps for accuracy using standard statistical agreement tests. Then, they calculated the monetary value of the benefits provided by nature—known as ecosystem service values—by multiplying land areas by set value categories. The results show that while forest cover stayed stable from 2013 to 2018, it dropped sharply by 2023 following the 2020-2022 armed conflict in the region. Cultivated land stayed mostly the same, but forests suffered a massive net loss of over 3,600 hectares, leading to a multi-million dollar drop in ecosystem value each year. The authors conclude that armed conflict causes severe environmental harm, such as rapid deforestation and soil erosion, meaning that post-conflict ecological restoration and sustainable management are urgently needed.",
+    "explainer": "This paper looks at how a rapidly growing town called Agroha in India expanded between 2015 and 2024. The researchers used satellite images and official maps to track changes in land use across a 15.10 square kilometer area. They found that city buildings and homes grew by nearly 189 percent, mostly spreading out along a major highway. As towns and settlements expanded, they completely wiped out open spaces and reduced the amount of fertile farmland. The study used change matrix analysis to prove that open spaces and farms were directly swallowed up by new construction. These unguided growth patterns put heavy pressure on local roads, utilities, and natural resources. The authors conclude that city planners must use satellite data and spatial statistics to guide future development, control messy urban sprawl, and protect important agricultural and ecological buffers in the Global South.",
     "caveats": [
-     "Ecosystem values rely on benefit-transfer valuation methods rather than direct local measurements.",
-     "Not stated whether other environmental factors besides conflict directly caused the 2023 forest decline."
+     "Only evaluates changes within a 15.10 sq. km municipal boundary",
+     "Focuses on a single town, Agroha in Haryana, India"
     ],
     "jargon": [
      {
-      "term": "Ecosystem Service Value",
-      "definition": "The estimated monetary value of the benefits that nature provides to people."
+      "term": "Geostatistical cross-tabulation change matrix",
+      "definition": "A table method used to calculate exact amounts of land converted from one type to another."
      },
      {
-      "term": "Kappa coefficient",
-      "definition": "A statistical measure of how well a classified map matches real-world reference data."
+      "term": "Ribbon development",
+      "definition": "Urban growth that stretches out along major transportation routes or highways."
      },
      {
-      "term": "Benefit-transfer valuation method",
-      "definition": "A technique that estimates economic values by using existing values from other studies."
+      "term": "Peri-urban",
+      "definition": "The transition zone where urban and rural areas meet."
      }
     ],
-    "fit": "It relates to land-cover change and ecosystem services in the Global South, offering a conflict-affected case study context."
+    "fit": "Demonstrates rapid land-cover change and peri-urban sprawl in a Global South setting, aligning with urban growth planning themes."
    },
    "thesis": {
-    "why": "It provides a clear example of how land-cover change and conflict impact ecosystem service values in a Global South setting.",
-    "action": "Check how the authors applied the benefit-transfer valuation method to estimate ecosystem service values.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How can you be certain the armed conflict was the primary driver of forest loss instead of other local pressures?",
-    "evidence": "The abstract links the 2020-2022 armed conflict directly to accelerated deforestation and soil erosion without discussing alternative socioeconomic drivers.",
-    "limit": "The abstract does not establish a definitive causal link between the conflict and every observed land cover change.",
-    "check": "Review the full paper to see what baseline socioeconomic data or controls were used alongside satellite mapping."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1002/tqem.70490",
-    "doi": "https://doi.org/10.1002/tqem.70490",
-    "venue": "Environmental Quality Management",
-    "date": "2026-11-01",
-    "authors": [
-     "Tesfaye Hailemariam",
-     "Samuel Fissaha",
-     "Tsige Zeberhe",
-     "Muruts Hagazi",
-     "Tekia Hadgu"
-    ],
-    "n_authors": 5,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225295348",
-   "title": "Influence of Tall Buildings on Microclimate and Urban Livability",
-   "headline": "Tall buildings affect microclimate and open space livability",
-   "bullets": [
-    "Simulated wind, shadows, and thermal comfort across three tall-building designs.",
-    "Found that thermal comfort varied most at Zagros and social scores matched moderate warmth.",
-    "Provides design insights for climate-responsive urban growth in cold semi-arid cities."
-   ],
-   "plain": {
-    "question": "How do tall buildings change local wind, shade, temperature, and how people use open spaces?",
-    "method": "Used computer models for wind, shadows, and temperature, plus field checks and observations.",
-    "finding": "Thermal comfort varied across designs, and moderate temperatures matched spaces with higher social use.",
-    "why": "Helps planners design better outdoor areas around tall buildings in cold semi-arid cities."
-   },
-   "full": {
-    "explainer": "As cities grow taller, planners need to understand how high-rise buildings affect the weather and comfort at the street level. This study looks at three different tall-building layouts to see how they change wind flow, shade, and human thermal comfort. The researchers used several computer models to simulate wind, shadow, and heat stress, and they compared these with field observations of how people use the spaces. They found that thermal comfort changed the most throughout the day at one site, while another site with moderate temperatures received better scores for social activity and usability. However, the authors note that these social scores might also be due to other factors like better landscaping or amenities rather than just the weather. Ultimately, the study offers practical design advice for building climate-responsive cities in cold, semi-arid environments, though the findings apply specifically to the tested configurations during late-winter conditions.",
-    "caveats": [
-     "Field measurements and simulations used non-identical weather conditions.",
-     "Zagros simulations were not directly validated against field data.",
-     "Social vitality scores may reflect landscaping or amenities, not just microclimate."
-    ],
-    "jargon": [
-     {
-      "term": "PET",
-      "definition": "PhysiEquivalent Temperature; a measure of how human beings experience thermal weather conditions."
-     },
-     {
-      "term": "CFD",
-      "definition": "Computational Fluid Dynamics; software used to simulate how fluids and air move."
-     },
-     {
-      "term": "MAE",
-      "definition": "Mean Absolute Error; a statistical measure of the difference between predicted and actual values."
-     },
-     {
-      "term": "RMSE",
-      "definition": "Root Mean Square Error; a standard way to measure the error of model predictions."
-     }
-    ],
-    "fit": "Connects to microclimate, urban design, and environmental planning in semi-arid settings, relevant to urban cooling and livability."
-   },
-   "thesis": {
-    "why": "It touches on urban microclimate and design in semi-arid settings, linking spatial configurations to human use and thermal comfort, which relates to urban ecosystem services.",
-    "action": "Check how the study evaluates thermal comfort and whether its simulation methods can inform local environmental planning.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "Can social vitality in open spaces be directly attributed to microclimatic conditions?",
-    "evidence": "The abstract states that higher social scores coincided with moderate PET ranges, but acknowledges these scores may reflect differences in landscaping and amenities.",
-    "limit": "Causal effects of microclimate on social vitality cannot be established from the observed spatial associations alone.",
-    "check": "Verify how the full paper controls for confounding variables like landscaping when analyzing social use."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.rineng.2026.113881",
-    "doi": "https://doi.org/10.1016/j.rineng.2026.113881",
-    "venue": "Results in Engineering",
-    "date": "2026-11-01",
-    "authors": [
-     "Fatemeh Derakhshan",
-     "مهرداد کریمی مشاور"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W4412677205",
-   "title": "Quantifying the impact of groundwater fauna and temperature on the ecosystem service of microbial carbon degradation; a proof-of-principle approach",
-   "headline": "Groundwater fauna boost carbon degradation",
-   "bullets": [
-    "Modeled a dynamic food web of groundwater carbon, microbes, and fauna using field data.",
-    "Found that removing fauna caused remaining carbon to increase by up to 6.6 times.",
-    "Shows groundwater fauna help clean water, making drinking water production more reliable."
-   ],
-   "plain": {
-    "question": "How do groundwater creatures and temperature affect how microbes break down carbon?",
-    "method": "We used a mathematical food web model based on field data and tested different future temperature and fauna scenarios.",
-    "finding": "Without groundwater creatures eating microbes, the remaining carbon in the water stayed much higher.",
-    "why": "Active groundwater creatures help clean water naturally, making drinking water production safer and cheaper."
-   },
-   "full": {
-    "explainer": "Groundwater systems provide essential functions like helping to produce clean drinking water, but we lack ways to measure these natural benefits. Without a way to measure them, we cannot predict how they might change under future climates. To fix this, researchers used data from a detailed groundwater study covering four different land use zones and water exchange areas. They built a mathematical model of a food web. This model included organic carbon, the microbes that eat the biodegradable part of that carbon, and the small animals that graze on those microbes. After checking that the model matched real field data, they tested five different futures. Three scenarios removed the animals to simulate stressors like pollution or sudden heat, while others raised temperatures by 1.5 or 3 degrees. They measured the ecosystem service of cleaning carbon by looking at carbon changes over time. When animals were removed, remaining carbon was up to 6.6 times higher than normal. This proves that groundwater animals play a major role in cleaning water.",
-    "caveats": [
-     "Scenarios are modeled estimates, not direct field observations of all future conditions.",
-     "Specific geographical locations of the four zones are not stated.",
-     "Long-term adaptation of microbes and fauna to temperature increases is not stated."
-    ],
-    "jargon": [
-     {
-      "term": "Dynamic food web model",
-      "definition": "A mathematical representation of how living organisms in a system interact and feed on each other over time."
-     },
-     {
-      "term": "Biodegradable fraction",
-      "definition": "The portion of a substance that can be broken down naturally by living organisms like bacteria."
-     },
-     {
-      "term": "Ecosystem service",
-      "definition": "The direct or indirect benefits that humans freely gain from properly functioning natural environments."
-     },
-     {
-      "term": "Microbial carbon degradation",
-      "definition": "The breakdown of carbon compounds by microscopic organisms like bacteria and fungi."
-     }
-    ],
-    "fit": "Demonstrates scenario modeling of ecosystem services and the hidden role of biological communities in supplying water-related benefits."
-   },
-   "thesis": {
-    "why": "It shows how scenario modeling can isolate the specific contributions of biological communities to ecosystem service delivery under changing environmental conditions.",
-    "action": "Check how the authors handled parameter uncertainty and model validation against field data.",
+    "why": "It provides a clear example of land-cover change analysis and spatial statistics in a Global South peri-urban setting, mirroring your interest in planning.",
+    "action": "Check how the authors validate their land-cover classification accuracy using the satellite imagery.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How reliable are scenario outcomes when animal mortality is artificially simulated without dynamic adaptation?",
-    "evidence": "The study tested scenarios without fauna due to contamination or temperature peaks, and raised temperatures by 1.5°C and 3°C.",
-    "limit": "The abstract does not establish whether real organisms would adapt over time to the simulated temperature increases and stressors.",
-    "check": "Examine how the authors validated the dynamic food web model against baseline field data and quantified its uncertainties."
+    "question": "Did the authors perform an accuracy assessment for their satellite-based land cover classification?",
+    "evidence": "The abstract mentions using multi-temporal high-resolution satellite imagery and GIS frameworks, but does not state if classification accuracy was tested.",
+    "limit": "It cannot be established from the abstract whether the land cover maps contain classification errors or how those errors were handled.",
+    "check": "Look in the full text for the error matrix or overall accuracy percentage of the 2015 and 2024 maps."
    },
-   "relevance": 2,
+   "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.5194/bg-23-7849-2026",
-    "doi": "https://doi.org/10.5194/bg-23-7849-2026",
-    "venue": "Biogeosciences",
-    "date": "2026-11-05",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i06.91497",
+    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i06.91497",
+    "venue": "International Journal For Multidisciplinary Research",
+    "date": "2026-11-06",
     "authors": [
-     "Susanne Isabel Schmidt",
-     "Nora Rütz",
-     "Jürgen Marxsen"
+     "Asha Rani",
+     "Sandeep Kumar",
+     "Neha Bhatti"
     ],
     "n_authors": 3,
     "open_access": true,
@@ -470,137 +322,123 @@
    }
   },
   {
-   "id": "W7225348442",
-   "title": "Northward shifts and range contractions: future distribution of Plicosepalus acaciae in Vachellia woodlands of AlUla, Saudi Arabia",
-   "headline": "Parasitic plants face shifts under climate change",
+   "id": "W7225415768",
+   "title": "EMIGRE CITY ‐ MAKING : The Micropolitics of Diasporic Real Estate Investment and Urban Growth in Pakistan",
+   "headline": "Emigrant investments reshape urban landscapes in Pakistan",
    "bullets": [
-    "Used a maximum entropy model with 124 occurrences and 19 bioclimatic variables.",
-    "Found future range contractions and northward shifts due to warming and drying.",
-    "Informs adaptive woodland management and ecological restoration goals."
+    "Examined how elite emigrants use remittances for speculative real estate investments.",
+    "Found that these investments drive low-density suburban growth and vacant land niches.",
+    "Shows how financialization happens through non-corporate private capital in postcolonial cities."
    ],
    "plain": {
-    "question": "How will climate change affect the future habitat of a key parasitic plant in Saudi Arabia?",
-    "method": "The researchers used a computer model to study current locations, weather data, and land features.",
-    "finding": "The plant will likely shrink in the south and move northward due to heat and dryness.",
-    "why": "This helps people protect stressed woodlands and plan better environmental restoration."
+    "question": "How do people living abroad change cities in their home country through real estate money?",
+    "method": "Studied the case of Pakistan and how emigrant money is spent.",
+    "finding": "Emigrants buy real estate speculatively to help settle abroad, creating low-density gated suburbs.",
+    "why": "It explains a new way cities grow through global money flows from individuals rather than big banks."
    },
    "full": {
-    "explainer": "This study looks at a parasitic plant called Plicosepalus acaciae, which plays an important role as a keystone species in woodlands in AlUla, Saudi Arabia, but can also stress its tree hosts as things get warmer and drier. To help manage these woodlands under climate change, the authors modeled where the plant might live in the future. They used a computer tool called a maximum entropy model, looking at 124 recorded locations along with 19 climate variables, land elevation, and host tree preferences. Their analysis showed that right now, the plant mostly lives in valleys and mountains where conditions match its needs for moderate temperatures and specific rainfall and altitude. However, when looking ahead to future climate scenarios, the models predict that the plant's home range will shrink in central and southern areas, with a shift toward the north. This shows the plant is vulnerable to rising heat and aridity. The findings suggest that protecting these plants relies heavily on microclimates, host trees, and animal dispersers, which can help guide local ecological restoration.",
+    "explainer": "This paper looks at how contemporary cities in the global South change because of real estate growth and money sent from people living abroad, known as remittances. Focusing on Pakistan, the study explores how emigration and money practices transform urban landscapes. Over time, a growing real estate sector has mixed with the investment habits of wealthy emigrants. Instead of building homes for a future return, these emigrants now use remittances for speculative real estate investments as part of a strategy to stay permanently in North Atlantic countries. These purchases, often made early through presales, help build a market for vacant land in projects run by the military and its allies. This leads to urban growth via low-density suburban gated communities in major and emerging cities. By following these investment patterns, the article highlights new ways of transnational urban growth and neoliberalization. It shows how land and housing finance happens in postcolonial cities through global flows of private money from individuals, rather than large institutional investors and advanced financial markets.",
     "caveats": [
-     "Future projections depend heavily on specific climate scenarios like RCP 2.6 and RCP 8.5.",
-     "The study focuses specifically on AlUla, Saudi Arabia, so results are context-dependent."
+     "Focuses specifically on the case of Pakistan.",
+     "Not stated: quantitative measurements of environmental impacts or ecosystem services."
     ],
     "jargon": [
      {
-      "term": "keystone species",
-      "definition": "A species that has a disproportionately large effect on its natural environment."
+      "term": "Remittances",
+      "definition": "Money sent back by workers or emigrants to their home country."
      },
      {
-      "term": "maximum entropy model",
-      "definition": "A statistical method used to predict species distribution based on environmental data."
+      "term": "Financialization",
+      "definition": "The increasing role of financial markets and motives in shaping housing and land."
      },
      {
-      "term": "bioclimatic variables",
-      "definition": "Variables representing temperature and rainfall patterns used to study climate suitability."
-     },
-     {
-      "term": "range contractions",
-      "definition": "A shrinking of the geographic area where a species is able to survive and live."
+      "term": "Transnational urbanism",
+      "definition": "Urban growth and social processes that cross national borders."
      }
     ],
-    "fit": "Demonstrates habitat suitability modeling and climate change scenario analysis relevant to environmental planning and ecosystem shifts."
+    "fit": "Connects to Global South urban contexts, showing how private capital and real estate shape land-cover change and low-density suburban growth."
    },
    "thesis": {
-    "why": "Connects to spatial modeling, scenario comparison, and habitat suitability, though the specific study system is a desert woodland rather than urban Kabul.",
-    "action": "Check how the maximum entropy model handles environmental variables and uncertainty.",
-    "relationship": "method"
+    "why": "It provides context on how global private capital and real estate sectors drive land-cover change and low-density urban growth in the Global South.",
+    "action": "Check how this type of speculative land development impacts green space availability.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "How do non-climatic local factors interact with broad climate scenarios in determining actual survival?",
-    "evidence": "The abstract notes that survival depends on microclimatic stability, host availability, and disperser behavior, but models mainly use macro-variables.",
-    "limit": "The abstract does not establish direct causal links between specific host stress levels and the actual mortality rates of the parasite.",
-    "check": "Examine the full paper to see how non-climatic variables like host availability were integrated into the spatial distribution model."
+    "question": "Does low-density suburban real estate growth driven by emigrant capital directly degrade urban ecosystem services?",
+    "evidence": "The abstract states that these investments create low-density suburban gated communities and a niche market for vacant land, but does not measure ecological impacts.",
+    "limit": "The abstract does not provide data on ecological consequences, loss of vegetation, or changes in ecosystem service supply.",
+    "check": "Verify if the full paper discusses the physical environmental footprint or land-cover changes resulting from these gated communities."
    },
-   "relevance": 2,
+   "relevance": 3,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1038/s41598-026-79357-6",
-    "doi": "https://doi.org/10.1038/s41598-026-79357-6",
-    "venue": "Scientific Reports",
-    "date": "2026-11-05",
+    "url": "https://doi.org/10.1111/1468-2427.70156",
+    "doi": "https://doi.org/10.1111/1468-2427.70156",
+    "venue": "International Journal of Urban and Regional Research",
+    "date": "2026-11-06",
     "authors": [
-     "Thobayet Safar Alshahrani",
-     "Hazem S. Kassem",
-     "Abdulaziz Mohammad Assaeed",
-     "László Patkó",
-     "Ayman A. Abdulkareem",
-     "Mohamed Nasser"
+     "Fatima Tassadiq"
     ],
-    "n_authors": 7,
+    "n_authors": 1,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225310293",
-   "title": "Digital food environments and the reproduction of urban inequality in Mexico City",
-   "headline": "Digital food apps reproduce urban inequality in Mexico City",
+   "id": "W7225302361",
+   "title": "Global news reports reveal the human dimensions of water scarcity",
+   "headline": "News reports reveal human dimensions of water scarcity",
    "bullets": [
-    "Used GIS to analyze over 500,000 food delivery orders and socioeconomic data in 2021.",
-    "Found richer areas get more food choices, shorter distances, and lower relative costs.",
-    "Shows digital delivery platforms reinforce existing socio-spatial urban inequalities."
+    "Used large language models on global news reports to find real water scarcity events from 2014 to…",
+    "Found reported water scarcity does not match traditional hydrologic models and often peaks…",
+    "Complements hydrologic models by showing how human factors and infrastructure create water…"
    ],
    "plain": {
-    "question": "How do digital food delivery apps affect urban inequality in Mexico City?",
-    "method": "We mapped over 500,000 food delivery orders using geographic tools and social data.",
-    "finding": "Wealthy areas get better food access, while poorer areas face higher costs and limits.",
-    "why": "New digital services can worsen existing social divides instead of fixing them."
+    "question": "How can we better track real water shortages experienced by people worldwide?",
+    "method": "Used computer tools to scan global news reports for actual water scarcity events.",
+    "finding": "Real shortages do not always match maps based only on physical water supplies.",
+    "why": "It helps us see how human actions and infrastructure affect water access."
    },
    "full": {
-    "explainer": "This study looks at how digital food delivery platforms change food access in Mexico City, a city with high inequality. The researchers used a mix of methods, looking at more than 500,000 delivery transactions from 2021. They used geographic information systems to link these food orders with data on wealth, housing density, land use, and how well areas are connected. They also created a classification system for delivery restaurants based on major franchises and branches. The results show clear social and spatial differences in how people access food through apps. Wealthier areas enjoy more types of food choices, shorter delivery distances, and cheaper relative costs. On the other hand, poorer and outer areas face limited services, longer wait times, and higher costs compared to what they spend on food. The findings prove that food delivery apps do not automatically make food access fairer. Instead, they copy and repeat current urban inequalities. The study suggests viewing these apps as digital infrastructures that link city conditions with daily food habits.",
+    "explainer": "Traditional water scarcity is usually measured using hydrologic models that look at physical water pressure. However, physical stress does not always mean people actually face water shortages. Human adaptation can help buffer limits, while broken infrastructure or poor governance can cause scarcity even where water is plentiful. To explore this, researchers used large language models to find concrete news reports about real water scarcity across 190 countries from 2014 to 2024. The results show that reported water scarcity increased in most regions, peaking globally in 2023. These spatial patterns are very mixed and only partly match traditional hydrologic maps. For instance, water-abundant areas like the eastern United States appeared as hotspots for reported scarcity, while some dry regions showed little reporting despite physical stress. This suggests human systems help shape water shortages, though differences in media reporting may also play a role.",
     "caveats": [
-     "Not stated whether findings apply outside Mexico City.",
-     "Not stated how individual dietary health outcomes are affected.",
-     "Not stated how informal street food vendors interact with these digital platforms."
+     "Differences in media reporting may contribute to the observed patterns.",
+     "Not stated whether specific urban areas or Kabul were analyzed."
     ],
     "jargon": [
      {
-      "term": "Geographic Information Systems",
-      "definition": "Computer tools used to capture, store, check, and display data related to positions on Earth's surface."
+      "term": "Hydrologic models",
+      "definition": "Computer tools used to estimate water resources and physical pressure on water."
      },
      {
-      "term": "Socio-spatial differentiation",
-      "definition": "Differences in social status across physical geographic spaces within a city."
-     },
-     {
-      "term": "Digital food infrastructure",
-      "definition": "The digital systems and logistics networks that mediate food access and consumption in a city."
+      "term": "Large language models",
+      "definition": "Advanced computer programs that can process and analyze large amounts of text."
      }
     ],
-    "fit": "Connects to Global South urban contexts, spatial inequality, and how technology mediates access to urban services and resources."
+    "fit": "It highlights how human systems and infrastructure mediate resource access, relevant for studying ecosystem service supply and demand."
    },
    "thesis": {
-    "why": "It shows how service access mirrors existing urban inequalities in a Global South city, which helps frame equity challenges in urban resource distribution.",
-    "action": "Check how they integrated spatial transaction datasets with socioeconomic indicators in GIS.",
+    "why": "It connects physical resource constraints to human systems, offering insight into actual service delivery versus modeled potential.",
+    "action": "Check how the paper separates media reporting biases from actual human water shortages.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does platform-mediated food access actively cause urban inequality, or does it merely reflect preexisting spatial divides?",
-    "evidence": "The abstract states that access remains embedded in existing urban structures and shows patterns consistent with the reproduction of inequalities.",
-    "limit": "The abstract does not establish a direct causal mechanism proving that platforms create the inequality rather than just mirroring it.",
-    "check": "Verify whether the study uses causal modeling or spatial association to link delivery patterns with socioeconomic status."
+    "question": "Are news reports a reliable measure of actual water scarcity rather than media attention biases?",
+    "evidence": "The abstract notes that differences in media reporting may contribute to the contrasting spatial patterns observed.",
+    "limit": "The abstract does not establish how media reporting bias was mathematically separated from real scarcity events.",
+    "check": "Verify how the authors validated news reports against ground-truth water shortage data."
    },
-   "relevance": 2,
+   "relevance": 3,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1016/j.diggeo.2026.100200",
-    "doi": "https://doi.org/10.1016/j.diggeo.2026.100200",
-    "venue": "Digital Geography and Society",
-    "date": "2026-11-01",
+    "url": "https://doi.org/10.31223/x5223v",
+    "doi": "https://doi.org/10.31223/x5223v",
+    "venue": "",
+    "date": "2026-11-05",
     "authors": [
-     "Juan Manuel Núñez",
-     "Daniela Chelminsky",
-     "Melissa Cabrera"
+     "Arushi Arnav",
+     "Lav R. Varshney",
+     "Megan Konar"
     ],
     "n_authors": 3,
     "open_access": true,
@@ -608,48 +446,5 @@
    }
   }
  ],
- "more": [
-  {
-   "title": "From Flood Susceptibility to Adaptation Priorities in an Arid City‐Region: Evidence From Sharjah, United…",
-   "url": "https://doi.org/10.1002/sd.71877",
-   "venue": "Sustainable Development",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Vegetation cover dynamics in the Modder River Basin, South Africa: evidence from climate drivers and land…",
-   "url": "https://doi.org/10.1080/17538947.2026.2757429",
-   "venue": "International Journal of Digital Earth",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Microclimatic regulation effects of landscape elements on university campus in a temperate monsoon climate…",
-   "url": "https://doi.org/10.1371/journal.pone.0362099",
-   "venue": "PLoS ONE",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Plastic mulching in agriculture: agronomic performance, residual film hazards, and green development…",
-   "url": "https://doi.org/10.3389/fsufs.2026.1947096",
-   "venue": "Frontiers in Sustainable Food Systems",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Sensitivities of sage‐grouse to weather and climate: Implications for indicator species in a…",
-   "url": "https://doi.org/10.1002/wmon.70023",
-   "venue": "Wildlife Monographs",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Agricultural Reuse of Aquaculture Effluents: Morphometric and Productive Responses of Forage Cactus and…",
-   "url": "https://doi.org/10.1007/s41101-026-00587-w",
-   "venue": "Water Conservation Science and Engineering",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "TriFusion-Karst: A spatially robust and hydrogeologically validated stacked-ensemble model for groundwater…",
-   "url": "https://doi.org/10.1007/s12665-026-13161-3",
-   "venue": "Environmental Earth Sciences",
-   "date": "2026-11-05"
-  }
- ]
+ "more": []
 }
