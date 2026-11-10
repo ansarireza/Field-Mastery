@@ -1,64 +1,64 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "lessons": [
   {
-   "id": "ea62c5208b",
-   "date": "2026-11-09",
-   "term": "Total economic value framework",
-   "area": "Ecosystem services valuation",
-   "kind": "framework",
-   "definition": "The total economic value framework categorizes various human benefits from ecosystems into distinct monetary and non-monetary values.",
-   "plain": "It helps researchers and planners list and measure all the ways nature helps people, from direct things like food and water to indirect benefits like climate cooling, plus cultural values and the intrinsic worth of nature itself.",
-   "example": "Valuing a peri-urban agricultural green space in Kabul by assessing crop yields, local cooling benefits, and community cultural uses.",
-   "connects": "It links ecosystem service supply with plural values and human benefits for environmental planning.",
-   "why_phd": "It helps you integrate diverse ecological benefits into comprehensive planning decisions for data-scarce cities.",
+   "id": "cffed8349f",
+   "date": "2026-11-10",
+   "term": "Polycentric governance systems",
+   "area": "Environmental governance",
+   "kind": "concept",
+   "definition": "Polycentric governance systems feature multiple independent decision-making centers with overlapping authorities.",
+   "plain": "Polycentric governance means spreading decision-making across multiple smaller groups instead of relying on one central authority. This helps cities manage resources better by involving local communities alongside formal offices.",
+   "example": "In a Global South city, neighborhood committees, municipal water boards, and NGOs share the work of managing local green spaces and stormwater.",
+   "connects": "It links to environmental planning and social-ecological systems for managing shared natural resources.",
+   "why_phd": "Vital for analyzing how fragmented urban areas in Kabul coordinate environmental planning across informal and formal sectors.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the main goal of the total economic value framework?",
-     "a": "To categorize and evaluate the diverse benefits humans receive from ecosystems."
+     "q": "What characterizes polycentric governance?",
+     "a": "Multiple independent decision-making centers with overlapping authorities."
     },
     {
-     "q": "Why is it useful for urban planning?",
-     "a": "It ensures both direct and indirect benefits of nature are considered in decisions."
+     "q": "Why is this relevant for cities like Kabul?",
+     "a": "It helps address complex environmental challenges across formal and informal settlement areas."
     }
    ],
-   "search": "total economic value framework urban ecosystems"
+   "search": "polycentric urban environmental governance"
   },
   {
-   "id": "1d1c28e3cd",
-   "date": "2026-11-09",
-   "term": "Isolation by distance",
+   "id": "6628424c33",
+   "date": "2026-11-10",
+   "term": "Ecologically deficit countries",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Isolation by distance means that genetic or ecological separation increases as the physical space between populations grows.",
-   "plain": "Imagine species living in patches of nature across a city. As the physical distance between these patches gets bigger, it becomes harder for plants or animals to move between them. This distance reduces the sharing of genes and slows down the recolonization of empty spaces.",
-   "example": "In a sprawling city like Kabul, birds or insects find it hard to cross large, dense built-up zones to move between distant mountain habitats and urban parks.",
-   "connects": "It links landscape configuration, habitat quality, and how urban fragmentation affects ecological functions.",
-   "why_phd": "It helps explain how urban expansion and settlement morphology disrupt ecological connectivity and species survival.",
+   "definition": "Ecologically deficit countries are nations where human consumption of natural resources outpaces their domestic ecological capacity.",
+   "plain": "An ecologically deficit country is a place where people use more nature—like food, water, and space—than the local environment can naturally renew. This forces the country to rely on resources from elsewhere or run down its own natural wealth.",
+   "example": "Many rapidly growing cities in arid parts of the Global South import water and food because local natural systems cannot meet urban demands.",
+   "connects": "It links ecosystem service supply with human demand and resource flows in urban environments.",
+   "why_phd": "It helps frame why Kabul and other data-scarce cities face severe ecological stress from rapid settlement growth.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does isolation by distance mean for ecological patches?",
-     "a": "As physical distance increases, movement and genetic sharing between populations decrease."
+     "q": "What defines an ecologically deficit country?",
+     "a": "Human consumption of natural resources exceeds its domestic ecological capacity."
     },
     {
-     "q": "How does urban expansion worsen this effect?",
-     "a": "By creating vast built-up areas that act as barriers, increasing the effective distance between habitats."
+     "q": "Why is this concept relevant to cities in the Global South?",
+     "a": "Rapid urban growth often increases local demand far beyond what nearby natural systems can supply."
     }
    ],
-   "search": "isolation by distance urban fragmentation"
+   "search": "ecologically deficit countries urban demand"
   }
  ],
- "total_learned": 24,
+ "total_learned": 26,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Polycentric governance systems",
    "Remote sensing for land cover",
    "Multidimensional poverty and well-being",
    "Conditional cash transfers in conservation",
-   "Postcolonial political ecology"
+   "Postcolonial political ecology",
+   "Indigenous knowledge and valuation"
   ],
   "stages": [
    "Foundation: understand concepts",

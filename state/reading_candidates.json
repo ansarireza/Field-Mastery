@@ -1,5 +1,203 @@
 [
  {
+  "id": "W7225468434",
+  "title": "Carbon sequestration and avoided emissions reveal the net carbon benefit of urban green space in Beijing (2000–2024)",
+  "headline": "Beijing's green spaces became net carbon positive by 2012",
+  "bullets": [
+   "Integrated ecosystem productivity, life-cycle emissions, and cooling-induced avoided emissions.",
+   "Found overall carbon budget became positive before net sequestration alone did around 2013.",
+   "Supports functionally differentiated green-space planning across urban-rural gradients."
+  ],
+  "plain": {
+   "question": "How do city green spaces affect carbon levels over time?",
+   "method": "Built a special tracking framework to measure carbon absorption and avoided emissions from cooling.",
+   "finding": "Green spaces absorbed more carbon and avoided emissions, shifting Beijing's carbon budget positive around 2012.",
+   "why": "Helps planners design better city green areas to fight climate change."
+  },
+  "full": {
+   "explainer": "Urban green spaces are often used to help fight climate change, but it is hard to compare their benefits because carbon absorption and emission reductions are usually measured separately. To solve this, researchers created a spatial tracking framework to look at Beijing's green spaces from 2000 to 2024. They combined net ecosystem productivity, life-cycle emissions, and avoided emissions caused by cooling. They found that Beijing's overall carbon budget became positive around 2012, slightly earlier than net carbon sequestration alone achieved in 2013. This happened because avoided emissions from cooling added extra benefits. The study showed that most carbon uptake came from large green areas in outer ecological zones, while avoided emissions were highest in central urban spots where more people live and need cooling. These findings show that cities should use different green-space strategies: keeping large nature areas at the edges, while placing green spaces strategically in busy central areas.",
+   "caveats": [
+    "Not stated whether findings apply to non-metropolitan settings or data-scarce cities.",
+    "Not stated how specific local conflict or informal settlements affect these metrics."
+   ],
+   "jargon": [
+    {
+     "term": "Net ecosystem productivity",
+     "definition": "The total amount of carbon dioxide taken up by vegetation minus what the ecosystem releases back."
+    },
+    {
+     "term": "Cooling-induced avoided emissions",
+     "definition": "Emissions prevented because urban green spaces cool the air, reducing energy needed for air conditioning."
+    },
+    {
+     "term": "Ecosystem carbon uptake",
+     "definition": "The process by which plants absorb carbon from the atmosphere and store it."
+    }
+   ],
+   "fit": "Connects by linking green space planning, cooling benefits, and carbon dynamics across urban-rural gradients using spatial frameworks."
+  },
+  "thesis": {
+   "why": "Connects urban cooling and green space planning to carbon benefits, showing how demand and supply locations differ across urban gradients.",
+   "action": "Check how they integrated cooling-induced avoided emissions with carbon sequestration.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How were life-cycle carbon emissions of the green spaces themselves accounted for alongside cooling benefits?",
+   "evidence": "The study integrated net ecosystem productivity, life-cycle carbon emissions, and cooling-induced avoided emissions within a spatially explicit framework.",
+   "limit": "The abstract does not detail the exact equations or parameter values used for life-cycle emission accounting.",
+   "check": "Verify the baseline parameterization and life-cycle emission inputs used in their carbon-budget framework."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.landurbplan.2026.105827",
+   "doi": "https://doi.org/10.1016/j.landurbplan.2026.105827",
+   "venue": "Landscape and Urban Planning",
+   "date": "2026-11-07",
+   "authors": [
+    "Kai Zhou",
+    "Yuanfei Hao",
+    "Yingshuo Lyu",
+    "Shoubang Huang",
+    "Hao Yin",
+    "Xi Zheng"
+   ],
+   "n_authors": 6,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225468033",
+  "title": "From mobility experiences to planning priorities: Co-creation embedded in peri-urban mobility planning",
+  "headline": "Co-creation turns travel experiences into planning priorities",
+  "bullets": [
+   "Used four co-creative activities in an Estonian peri-urban case study.",
+   "Found residents want diverse transport and safer active travel options.",
+   "Shows how co-creation translates lived experiences into planning priorities."
+  ],
+  "plain": {
+   "question": "How can we use people's travel stories to improve transport planning in sprawling outer areas?",
+   "method": "The researchers ran interactive group activities with local people, planners, and experts in an Estonian suburb.",
+   "finding": "Residents want safer walking paths and varied transport, but cars will still matter.",
+   "why": "It helps turn daily travel problems into real planning goals using local voices."
+  },
+  "full": {
+   "explainer": "Outer city areas often rely heavily on cars, making planning for multiple transport types complex. This study looks at how working directly with local residents through co-creative group activities can help solve this. The researchers tested this in a growing suburban neighborhood in Estonia by embedding their work into an actual planning process. Through four interactive activities, residents, planners, and researchers shared knowledge to identify travel challenges and solutions. The results show that people living in these areas are open to using different transport methods, but they need safer walking and biking paths, better access to local spots, and transport options that change with the seasons. Still, cars will remain important. Barriers like not knowing about current travel choices also affect behavior. Ultimately, the study proves that involving inhabitants in ongoing planning helps turn real-life travel experiences into useful policy priorities through collective learning and feedback.",
+   "caveats": [
+    "The study focuses on a middle-class suburban neighborhood in Estonia, so results may differ elsewhere.",
+    "Not stated whether findings apply directly to the Global South or conflict-affected cities."
+   ],
+   "jargon": [
+    {
+     "term": "Multimodal mobility",
+     "definition": "Using more than one form of transport, like walking, biking, and public transit."
+    },
+    {
+     "term": "Co-creation",
+     "definition": "A collaborative process where researchers, planners, and citizens create solutions together."
+    },
+    {
+     "term": "Peri-urban",
+     "definition": "The transition zone where urban and rural areas meet, often experiencing sprawl."
+    }
+   ],
+   "fit": "Connects to environmental planning and stakeholder involvement, though it focuses on transport in Europe rather than the Global South or Kabul."
+  },
+  "thesis": {
+   "why": "It shows a method for participatory planning and stakeholder engagement that could inform environmental planning approaches, though focused on transport.",
+   "action": "Check how their co-creation steps could apply to green space or ecosystem service planning.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can methods from a European middle-class suburb be transferred to data-scarce or conflict-affected settings?",
+   "evidence": "The study relies on an ongoing planning process and engaged residents in a stable Estonian suburban neighborhood.",
+   "limit": "The abstract does not show how these participatory methods function in informal settlements or the Global South.",
+   "check": "Verify if the full paper discusses the transferability of co-creation to different socioeconomic contexts."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.urbmob.2026.100315",
+   "doi": "https://doi.org/10.1016/j.urbmob.2026.100315",
+   "venue": "Journal of Urban Mobility",
+   "date": "2026-11-07",
+   "authors": [
+    "Õnne Kask",
+    "Tauri Tuvikene",
+    "Louise Sträuli",
+    "Samira Ramezani",
+    "Jos Arts"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225468522",
+  "title": "Impact of mobile money fraud detection mechanisms on fraud incidence in Somalia’s telecom sector",
+  "headline": "Advanced fraud detection lowers mobile money fraud in Somalia",
+  "bullets": [
+   "Used a quasi-experimental design across five telecom operators in Somalia over 12 months.",
+   "Found medium and high sophistication detection tools are linked to lower fraud incidence.",
+   "Shows advanced tools help in low-sanction areas, but struggle in conflict regions."
+  ],
+  "plain": {
+   "question": "Do fraud detection tools actually lower mobile money fraud in Somalia?",
+   "method": "Studied five telecom operators using surveys, transaction logs, and complaints.",
+   "finding": "Better tech tools are linked to much less fraud.",
+   "why": "It shows how digital finance can be made safer in weak governance settings."
+  },
+  "full": {
+   "explainer": "In Somalia, most adults use mobile money for daily payments, but weak consumer protection leads to fraud like SIM swapping and unauthorized reversals. This study tested if mobile phone companies using better fraud detection tools experience less actual fraud. The researchers looked at five different telecom operators over a twelve-month period. They combined a survey of technical staff, transaction logs, complaint records, and a detailed check of 60,000 transactions. They used statistical models to compare fraud rates. The results showed that companies using medium and high sophistication detection systems had notably lower fraud incidence. However, fraud still went up during Ramadan and in areas with more conflict. Interestingly, cross-border partnerships also helped lower fraud. The findings suggest that governments should enforce basic detection standards and require companies to report incidents, while also accounting for challenges like conflict and informal rules.",
+   "caveats": [
+    "Under-reporting of fraud obscures the true scale of incidents.",
+    "Not stated whether findings apply outside Somalia's telecom sector."
+   ],
+   "jargon": [
+    {
+     "term": "Quasi-experimental design",
+     "definition": "A study method that looks at an intervention without random assignment."
+    },
+    {
+     "term": "Negative binomial models",
+     "definition": "Statistical models used to analyze count data with high variability."
+    },
+    {
+     "term": "SIM swapping",
+     "definition": "A fraud type where a scammer takes over a victim's phone number."
+    }
+   ],
+   "fit": "Not stated as directly relevant to urban ecosystem services or Kabul, but relates to data-scarce and conflict-affected governance contexts."
+  },
+  "thesis": {
+   "why": "The abstract examines governance constraints and conflict-affected settings, paralleling challenges in Kabul.",
+   "action": "Check how the study handles under-reporting and data limitations in conflict settings.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How did the researchers account for under-reporting when measuring actual fraud?",
+   "evidence": "The abstract notes that under-reporting obscures the true scale of fraud, but relies on complaint records and logs.",
+   "limit": "The abstract does not specify the exact mathematical adjustment used to correct for hidden or unreported fraud.",
+   "check": "Verify how transaction sampling and survey data were combined to overcome under-reporting bias."
+  },
+  "relevance": 1,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1080/23322039.2026.2754611",
+   "doi": "https://doi.org/10.1080/23322039.2026.2754611",
+   "venue": "Cogent Economics & Finance",
+   "date": "2026-11-07",
+   "authors": [
+    "Abdifatah Nour Rage"
+   ],
+   "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225425628",
   "title": "From Biodiversity to Benefits",
   "headline": "Animal biodiversity and its role in human benefits",
@@ -314,6 +512,147 @@
     "Fatima Tassadiq"
    ],
    "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225072328",
+  "title": "Fire literacies: reading fire risks and histories in an Anthropocene harmscape",
+  "headline": "Residents in a Cape Town informal settlement read fire risks",
+  "bullets": [
+   "Used texts and photos by community co-researchers in a Cape Town informal settlement.",
+   "Revealed a harmscape where fire intersects with complex environmental and social risks.",
+   "Shows that reducing fire harms requires recognizing multidimensional social and material causes."
+  ],
+  "plain": {
+   "question": "How do people learn about and understand fire risks in an informal settlement that faces frequent fires?",
+   "method": "Community members shared words and photos to show how they experience and read fire risks in their area.",
+   "finding": "Fires are connected to many intersecting social, historical, and environmental problems in a dangerous landscape.",
+   "why": "Efforts to stop fire damage must look at the deep, complex social and material causes behind the fires."
+  },
+  "full": {
+   "explainer": "This paper looks at how people living in an informal settlement on the edge of Cape Town, South Africa, learn to understand and read fire risks. Because this area regularly suffers from runaway fires, community members worked as co-researchers to create verbal texts and photographs. Looking at these combined texts uncovers a dangerous environment, or harmscape, where fire is just one of many overlapping risks caused by environmental, political, and socio-economic issues. The texts show how residents learn to see the signs of past and future fires written onto their surroundings. The authors argue that trying to fix fire damage cannot be treated as a simple problem. Instead, people must understand that both the causes and effects of these fires are multidimensional and deeply tied to everyday experiences in a risky environment shaped by human actions.",
+   "caveats": [
+    "The study focuses on a specific informal settlement in Cape Town.",
+    "Evidence relies on qualitative texts and photographs produced by community co-researchers.",
+    "Not stated whether quantitative fire measurements or meteorological data were used."
+   ],
+   "jargon": [
+    {
+     "term": "Anthropocene harmscape",
+     "definition": "An environment shaped by human activity that is filled with intersecting hazards and harms."
+    },
+    {
+     "term": "Informal settlement",
+     "definition": "Residential areas where housing is built outside official planning and legal frameworks."
+    },
+    {
+     "term": "Place-literacies",
+     "definition": "The ability to read, interpret, and understand the history and risks inscribed in a specific place."
+    },
+    {
+     "term": "Multimodal texts",
+     "definition": "Communication materials that combine different forms, such as written text and photographs."
+    }
+   ],
+   "fit": "Connects to informal settlements and risk in the Global South, offering qualitative insights into everyday environmental hazards."
+  },
+  "thesis": {
+   "why": "It highlights how informal settlement residents perceive and experience environmental risks, complementing spatial modeling with lived socio-environmental realities.",
+   "action": "Check how the study's qualitative findings on risk align with spatial vulnerability indicators.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do qualitative community texts translate into actionable environmental planning for hazard mitigation?",
+   "evidence": "The abstract discusses how residents read fire risks in a harmscape and suggests planning must recognize multidimensional causes, but omits specific policy mechanisms.",
+   "limit": "It cannot establish direct causal links between specific socioeconomic interventions and reduced fire frequency or severity.",
+   "check": "Verify what specific planning frameworks or policy recommendations the full paper proposes based on these fire literacies."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.1332/27523349y2026d000000109",
+   "doi": "https://doi.org/10.1332/27523349y2026d000000109",
+   "venue": "Global Social Challenges Journal",
+   "date": "2026-11-06",
+   "authors": [
+    "Anna Wilson",
+    "Leif Petersen",
+    "Gill Black",
+    "Amber Louise Abrams",
+    "Kirsty Carden",
+    "Liezl Dick"
+   ],
+   "n_authors": 12,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225402677",
+  "title": "From the 2026 Hormuz disruption to renewable resilience: energy security and decarbonization governance in import-dependent economies",
+  "headline": "Renewable resilience in import-dependent economies",
+  "bullets": [
+   "Used Israel in 2026 to test risks of fossil-fuel dependence.",
+   "Found heavy exposure to distant chokepoints and domestic pollution.",
+   "Argues for distributed renewables as critical national infrastructure."
+  ],
+  "plain": {
+   "question": "How do import-dependent countries manage risks from relying on fossil fuels?",
+   "method": "Examined Israel using a four-part framework with government and health data.",
+   "finding": "Fossil fuel reliance causes high exposure, air pollution deaths, and water risks.",
+   "why": "Nations need renewable energy and storage treated as critical security infrastructure."
+  },
+  "full": {
+   "explainer": "Countries that rely on imported energy face major system risks because fossil fuels pass through very few narrow shipping lanes and centralized assets. This paper uses the 2026 disruption of the Strait of Hormuz and Israel as a case study to test these vulnerabilities. The authors create a four-part framework to assess chokepoint exposure, domestic fossil-fuel pollution costs, fossil-water infrastructure links, and security-oriented governance. They look at government, economic, and health data. The results show that Israel's fossil-heavy system ties its safety to distant shipping lanes, concentrates domestic gas in three offshore platforms, causes thousands of early deaths from air pollution, and exposes critical water desalination plants to oil spill risks. To fix this, the study argues that decentralized renewable energy, energy storage, and electric transport should be protected as vital national infrastructure. This shift should be backed by climate laws, financial tools, and security metrics, offering a useful model for other small, import-dependent nations.",
+   "caveats": [
+    "Fossil-fuel combustion is noted as a major but not exclusive contributor to the air pollution deaths.",
+    "Maritime oil-spill scenarios affecting desalination are described as low-probability, high-impact."
+   ],
+   "jargon": [
+    {
+     "term": "Chokepoint-exposure assessment",
+     "definition": "Evaluating risks from relying on narrow, vulnerable transportation bottlenecks for energy supply."
+    },
+    {
+     "term": "Fossil-fuel externalities",
+     "definition": "Hidden costs of fossil fuel use, such as air pollution and health damage, not paid in market prices."
+    },
+    {
+     "term": "Desalination system",
+     "definition": "Industrial infrastructure that removes salt from seawater to make it drinkable."
+    },
+    {
+     "term": "Transport electrification",
+     "definition": "Shifting vehicles from running on oil to running on electricity."
+    }
+   ],
+   "fit": "Provides context on infrastructure vulnerability, water-energy links, and security-oriented governance in semi-arid, import-dependent settings."
+  },
+  "thesis": {
+   "why": "Shows how infrastructure concentration and water-energy couplings create systemic vulnerabilities, which parallels urban resource access and environmental planning.",
+   "action": "Check if water-energy infrastructure dependencies are factored into local environmental vulnerability models.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does a national-scale energy security framework translate to urban ecosystem planning?",
+   "evidence": "The abstract focuses heavily on national chokepoints, offshore platforms, and macro-level security governance instruments rather than local urban dynamics.",
+   "limit": "It cannot establish how these national energy frameworks alter local urban ecosystem services or micro-scale land-cover planning.",
+   "check": "Verify whether the paper discusses urban spatial impacts or strictly macro-level national policy."
+  },
+  "relevance": 1,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.3389/fclim.2026.1985153",
+   "doi": "https://doi.org/10.3389/fclim.2026.1985153",
+   "venue": "Frontiers in Climate",
+   "date": "2026-11-06",
+   "authors": [
+    "Adi Levi",
+    "Zohar Barnett‐Itzhaki"
+   ],
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
@@ -1443,6 +1782,137 @@
   }
  },
  {
+  "id": "W7225230361",
+  "title": "Disappearing coastal communities and marine policy: Sustaining climate action through community-based waste intervention in Lagos, Nigeria",
+  "headline": "Community fragmentation breaks climate intervention continuity",
+  "bullets": [
+   "Examined a waste and climate intervention in Kadara, Lagos using field and documentary data.",
+   "Found that successful implementation does not ensure community continuity or long-term action.",
+   "Shows marine policy must account for community fragmentation when planning sustainable action."
+  ],
+  "plain": {
+   "question": "Can climate and waste projects survive when a coastal community breaks apart?",
+   "method": "Studied a community waste project in Lagos, Nigeria using field data and historical documents.",
+   "finding": "The project worked well at first, but the local community later fragmented and dispersed.",
+   "why": "Policies assume communities stay intact, but environmental decline causes them to disperse."
+  },
+  "full": {
+   "explainer": "Climate actions in coastal communities usually assume that the local population will stay put long enough for the benefits to last. However, this assumption is rarely tested in places struggling with severe environmental decline, poor waste services, and unstable livelihoods. This paper looks at a community-based waste and climate intervention in Kadara, a coastal settlement in Lagos, Nigeria. The project combined climate education, stakeholder engagement, waste recovery, volunteer work, and livelihood activities to fight marine dumping and a lack of formal waste services. While the project achieved immediate environmental and participation goals, a major continuity problem emerged later. Even though the physical place remained, the organized social community needed to carry out the environmental work no longer persisted in the same form. The findings show that a successful project and community ownership do not guarantee that the community itself will stay together. This raises a key question for marine policy: how do you sustain environmental knowledge and local capacities when the community expected to carry them forward fragments or changes?",
+   "caveats": [
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "marine dumping",
+     "definition": "The deliberate disposal of wastes or other matter into the ocean."
+    },
+    {
+     "term": "intervention continuity",
+     "definition": "The ability of an environmental project's benefits and actions to endure over time."
+    }
+   ],
+   "fit": "Connects to environmental planning and social stability in vulnerable settlements, highlighting risks of community fragmentation."
+  },
+  "thesis": {
+   "why": "It connects to the student's interest in urban planning, social-ecological systems, and informal settlements by showing how social disruption impacts local action.",
+   "action": "Check how the study defines community fragmentation and whether it relates to local land-cover or displacement drivers.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do you separate physical displacement from community fragmentation in project longevity?",
+   "evidence": "The abstract notes that a coastal place remains geographically identifiable while the organized social community no longer persists.",
+   "limit": "The abstract does not give quantitative metrics on the exact rate of population loss or dispersal.",
+   "check": "Verify how the authors measured the persistence of the organized social community versus physical presence."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+  "source": {
+   "url": "https://doi.org/10.1016/j.marpol.2026.107339",
+   "doi": "https://doi.org/10.1016/j.marpol.2026.107339",
+   "venue": "Marine Policy",
+   "date": "2026-11-04",
+   "authors": [
+    "Oluwatoyosi Abikoye",
+    "Abimbola Abikoye"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225239797",
+  "title": "Adaptive Thermal Comfort Assessment in Mixed-Mode Office Buildings Under Current and Future Sub-Saharan Tropical Hot and Dry Climate Scenarios",
+  "headline": "Mixed-mode cooling cuts energy while managing heat stress",
+  "bullets": [
+   "Tested office building cooling strategies under current and future climate scenarios",
+   "Found mixed-mode cooling uses half the energy of full air conditioning by 2090",
+   "Supports mixed-mode as a practical climate strategy for sub-Saharan offices"
+  ],
+  "plain": {
+   "question": "How do different cooling strategies perform in offices in hot, dry regions under future climate change?",
+   "method": "A computer model was used to test four cooling approaches in an office building in Burkina Faso from 2023 to 2090.",
+   "finding": "Passive cooling saves energy but causes severe discomfort, while mixed-mode uses half the energy of full air conditioning.",
+   "why": "It shows how buildings can stay comfortable and save energy as outdoor temperatures rise significantly."
+  },
+  "full": {
+   "explainer": "Researchers looked at how office buildings in hot, dry parts of sub-Saharan Africa handle rising temperatures caused by climate change. They used a computer model to test four different ways to cool a compressed earth brick office in Ouagadougou, Burkina Faso, looking at current conditions and future years up to 2090 using a high-emissions climate scenario. The strategies tested were free-running, natural ventilation, mixed-mode, and fully air-conditioned. They measured thermal comfort, meaning how comfortable people feel, and energy use. The results show that outdoor temperatures will rise sharply over time. Purely passive strategies use no energy but result in very high discomfort as the climate warms. Fully air-conditioned buildings use a lot of energy, reaching high demand by 2090. A mixed-mode strategy, which combines natural airflow with mechanical cooling, reduces discomfort while using about half the energy of full air conditioning. The study also found that window-opening habits shift rapidly as the climate gets hotter. This helps show how buildings can adapt to future heat.",
+   "caveats": [
+    "Validation across multiple zones and typologies is needed",
+    "Long-term evidence remains scarce outside this single tested framework"
+   ],
+   "jargon": [
+    {
+     "term": "Mixed-mode",
+     "definition": "A hybrid approach combining natural ventilation and mechanical air conditioning systems."
+    },
+    {
+     "term": "Adaptive thermal comfort",
+     "definition": "Human comfort assessed by how people adapt to indoor temperatures based on outdoor weather."
+    },
+    {
+     "term": "RCP8.5",
+     "definition": "A high-emissions greenhouse gas concentration pathway used for future climate scenarios."
+    },
+    {
+     "term": "PMV-PPD",
+     "definition": "Standard indices used to measure thermal comfort in air-conditioned indoor spaces."
+    }
+   ],
+   "fit": "Connects to environmental planning and climate adaptation in the Global South, though it focuses on buildings rather than urban scale."
+  },
+  "thesis": {
+   "why": "It evaluates adaptation strategies and future climate scenarios in a Global South setting, relating to environmental planning and local thermal conditions.",
+   "action": "Check how future climate scenarios are factored into local urban heat and cooling service planning.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does a single building model in Burkina Faso adequately represent broader urban thermal conditions?",
+   "evidence": "The study applies a stress-test framework to a single compressed earth bricks office in Ouagadougou, Burkina Faso.",
+   "limit": "It cannot establish how these thermal strategies scale up to city-wide urban cooling or wider urban ecosystem services.",
+   "check": "Verify if the paper discusses broader urban microclimate effects beyond the single office building."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.3390/buildings16214410",
+   "doi": "https://doi.org/10.3390/buildings16214410",
+   "venue": "Buildings",
+   "date": "2026-11-04",
+   "authors": [
+    "Alphonse Bouda",
+    "Césaire Hema",
+    "Adamah Messan",
+    "Tizane Daho",
+    "Shady Attia"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225191888",
   "title": "Urban blind spots: Informal settlements and the governance of migrant precarity",
   "headline": "Urban blind spots in migrant precarity governance",
@@ -1828,6 +2298,68 @@
    ],
    "n_authors": 9,
    "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225191190",
+  "title": "Opportunity costs of transboundary conservation: A resource potential perspective in the Altai Mountains",
+  "headline": "Opportunity costs of transboundary conservation",
+  "bullets": [
+   "Analyzed opportunity costs in the Altai Mountains through a resource potential perspective.",
+   "Result findings are not stated because the abstract text is missing.",
+   "Helps understand conservation trade-offs, though text details are not stated."
+  ],
+  "plain": {
+   "question": "What are the opportunity costs of transboundary conservation?",
+   "method": "A resource potential perspective was used.",
+   "finding": "Not stated in the abstract.",
+   "why": "It helps us see the hidden costs of protecting nature across borders."
+  },
+  "full": {
+   "explainer": "This paper looks at the opportunity costs of transboundary conservation using a resource potential perspective in the Altai Mountains. Because the provided text only includes a title and journal publication date with no detailed abstract body, specific methods, study steps, numerical results, and concrete conclusions are completely absent. In general scientific studies of this type, researchers examine what is lost or given up when areas are set aside for cross-border environmental protection, balancing ecological goals with human resource needs. However, since no further text was supplied in the abstract, we cannot describe the exact tools, data sources, or final takeaways of the study. Readers must consult the full paper to understand how the authors measured resource potential and what specific opportunity costs they uncovered in the Altai region.",
+   "caveats": [
+    "not stated",
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "transboundary conservation",
+     "definition": "Protecting natural areas that cross political or international borders."
+    },
+    {
+     "term": "opportunity costs",
+     "definition": "The benefits missed when choosing one alternative over another."
+    }
+   ],
+   "fit": "Connects to environmental planning and conservation trade-offs, though it focuses on mountain conservation rather than urban ecosystems."
+  },
+  "thesis": {
+   "why": "It addresses conservation planning and trade-offs, which relates broadly to environmental planning, but lacks an urban or Global South focus.",
+   "action": "Check the full text to see if any spatial modeling methods apply to your work.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How can a resource potential perspective inform urban ecosystem planning if the study lacks urban data?",
+   "evidence": "The abstract mentions a resource potential perspective in the Altai Mountains but provides no text or data details.",
+   "limit": "We cannot establish what specific methods or findings apply to urban settings or Kabul from the abstract alone.",
+   "check": "Verify whether the paper's framework for resource potential can be adapted for urban or peri-urban environments."
+  },
+  "relevance": 1,
+  "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
+  "source": {
+   "url": "https://doi.org/10.1016/j.apgeog.2026.104250",
+   "doi": "https://doi.org/10.1016/j.apgeog.2026.104250",
+   "venue": "Applied Geography",
+   "date": "2026-11-03",
+   "authors": [
+    "Li An",
+    "Lei Shen",
+    "Shuai Zhong",
+    "Delong Li"
+   ],
+   "n_authors": 4,
+   "open_access": false,
    "basis": "abstract"
   }
  },
@@ -3450,535 +3982,6 @@
     "Zhong Liang"
    ],
    "n_authors": 8,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224954972",
-  "title": "Paulownia biomass under drought and salinity: From stress adaptation to functional materials and biorefinery valorization",
-  "headline": "Review of Paulownia biomass under drought and salinity",
-  "bullets": [
-   "Reviewed Paulownia stress responses, wood properties, and biorefinery pathways.",
-   "Found performance varies widely and stress-grown benefits lack paired measurements.",
-   "Shows Paulownia needs site-matching before regional or industrial recommendations."
-  ],
-  "plain": {
-   "question": "How do drought and salt affect Paulownia trees and their use for materials?",
-   "method": "A review of field studies, stress tests, and wood processing research.",
-   "finding": "Tree growth varies a lot, and stress-grown benefits are unproven without tests.",
-   "why": "It shows we need careful testing before planting these trees for industry."
-  },
-  "full": {
-   "explainer": "As dry and salty lands grow due to climate change, people are interested in fast-growing trees like Paulownia for land rehabilitation and making materials. This review looks at how Paulownia species handle drought and high salt levels, and how their wood can be used. The authors look at field data, stress experiments, and laboratory studies using a framework that considers genetics, environment, and management. They find that while these trees grow quickly, their performance varies a lot depending on the water, soil, and clone type. Available studies do not show a clear, universal limit for drought or salt tolerance. Furthermore, laboratory tests show that processing is possible, but they do not prove that using stressed trees is better than normal trees. The paper concludes that Paulownia is a management-dependent option requiring careful site-matching. More field checks, genetic identification, and soil measurements are needed before making big regional recommendations.",
-   "caveats": [
-    "Universal drought or salinity thresholds are not established.",
-    "Comparative superiority across environments and lower invasion risk remain unverified.",
-    "Stressed-grown feedstock benefits are not established without paired measurements."
-   ],
-   "jargon": [
-    {
-     "term": "biorefinery",
-     "definition": "A facility that integrates biomass conversion processes to produce fuels, power, and chemicals."
-    },
-    {
-     "term": "lignocellulosic",
-     "definition": "Plant dry matter composed of lignin, cellulose, and hemicellulose."
-    },
-    {
-     "term": "fractionation",
-     "definition": "Separating plant biomass into its constituent parts for different uses."
-    }
-   ],
-   "fit": "It covers woody biomass management under semi-arid conditions, relevant to land-cover and environmental planning in dry regions."
-  },
-  "thesis": {
-   "why": "It explores plant performance in semi-arid and stressed environments, offering context on vegetation and land management.",
-   "action": "Check how the review handles site matching for vegetation in drylands.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Can stress-grown biomass be assumed to provide industrial or ecological benefits?",
-   "evidence": "The abstract explicitly notes that processing results establish feasibility but cannot establish advantages of stress-grown biomass without paired feedstock measurements.",
-   "limit": "The abstract does not establish whether stress-grown wood is superior or inferior for industrial or biorefinery end uses.",
-   "check": "Verify if the full paper provides any direct comparative data between stress-grown and normal feedstock."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.12912/27197050/240292",
-   "doi": "https://doi.org/10.12912/27197050/240292",
-   "venue": "Ecological Engineering & Environmental Technology",
-   "date": "2026-10-30",
-   "authors": [
-    "S.M. Valiyeva",
-    "Amrahov Nurlan Rashid",
-    "Haji Vahid Akhundzada",
-    "Ulviyya Alimammad Hasanova",
-    "Akif Salehov",
-    "A.Kh. Mammadov"
-   ],
-   "n_authors": 10,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225184517",
-  "title": "Sea-level rise drives unequal erosion of global ecosystem service value",
-  "headline": "Sea-level rise causes unequal global ecosystem losses",
-  "bullets": [
-   "Assessed global ecosystem-service value exposure to sea-level rise under five SSP pathways.",
-   "Found annual value losses between 130.06 and 339.41 billion dollars by 2100 depending on path.",
-   "Revealed a systemic mismatch where low-responsibility small islands face high relative losses."
-  ],
-  "plain": {
-   "question": "How does sea-level rise affect the value of nature's benefits globally?",
-   "method": "We used climate projections and valuation models to study losses from 2030 to 2100.",
-   "finding": "Billions of dollars in ecosystem value will be lost, hitting small islands the hardest.",
-   "why": "It shows a major injustice between historic polluters and those suffering the worst impacts."
-  },
-  "full": {
-   "explainer": "Sea-level rise is quickly changing coastal areas, but its global effects on the value of nature's benefits are still poorly understood. This study looks at how exposed global ecosystem-service values are to sea-level rise between 2030 and 2100 using five different shared socioeconomic pathways and IPCC projections. The results show that annual income-adjusted ecosystem-service value losses in the year 2100 will range from about 130 billion to nearly 340 billion international dollars. While built-up surfaces and croplands account for most of the absolute losses, wetlands suffer the greatest relative losses. The study also uncovers a major unfairness: countries with low historical carbon responsibility, like small island and delta states, face disproportionately high relative declines in nature's value compared to large countries like China and the United States. This highlights hotspots of nature loss that can help guide adaptation and loss-and-damage talks.",
-   "caveats": [
-    "Exact causal mechanisms between individual local policies and specific losses are not stated.",
-    "Detailed localized adaptation responses within individual cities or sub-national areas are not stated."
-   ],
-   "jargon": [
-    {
-     "term": "ecosystem-service value",
-     "definition": "The monetary measurement of the benefits that human societies receive from natural environments."
-    },
-    {
-     "term": "shared socioeconomic pathways",
-     "definition": "Scenarios of projected socio-economic global changes used to model future climate impacts."
-    },
-    {
-     "term": "ESV injustice index",
-     "definition": "A metric measuring the mismatch between historical carbon responsibility and future ecosystem losses."
-    }
-   ],
-   "fit": "Connects via global environmental planning, unequal impacts on vulnerable regions, and valuation methods for ecosystem service losses."
-  },
-  "thesis": {
-   "why": "It connects to environmental planning, valuation methods, and spatial inequality in ecosystem service benefits, though it focuses on global sea-level rise rather than land-cover change in Kabul.",
-   "action": "Check the valuation modeling approach to see if similar economic valuation methods apply to urban water and cooling services.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can global economic valuation models accurately reflect the localized plural values of coastal ecosystems in diverse regions?",
-   "evidence": "The study uses detailed valuation modeling over 2030-2100 across five shared socioeconomic pathways to compute broad monetary losses like billions of Int$2020yr-1.",
-   "limit": "The abstract does not establish localized qualitative community values or specific on-the-ground ecological responses for individual coastal settlements.",
-   "check": "Verify how income adjustments and valuation coefficients were applied across vastly different national economies in the full text."
-  },
-  "relevance": 3,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1093/pnasnexus/pgag339",
-   "doi": "https://doi.org/10.1093/pnasnexus/pgag339",
-   "venue": "PNAS Nexus",
-   "date": "2026-10-30",
-   "authors": [
-    "Hongyu Hu",
-    "Yaping Chen",
-    "Dong Xu",
-    "Yue Zhu",
-    "Jiankun He",
-    "Qinglong Shao"
-   ],
-   "n_authors": 6,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224659150",
-  "title": "Arborização Urbana como Estratégia de Adaptação Climática",
-  "headline": "Urban trees help climate adaptation in Brazil",
-  "bullets": [
-   "Examined Brazilian climate rules, national plans, and the 3-30-300 urban tree rule",
-   "Found that Brazil's new rules improve planning, but unequal land and data gaps limit them",
-   "Shows tree planning needs fair funding, local management, and tracking to work well"
-  ],
-  "plain": {
-   "question": "How does Brazil use city trees to adapt to climate change?",
-   "method": "The study reviewed documents, books, and international rules on city trees.",
-   "finding": "New rules help plan city trees, but unequal areas and missing data create big limits.",
-   "why": "It shows that city tree plans need fair access and good local management to succeed."
-  },
-  "full": {
-   "explainer": "This paper looks at how Brazil is using urban tree planting to adapt to climate change. The author studies new national guidelines, official rules, and a well-known international idea called the 3-30-300 rule, which deals with seeing trees from home, having tree cover in neighborhoods, and living close to a park. Using a qualitative approach based on document review, the research explores how these policies try to fix historical inequalities where green spaces are unevenly distributed across cities. The analysis shows that Brazil's new legal framework successfully sets targets for expanding green cover and improving local planning. However, the study points out major obstacles: unequal territory, a lack of spatial data, and big differences in how well local governments can manage these projects. Ultimately, the paper concludes that using trees for climate adaptation only works if cities combine land planning with social justice, ongoing monitoring, and stronger local government capacity.",
-   "caveats": [
-    "Territorial inequality limits the effectiveness of urban tree strategies",
-    "Insufficient spatial data hinders implementation",
-    "Differences in institutional capacity among municipalities affect success"
-   ],
-   "jargon": [
-    {
-     "term": "arborização urbana",
-     "definition": "The planting and management of trees within cities."
-    },
-    {
-     "term": "regra 3-30-300",
-     "definition": "A guideline: see 3 trees from home, 30 percent neighborhood tree cover, and 300m to a park."
-    },
-    {
-     "term": "vulnerabilidades socioespaciais",
-     "definition": "Social and economic risks tied to specific urban locations and unequal infrastructure."
-    }
-   ],
-   "fit": "It connects by examining how urban green policies and climate rules address unequal green space distribution and planning gaps in the Global South."
-  },
-  "thesis": {
-   "why": "It shows how national policy frameworks and spatial planning goals address urban green space inequality in a Global South setting.",
-   "action": "Check how the study defines and measures spatial data gaps and institutional capacity differences.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How were specific municipal failures or data gaps measured without quantitative spatial analysis?",
-   "evidence": "The abstract mentions spatial data shortages and institutional differences, but relies on qualitative document review and literature.",
-   "limit": "The abstract does not state specific quantitative metrics or case studies used to measure local government capacity.",
-   "check": "Verify if the full paper provides empirical examples of municipal performance under the new rules."
-  },
-  "relevance": 3,
-  "watch": "Cites your reference doi:10.1016/j.ecoser.2017.02.021",
-  "source": {
-   "url": "https://doi.org/10.22479/texturav20n1p01_25",
-   "doi": "https://doi.org/10.22479/texturav20n1p01_25",
-   "venue": "Textura",
-   "date": "2026-10-29",
-   "authors": [
-    "Rafaelle Silva Santos",
-    "Rhadson Rezende Monteiro"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224191365",
-  "title": "From episodic to recurrent: progression of compound dry-hot hydroclimatic stress in Delhi, India",
-  "headline": "Compound dry-hot stress shifts from episodic to recurrent",
-  "bullets": [
-   "Analyzed compound dry-hot hydroclimatic stress progression in Delhi",
-   "Found a shift from episodic to recurrent compound dry-hot stress",
-   "Highlights increasing climate stress risks in major urban areas"
-  ],
-  "plain": {
-   "question": "How does compound dry-hot weather change over time in Delhi?",
-   "method": "Studied hydroclimatic stress data over time to track changes.",
-   "finding": "Compound dry-hot stress changed from occasional to frequent.",
-   "why": "It shows how climate pressures are worsening in growing cities."
-  },
-  "full": {
-   "explainer": "This paper looks at Delhi, India, to see how extreme weather changes over time. Specifically, it studies compound dry-hot hydroclimatic stress, which means combining dry conditions with high heat. The researchers found that this type of stress has changed from being episodic, meaning it happened only occasionally as separate events, to becoming recurrent, meaning it now happens repeatedly and consistently. This shift highlights growing climate challenges in urban environments in the Global South, offering important insights into how extreme weather patterns evolve in densely populated regions.",
-   "caveats": [
-    "Not stated",
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "compound dry-hot hydroclimatic stress",
-     "definition": "Combined stress from dry conditions and high heat affecting water and climate systems."
-    },
-    {
-     "term": "episodic",
-     "definition": "Happening occasionally or as separate, distinct events rather than continuously."
-    },
-    {
-     "term": "recurrent",
-     "definition": "Happening repeatedly over time."
-    }
-   ],
-   "fit": "Examines urban climate stress in a Global South megacity, aiding comparative analysis on urban cooling and heat mitigation."
-  },
-  "thesis": {
-   "why": "It offers context on urban heat and climate stress dynamics in a Global South city, which helps frame urban cooling and environmental planning challenges.",
-   "action": "Check if the study links heat stress to urban land-cover changes or green infrastructure.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does this study link climate stress directly to urban land-cover changes?",
-   "evidence": "The abstract mentions compound dry-hot hydroclimatic stress in Delhi but does not explicitly mention land-cover or vegetation.",
-   "limit": "We cannot establish whether urban sprawl or loss of green space caused the recurrent stress.",
-   "check": "Verify if the full paper analyzes spatial land-cover drivers behind the shift."
-  },
-  "relevance": 3,
-  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-  "source": {
-   "url": "https://doi.org/10.1007/s10113-026-02712-w",
-   "doi": "https://doi.org/10.1007/s10113-026-02712-w",
-   "venue": "Regional Environmental Change",
-   "date": "2026-10-29",
-   "authors": [
-    "Vaishnavi Sahu",
-    "Chaitanya Raj",
-    "Somil Swarnkar",
-    "Vikas Poonia"
-   ],
-   "n_authors": 4,
-   "open_access": false,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224515113",
-  "title": "Analyzing the effectiveness of urban water bodies in mitigating Urban Heat Island using geo-statistical methods",
-  "headline": "Small water bodies cool cities efficiently",
-  "bullets": [
-   "Used Landsat 8 and geostatistics to study cooling effects of water bodies.",
-   "Found small lakes or artificial water features can optimize urban cooling.",
-   "Helps improve landscape management and urban environmental sustainability."
-  ],
-  "plain": {
-   "question": "How well do different water bodies cool down cities during hot summer months?",
-   "method": "We used satellite images and statistical tools to measure how water cools the surrounding area.",
-   "finding": "Bigger water bodies cool further, but well-placed smaller lakes work well in tight spaces.",
-   "why": "This helps planners arrange water features smartly to fight urban heat and climate change."
-  },
-  "full": {
-   "explainer": "Cities often get much hotter than surrounding rural areas, a problem known as the Urban Heat Island effect. While previous research mostly looked at large lakes, this study examines how water bodies of various sizes and types help cool cities down, especially during hot summer months. The researchers looked at cooling performance, how far the cooling reaches, and the efficiency of smaller or medium-sized artificial water features, which are often ignored. They used satellite images from Landsat 8 along with computer programs like Python, R, ArcGIS, and SPSS to analyze spatial cooling patterns. They found that while bigger water bodies extend their cooling effects proportionally, compact urban environments can achieve optimal cooling through strategically arranged smaller lakes or simple artificial water features. This shows that careful landscape management can enhance how water bodies and surrounding land cover reduce heat. Ultimately, integrating these water features into urban ecosystems supports broader environmental goals.",
-   "caveats": [
-    "Not stated",
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "Urban Heat Island",
-     "definition": "An urban area significantly warmer than its surrounding rural areas due to human activities."
-    },
-    {
-     "term": "Kernel density theory",
-     "definition": "A spatial analysis method used to calculate the density of features across a continuous space."
-    },
-    {
-     "term": "Evapotranspiration",
-     "definition": "The process where water is transferred from the land to the atmosphere by evaporation and plants."
-    },
-    {
-     "term": "Geostatistical tools",
-     "definition": "Statistical methods used to analyze data that varies across geographic space."
-    }
-   ],
-   "fit": "Connects to urban cooling, heat mitigation, green-blue infrastructure, and spatial modeling for environmental planning in urban areas."
-  },
-  "thesis": {
-   "why": "It addresses urban cooling and heat mitigation using spatial tools, offering insights into water feature arrangements that apply to urban planning and green-blue infrastructure.",
-   "action": "Check how the study defines optimal cooling thresholds and spatial arrangements for smaller water features.",
-   "relationship": "supports"
-  },
-  "critical": {
-   "question": "How were the specific cooling distances and threshold values for smaller water bodies quantitatively measured?",
-   "evidence": "The abstract mentions that cooling efficiency and threshold values remain underexplored and were analyzed using kernel density and regression.",
-   "limit": "The abstract does not state the exact numeric cooling distances, climate zones tested, or specific urban density metrics used.",
-   "check": "Verify the exact regression models and climatic conditions used to ensure transferability to semi-arid settings."
-  },
-  "relevance": 5,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.3846/jeelm.2026.26053",
-   "doi": "https://doi.org/10.3846/jeelm.2026.26053",
-   "venue": "Journal of Environmental Engineering and Landscape Management",
-   "date": "2026-10-29",
-   "authors": [
-    "Nada Tarek Ali Abdalla",
-    "Mohga E. Embaby",
-    "Ali Essam El-Shazly"
-   ],
-   "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224514832",
-  "title": "Quantifying urban heat: A spatiotemporal study of climate change and population growth in Ikorodu, Lagos, Nigeria",
-  "headline": "Urban growth raises local temperatures in Lagos",
-  "bullets": [
-   "Analyzed simulated weather, population, and heat data in Ikorodu from 2010 to 2024.",
-   "Found a 0.03°C annual temperature rise driven by rapid urban growth and building density.",
-   "Warns that unmanaged expansion risks health and urges green spaces and better planning."
-  ],
-  "plain": {
-   "question": "How do climate change and fast city growth affect local temperatures in a growing area of Nigeria?",
-   "method": "The study used simulated datasets from weather records, climate projections, and population statistics from 2010 to 2024.",
-   "finding": "Temperatures rose by about 0.03 degrees Celsius each year, with the highest heat found in densely built areas.",
-   "why": "Unchecked city growth without good planning increases public health risks, energy demand, and heat discomfort."
-  },
-  "full": {
-   "explainer": "This paper looks at how climate change and rapid city growth change local weather in growing areas of the Global South. It focuses on Ikorodu, a fast-expanding peri-urban area in Lagos State, Nigeria. Because cities often become warmer than surrounding undeveloped land, the study examines how temperature trends relate to population growth and spatial heat patterns from 2010 to 2024. Using simulated datasets based on real meteorological records, climate projections, and population statistics, the authors tracked changes over time. The results show an average temperature increase of about 0.03 degrees Celsius every year, alongside population growth surging from 1.0 million to over 1.9 million people. Heat maps reveal that the highest temperatures concentrate in densely built-up areas, showing how land-use change and urban form shape heat distribution. The authors conclude that without climate-smart planning, future growth will worsen public health risks and energy demand. They recommend adding green spaces, climate-friendly buildings, and better land-use planning.",
-   "caveats": [
-    "The study relies on simulated datasets rather than direct observational records.",
-    "Causal effects of specific settlement statuses are not tested beyond spatial associations."
-   ],
-   "jargon": [
-    {
-     "term": "urban heat island (UHI) effect",
-     "definition": "A phenomenon where built-up urban areas experience higher temperatures than surrounding less-developed areas."
-    },
-    {
-     "term": "peri-urban area",
-     "definition": "An area located immediately adjacent to a city or town, often transitioning from rural to urban land use."
-    }
-   ],
-   "fit": "It explores urban growth, land-use change, and heat distribution in the Global South, matching urban cooling and planning goals."
-  },
-  "thesis": {
-   "why": "It connects rapid urban growth, land-cover change, and local heat distribution in a Global South setting, aligning with urban cooling and environmental planning themes.",
-   "action": "Check how the study validates its simulated datasets against real-world observations.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How reliable are conclusions drawn entirely from simulated datasets?",
-   "evidence": "The abstract explicitly states the study used simulated but realistic datasets derived from agency records and projections.",
-   "limit": "The abstract does not state whether actual field temperature measurements were used to cross-verify the simulation.",
-   "check": "Verify the exact modeling techniques and validation steps used for the simulated temperature data."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.5897/ajest2026.3491",
-   "doi": "https://doi.org/10.5897/ajest2026.3491",
-   "venue": "African Journal of Environmental Science and Technology",
-   "date": "2026-10-29",
-   "authors": [
-    "Ramon Ibrahim Oladayo",
-    "Sunday Eniolawun Olaleke",
-    "Patel Nilanchal",
-    "James Oyebanji Toba"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224644486",
-  "title": "Cooling effect of urban green spaces in Berlin (Germany): Comparative analysis of parks, cemeteries, and allotments using buffer analysis",
-  "headline": "Cemeteries and allotments cool cities too",
-  "bullets": [
-   "Analyzed cooling in 230 parks, 154 cemeteries, and 512 allotments in Berlin.",
-   "Parks reached furthest (259m), but cemeteries showed the highest cooling intensity.",
-   "Shows urban planners must use diverse green spaces, not just traditional parks."
-  ],
-  "plain": {
-   "question": "How well do different green spaces cool a city?",
-   "method": "Used satellite images to check the cooling effects of parks, cemeteries, and allotments in Berlin.",
-   "finding": "Parks reach further, but cemeteries cool things down the most.",
-   "why": "Helps planners use all kinds of green spaces to fight city heat."
-  },
-  "full": {
-   "explainer": "Cities get very hot, and green spaces help cool them down. While researchers usually study regular parks, other green areas like cemeteries and community gardens also exist. This study looked at Berlin, Germany, to compare how well parks, cemeteries, and allotments cool the surrounding city. The researchers used satellite images from six different dates. They measured three things: how far the cooling reaches, how intense the cooling is, and the total cooling area. They also looked at what factors inside and around these green spaces affect their cooling power. The results show that parks reach the furthest distance, but cemeteries actually have the highest cooling intensity. Allotment gardens also provide cooling, though less. Vegetation and nearby hard surfaces affect how well these places cool. The study proves that cemeteries and gardens help fight urban heat just like parks do. This means city planners should include many types of green spaces to improve comfort in crowded, built-up areas.",
-   "caveats": [
-    "Study is limited to Berlin, Germany.",
-    "Only uses Landsat 8 TM images over six dates.",
-    "Not stated how other cities or climates compare."
-   ],
-   "jargon": [
-    {
-     "term": "Urban Heat Island",
-     "definition": "A metropolitan area that is significantly warmer than its surrounding rural areas due to human activities."
-    },
-    {
-     "term": "Buffer Analysis",
-     "definition": "A geographic tool used to create zones around features to measure what is nearby."
-    },
-    {
-     "term": "Impervious Surfaces",
-     "definition": "Artificial structures like roofs and roads that prevent water from soaking into the ground."
-    }
-   ],
-   "fit": "Provides a transferable method and cooling evidence relevant to urban cooling and green-blue infrastructure planning."
-  },
-  "thesis": {
-   "why": "It evaluates urban cooling and green space performance using buffer analysis, matching the student's interest in urban cooling methods.",
-   "action": "Check how the study defines and measures cooling capacity indicators like PCD and PCI.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Can buffer analysis and satellite data alone reliably capture human thermal comfort benefits?",
-   "evidence": "The study used Landsat 8 TM images and buffer analysis to determine cooling distance, intensity, and area for different green spaces.",
-   "limit": "The abstract does not report direct measurements of human exposure, social access, or actual thermal comfort benefits experienced by people.",
-   "check": "Verify how ground-level temperatures or microclimate variations were validated against satellite thermal data."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1016/j.cacint.2026.100522",
-   "doi": "https://doi.org/10.1016/j.cacint.2026.100522",
-   "venue": "City and Environment Interactions",
-   "date": "2026-10-29",
-   "authors": [
-    "Niklas Stuhrmann",
-    "Yannik Sülzer",
-    "Bernd Marschner",
-    "Britta Stumpe"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7224639912",
-  "title": "Indigenous Peoples and the Rights of Nature: A comparative analysis of environmental justice from the Philippines to the global stage",
-  "headline": "Rights of Nature laws protect indigenous peoples",
-  "bullets": [
-   "Compared legal cases on indigenous rights and nature from multiple countries.",
-   "Found that Rights of Nature frameworks fill gaps in human-centered laws.",
-   "Shows how legal integration protects vulnerable environments and defenders."
-  ],
-  "plain": {
-   "question": "Can giving nature legal rights help protect indigenous peoples and the environment?",
-   "method": "Compared global court cases and laws from the Philippines, Kenya, and Australia.",
-   "finding": "Traditional laws are too weak, but giving nature its own legal standing helps bridge gaps.",
-   "why": "It offers a better way to protect nature and vulnerable indigenous defenders."
-  },
-  "full": {
-   "explainer": "This paper looks at the 'Rights of Nature' framework, which says that nature has its own legal rights separate from human economic rights. To work, courts must recognize nature's legal standing. The study connects this idea with the rights of Indigenous Peoples, arguing that putting these rights into state legal systems improves protection in biodiverse countries. It highlights the Philippines, a mega-biodiverse country where environmental defenders face extreme danger and legal remedies are very hard to use. By looking at global examples, such as the Endorois case in Kenya and the Torres Strait Islanders case in Australia, the article shows how traditional human-centered laws leave people at risk. The author concludes that using the Rights of Nature framework can strengthen protection for indigenous rights and lead to more sustainable environmental justice across different countries.",
-   "caveats": [
-    "The abstract does not provide quantitative data or empirical measurements.",
-    "Specific local outcomes in the Philippines are not fully detailed."
-   ],
-   "jargon": [
-    {
-     "term": "Rights of Nature",
-     "definition": "A legal framework stating nature has inherent rights independent of humans."
-    },
-    {
-     "term": "Anthropocentric",
-     "definition": "Focusing primarily on human needs, values, and interests."
-    },
-    {
-     "term": "Jurisprudence",
-     "definition": "The theory or philosophy of law, or a system of laws."
-    }
-   ],
-   "fit": "Connects to environmental planning, governance, and justice in the Global South by examining legal rights for nature and indigenous peoples."
-  },
-  "thesis": {
-   "why": "It offers broader context on environmental governance, plural values, and justice in the Global South, although it focuses on legal rights rather than urban ecosystems.",
-   "action": "Check how legal rights for nature might intersect with urban green-blue infrastructure planning.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does a rights-of-nature legal framework directly improve actual environmental conditions or ecosystem service supply?",
-   "evidence": "The abstract discusses legal standing, court cases, and protections for indigenous rights, but does not provide evidence of physical ecological improvements.",
-   "limit": "We cannot establish whether legal recognition actually halts environmental degradation or improves urban ecosystem services.",
-   "check": "Verify if the full paper discusses practical implementation challenges or just theoretical legal integration."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1111/reel.70092",
-   "doi": "https://doi.org/10.1111/reel.70092",
-   "venue": "Review of European Comparative & International Environmental Law",
-   "date": "2026-10-29",
-   "authors": [
-    "Josiah David Quising"
-   ],
-   "n_authors": 1,
    "open_access": true,
    "basis": "abstract"
   }

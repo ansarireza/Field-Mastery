@@ -1,383 +1,469 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "summary": [
-  "Regional surpluses mask local urban ecosystem service deficits.",
-  "Urban sprawl and investments change landscapes and open spaces.",
-  "Open defecation degrades cultural services in forest areas."
+  "Community fragmentation and continuity challenges in climate interventions.",
+  "Urban environmental risks, carbon budgets, and planning priorities.",
+  "Energy efficiency, fraud detection, and renewable resilience."
  ],
  "items": [
   {
-   "id": "W7225333360",
-   "title": "Supply–Demand Differentiation and Ecological Functional Zoning of Ecosystem Services in the Pearl River Basin Based on Explainable Ensemble Machine Learning",
-   "headline": "Regional surplus masks urban ecosystem service deficits",
+   "id": "W7225230361",
+   "title": "Disappearing coastal communities and marine policy: Sustaining climate action through community-based waste intervention in Lagos, Nigeria",
+   "headline": "Community fragmentation breaks climate intervention continuity",
    "bullets": [
-    "Mapped water, carbon, soil, and habitat supply and demand from 2000 to 2020",
-    "Found regional service surpluses mask growing local deficits in urban areas",
-    "Helps target local ecological management and zoning in rapidly urbanizing basins"
+    "Examined a waste and climate intervention in Kadara, Lagos using field and documentary data.",
+    "Found that successful implementation does not ensure community continuity or long-term action.",
+    "Shows marine policy must account for community fragmentation when planning sustainable action."
    ],
    "plain": {
-    "question": "How do supplies and needs of nature benefits change across a growing river basin?",
-    "method": "Used computer models and data maps to track changes from 2000 to 2020.",
-    "finding": "Overall nature supplies stayed positive, but cities showed large local shortages.",
-    "why": "This helps planners spot where nature is running low near growing cities."
+    "question": "Can climate and waste projects survive when a coastal community breaks apart?",
+    "method": "Studied a community waste project in Lagos, Nigeria using field data and historical documents.",
+    "finding": "The project worked well at first, but the local community later fragmented and dispersed.",
+    "why": "Policies assume communities stay intact, but environmental decline causes them to disperse."
    },
    "full": {
-    "explainer": "As cities grow rapidly, looking at a whole region can hide local problems. This study looks at the Pearl River Basin to see how the supply and demand for four nature-based benefits—water yield, carbon storage, soil conservation, and habitat quality—changed between 2000 and 2020. The researchers combined standard environmental models with advanced machine learning and grouping methods to see where nature benefits are abundant and where they are running short. They found that while the region as a whole looks healthy, cities like Guangzhou, Foshan, and others face growing shortages, especially for carbon storage and water. For example, carbon demand soared by over two hundred percent in growing urban areas. The team used machine learning to figure out which factors drive these shortages, discovering that things like rainfall, population growth, and human disturbances play major roles. Finally, they used clustering tools to divide the basin into different zones, helping leaders figure out where to focus protection and management.",
+    "explainer": "Climate actions in coastal communities usually assume that the local population will stay put long enough for the benefits to last. However, this assumption is rarely tested in places struggling with severe environmental decline, poor waste services, and unstable livelihoods. This paper looks at a community-based waste and climate intervention in Kadara, a coastal settlement in Lagos, Nigeria. The project combined climate education, stakeholder engagement, waste recovery, volunteer work, and livelihood activities to fight marine dumping and a lack of formal waste services. While the project achieved immediate environmental and participation goals, a major continuity problem emerged later. Even though the physical place remained, the organized social community needed to carry out the environmental work no longer persisted in the same form. The findings show that a successful project and community ownership do not guarantee that the community itself will stay together. This raises a key question for marine policy: how do you sustain environmental knowledge and local capacities when the community expected to carry them forward fragments or changes?",
     "caveats": [
-     "Study area is limited to the Pearl River Basin",
-     "Analysis covers the period from 2000 to 2020",
-     "Not stated for other global regions or Kabul"
+     "Not stated",
+     "Not stated"
     ],
     "jargon": [
      {
-      "term": "Ecosystem service supply-demand ratio",
-      "definition": "A measure comparing what nature provides against what people use."
+      "term": "marine dumping",
+      "definition": "The deliberate disposal of wastes or other matter into the ocean."
      },
      {
-      "term": "SHAP analysis",
-      "definition": "A method to explain how different factors influence machine learning predictions."
-     },
-     {
-      "term": "Gaussian mixture model",
-      "definition": "A clustering tool used to group data points into different categories."
+      "term": "intervention continuity",
+      "definition": "The ability of an environmental project's benefits and actions to endure over time."
      }
     ],
-    "fit": "Connects supply-demand gaps and modeling approaches to urban ecosystem services and planning."
+    "fit": "Connects to environmental planning and social stability in vulnerable settlements, highlighting risks of community fragmentation."
    },
    "thesis": {
-    "why": "It demonstrates how to analyze supply-demand gaps and use advanced machine learning models for spatial zoning, relevant to urban environmental planning.",
-    "action": "Check how they integrated the InVEST model with machine learning algorithms for scenario work.",
-    "relationship": "method"
+    "why": "It connects to the student's interest in urban planning, social-ecological systems, and informal settlements by showing how social disruption impacts local action.",
+    "action": "Check how the study defines community fragmentation and whether it relates to local land-cover or displacement drivers.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "Does a regional method work for fine-scale urban planning in data-scarce settings?",
-    "evidence": "The abstract relies on extensive regional data inputs and advanced machine learning for a massive river basin over a twenty-year period.",
-    "limit": "The abstract does not show how these complex machine learning workflows perform in data-scarce or conflict settings.",
-    "check": "Verify if the machine learning approach can be adapted or if simpler models are better for data-scarce areas."
+    "question": "How do you separate physical displacement from community fragmentation in project longevity?",
+    "evidence": "The abstract notes that a coastal place remains geographically identifiable while the organized social community no longer persists.",
+    "limit": "The abstract does not give quantitative metrics on the exact rate of population loss or dispersal.",
+    "check": "Verify how the authors measured the persistence of the organized social community versus physical presence."
    },
-   "relevance": 4,
-   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+   "relevance": 3,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
    "source": {
-    "url": "https://doi.org/10.3390/su182111310",
-    "doi": "https://doi.org/10.3390/su182111310",
-    "venue": "Sustainability",
-    "date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.marpol.2026.107339",
+    "doi": "https://doi.org/10.1016/j.marpol.2026.107339",
+    "venue": "Marine Policy",
+    "date": "2026-11-04",
     "authors": [
-     "Yongbing Yu",
-     "Shaoquan Yang",
-     "燕武 陳"
+     "Oluwatoyosi Abikoye",
+     "Abimbola Abikoye"
     ],
-    "n_authors": 3,
+    "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225245422",
-   "title": "A risk framework for addressing nature’s harmful contributions to people",
-   "headline": "A risk framework for nature's harmful contributions",
+   "id": "W7225072328",
+   "title": "Fire literacies: reading fire risks and histories in an Anthropocene harmscape",
+   "headline": "Residents in a Cape Town informal settlement read fire risks",
    "bullets": [
-    "Not stated in the provided abstract text.",
-    "Not stated in the provided abstract text.",
-    "Helps address negative impacts of nature on people."
+    "Used texts and photos by community co-researchers in a Cape Town informal settlement.",
+    "Revealed a harmscape where fire intersects with complex environmental and social risks.",
+    "Shows that reducing fire harms requires recognizing multidimensional social and material causes."
    ],
    "plain": {
-    "question": "How can we address the harmful impacts that nature has on people?",
-    "method": "Not stated in the abstract.",
-    "finding": "Not stated in the abstract.",
-    "why": "It helps us understand and manage risks from nature."
+    "question": "How do people learn about and understand fire risks in an informal settlement that faces frequent fires?",
+    "method": "Community members shared words and photos to show how they experience and read fire risks in their area.",
+    "finding": "Fires are connected to many intersecting social, historical, and environmental problems in a dangerous landscape.",
+    "why": "Efforts to stop fire damage must look at the deep, complex social and material causes behind the fires."
    },
    "full": {
-    "explainer": "The abstract for this study is not provided in the prompt text. Therefore, a detailed retelling cannot be given. However, based on the title, the paper introduces a risk framework to address nature's harmful contributions to people. In environmental planning and urban ecosystems, nature does not always provide benefits; it can also pose risks or disservices. Having a risk framework allows researchers and planners to systematically evaluate and manage these negative aspects alongside positive ecosystem services. This is especially important in diverse urban or regional settings where people interact closely with natural elements that might also present hazards.",
+    "explainer": "This paper looks at how people living in an informal settlement on the edge of Cape Town, South Africa, learn to understand and read fire risks. Because this area regularly suffers from runaway fires, community members worked as co-researchers to create verbal texts and photographs. Looking at these combined texts uncovers a dangerous environment, or harmscape, where fire is just one of many overlapping risks caused by environmental, political, and socio-economic issues. The texts show how residents learn to see the signs of past and future fires written onto their surroundings. The authors argue that trying to fix fire damage cannot be treated as a simple problem. Instead, people must understand that both the causes and effects of these fires are multidimensional and deeply tied to everyday experiences in a risky environment shaped by human actions.",
     "caveats": [
-     "not stated",
+     "The study focuses on a specific informal settlement in Cape Town.",
+     "Evidence relies on qualitative texts and photographs produced by community co-researchers.",
+     "Not stated whether quantitative fire measurements or meteorological data were used."
+    ],
+    "jargon": [
+     {
+      "term": "Anthropocene harmscape",
+      "definition": "An environment shaped by human activity that is filled with intersecting hazards and harms."
+     },
+     {
+      "term": "Informal settlement",
+      "definition": "Residential areas where housing is built outside official planning and legal frameworks."
+     },
+     {
+      "term": "Place-literacies",
+      "definition": "The ability to read, interpret, and understand the history and risks inscribed in a specific place."
+     },
+     {
+      "term": "Multimodal texts",
+      "definition": "Communication materials that combine different forms, such as written text and photographs."
+     }
+    ],
+    "fit": "Connects to informal settlements and risk in the Global South, offering qualitative insights into everyday environmental hazards."
+   },
+   "thesis": {
+    "why": "It highlights how informal settlement residents perceive and experience environmental risks, complementing spatial modeling with lived socio-environmental realities.",
+    "action": "Check how the study's qualitative findings on risk align with spatial vulnerability indicators.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How do qualitative community texts translate into actionable environmental planning for hazard mitigation?",
+    "evidence": "The abstract discusses how residents read fire risks in a harmscape and suggests planning must recognize multidimensional causes, but omits specific policy mechanisms.",
+    "limit": "It cannot establish direct causal links between specific socioeconomic interventions and reduced fire frequency or severity.",
+    "check": "Verify what specific planning frameworks or policy recommendations the full paper proposes based on these fire literacies."
+   },
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "source": {
+    "url": "https://doi.org/10.1332/27523349y2026d000000109",
+    "doi": "https://doi.org/10.1332/27523349y2026d000000109",
+    "venue": "Global Social Challenges Journal",
+    "date": "2026-11-06",
+    "authors": [
+     "Anna Wilson",
+     "Leif Petersen",
+     "Gill Black",
+     "Amber Louise Abrams",
+     "Kirsty Carden",
+     "Liezl Dick"
+    ],
+    "n_authors": 12,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225191190",
+   "title": "Opportunity costs of transboundary conservation: A resource potential perspective in the Altai Mountains",
+   "headline": "Opportunity costs of transboundary conservation",
+   "bullets": [
+    "Analyzed opportunity costs in the Altai Mountains through a resource potential perspective.",
+    "Result findings are not stated because the abstract text is missing.",
+    "Helps understand conservation trade-offs, though text details are not stated."
+   ],
+   "plain": {
+    "question": "What are the opportunity costs of transboundary conservation?",
+    "method": "A resource potential perspective was used.",
+    "finding": "Not stated in the abstract.",
+    "why": "It helps us see the hidden costs of protecting nature across borders."
+   },
+   "full": {
+    "explainer": "This paper looks at the opportunity costs of transboundary conservation using a resource potential perspective in the Altai Mountains. Because the provided text only includes a title and journal publication date with no detailed abstract body, specific methods, study steps, numerical results, and concrete conclusions are completely absent. In general scientific studies of this type, researchers examine what is lost or given up when areas are set aside for cross-border environmental protection, balancing ecological goals with human resource needs. However, since no further text was supplied in the abstract, we cannot describe the exact tools, data sources, or final takeaways of the study. Readers must consult the full paper to understand how the authors measured resource potential and what specific opportunity costs they uncovered in the Altai region.",
+    "caveats": [
      "not stated",
      "not stated"
     ],
-    "jargon": [],
-    "fit": "It connects by offering a risk framework for negative nature impacts, useful for balancing ecosystem services in urban planning."
+    "jargon": [
+     {
+      "term": "transboundary conservation",
+      "definition": "Protecting natural areas that cross political or international borders."
+     },
+     {
+      "term": "opportunity costs",
+      "definition": "The benefits missed when choosing one alternative over another."
+     }
+    ],
+    "fit": "Connects to environmental planning and conservation trade-offs, though it focuses on mountain conservation rather than urban ecosystems."
    },
    "thesis": {
-    "why": "It addresses harmful nature impacts, complementing ecosystem service assessments in urban and regional planning contexts like Kabul.",
-    "action": "Check the full text for specific risk assessment methods that can be paired with InVEST modeling.",
+    "why": "It addresses conservation planning and trade-offs, which relates broadly to environmental planning, but lacks an urban or Global South focus.",
+    "action": "Check the full text to see if any spatial modeling methods apply to your work.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How does this framework apply to urban environments and specific ecosystem service models?",
-    "evidence": "The abstract only provides a title about a risk framework for nature's harmful contributions without details.",
-    "limit": "Nothing about methods, urban areas, or specific applications can be established from the abstract.",
-    "check": "Verify if the paper discusses urban applications or disservices relevant to urban planning."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
-   "source": {
-    "url": "https://doi.org/10.1038/s41559-026-03225-9",
-    "doi": "https://doi.org/10.1038/s41559-026-03225-9",
-    "venue": "Nature Ecology & Evolution",
-    "date": "2026-11-04",
-    "authors": [
-     "Matthew P. Faith",
-     "Siân E. Rees",
-     "Rory Gibb",
-     "Briana L. Abrahms",
-     "Lisa Hartmann",
-     "Yvonne Walz"
-    ],
-    "n_authors": 11,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225410286",
-   "title": "Socioeconomic dimensions of sediment quality and sediment management",
-   "headline": "Socioeconomic dimensions of sediment quality",
-   "bullets": [
-    "Examined socioeconomic dimensions of sediment quality and sediment management.",
-    "Not stated in the provided abstract text.",
-    "Helps understand the social and economic aspects of managing sediment."
-   ],
-   "plain": {
-    "question": "What is the study about?",
-    "method": "Not stated in the text.",
-    "finding": "Not stated in the text.",
-    "why": "It looks at the social and economic sides of managing sediment."
-   },
-   "full": {
-    "explainer": "This paper looks at the socioeconomic dimensions of sediment quality and sediment management. Because the text provided is very short and only contains a title and no detailed abstract, specific details about how the study was conducted, what exact data was analyzed, and what specific results were found are not stated. However, the topic connects broadly to how human societies interact with environmental materials, specifically sediments, and how management decisions are influenced by social and economic factors. For a researcher studying urban environments, land-cover changes, and environmental planning, understanding the broader social and economic drivers behind sediment or environmental management can offer helpful context, even though this particular paper's abstract lacks specific geographic or methodological details.",
-    "caveats": [
-     "No abstract text was provided beyond the title, limiting specific conclusions.",
-     "Methods and findings are not stated.",
-     "Geographic context is not stated."
-    ],
-    "jargon": [
-     {
-      "term": "Sediment quality",
-      "definition": "The physical, chemical, and biological condition of sediment."
-     },
-     {
-      "term": "Sediment management",
-      "definition": "The practice of handling, treating, or controlling sediment in water systems."
-     }
-    ],
-    "fit": "Connects to environmental planning and management themes, though lacks explicit links to urban ecosystem services or Kabul."
-   },
-   "thesis": {
-    "why": "It touches on environmental management, but lacks direct connection to urban ecosystem services, land-cover change, or Kabul.",
-    "action": "Check the full text to see if any urban or watershed management methods apply.",
-    "relationship": "unclear"
-   },
-   "critical": {
-    "question": "How do socioeconomic factors specifically alter sediment management outcomes?",
-    "evidence": "The title indicates a focus on 'Socioeconomic dimensions of sediment quality and sediment management.'",
-    "limit": "The abstract provides zero details regarding empirical evidence, study sites, or analytical methods.",
-    "check": "Verify whether the paper includes transferable frameworks for environmental management."
+    "question": "How can a resource potential perspective inform urban ecosystem planning if the study lacks urban data?",
+    "evidence": "The abstract mentions a resource potential perspective in the Altai Mountains but provides no text or data details.",
+    "limit": "We cannot establish what specific methods or findings apply to urban settings or Kabul from the abstract alone.",
+    "check": "Verify whether the paper's framework for resource potential can be adapted for urban or peri-urban environments."
    },
    "relevance": 1,
-   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+   "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
    "source": {
-    "url": "https://doi.org/10.1016/b978-0-443-45846-0.00021-6",
-    "doi": "https://doi.org/10.1016/b978-0-443-45846-0.00021-6",
-    "venue": "Elsevier eBooks",
-    "date": "2026-11-06",
+    "url": "https://doi.org/10.1016/j.apgeog.2026.104250",
+    "doi": "https://doi.org/10.1016/j.apgeog.2026.104250",
+    "venue": "Applied Geography",
+    "date": "2026-11-03",
     "authors": [
-     "Sabine E. Apitz",
-     "Richard J. Wenning"
+     "Li An",
+     "Lei Shen",
+     "Shuai Zhong",
+     "Delong Li"
     ],
-    "n_authors": 2,
+    "n_authors": 4,
     "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225422437",
-   "title": "Community Perceptions of Cultural Ecosystem Services in Restoring Degraded Urban Forests: Evidence from Aboabo Forest, Ghana",
-   "headline": "Open defecation degrades cultural services in Ghana's forest",
+   "id": "W7225468434",
+   "title": "Carbon sequestration and avoided emissions reveal the net carbon benefit of urban green space in Beijing (2000–2024)",
+   "headline": "Beijing's green spaces became net carbon positive by 2012",
    "bullets": [
-    "Surveyed 110 households and interviewed 10 leaders using mixed methods.",
-    "Found open defecation severely damages aesthetic, educational, and spiritual values.",
-    "Highlights community restoration priorities for urban forest environmental planning."
+    "Integrated ecosystem productivity, life-cycle emissions, and cooling-induced avoided emissions.",
+    "Found overall carbon budget became positive before net sequestration alone did around 2013.",
+    "Supports functionally differentiated green-space planning across urban-rural gradients."
    ],
    "plain": {
-    "question": "How does open defecation affect cultural values in an urban forest in Ghana?",
-    "method": "Surveys of 110 households and 10 interviews with leaders.",
-    "finding": "It ruins aesthetic, educational, and spiritual values by making people avoid the forest.",
-    "why": "It shows how human behaviours directly harm non-material benefits from nature."
+    "question": "How do city green spaces affect carbon levels over time?",
+    "method": "Built a special tracking framework to measure carbon absorption and avoided emissions from cooling.",
+    "finding": "Green spaces absorbed more carbon and avoided emissions, shifting Beijing's carbon budget positive around 2012.",
+    "why": "Helps planners design better city green areas to fight climate change."
    },
    "full": {
-    "explainer": "This paper looks at cultural ecosystem services, which are the non-material benefits people get from nature, such as beauty, education, recreation, and spiritual value. It focuses on the Aboabo Forest in Tamale, Ghana, which is badly affected by open defecation from nearby residents. While past work looked at why this open defecation happens, this study asks how it impacts the forest's cultural benefits and how the community wants to restore them. The authors used a mixed-methods design, surveying 110 households and interviewing ten key leaders. The results show that open defecation severely harms aesthetic, educational, recreational, and spiritual values. People avoid the forest because of the foul environment and fear of stigma, and sacred shrines have lost their sacred status. Paradoxically, the practice actually strengthens social ties among those who practice it. To fix this, community members want to restore aesthetic and educational values through public education, religious activities, teamwork, and new recreational facilities.",
+    "explainer": "Urban green spaces are often used to help fight climate change, but it is hard to compare their benefits because carbon absorption and emission reductions are usually measured separately. To solve this, researchers created a spatial tracking framework to look at Beijing's green spaces from 2000 to 2024. They combined net ecosystem productivity, life-cycle emissions, and avoided emissions caused by cooling. They found that Beijing's overall carbon budget became positive around 2012, slightly earlier than net carbon sequestration alone achieved in 2013. This happened because avoided emissions from cooling added extra benefits. The study showed that most carbon uptake came from large green areas in outer ecological zones, while avoided emissions were highest in central urban spots where more people live and need cooling. These findings show that cities should use different green-space strategies: keeping large nature areas at the edges, while placing green spaces strategically in busy central areas.",
     "caveats": [
-     "Findings rely on self-reported survey responses from 110 households.",
-     "Not stated whether quantitative ecological assessments were performed alongside interviews."
+     "Not stated whether findings apply to non-metropolitan settings or data-scarce cities.",
+     "Not stated how specific local conflict or informal settlements affect these metrics."
     ],
     "jargon": [
      {
-      "term": "Cultural ecosystem services",
-      "definition": "Non-material benefits people obtain from ecosystems, like spiritual, aesthetic, and educational values."
+      "term": "Net ecosystem productivity",
+      "definition": "The total amount of carbon dioxide taken up by vegetation minus what the ecosystem releases back."
      },
      {
-      "term": "Open defecation",
-      "definition": "The human practice of defecating outside rather than into a toilet."
+      "term": "Cooling-induced avoided emissions",
+      "definition": "Emissions prevented because urban green spaces cool the air, reducing energy needed for air conditioning."
      },
      {
-      "term": "Desacralisation",
-      "definition": "The removal of sacred, holy, or religious status from a place or object."
-     },
-     {
-      "term": "Mixed-methods research design",
-      "definition": "A study design that combines both qualitative and quantitative data collection methods."
+      "term": "Ecosystem carbon uptake",
+      "definition": "The process by which plants absorb carbon from the atmosphere and store it."
      }
     ],
-    "fit": "Connects to Global South urban ecosystem services and community-based environmental planning."
+    "fit": "Connects by linking green space planning, cooling benefits, and carbon dynamics across urban-rural gradients using spatial frameworks."
    },
    "thesis": {
-    "why": "It offers insight into cultural ecosystem services and community perspectives on environmental degradation and restoration in the Global South.",
-    "action": "Check how the study measures subjective cultural values alongside physical degradation.",
+    "why": "Connects urban cooling and green space planning to carbon benefits, showing how demand and supply locations differ across urban gradients.",
+    "action": "Check how they integrated cooling-induced avoided emissions with carbon sequestration.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How reliable are self-reported community perceptions for measuring actual ecosystem service loss?",
-    "evidence": "The study relies heavily on a structured survey of 110 households and ten key-informant interviews to assess degraded values.",
-    "limit": "The abstract does not establish direct ecological or physical measurements of forest degradation beyond community perceptions.",
-    "check": "Verify the household sampling strategy and how survey questions operationalized perceived degradation."
+    "question": "How were life-cycle carbon emissions of the green spaces themselves accounted for alongside cooling benefits?",
+    "evidence": "The study integrated net ecosystem productivity, life-cycle carbon emissions, and cooling-induced avoided emissions within a spatially explicit framework.",
+    "limit": "The abstract does not detail the exact equations or parameter values used for life-cycle emission accounting.",
+    "check": "Verify the baseline parameterization and life-cycle emission inputs used in their carbon-budget framework."
    },
    "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.21203/rs.3.rs-11072894/v1",
-    "doi": "https://doi.org/10.21203/rs.3.rs-11072894/v1",
-    "venue": "Research Square",
-    "date": "2026-11-06",
+    "url": "https://doi.org/10.1016/j.landurbplan.2026.105827",
+    "doi": "https://doi.org/10.1016/j.landurbplan.2026.105827",
+    "venue": "Landscape and Urban Planning",
+    "date": "2026-11-07",
     "authors": [
-     "Bismark Yayra Adzah"
+     "Kai Zhou",
+     "Yuanfei Hao",
+     "Yingshuo Lyu",
+     "Shoubang Huang",
+     "Hao Yin",
+     "Xi Zheng"
     ],
-    "n_authors": 1,
+    "n_authors": 6,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225465508",
-   "title": "Assessing Urban Growth Patterns of Agroha Town of Hisar, Haryana Using Directional and Geostatistical Approaches",
-   "headline": "Urban sprawl replaces open spaces in Agroha Town",
+   "id": "W7225468033",
+   "title": "From mobility experiences to planning priorities: Co-creation embedded in peri-urban mobility planning",
+   "headline": "Co-creation turns travel experiences into planning priorities",
    "bullets": [
-    "Mapped land cover changes in Agroha from 2015 to 2024 using satellite images.",
-    "Found built-up areas grew by 188.5%, wiping out open spaces and shrinking farms.",
-    "Argues for using spatial statistics in regional plans to manage urban growth."
+    "Used four co-creative activities in an Estonian peri-urban case study.",
+    "Found residents want diverse transport and safer active travel options.",
+    "Shows how co-creation translates lived experiences into planning priorities."
    ],
    "plain": {
-    "question": "How did Agroha Town grow and spread out between 2015 and 2024?",
-    "method": "Used satellite images and digital maps to measure land changes over time.",
-    "finding": "Built-up areas grew a lot, completely destroying open spaces and reducing farms.",
-    "why": "It shows how unguided city growth harms natural resources and farmland."
+    "question": "How can we use people's travel stories to improve transport planning in sprawling outer areas?",
+    "method": "The researchers ran interactive group activities with local people, planners, and experts in an Estonian suburb.",
+    "finding": "Residents want safer walking paths and varied transport, but cars will still matter.",
+    "why": "It helps turn daily travel problems into real planning goals using local voices."
    },
    "full": {
-    "explainer": "This paper looks at how a rapidly growing town called Agroha in India expanded between 2015 and 2024. The researchers used satellite images and official maps to track changes in land use across a 15.10 square kilometer area. They found that city buildings and homes grew by nearly 189 percent, mostly spreading out along a major highway. As towns and settlements expanded, they completely wiped out open spaces and reduced the amount of fertile farmland. The study used change matrix analysis to prove that open spaces and farms were directly swallowed up by new construction. These unguided growth patterns put heavy pressure on local roads, utilities, and natural resources. The authors conclude that city planners must use satellite data and spatial statistics to guide future development, control messy urban sprawl, and protect important agricultural and ecological buffers in the Global South.",
+    "explainer": "Outer city areas often rely heavily on cars, making planning for multiple transport types complex. This study looks at how working directly with local residents through co-creative group activities can help solve this. The researchers tested this in a growing suburban neighborhood in Estonia by embedding their work into an actual planning process. Through four interactive activities, residents, planners, and researchers shared knowledge to identify travel challenges and solutions. The results show that people living in these areas are open to using different transport methods, but they need safer walking and biking paths, better access to local spots, and transport options that change with the seasons. Still, cars will remain important. Barriers like not knowing about current travel choices also affect behavior. Ultimately, the study proves that involving inhabitants in ongoing planning helps turn real-life travel experiences into useful policy priorities through collective learning and feedback.",
     "caveats": [
-     "Only evaluates changes within a 15.10 sq. km municipal boundary",
-     "Focuses on a single town, Agroha in Haryana, India"
+     "The study focuses on a middle-class suburban neighborhood in Estonia, so results may differ elsewhere.",
+     "Not stated whether findings apply directly to the Global South or conflict-affected cities."
     ],
     "jargon": [
      {
-      "term": "Geostatistical cross-tabulation change matrix",
-      "definition": "A table method used to calculate exact amounts of land converted from one type to another."
+      "term": "Multimodal mobility",
+      "definition": "Using more than one form of transport, like walking, biking, and public transit."
      },
      {
-      "term": "Ribbon development",
-      "definition": "Urban growth that stretches out along major transportation routes or highways."
+      "term": "Co-creation",
+      "definition": "A collaborative process where researchers, planners, and citizens create solutions together."
      },
      {
       "term": "Peri-urban",
-      "definition": "The transition zone where urban and rural areas meet."
+      "definition": "The transition zone where urban and rural areas meet, often experiencing sprawl."
      }
     ],
-    "fit": "Demonstrates rapid land-cover change and peri-urban sprawl in a Global South setting, aligning with urban growth planning themes."
+    "fit": "Connects to environmental planning and stakeholder involvement, though it focuses on transport in Europe rather than the Global South or Kabul."
    },
    "thesis": {
-    "why": "It provides a clear example of land-cover change analysis and spatial statistics in a Global South peri-urban setting, mirroring your interest in planning.",
-    "action": "Check how the authors validate their land-cover classification accuracy using the satellite imagery.",
+    "why": "It shows a method for participatory planning and stakeholder engagement that could inform environmental planning approaches, though focused on transport.",
+    "action": "Check how their co-creation steps could apply to green space or ecosystem service planning.",
     "relationship": "method"
    },
    "critical": {
-    "question": "Did the authors perform an accuracy assessment for their satellite-based land cover classification?",
-    "evidence": "The abstract mentions using multi-temporal high-resolution satellite imagery and GIS frameworks, but does not state if classification accuracy was tested.",
-    "limit": "It cannot be established from the abstract whether the land cover maps contain classification errors or how those errors were handled.",
-    "check": "Look in the full text for the error matrix or overall accuracy percentage of the 2015 and 2024 maps."
+    "question": "Can methods from a European middle-class suburb be transferred to data-scarce or conflict-affected settings?",
+    "evidence": "The study relies on an ongoing planning process and engaged residents in a stable Estonian suburban neighborhood.",
+    "limit": "The abstract does not show how these participatory methods function in informal settlements or the Global South.",
+    "check": "Verify if the full paper discusses the transferability of co-creation to different socioeconomic contexts."
    },
-   "relevance": 4,
+   "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.36948/ijfmr.2026.v08i06.91497",
-    "doi": "https://doi.org/10.36948/ijfmr.2026.v08i06.91497",
-    "venue": "International Journal For Multidisciplinary Research",
-    "date": "2026-11-06",
+    "url": "https://doi.org/10.1016/j.urbmob.2026.100315",
+    "doi": "https://doi.org/10.1016/j.urbmob.2026.100315",
+    "venue": "Journal of Urban Mobility",
+    "date": "2026-11-07",
     "authors": [
-     "Asha Rani",
-     "Sandeep Kumar",
-     "Neha Bhatti"
+     "Õnne Kask",
+     "Tauri Tuvikene",
+     "Louise Sträuli",
+     "Samira Ramezani",
+     "Jos Arts"
     ],
-    "n_authors": 3,
+    "n_authors": 5,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225415768",
-   "title": "EMIGRE CITY ‐ MAKING : The Micropolitics of Diasporic Real Estate Investment and Urban Growth in Pakistan",
-   "headline": "Emigrant investments reshape urban landscapes in Pakistan",
+   "id": "W7225239797",
+   "title": "Adaptive Thermal Comfort Assessment in Mixed-Mode Office Buildings Under Current and Future Sub-Saharan Tropical Hot and Dry Climate Scenarios",
+   "headline": "Mixed-mode cooling cuts energy while managing heat stress",
    "bullets": [
-    "Examined how elite emigrants use remittances for speculative real estate investments.",
-    "Found that these investments drive low-density suburban growth and vacant land niches.",
-    "Shows how financialization happens through non-corporate private capital in postcolonial cities."
+    "Tested office building cooling strategies under current and future climate scenarios",
+    "Found mixed-mode cooling uses half the energy of full air conditioning by 2090",
+    "Supports mixed-mode as a practical climate strategy for sub-Saharan offices"
    ],
    "plain": {
-    "question": "How do people living abroad change cities in their home country through real estate money?",
-    "method": "Studied the case of Pakistan and how emigrant money is spent.",
-    "finding": "Emigrants buy real estate speculatively to help settle abroad, creating low-density gated suburbs.",
-    "why": "It explains a new way cities grow through global money flows from individuals rather than big banks."
+    "question": "How do different cooling strategies perform in offices in hot, dry regions under future climate change?",
+    "method": "A computer model was used to test four cooling approaches in an office building in Burkina Faso from 2023 to 2090.",
+    "finding": "Passive cooling saves energy but causes severe discomfort, while mixed-mode uses half the energy of full air conditioning.",
+    "why": "It shows how buildings can stay comfortable and save energy as outdoor temperatures rise significantly."
    },
    "full": {
-    "explainer": "This paper looks at how contemporary cities in the global South change because of real estate growth and money sent from people living abroad, known as remittances. Focusing on Pakistan, the study explores how emigration and money practices transform urban landscapes. Over time, a growing real estate sector has mixed with the investment habits of wealthy emigrants. Instead of building homes for a future return, these emigrants now use remittances for speculative real estate investments as part of a strategy to stay permanently in North Atlantic countries. These purchases, often made early through presales, help build a market for vacant land in projects run by the military and its allies. This leads to urban growth via low-density suburban gated communities in major and emerging cities. By following these investment patterns, the article highlights new ways of transnational urban growth and neoliberalization. It shows how land and housing finance happens in postcolonial cities through global flows of private money from individuals, rather than large institutional investors and advanced financial markets.",
+    "explainer": "Researchers looked at how office buildings in hot, dry parts of sub-Saharan Africa handle rising temperatures caused by climate change. They used a computer model to test four different ways to cool a compressed earth brick office in Ouagadougou, Burkina Faso, looking at current conditions and future years up to 2090 using a high-emissions climate scenario. The strategies tested were free-running, natural ventilation, mixed-mode, and fully air-conditioned. They measured thermal comfort, meaning how comfortable people feel, and energy use. The results show that outdoor temperatures will rise sharply over time. Purely passive strategies use no energy but result in very high discomfort as the climate warms. Fully air-conditioned buildings use a lot of energy, reaching high demand by 2090. A mixed-mode strategy, which combines natural airflow with mechanical cooling, reduces discomfort while using about half the energy of full air conditioning. The study also found that window-opening habits shift rapidly as the climate gets hotter. This helps show how buildings can adapt to future heat.",
     "caveats": [
-     "Focuses specifically on the case of Pakistan.",
-     "Not stated: quantitative measurements of environmental impacts or ecosystem services."
+     "Validation across multiple zones and typologies is needed",
+     "Long-term evidence remains scarce outside this single tested framework"
     ],
     "jargon": [
      {
-      "term": "Remittances",
-      "definition": "Money sent back by workers or emigrants to their home country."
+      "term": "Mixed-mode",
+      "definition": "A hybrid approach combining natural ventilation and mechanical air conditioning systems."
      },
      {
-      "term": "Financialization",
-      "definition": "The increasing role of financial markets and motives in shaping housing and land."
+      "term": "Adaptive thermal comfort",
+      "definition": "Human comfort assessed by how people adapt to indoor temperatures based on outdoor weather."
      },
      {
-      "term": "Transnational urbanism",
-      "definition": "Urban growth and social processes that cross national borders."
+      "term": "RCP8.5",
+      "definition": "A high-emissions greenhouse gas concentration pathway used for future climate scenarios."
+     },
+     {
+      "term": "PMV-PPD",
+      "definition": "Standard indices used to measure thermal comfort in air-conditioned indoor spaces."
      }
     ],
-    "fit": "Connects to Global South urban contexts, showing how private capital and real estate shape land-cover change and low-density suburban growth."
+    "fit": "Connects to environmental planning and climate adaptation in the Global South, though it focuses on buildings rather than urban scale."
    },
    "thesis": {
-    "why": "It provides context on how global private capital and real estate sectors drive land-cover change and low-density urban growth in the Global South.",
-    "action": "Check how this type of speculative land development impacts green space availability.",
+    "why": "It evaluates adaptation strategies and future climate scenarios in a Global South setting, relating to environmental planning and local thermal conditions.",
+    "action": "Check how future climate scenarios are factored into local urban heat and cooling service planning.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does low-density suburban real estate growth driven by emigrant capital directly degrade urban ecosystem services?",
-    "evidence": "The abstract states that these investments create low-density suburban gated communities and a niche market for vacant land, but does not measure ecological impacts.",
-    "limit": "The abstract does not provide data on ecological consequences, loss of vegetation, or changes in ecosystem service supply.",
-    "check": "Verify if the full paper discusses the physical environmental footprint or land-cover changes resulting from these gated communities."
+    "question": "Does a single building model in Burkina Faso adequately represent broader urban thermal conditions?",
+    "evidence": "The study applies a stress-test framework to a single compressed earth bricks office in Ouagadougou, Burkina Faso.",
+    "limit": "It cannot establish how these thermal strategies scale up to city-wide urban cooling or wider urban ecosystem services.",
+    "check": "Verify if the paper discusses broader urban microclimate effects beyond the single office building."
    },
-   "relevance": 3,
+   "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1111/1468-2427.70156",
-    "doi": "https://doi.org/10.1111/1468-2427.70156",
-    "venue": "International Journal of Urban and Regional Research",
-    "date": "2026-11-06",
+    "url": "https://doi.org/10.3390/buildings16214410",
+    "doi": "https://doi.org/10.3390/buildings16214410",
+    "venue": "Buildings",
+    "date": "2026-11-04",
     "authors": [
-     "Fatima Tassadiq"
+     "Alphonse Bouda",
+     "Césaire Hema",
+     "Adamah Messan",
+     "Tizane Daho",
+     "Shady Attia"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225468522",
+   "title": "Impact of mobile money fraud detection mechanisms on fraud incidence in Somalia’s telecom sector",
+   "headline": "Advanced fraud detection lowers mobile money fraud in Somalia",
+   "bullets": [
+    "Used a quasi-experimental design across five telecom operators in Somalia over 12 months.",
+    "Found medium and high sophistication detection tools are linked to lower fraud incidence.",
+    "Shows advanced tools help in low-sanction areas, but struggle in conflict regions."
+   ],
+   "plain": {
+    "question": "Do fraud detection tools actually lower mobile money fraud in Somalia?",
+    "method": "Studied five telecom operators using surveys, transaction logs, and complaints.",
+    "finding": "Better tech tools are linked to much less fraud.",
+    "why": "It shows how digital finance can be made safer in weak governance settings."
+   },
+   "full": {
+    "explainer": "In Somalia, most adults use mobile money for daily payments, but weak consumer protection leads to fraud like SIM swapping and unauthorized reversals. This study tested if mobile phone companies using better fraud detection tools experience less actual fraud. The researchers looked at five different telecom operators over a twelve-month period. They combined a survey of technical staff, transaction logs, complaint records, and a detailed check of 60,000 transactions. They used statistical models to compare fraud rates. The results showed that companies using medium and high sophistication detection systems had notably lower fraud incidence. However, fraud still went up during Ramadan and in areas with more conflict. Interestingly, cross-border partnerships also helped lower fraud. The findings suggest that governments should enforce basic detection standards and require companies to report incidents, while also accounting for challenges like conflict and informal rules.",
+    "caveats": [
+     "Under-reporting of fraud obscures the true scale of incidents.",
+     "Not stated whether findings apply outside Somalia's telecom sector."
+    ],
+    "jargon": [
+     {
+      "term": "Quasi-experimental design",
+      "definition": "A study method that looks at an intervention without random assignment."
+     },
+     {
+      "term": "Negative binomial models",
+      "definition": "Statistical models used to analyze count data with high variability."
+     },
+     {
+      "term": "SIM swapping",
+      "definition": "A fraud type where a scammer takes over a victim's phone number."
+     }
+    ],
+    "fit": "Not stated as directly relevant to urban ecosystem services or Kabul, but relates to data-scarce and conflict-affected governance contexts."
+   },
+   "thesis": {
+    "why": "The abstract examines governance constraints and conflict-affected settings, paralleling challenges in Kabul.",
+    "action": "Check how the study handles under-reporting and data limitations in conflict settings.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How did the researchers account for under-reporting when measuring actual fraud?",
+    "evidence": "The abstract notes that under-reporting obscures the true scale of fraud, but relies on complaint records and logs.",
+    "limit": "The abstract does not specify the exact mathematical adjustment used to correct for hidden or unreported fraud.",
+    "check": "Verify how transaction sampling and survey data were combined to overcome under-reporting bias."
+   },
+   "relevance": 1,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1080/23322039.2026.2754611",
+    "doi": "https://doi.org/10.1080/23322039.2026.2754611",
+    "venue": "Cogent Economics & Finance",
+    "date": "2026-11-07",
+    "authors": [
+     "Abdifatah Nour Rage"
     ],
     "n_authors": 1,
     "open_access": true,
@@ -385,62 +471,69 @@
    }
   },
   {
-   "id": "W7225302361",
-   "title": "Global news reports reveal the human dimensions of water scarcity",
-   "headline": "News reports reveal human dimensions of water scarcity",
+   "id": "W7225402677",
+   "title": "From the 2026 Hormuz disruption to renewable resilience: energy security and decarbonization governance in import-dependent economies",
+   "headline": "Renewable resilience in import-dependent economies",
    "bullets": [
-    "Used large language models on global news reports to find real water scarcity events from 2014 to…",
-    "Found reported water scarcity does not match traditional hydrologic models and often peaks…",
-    "Complements hydrologic models by showing how human factors and infrastructure create water…"
+    "Used Israel in 2026 to test risks of fossil-fuel dependence.",
+    "Found heavy exposure to distant chokepoints and domestic pollution.",
+    "Argues for distributed renewables as critical national infrastructure."
    ],
    "plain": {
-    "question": "How can we better track real water shortages experienced by people worldwide?",
-    "method": "Used computer tools to scan global news reports for actual water scarcity events.",
-    "finding": "Real shortages do not always match maps based only on physical water supplies.",
-    "why": "It helps us see how human actions and infrastructure affect water access."
+    "question": "How do import-dependent countries manage risks from relying on fossil fuels?",
+    "method": "Examined Israel using a four-part framework with government and health data.",
+    "finding": "Fossil fuel reliance causes high exposure, air pollution deaths, and water risks.",
+    "why": "Nations need renewable energy and storage treated as critical security infrastructure."
    },
    "full": {
-    "explainer": "Traditional water scarcity is usually measured using hydrologic models that look at physical water pressure. However, physical stress does not always mean people actually face water shortages. Human adaptation can help buffer limits, while broken infrastructure or poor governance can cause scarcity even where water is plentiful. To explore this, researchers used large language models to find concrete news reports about real water scarcity across 190 countries from 2014 to 2024. The results show that reported water scarcity increased in most regions, peaking globally in 2023. These spatial patterns are very mixed and only partly match traditional hydrologic maps. For instance, water-abundant areas like the eastern United States appeared as hotspots for reported scarcity, while some dry regions showed little reporting despite physical stress. This suggests human systems help shape water shortages, though differences in media reporting may also play a role.",
+    "explainer": "Countries that rely on imported energy face major system risks because fossil fuels pass through very few narrow shipping lanes and centralized assets. This paper uses the 2026 disruption of the Strait of Hormuz and Israel as a case study to test these vulnerabilities. The authors create a four-part framework to assess chokepoint exposure, domestic fossil-fuel pollution costs, fossil-water infrastructure links, and security-oriented governance. They look at government, economic, and health data. The results show that Israel's fossil-heavy system ties its safety to distant shipping lanes, concentrates domestic gas in three offshore platforms, causes thousands of early deaths from air pollution, and exposes critical water desalination plants to oil spill risks. To fix this, the study argues that decentralized renewable energy, energy storage, and electric transport should be protected as vital national infrastructure. This shift should be backed by climate laws, financial tools, and security metrics, offering a useful model for other small, import-dependent nations.",
     "caveats": [
-     "Differences in media reporting may contribute to the observed patterns.",
-     "Not stated whether specific urban areas or Kabul were analyzed."
+     "Fossil-fuel combustion is noted as a major but not exclusive contributor to the air pollution deaths.",
+     "Maritime oil-spill scenarios affecting desalination are described as low-probability, high-impact."
     ],
     "jargon": [
      {
-      "term": "Hydrologic models",
-      "definition": "Computer tools used to estimate water resources and physical pressure on water."
+      "term": "Chokepoint-exposure assessment",
+      "definition": "Evaluating risks from relying on narrow, vulnerable transportation bottlenecks for energy supply."
      },
      {
-      "term": "Large language models",
-      "definition": "Advanced computer programs that can process and analyze large amounts of text."
+      "term": "Fossil-fuel externalities",
+      "definition": "Hidden costs of fossil fuel use, such as air pollution and health damage, not paid in market prices."
+     },
+     {
+      "term": "Desalination system",
+      "definition": "Industrial infrastructure that removes salt from seawater to make it drinkable."
+     },
+     {
+      "term": "Transport electrification",
+      "definition": "Shifting vehicles from running on oil to running on electricity."
      }
     ],
-    "fit": "It highlights how human systems and infrastructure mediate resource access, relevant for studying ecosystem service supply and demand."
+    "fit": "Provides context on infrastructure vulnerability, water-energy links, and security-oriented governance in semi-arid, import-dependent settings."
    },
    "thesis": {
-    "why": "It connects physical resource constraints to human systems, offering insight into actual service delivery versus modeled potential.",
-    "action": "Check how the paper separates media reporting biases from actual human water shortages.",
+    "why": "Shows how infrastructure concentration and water-energy couplings create systemic vulnerabilities, which parallels urban resource access and environmental planning.",
+    "action": "Check if water-energy infrastructure dependencies are factored into local environmental vulnerability models.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Are news reports a reliable measure of actual water scarcity rather than media attention biases?",
-    "evidence": "The abstract notes that differences in media reporting may contribute to the contrasting spatial patterns observed.",
-    "limit": "The abstract does not establish how media reporting bias was mathematically separated from real scarcity events.",
-    "check": "Verify how the authors validated news reports against ground-truth water shortage data."
+    "question": "How does a national-scale energy security framework translate to urban ecosystem planning?",
+    "evidence": "The abstract focuses heavily on national chokepoints, offshore platforms, and macro-level security governance instruments rather than local urban dynamics.",
+    "limit": "It cannot establish how these national energy frameworks alter local urban ecosystem services or micro-scale land-cover planning.",
+    "check": "Verify whether the paper discusses urban spatial impacts or strictly macro-level national policy."
    },
-   "relevance": 3,
+   "relevance": 1,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.31223/x5223v",
-    "doi": "https://doi.org/10.31223/x5223v",
-    "venue": "",
-    "date": "2026-11-05",
+    "url": "https://doi.org/10.3389/fclim.2026.1985153",
+    "doi": "https://doi.org/10.3389/fclim.2026.1985153",
+    "venue": "Frontiers in Climate",
+    "date": "2026-11-06",
     "authors": [
-     "Arushi Arnav",
-     "Lav R. Varshney",
-     "Megan Konar"
+     "Adi Levi",
+     "Zohar Barnett‐Itzhaki"
     ],
-    "n_authors": 3,
+    "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }

@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Polycentric governance systems",
-   "area": "Environmental governance",
-   "kind": "concept"
-  },
-  {
    "term": "Remote sensing for land cover",
    "area": "Land use change",
    "kind": "method"
@@ -170,6 +165,8 @@
   "Community-based natural resource management",
   "Supervised classification",
   "Total economic value framework",
-  "Isolation by distance"
+  "Isolation by distance",
+  "Polycentric governance systems",
+  "Ecologically deficit countries"
  ]
 }

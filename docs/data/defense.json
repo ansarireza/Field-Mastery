@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "162124c84c",
-  "scope": "Foundations and international evidence",
-  "q": "Given that habitat quality is not measured biodiversity, how should planners interpret model outputs for decision-making?",
-  "type": "limitations",
+  "id": "2f0e2b19ac",
+  "scope": "Spatial patterns and planning",
+  "q": "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
+  "type": "theory",
   "outline": [
-   "Clarify that habitat quality is a proxy index, not direct biodiversity",
-   "Explain watershed-scale interpretation limits for annual water yield",
-   "Note runoff retention is not a direct estimate of flood risk"
+   "Define supply potential versus actual service use",
+   "Acknowledge that model estimates are not direct observations",
+   "Explain how demand and access mediate service flows"
   ],
-  "pitfall": "Treating proxy indices like habitat quality or runoff retention as direct ecological or flood measurements.",
-  "follow_up": "How do these proxy limitations constrain scenario comparison exercises in environmental planning?",
-  "bring": "Explicit definitions of model boundaries stating what metrics like runoff retention do not measure.",
+  "pitfall": "Confusing modeled biophysical capacity with realized human wellbeing benefits.",
+  "follow_up": "How does this distinction alter your spatial prioritization for urban planning in Kabul?",
+  "bring": "Conceptual diagrams separating supply potential, demand, and actual delivery flows.",
   "self_check": [
-   "Distinguishes proxy from direct measurement",
-   "Interprets water yield at watershed scale",
-   "Limits flood risk claims"
+   "Defined supply versus delivery",
+   "Referenced model limitations",
+   "Addressed human benefits"
   ]
  },
  "bank_total": 24,
- "asked": 12,
+ "asked": 13,
  "upcoming": [
-  "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
   "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
   "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
   "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
-  "To what extent can methods and theories developed in the Global North transfer to Kabul's context?"
+  "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
+  "How can spatial prioritization inform environmental planning given data scarcity and conflict?"
  ]
 }

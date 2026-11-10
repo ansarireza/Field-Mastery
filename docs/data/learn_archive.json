@@ -570,5 +570,53 @@
    }
   ],
   "search": "isolation by distance urban fragmentation"
+ },
+ {
+  "id": "cffed8349f",
+  "date": "2026-11-10",
+  "term": "Polycentric governance systems",
+  "area": "Environmental governance",
+  "kind": "concept",
+  "definition": "Polycentric governance systems feature multiple independent decision-making centers with overlapping authorities.",
+  "plain": "Polycentric governance means spreading decision-making across multiple smaller groups instead of relying on one central authority. This helps cities manage resources better by involving local communities alongside formal offices.",
+  "example": "In a Global South city, neighborhood committees, municipal water boards, and NGOs share the work of managing local green spaces and stormwater.",
+  "connects": "It links to environmental planning and social-ecological systems for managing shared natural resources.",
+  "why_phd": "Vital for analyzing how fragmented urban areas in Kabul coordinate environmental planning across informal and formal sectors.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What characterizes polycentric governance?",
+    "a": "Multiple independent decision-making centers with overlapping authorities."
+   },
+   {
+    "q": "Why is this relevant for cities like Kabul?",
+    "a": "It helps address complex environmental challenges across formal and informal settlement areas."
+   }
+  ],
+  "search": "polycentric urban environmental governance"
+ },
+ {
+  "id": "6628424c33",
+  "date": "2026-11-10",
+  "term": "Ecologically deficit countries",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Ecologically deficit countries are nations where human consumption of natural resources outpaces their domestic ecological capacity.",
+  "plain": "An ecologically deficit country is a place where people use more nature—like food, water, and space—than the local environment can naturally renew. This forces the country to rely on resources from elsewhere or run down its own natural wealth.",
+  "example": "Many rapidly growing cities in arid parts of the Global South import water and food because local natural systems cannot meet urban demands.",
+  "connects": "It links ecosystem service supply with human demand and resource flows in urban environments.",
+  "why_phd": "It helps frame why Kabul and other data-scarce cities face severe ecological stress from rapid settlement growth.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What defines an ecologically deficit country?",
+    "a": "Human consumption of natural resources exceeds its domestic ecological capacity."
+   },
+   {
+    "q": "Why is this concept relevant to cities in the Global South?",
+    "a": "Rapid urban growth often increases local demand far beyond what nearby natural systems can supply."
+   }
+  ],
+  "search": "ecologically deficit countries urban demand"
  }
 ]
