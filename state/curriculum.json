@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Remote sensing for land cover",
-   "area": "Land use change",
-   "kind": "method"
-  },
-  {
    "term": "Multidimensional poverty and well-being",
    "area": "Human well-being",
    "kind": "concept"
@@ -167,6 +162,8 @@
   "Total economic value framework",
   "Isolation by distance",
   "Polycentric governance systems",
-  "Ecologically deficit countries"
+  "Ecologically deficit countries",
+  "Remote sensing for land cover",
+  "land systems"
  ]
 }

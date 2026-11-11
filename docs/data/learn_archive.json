@@ -618,5 +618,53 @@
    }
   ],
   "search": "ecologically deficit countries urban demand"
+ },
+ {
+  "id": "bb74bc903a",
+  "date": "2026-11-11",
+  "term": "Remote sensing for land cover",
+  "area": "Land use change",
+  "kind": "method",
+  "definition": "Remote sensing uses satellite or aerial sensors to capture Earth's surface data for mapping land cover and land-cover change over time.",
+  "plain": "Imagine taking a photo of Earth from space to see where trees, buildings, and bare soil are. By comparing photos taken in different years, scientists track how cities grow and greenery disappears, which is vital for studying urban nature.",
+  "example": "Using satellite images to track how new houses replaced green gardens in Kabul between 2000 and 2020.",
+  "connects": "It provides the spatial data needed for modeling ecosystem services and landscape configuration.",
+  "why_phd": "It provides the primary data to detect urban growth and environmental changes in data-scarce settings like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main purpose of remote sensing in urban land-cover studies?",
+    "a": "To capture and map surface features and changes over time using satellite or aerial images."
+   },
+   {
+    "q": "Why is this method useful in data-scarce cities like Kabul?",
+    "a": "It allows researchers to track urban development and green loss without relying solely on ground surveys."
+   }
+  ],
+  "search": "remote sensing urban land cover"
+ },
+ {
+  "id": "8f2b30b619",
+  "date": "2026-11-11",
+  "term": "land systems",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Land systems refer to the combined human and natural dynamics that shape how land is used and altered over space and time.",
+  "plain": "Land systems include both the physical cover of the earth—like vegetation or buildings—and how humans manage that land. Understanding these systems helps us see how urban growth changes nature and impacts people.",
+  "example": "In Kabul, rapid population growth turns hillside areas and agricultural plots into dense informal settlements, altering land systems.",
+  "connects": "It links closely with land-cover change, ecosystem service supply, and how urban morphology affects nature.",
+  "why_phd": "Crucial for analyzing how physical changes in Kabul's layout alter the delivery of vital ecosystem benefits.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What two elements do land systems combine?",
+    "a": "Human activities and natural environmental dynamics."
+   },
+   {
+    "q": "How does land system change affect Kabul?",
+    "a": "Urban expansion transforms farms and hillsides, altering ecological functions and service delivery."
+   }
+  ],
+  "search": "land systems urban change"
  }
 ]

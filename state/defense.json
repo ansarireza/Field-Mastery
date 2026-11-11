@@ -471,26 +471,27 @@
   "4b4f5f6322",
   "b05f2fd5cd",
   "162124c84c",
-  "2f0e2b19ac"
+  "2f0e2b19ac",
+  "edaafc487a"
  ],
  "today": {
-  "id": "2f0e2b19ac",
+  "id": "edaafc487a",
   "scope": "Spatial patterns and planning",
-  "q": "How do you distinguish modeled ecosystem service supply potential from actual service delivery and human benefits?",
-  "type": "theory",
+  "q": "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
+  "type": "methods",
   "outline": [
-   "Define supply potential versus actual service use",
-   "Acknowledge that model estimates are not direct observations",
-   "Explain how demand and access mediate service flows"
+   "Describe land-cover and land-change accuracy assessment",
+   "Explain sensitivity and uncertainty analysis for spatial models",
+   "Address challenges of data scarcity"
   ],
-  "pitfall": "Confusing modeled biophysical capacity with realized human wellbeing benefits.",
-  "follow_up": "How does this distinction alter your spatial prioritization for urban planning in Kabul?",
-  "bring": "Conceptual diagrams separating supply potential, demand, and actual delivery flows.",
+  "pitfall": "Treating model outputs as absolute truths without addressing data limitations.",
+  "follow_up": "Which specific parameters drive the highest uncertainty in your InVEST models?",
+  "bring": "Accuracy assessment matrices and uncertainty/sensitivity test results.",
   "self_check": [
-   "Defined supply versus delivery",
-   "Referenced model limitations",
-   "Addressed human benefits"
+   "Covered land-change validation",
+   "Mentioned uncertainty tests",
+   "Addressed data scarcity"
   ]
  },
- "today_date": "2026-11-10"
+ "today_date": "2026-11-11"
 }

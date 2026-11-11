@@ -1,64 +1,64 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "lessons": [
   {
-   "id": "cffed8349f",
-   "date": "2026-11-10",
-   "term": "Polycentric governance systems",
-   "area": "Environmental governance",
-   "kind": "concept",
-   "definition": "Polycentric governance systems feature multiple independent decision-making centers with overlapping authorities.",
-   "plain": "Polycentric governance means spreading decision-making across multiple smaller groups instead of relying on one central authority. This helps cities manage resources better by involving local communities alongside formal offices.",
-   "example": "In a Global South city, neighborhood committees, municipal water boards, and NGOs share the work of managing local green spaces and stormwater.",
-   "connects": "It links to environmental planning and social-ecological systems for managing shared natural resources.",
-   "why_phd": "Vital for analyzing how fragmented urban areas in Kabul coordinate environmental planning across informal and formal sectors.",
+   "id": "bb74bc903a",
+   "date": "2026-11-11",
+   "term": "Remote sensing for land cover",
+   "area": "Land use change",
+   "kind": "method",
+   "definition": "Remote sensing uses satellite or aerial sensors to capture Earth's surface data for mapping land cover and land-cover change over time.",
+   "plain": "Imagine taking a photo of Earth from space to see where trees, buildings, and bare soil are. By comparing photos taken in different years, scientists track how cities grow and greenery disappears, which is vital for studying urban nature.",
+   "example": "Using satellite images to track how new houses replaced green gardens in Kabul between 2000 and 2020.",
+   "connects": "It provides the spatial data needed for modeling ecosystem services and landscape configuration.",
+   "why_phd": "It provides the primary data to detect urban growth and environmental changes in data-scarce settings like Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What characterizes polycentric governance?",
-     "a": "Multiple independent decision-making centers with overlapping authorities."
+     "q": "What is the main purpose of remote sensing in urban land-cover studies?",
+     "a": "To capture and map surface features and changes over time using satellite or aerial images."
     },
     {
-     "q": "Why is this relevant for cities like Kabul?",
-     "a": "It helps address complex environmental challenges across formal and informal settlement areas."
+     "q": "Why is this method useful in data-scarce cities like Kabul?",
+     "a": "It allows researchers to track urban development and green loss without relying solely on ground surveys."
     }
    ],
-   "search": "polycentric urban environmental governance"
+   "search": "remote sensing urban land cover"
   },
   {
-   "id": "6628424c33",
-   "date": "2026-11-10",
-   "term": "Ecologically deficit countries",
+   "id": "8f2b30b619",
+   "date": "2026-11-11",
+   "term": "land systems",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Ecologically deficit countries are nations where human consumption of natural resources outpaces their domestic ecological capacity.",
-   "plain": "An ecologically deficit country is a place where people use more nature—like food, water, and space—than the local environment can naturally renew. This forces the country to rely on resources from elsewhere or run down its own natural wealth.",
-   "example": "Many rapidly growing cities in arid parts of the Global South import water and food because local natural systems cannot meet urban demands.",
-   "connects": "It links ecosystem service supply with human demand and resource flows in urban environments.",
-   "why_phd": "It helps frame why Kabul and other data-scarce cities face severe ecological stress from rapid settlement growth.",
+   "definition": "Land systems refer to the combined human and natural dynamics that shape how land is used and altered over space and time.",
+   "plain": "Land systems include both the physical cover of the earth—like vegetation or buildings—and how humans manage that land. Understanding these systems helps us see how urban growth changes nature and impacts people.",
+   "example": "In Kabul, rapid population growth turns hillside areas and agricultural plots into dense informal settlements, altering land systems.",
+   "connects": "It links closely with land-cover change, ecosystem service supply, and how urban morphology affects nature.",
+   "why_phd": "Crucial for analyzing how physical changes in Kabul's layout alter the delivery of vital ecosystem benefits.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What defines an ecologically deficit country?",
-     "a": "Human consumption of natural resources exceeds its domestic ecological capacity."
+     "q": "What two elements do land systems combine?",
+     "a": "Human activities and natural environmental dynamics."
     },
     {
-     "q": "Why is this concept relevant to cities in the Global South?",
-     "a": "Rapid urban growth often increases local demand far beyond what nearby natural systems can supply."
+     "q": "How does land system change affect Kabul?",
+     "a": "Urban expansion transforms farms and hillsides, altering ecological functions and service delivery."
     }
    ],
-   "search": "ecologically deficit countries urban demand"
+   "search": "land systems urban change"
   }
  ],
- "total_learned": 26,
+ "total_learned": 28,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Remote sensing for land cover",
    "Multidimensional poverty and well-being",
    "Conditional cash transfers in conservation",
    "Postcolonial political ecology",
-   "Indigenous knowledge and valuation"
+   "Indigenous knowledge and valuation",
+   "Protected area design and enforcement"
   ],
   "stages": [
    "Foundation: understand concepts",
