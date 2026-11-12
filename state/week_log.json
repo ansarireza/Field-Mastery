@@ -1,25 +1,4 @@
 {
- "2026-10-28": {
-  "papers": [
-   "Cooch Behar grew outward, not more compact",
-   "New 10m global forest typology map created",
-   "Lebanese wheat farming drops due to crises"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "anthropogenic pressures",
-   "security-conservation nexus"
-  ],
-  "radar": [
-   "Interviews Reveal Institutional Failures in Bengaluru Water Crisis",
-   "Study Finds High Heat Mortality in European Cities",
-   "EU Launches Friends of Credits for Nature and Biodiversity",
-   "India Calls for Sustainable Cities for Climate Goals",
-   "Sand Mining Along Swakop River Under Scrutiny"
-  ]
- },
  "2026-10-29": {
   "papers": [
    "Linking ecosystem services and land-use disturbance",
@@ -363,6 +342,33 @@
   "lessons": [
    "Remote sensing for land cover",
    "land systems"
+  ]
+ },
+ "2026-11-12": {
+  "papers": [
+   "Cooling informal settlements in Chennai through nature",
+   "Tree cover loss and gain balance in Colombia",
+   "Evaluating eight cropland maps for agricultural monitoring",
+   "Combined infrastructure creates extra water benefits",
+   "Wild shrub patterns linked to environment",
+   "Fossil and green energy paths evolve together in Namibia",
+   "Cash transfers boost household climate resilience.",
+   "Climate and soil drive grassland resource efficiency",
+   "Dairy camel farms near Nouakchott generate profit"
+  ],
+  "radar": [
+   "EIB targets €30 billion in climate adaptation finance under COP31",
+   "Dubai reveals landmark law on urban planning and construction",
+   "Wonju City caused indiscriminate development, audit finds",
+   "Five Decades of Global Peri-Urban Research Reveal Major Shifts",
+   "China’s climate-resilient city pilots linked to higher grain output"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Multidimensional poverty and well-being",
+   "Sediment management"
   ]
  }
 }

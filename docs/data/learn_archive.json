@@ -666,5 +666,53 @@
    }
   ],
   "search": "land systems urban change"
+ },
+ {
+  "id": "b426551930",
+  "date": "2026-11-12",
+  "term": "Multidimensional poverty and well-being",
+  "area": "Human well-being",
+  "kind": "concept",
+  "definition": "Multidimensional poverty and well-being measure deprivations and human flourishing across economic, social, and environmental dimensions.",
+  "plain": "Instead of just counting money, multidimensional poverty looks at how lack of basics like clean water, health, and access to nature affect people's lives and overall well-being in cities.",
+  "example": "In informal hillside settlements in Kabul, residents lacking piped water and cooling green spaces suffer high heat stress and poor health.",
+  "connects": "It links ecosystem service access and environmental justice to human benefits in urban planning.",
+  "why_phd": "Vital for proving how unequal access to urban nature and ecosystem services drives poverty in data-scarce cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "How does multidimensional poverty differ from income poverty?",
+    "a": "It evaluates multiple deprivations like health, living standards, and access to nature, not just money."
+   },
+   {
+    "q": "Why is this concept important for Kabul's environmental planning?",
+    "a": "It highlights how unequal access to green spaces and cooling services impacts vulnerable urban residents."
+   }
+  ],
+  "search": "multidimensional poverty urban well-being ecosystem services"
+ },
+ {
+  "id": "9004116602",
+  "date": "2026-11-12",
+  "term": "Sediment management",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Sediment management is the control and planning of soil erosion, transport, and deposition within natural and urban environments.",
+  "plain": "Sediment management means controlling loose soil and dirt so it does not wash away or clog waterways. In fast-growing cities, construction and changes in land cover can cause heavy soil erosion, filling up drainage systems and harming natural water flows.",
+  "example": "In Kabul, rapid hillside development causes soil to erode during rains, filling local streams and degrading water quality.",
+  "connects": "It connects to stormwater runoff retention, water yield, and green-blue infrastructure planning.",
+  "why_phd": "Essential for understanding how land-cover change affects hydrological ecosystem services in data-scarce settings.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What primary problem does sediment management address?",
+    "a": "Soil erosion, transport, and deposition issues that clog systems and harm water flows."
+   },
+   {
+    "q": "How does it relate to Kabul's geography?",
+    "a": "Hillside settlements and rapid development cause soil erosion during rains, impacting local streams."
+   }
+  ],
+  "search": "urban sediment management global south"
  }
 ]

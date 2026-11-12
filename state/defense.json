@@ -472,26 +472,27 @@
   "b05f2fd5cd",
   "162124c84c",
   "2f0e2b19ac",
-  "edaafc487a"
+  "edaafc487a",
+  "e31480686e"
  ],
  "today": {
-  "id": "edaafc487a",
+  "id": "e31480686e",
   "scope": "Spatial patterns and planning",
-  "q": "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
-  "type": "methods",
+  "q": "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
+  "type": "alternative explanations",
   "outline": [
-   "Describe land-cover and land-change accuracy assessment",
-   "Explain sensitivity and uncertainty analysis for spatial models",
-   "Address challenges of data scarcity"
+   "Distinguish spatial association from causal effects",
+   "Discuss formal versus informal settlement drivers",
+   "Control for confounding environmental factors"
   ],
-  "pitfall": "Treating model outputs as absolute truths without addressing data limitations.",
-  "follow_up": "Which specific parameters drive the highest uncertainty in your InVEST models?",
-  "bring": "Accuracy assessment matrices and uncertainty/sensitivity test results.",
+  "pitfall": "Claiming direct causality between settlement status and service provision.",
+  "follow_up": "What unmeasured variables could explain the observed bundles instead of morphology?",
+  "bring": "Statistical models showing spatial associations alongside causal caveats.",
   "self_check": [
-   "Covered land-change validation",
-   "Mentioned uncertainty tests",
-   "Addressed data scarcity"
+   "Separated association from mechanism",
+   "Addressed settlement types",
+   "Considered confounding factors"
   ]
  },
- "today_date": "2026-11-11"
+ "today_date": "2026-11-12"
 }

@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "edaafc487a",
+  "id": "e31480686e",
   "scope": "Spatial patterns and planning",
-  "q": "What methods do you use to assess accuracy and uncertainty in data-scarce settings like Kabul?",
-  "type": "methods",
+  "q": "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
+  "type": "alternative explanations",
   "outline": [
-   "Describe land-cover and land-change accuracy assessment",
-   "Explain sensitivity and uncertainty analysis for spatial models",
-   "Address challenges of data scarcity"
+   "Distinguish spatial association from causal effects",
+   "Discuss formal versus informal settlement drivers",
+   "Control for confounding environmental factors"
   ],
-  "pitfall": "Treating model outputs as absolute truths without addressing data limitations.",
-  "follow_up": "Which specific parameters drive the highest uncertainty in your InVEST models?",
-  "bring": "Accuracy assessment matrices and uncertainty/sensitivity test results.",
+  "pitfall": "Claiming direct causality between settlement status and service provision.",
+  "follow_up": "What unmeasured variables could explain the observed bundles instead of morphology?",
+  "bring": "Statistical models showing spatial associations alongside causal caveats.",
   "self_check": [
-   "Covered land-change validation",
-   "Mentioned uncertainty tests",
-   "Addressed data scarcity"
+   "Separated association from mechanism",
+   "Addressed settlement types",
+   "Considered confounding factors"
   ]
  },
  "bank_total": 24,
- "asked": 14,
+ "asked": 15,
  "upcoming": [
-  "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
   "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
   "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
   "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
-  "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?"
+  "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?",
+  "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?"
  ]
 }

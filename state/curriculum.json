@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Multidimensional poverty and well-being",
-   "area": "Human well-being",
-   "kind": "concept"
-  },
-  {
    "term": "Conditional cash transfers in conservation",
    "area": "Payments for ecosystem services",
    "kind": "policy"
@@ -164,6 +159,8 @@
   "Polycentric governance systems",
   "Ecologically deficit countries",
   "Remote sensing for land cover",
-  "land systems"
+  "land systems",
+  "Multidimensional poverty and well-being",
+  "Sediment management"
  ]
 }
