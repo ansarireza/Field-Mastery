@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "e31480686e",
+  "id": "2738817a93",
   "scope": "Spatial patterns and planning",
-  "q": "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
-  "type": "alternative explanations",
+  "q": "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
+  "type": "limitations",
   "outline": [
-   "Distinguish spatial association from causal effects",
-   "Discuss formal versus informal settlement drivers",
-   "Control for confounding environmental factors"
+   "State that habitat quality is not measured biodiversity",
+   "Clarify runoff retention is not direct flood depth or risk",
+   "Discuss watershed-scale interpretation for annual water yield"
   ],
-  "pitfall": "Claiming direct causality between settlement status and service provision.",
-  "follow_up": "What unmeasured variables could explain the observed bundles instead of morphology?",
-  "bring": "Statistical models showing spatial associations alongside causal caveats.",
+  "pitfall": "Overstclaiming ecological health or flood protection benefits from proxy outputs.",
+  "follow_up": "How would you validate these proxy outputs if local ecological data is absent?",
+  "bring": "Explicit methodological caveats regarding InVEST proxy interpretations.",
   "self_check": [
-   "Separated association from mechanism",
-   "Addressed settlement types",
-   "Considered confounding factors"
+   "Clarified habitat proxy limits",
+   "Addressed runoff versus flood risk",
+   "Noted watershed-scale needs"
   ]
  },
  "bank_total": 24,
- "asked": 15,
+ "asked": 16,
  "upcoming": [
-  "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
   "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
   "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
   "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?",
-  "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?"
+  "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?",
+  "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?"
  ]
 }

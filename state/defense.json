@@ -473,26 +473,27 @@
   "162124c84c",
   "2f0e2b19ac",
   "edaafc487a",
-  "e31480686e"
+  "e31480686e",
+  "2738817a93"
  ],
  "today": {
-  "id": "e31480686e",
+  "id": "2738817a93",
   "scope": "Spatial patterns and planning",
-  "q": "How do you account for alternative explanations when linking settlement morphology to ecological functions?",
-  "type": "alternative explanations",
+  "q": "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
+  "type": "limitations",
   "outline": [
-   "Distinguish spatial association from causal effects",
-   "Discuss formal versus informal settlement drivers",
-   "Control for confounding environmental factors"
+   "State that habitat quality is not measured biodiversity",
+   "Clarify runoff retention is not direct flood depth or risk",
+   "Discuss watershed-scale interpretation for annual water yield"
   ],
-  "pitfall": "Claiming direct causality between settlement status and service provision.",
-  "follow_up": "What unmeasured variables could explain the observed bundles instead of morphology?",
-  "bring": "Statistical models showing spatial associations alongside causal caveats.",
+  "pitfall": "Overstclaiming ecological health or flood protection benefits from proxy outputs.",
+  "follow_up": "How would you validate these proxy outputs if local ecological data is absent?",
+  "bring": "Explicit methodological caveats regarding InVEST proxy interpretations.",
   "self_check": [
-   "Separated association from mechanism",
-   "Addressed settlement types",
-   "Considered confounding factors"
+   "Clarified habitat proxy limits",
+   "Addressed runoff versus flood risk",
+   "Noted watershed-scale needs"
   ]
  },
- "today_date": "2026-11-12"
+ "today_date": "2026-11-13"
 }

@@ -1,73 +1,64 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "summary": [
-  "Studies explore nature-based cooling, tree cover changes, and cropland map accuracy in various regions.",
-  "Research examines water infrastructure benefits, shrub diversity patterns, and energy paths in Namibia.",
-  "Papers analyze climate resilience, grassland resource efficiency, and dairy camel farming profits."
+  "Local knowledge acts as living infrastructure for early warning and land restoration.",
+  "Studies examine forest regrowth, urban heat islands, and ecosystem services.",
+  "Research covers biodiversity indicators, climate impacts, and land mitigation."
  ],
  "items": [
   {
-   "id": "W7225708562",
-   "title": "Nature-based ecologies of cooling: place-based pathways to advancing heat resilience in an informal settlement of Chennai (India)",
-   "headline": "Cooling informal settlements in Chennai through nature",
+   "id": "W7225813306",
+   "title": "Local knowledge as infrastructure for sustainability",
+   "headline": "Local knowledge as a living infrastructure",
    "bullets": [
-    "Looked at nature-based cooling in an informal settlement of Chennai, India.",
-    "Found community-driven, culturally rooted traditional ecological cooling methods.",
-    "Provides a replicable framework for gender-responsive, context-sensitive planning."
+    "Used infrastructure studies to reframe local knowledge as a relational sustainability system.",
+    "Showed how local knowledge does key infrastructural work like early warning and land restoration.",
+    "Argues policy must protect social and linguistic conditions, not just extract information."
    ],
    "plain": {
-    "question": "How do marginalized communities handle severe urban heat?",
-    "method": "Studied nature-based traditional ecological knowledge in an informal settlement in Chennai.",
-    "finding": "Found embedded, community-driven strategies that help cool the area.",
-    "why": "It helps planners design better heat policies for marginalized neighborhoods."
+    "question": "How should we view and support local environmental knowledge?",
+    "method": "Examined four examples of community-held knowledge using infrastructure studies.",
+    "finding": "Local knowledge acts like hidden infrastructure that actively sustains life and systems.",
+    "why": "It shows sustainability policy must maintain the social conditions where knowledge lives."
    },
    "full": {
-    "explainer": "Urban heat is a growing disaster, especially harming marginalized communities. While many studies look at technical fixes, this research examines how people use nature-based traditional knowledge to stay cool. By focusing on an informal settlement in Chennai, India, the study highlights how local communities naturally develop embedded, culturally rooted, and community-driven strategies to fight high temperatures. Instead of relying only on high-tech engineering, it honors local geography and human needs. Ultimately, the work gives decision-makers a practical, replicable framework. This framework helps design context-sensitive, gender-responsive, and community-led interventions that can improve urban heat governance across India and protect vulnerable city dwellers.",
+    "explainer": "For thirty years, local and Indigenous environmental knowledge has gained attention in global assessments, but it is usually treated just as data to be extracted for scientific tools. This article argues that this view misunderstands how local knowledge actually works and sustains life. By drawing on infrastructure studies, the author proposes viewing local knowledge as an infrastructure for sustainability. It is relational, embedded in language and daily practices, and mostly stays unnoticed until it fails. The author uses four real-world examples: an oral tsunami tradition in Indonesia, farmer-managed land restoration in Niger, diverging plant knowledge across a European border, and Aboriginal fire management in Australia. In each case, knowledge performs critical work like early warning, food supply, and land restoration, often where substitutes are missing or too costly. When communities face dispossession, language shifts, or market pressures, this knowledge erodes. However, it can be repaired and co-produced with science if the authority of knowledge holders is respected. Ultimately, sustainability policy must go beyond simply documenting facts and instead help sustain the actual social, linguistic, and territorial conditions that keep this knowledge alive.",
     "caveats": [
-     "Not stated",
-     "Not stated",
-     "Not stated"
+     "Not stated: quantitative measurements of knowledge erosion rates.",
+     "Not stated: specific economic costs of substitutes for local knowledge."
     ],
     "jargon": [
      {
-      "term": "Informal settlements",
-      "definition": "Residential areas where housing is built without official planning or legal land titles."
+      "term": "Infrastructure studies",
+      "definition": "An academic field examining the underlying systems and networks that support societies."
      },
      {
-      "term": "Traditional ecological knowledge",
-      "definition": "Long-standing local understandings of the environment passed down through generations."
-     },
-     {
-      "term": "Techno-centric",
-      "definition": "Focusing heavily on technology and engineering to solve problems."
-     },
-     {
-      "term": "Urban heat governance",
-      "definition": "Policies and management strategies used by cities to handle high temperature risks."
+      "term": "Ecosystem",
+      "definition": "Not stated in the text."
      }
     ],
-    "fit": "Connects to Global South informal settlements, urban cooling, and community-driven nature-based solutions for environmental planning."
+    "fit": "Connects to environmental planning and governance by reframing how local community knowledge and social conditions support ecological functions."
    },
    "thesis": {
-    "why": "It connects to your focus on informal settlements and urban cooling in the Global South by looking at community-driven nature-based heat adaptation strategies.",
-    "action": "Check how they gathered data on community strategies in the informal settlement.",
+    "why": "It connects local governance and social conditions to environmental management, which helps inform planning in data-scarce and informal settlements.",
+    "action": "Check how local knowledge integration links to spatial modeling and ecosystem service supply.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How were the community-driven strategies measured and validated?",
-    "evidence": "The abstract mentions uncovering embedded, culturally rooted strategies but does not explain the qualitative or quantitative methods used to identify them.",
-    "limit": "We cannot establish the specific data collection tools or metrics used to evaluate the cooling effectiveness.",
-    "check": "Verify the exact field methods used to document the traditional ecological knowledge."
+    "question": "Does framing local knowledge as infrastructure risk making it bureaucratic or rigid?",
+    "evidence": "The author proposes four pillars and treats knowledge through the lens of maintenance and governance.",
+    "limit": "The abstract does not provide empirical data on how infrastructural framing changes planning outcomes.",
+    "check": "Verify how the four proposed pillars are defined and operationalized in the full text."
    },
-   "relevance": 4,
-   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
    "source": {
-    "url": "https://doi.org/10.26754/ojs_ried/ijds.12667",
-    "doi": "https://doi.org/10.26754/ojs_ried/ijds.12667",
-    "venue": "Revista iberoamericana de estudios de desarrollo = Iberoamerican journal of development studies",
-    "date": "2026-11-10",
+    "url": "https://doi.org/10.1186/s42055-026-00132-6",
+    "doi": "https://doi.org/10.1186/s42055-026-00132-6",
+    "venue": "Sustainable Earth Reviews",
+    "date": "2026-11-11",
     "authors": [
-     "Kiranmayi Raparthi"
+     "Andréa Pieroni"
     ],
     "n_authors": 1,
     "open_access": true,
@@ -75,473 +66,463 @@
    }
   },
   {
-   "id": "W7127370499",
-   "title": "Tree-cover loss–gain balance in Cundinamarca (Colombia) using deep learning–based land use/land cover (LULC) maps (2017–2024)",
-   "headline": "Tree cover loss and gain balance in Colombia",
+   "id": "W7225818744",
+   "title": "Mapping and modelling urban gullies across Africa",
+   "headline": "Mapping and modelling urban gullies across Africa",
    "bullets": [
-    "Used deep learning maps to track tree cover loss and gain in Cundinamarca and Bogotá from 2017 to…",
-    "Found 125,918 ha of loss and 116,077 ha of gain, showing high hidden turnover behind a small net…",
-    "Helps monitor landscape changes and spot areas where tree cover is actively shifting or protected."
+    "Mapped and modelled urban gullies across the African continent.",
+    "Not stated in the abstract.",
+    "Helps understand land degradation and environmental planning challenges."
    ],
    "plain": {
-    "question": "How did tree cover change in a region of Colombia from 2017 to 2024 when looking beyond simple net totals?",
-    "method": "They used satellite maps driven by deep learning on a grid, and statistical models to link changes to roads and terrain.",
-    "finding": "There was much hidden tree loss and gain at the same time, even though the overall net decline was very small.",
-    "why": "It shows why tracking both loss and gain separately matters for environmental planning instead of just looking at net totals."
+    "question": "Where and how are urban gullies mapped and modelled across Africa?",
+    "method": "Mapping and modelling methods.",
+    "finding": "Not stated in the provided abstract.",
+    "why": "This helps address land degradation issues in growing cities."
    },
    "full": {
-    "explainer": "Researchers looked at tree cover changes in Cundinamarca and Bogotá, Colombia, between 2017 and 2024. Usually, studies only report the final net change in trees, which can hide a lot of movement. Instead, the authors used detailed satellite maps created with deep learning to track both losses and gains at the same time across a grid. They found that while the net change was a small decline of about 9,841 hectares, there were actually over 125,000 hectares of loss and nearly 116,000 hectares of gain happening simultaneously. They used statistical models to test how factors like distance to settlements, steep slopes, and protected areas related to these changes. Steeper areas and places farther from settlements had less loss and more gain. However, the study notes that these spatial associations do not prove direct cause and effect, and some unexplained spatial clustering remained. Overall, the method helps reveal hidden tree turnover and supports better monitoring for environmental planning.",
+    "explainer": "This paper focuses on mapping and modelling urban gullies across Africa, published in Global Environmental Change in November 2026. Urban gullies are deep channels or ditches carved by running water, often accelerated by urban development and land-cover changes. Understanding where these gullies form and how to model them is crucial for environmental planning, disaster risk reduction, and protecting urban settlements from severe soil erosion. However, the provided abstract is very short and only gives the title of the study, meaning specific details about the exact methods used, the primary findings, and the implications for particular cities are not mentioned. Readers must consult the full paper to see how the mapping and modelling were executed across different African urban environments and what specific insights emerged from the continental analysis.",
     "caveats": [
-     "Associations with protected areas and terrain are not causal.",
-     "Residual spatial autocorrelation remained substantial for both loss and gain models.",
-     "Mapped gains require ecological verification."
+     "not stated",
+     "not stated",
+     "not stated"
     ],
     "jargon": [
      {
-      "term": "deep learning–based land use/land cover maps",
-      "definition": "Computer-generated maps from satellite images that classify types of land use and cover."
-     },
-     {
-      "term": "fractional-logit models",
-      "definition": "Statistical equations used to analyze data that represent proportions or percentages."
-     },
-     {
-      "term": "territorial-unit fixed effects",
-      "definition": "Statistical controls used to account for unchanging characteristics of specific regions."
-     },
-     {
-      "term": "residual spatial autocorrelation",
-      "definition": "When unexplained errors in a statistical model are still spatially clustered together."
+      "term": "urban gullies",
+      "definition": "Deep channels cut into soil by running water in urban areas."
      }
     ],
-    "fit": "Provides a transferable spatial indicator method and land-change analysis framework relevant to Global South urban-rural transitions."
+    "fit": "Provides continental context on urban land degradation and mapping methods relevant to Global South planning."
    },
    "thesis": {
-    "why": "Demonstrates a spatial indicator set and fractional-logit modeling to analyze land-cover change dynamics, which mirrors the student's focus on land-cover change and spatial statistics.",
-    "action": "Check how the study handles land-change accuracy assessment and spatial block clustering for your own methods.",
-    "relationship": "method"
+    "why": "It connects to land-cover change, environmental planning, and spatial modelling in the Global South.",
+    "action": "Check the full text for transferable spatial modelling methods.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "Can spatial statistical models really isolate the effect of protected areas on tree cover dynamics without proving causation?",
-    "evidence": "The abstract explicitly states that cells overlapping the protected area layer showed less loss and more gain, but immediately notes these associations are not causal.",
-    "limit": "The abstract cannot establish whether the observed tree gains represent ecologically healthy native forests or just commercial plantations.",
-    "check": "Verify how the full paper addresses the remaining spatial autocorrelation and ecological verification of mapped gains."
+    "question": "How were the urban gullies mapped and modelled across different African contexts?",
+    "evidence": "The title mentions mapping and modelling urban gullies across Africa, but the abstract provides no details.",
+    "limit": "It is impossible to establish the specific methods, data sources, accuracy, or findings from the abstract.",
+    "check": "Read the full paper to examine the spatial modelling techniques and validation steps used."
    },
-   "relevance": 4,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
    "source": {
-    "url": "https://doi.org/10.1016/j.indic.2026.101616",
-    "doi": "https://doi.org/10.1016/j.indic.2026.101616",
-    "venue": "Environmental and Sustainability Indicators",
-    "date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.gloenvcha.2026.103246",
+    "doi": "https://doi.org/10.1016/j.gloenvcha.2026.103246",
+    "venue": "Global Environmental Change",
+    "date": "2026-11-12",
     "authors": [
-     "Andrés José Vergara Narváez",
-     "Tania Jimenez Castilla",
-     "Gastón Ballut-Dajud"
+     "Elise Dujardin",
+     "Eric Lutete Landu",
+     "Guy Ilombe Mawe",
+     "Fils Makanzu Imwangana",
+     "Jasper van Vliet",
+     "Jean Poesen"
     ],
-    "n_authors": 3,
-    "open_access": true,
+    "n_authors": 8,
+    "open_access": false,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225298225",
-   "title": "Task-Oriented Evaluation of Eight Cropland Maps for Agricultural Monitoring in China",
-   "headline": "Evaluating eight cropland maps for agricultural monitoring",
+   "id": "W7225379917",
+   "title": "Greener but not taller: LiDAR shows South Asia's forest greening is concentrated in structurally depleted forest",
+   "headline": "South Asia forest greening shows regrowth, not recovery",
    "bullets": [
-    "Harmonized and evaluated eight 2020 cropland products across China.",
-    "Found only 26.8% agreement and varying accuracy based on product definitions.",
-    "Guides map selection for specific land-cover applications and scale."
+    "Used MODIS, LiDAR, and maps to track South Asia forest greening from 2001 to 2024.",
+    "Found that over half of greening natural forest is structurally depleted regrowth.",
+    "Shows greenness alone does not equal true forest recovery or carbon stock restoration."
    ],
    "plain": {
-    "question": "How do different cropland maps compare when tested across China?",
-    "method": "The authors tested eight different land maps using probability samples.",
-    "finding": "The maps showed very low agreement and different accuracy levels.",
-    "why": "This helps people choose the right map for their specific study."
+    "question": "Does green forest cover mean forests are truly recovering?",
+    "method": "Used satellite data, maps, and laser scans to check forest height and health.",
+    "finding": "Greener areas are mostly regrowing, damaged forests, not fully recovered ones.",
+    "why": "We cannot rely on simple greenness to measure true forest health and carbon."
    },
    "full": {
-    "explainer": "Different maps of farmland often use different rules, details, and goals, making it hard to choose the right one for research. This study tested eight different land-cover maps for the year 2020 across China using careful probability samples. The researchers harmonized the data to compare them fairly. They discovered that only 26.8% of the pixels agreed across all products as being farmland. Individual products performed differently; for example, CropLayer had the highest overall accuracy among certain groups, while another product had an area bias closest to zero. The authors also found that how reference labels are defined changes the performance score heavily, and scaling data down can hurt fine-resolution products. Ultimately, this shows that accuracy rankings change depending on what metrics and definitions you use, meaning researchers must carefully match their map to their specific goals.",
+    "explainer": "India and China lead the world in greening, and people often assume greener forests mean the environment is recovering. However, standard satellite greenness only tracks leaves and foliage, telling us little about how tall or healthy a forest actually is. Researchers used satellite data from 2001 to 2024 alongside a new land map and laser scans to look deeper into South Asia's forests. They discovered that natural forests provided most of the region's woody greening. Yet, when compared to healthy reference forests, heavily depleted forests were much more likely to show greening. Records tied this greening to past disturbances and subsequent plant regrowth. Overall, natural forests in the area are still missing significant amounts of carbon. Therefore, widespread forest greening in South Asia largely points to regrowth in areas that remain structurally damaged, rather than a full recovery of the ecosystem.",
     "caveats": [
-     "The study focuses on mainland China.",
-     "Evaluations are specific to 2020 cropland and land-cover products.",
-     "Not stated how this translates to urban ecosystem services or Kabul."
+     "The abstract does not state findings for urban areas, Kabul, or specific cities.",
+     "The abstract does not mention urban ecosystem services or stormwater retention."
     ],
     "jargon": [
      {
-      "term": "spatial resolution",
-      "definition": "The size of each pixel in a digital map representing ground area."
+      "term": "MODIS",
+      "definition": "A satellite sensor used to observe Earth's land, oceans, and atmosphere."
      },
      {
-      "term": "design-weighted classification accuracy",
-      "definition": "A statistical measure of map correctness that accounts for sampling design."
+      "term": "GEDI LiDAR",
+      "definition": "A laser-based tool mounted in space to measure forest height and vertical structure."
      },
      {
-      "term": "commission-dominated errors",
-      "definition": "Errors where a map incorrectly labels something as belonging to a class."
+      "term": "Aboveground carbon",
+      "definition": "The carbon stored in living plants and trees above the soil."
      },
      {
-      "term": "spatial aggregation",
-      "definition": "Combining multiple smaller spatial units into a larger single unit."
+      "term": "Ecoregion",
+      "definition": "A large area defined by its distinct climate, plants, animals, and ecosystems."
      }
     ],
-    "fit": "Shows how map definitions and accuracy metrics vary, which is relevant for land-cover change and remote sensing methods."
+    "fit": "Connects via land-cover change, remote sensing, and verifying actual ecological condition versus surface greenness."
    },
    "thesis": {
-    "why": "It illustrates how map choices and definitions alter land-cover results, mirroring accuracy and validation challenges in urban remote sensing.",
-    "action": "Check how the authors handled land-change validation and uncertainty assessment.",
+    "why": "This matters for land-cover change and validation, showing that surface greenness metrics can hide structural degradation and missing carbon stocks.",
+    "action": "Check how the paper validates land-cover change accuracy against LiDAR data.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How do varying land-cover map definitions impact spatial modelling accuracy?",
-    "evidence": "The abstract notes that switching reference labels changed F1 scores and area bias significantly.",
-    "limit": "The abstract does not test urban land covers, ecosystem services, or data-scarce settings.",
-    "check": "Verify how error and uncertainty metrics apply to urban land-cover change mapping."
+    "question": "How do you separate true ecological recovery from superficial greening in your own study region?",
+    "evidence": "The abstract demonstrates that standard greenness tracks foliage but misses structural depletion and carbon deficits in regrowing forests.",
+    "limit": "The abstract does not provide methods for urban vegetation, small-scale greenery, or ecosystem service delivery.",
+    "check": "Verify if these remote sensing validation techniques apply to urban trees or peri-urban agriculture."
    },
    "relevance": 2,
    "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
    "source": {
-    "url": "https://doi.org/10.3390/rs18213798",
-    "doi": "https://doi.org/10.3390/rs18213798",
-    "venue": "Remote Sensing",
-    "date": "2026-11-05",
+    "url": "https://doi.org/10.31223/x58j8f",
+    "doi": "https://doi.org/10.31223/x58j8f",
+    "venue": "",
+    "date": "2026-11-06",
     "authors": [
-     "Yuan Xue",
-     "Guojin He",
-     "Ranyu Yin",
-     "Guizhou Wang",
-     "Zhaoming Zhang",
-     "Yan Peng"
+     "Niti B. Mishra",
+     "Gargi Chaudhuri"
     ],
-    "n_authors": 8,
+    "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225705884",
-   "title": "Quantifying non-additive synergy in Blue–Green–grey Infrastructure for adaptive urban water resilience: A case study of Zixing City, China",
-   "headline": "Combined infrastructure creates extra water benefits",
+   "id": "W7225751796",
+   "title": "Smart Geospatial Analytics for Climate-Resilient and Sustainable Futures: Urban Heat Islands and Hotspots Mapping in Greater Francistown City, Botswana",
+   "headline": "Mapping urban heat islands in Francistown, Botswana",
    "bullets": [
-    "Tested combined water infrastructure using computer models in China.",
-    "Found positive extra benefits beyond simple combined expectations.",
-    "Helps improve urban water planning through functional synergy."
+    "Used satellite data to analyze urban heat and hotspots from 2014 to 2023.",
+    "Found heat island intensity fluctuated while hot precincts grew due to vegetation loss.",
+    "Shows smart geospatial tools help plan climate-resilient and sustainable cities."
    ],
    "plain": {
-    "question": "Does mixing different water infrastructure types create extra benefits?",
-    "method": "Used computer simulations to test eight different setup scenarios.",
-    "finding": "Mixing them creates extra positive benefits for water and pollution.",
-    "why": "It shows that combining infrastructure works better than expected."
+    "question": "How do urban heat and hot spots change over time in a growing city in the Global South?",
+    "method": "Used satellite thermal data from 2014 to 2023 to measure land surface temperature.",
+    "finding": "Densely built areas showed high heat, and hot precincts grew from 2016 to 2023.",
+    "why": "Helps planners use smart data to reduce heat stress and improve city resilience."
    },
    "full": {
-    "explainer": "This paper looks at how cities handle stormwater and water pollution by combining different types of water infrastructure, known as Blue-Green-Grey Infrastructure. The researchers studied Zixing City in China, which deals with rapid urbanization and stormwater issues. They used a computer modeling framework to test eight different scenarios, including baseline conditions, single measures, dual measures, and a fully integrated setup under different rainfall events. Instead of assuming that combining methods just adds their individual benefits together, the authors measured non-additive synergy—meaning they checked if the mix created extra benefits beyond the sum of its parts. Their results showed that fully integrated systems outperformed single and dual measures. The integrated setup generated positive synergistic gains for both runoff regulation and pollution reduction across all rainfall scenarios. Specifically, peak-flow reduction showed stable gains, while nutrient reduction achieved higher relative gains during low-intensity rainfall. The study concludes that these extra benefits happen because different infrastructure parts complement each other, such as source control, runoff routing, and downstream purification.",
+    "explainer": "This paper looks at Urban Heat Islands, which are areas that get much hotter than their surroundings due to human development. The researchers studied Greater Francistown City in Botswana between 2014 and 2023. By using satellite data, they measured how hot the land surface was and tracked changes over time. Their results showed that heat intensity shifted across the city, concentrated mostly in densely built-up areas. Furthermore, urban hot spots grew in size over the years, which was linked to changes in land use and a loss of vegetation. The authors argue that using these digital monitoring tools and smart geospatial analytics is very important for cities in the Global South. It helps governments identify climate risks, reduce heat stress, and design better cities. Finally, the study suggests that cities should use this information to update zoning rules and building standards to handle future climate changes.",
     "caveats": [
-     "The study is based on model simulations rather than direct field observations.",
-     "Results are specific to the tested scenarios and rainfall events in Zixing City."
+     "The study focuses specifically on Greater Francistown City, Botswana.",
+     "The findings rely on data captured between 2014 and 2023.",
+     "Not stated whether other ecosystem services beyond heat were tested."
     ],
     "jargon": [
      {
-      "term": "Blue-Green-Grey Infrastructure",
-      "definition": "A mix of water bodies, green spaces, and engineered structures to manage urban water."
+      "term": "Urban Heat Islands",
+      "definition": "Urban areas that experience much warmer temperatures than nearby rural areas."
      },
      {
-      "term": "Non-additive synergy",
-      "definition": "When combined elements produce an extra benefit greater than the simple sum of individual parts."
+      "term": "Land Surface Temperature",
+      "definition": "The radiative skin temperature of the land surface measured from space."
      },
      {
-      "term": "Graph-theoretic network analysis",
-      "definition": "A mathematical method used to study connections and pathways in a network."
+      "term": "Geospatial analytics",
+      "definition": "Techniques used to gather, display, and analyze geographic and spatial data."
      }
     ],
-    "fit": "Connects via scenario comparison and stormwater management, helping evaluate green-blue infrastructure and spatial configurations."
+    "fit": "Connects to Global South urban environments, land-cover change, and using smart tools for urban cooling and heat mitigation planning."
    },
    "thesis": {
-    "why": "It demonstrates scenario comparison and structural connectivity analysis, which relates to evaluating green-blue infrastructure performance.",
-    "action": "Check how they modeled the non-additive synergy against the multiplicative expectation.",
-    "relationship": "method"
+    "why": "It applies remote sensing to study urban heat dynamics in a Global South context, matching the student's focus on urban cooling and environmental planning.",
+    "action": "Check how they processed Landsat thermal data for accuracy.",
+    "relationship": "context"
    },
    "critical": {
-    "question": "Can model-based synergy findings be replicated in data-scarce or informal urban settings?",
-    "evidence": "The study relies on detailed computer simulations (SWMM and graph theory) in a specific medium-sized Chinese catchment.",
-    "limit": "The abstract does not show how these methods apply to data-scarce, mountainous, or conflict-affected Global South cities.",
-    "check": "Examine whether the modeling approach requires calibration data that might be missing in Kabul."
+    "question": "Does vegetation loss directly cause the measured increase in urban hot spots, or are there other drivers?",
+    "evidence": "The abstract states that urban hotspot precincts increased, reflecting land-use transformation and vegetation loss.",
+    "limit": "The abstract does not establish a proven causal link or statistical regression proving vegetation loss caused the hot spot expansion.",
+    "check": "Verify if the full paper proves causality or merely shows a spatial correlation between vegetation loss and hot spots."
    },
    "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1016/j.ejrh.2026.104193",
-    "doi": "https://doi.org/10.1016/j.ejrh.2026.104193",
-    "venue": "Journal of Hydrology Regional Studies",
+    "url": "https://doi.org/10.21203/rs.3.rs-11272684/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11272684/v1",
+    "venue": "Research Square",
     "date": "2026-11-10",
     "authors": [
-     "Yifan Liu",
-     "Qiulin Liao",
-     "Yueyuan Hang",
-     "Yi Tang",
-     "Yuchi Cao",
-     "Jiaao Chen"
+     "Bongayi Kudoma"
     ],
-    "n_authors": 12,
+    "n_authors": 1,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225731787",
-   "title": "Spatial and seasonal distribution patterns of wild shrub vegetation along abiotic gradients in Jhelum District, Punjab, Pakistan",
-   "headline": "Wild shrub patterns linked to environment",
+   "id": "W7225812906",
+   "title": "Urban biodiversity monitoring: Practitioner‐informed criteria to support fit‐for‐purpose indicators across contrasting urban contexts",
+   "headline": "Five criteria for urban biodiversity indicators",
    "bullets": [
-    "Surveyed shrubs across 120 transects in Jhelum District from 2019 to 2021",
-    "Found forests and hills have high species diversity, while farms have low diversity",
-    "Results help guide forest conservation and afforestation to preserve balance"
+    "Studied how practitioners choose biodiversity indicators in Kigali and Melbourne.",
+    "Found five practitioner-informed criteria for fit-for-purpose urban indicators.",
+    "Helps translate global biodiversity goals into actionable, local measures."
    ],
    "plain": {
-    "question": "How do non-cultivated shrubs grow and change across seasons based on their environment?",
-    "method": "Researchers did field surveys using 120 random lines and analyzed plant data with grouping methods.",
-    "finding": "Forests and hilly areas have many different plant types, while farms have very few.",
-    "why": "This helps us learn how to protect forests and plant more trees in urban areas."
+    "question": "How do city experts choose metrics to track nature in very different cities?",
+    "method": "We looked at experiences from Kigali and Melbourne to see how city staff make choices.",
+    "finding": "We found five practical rules to help pick indicators that work locally and globally.",
+    "why": "This helps cities track nature goals in ways that actually make sense for policy."
    },
    "full": {
-    "explainer": "This study looks at how wild shrubs grow and change across different seasons in the Jhelum District of Pakistan. The researchers wanted to see how non-cultivated plants relate to their environment and habitat characteristics. By doing field surveys from 2019 to 2021 using 120 random lines across the region, they gathered vegetation data and analyzed it using classification and grouping approaches. They found a total of 28 shrub species belonging to 15 families, with certain families being the most common. Most shrubs were small woody plants near the ground with specific leaf sizes. Flowering peaked during the spring and monsoon seasons due to climate factors. The study showed that forests and hilly areas had much higher species richness and diversity than agricultural lands and home gardens. Grouping analysis revealed three main ecological clusters linked to dry conditions, moisture, and shaded forest microclimates. The authors suggest these findings are useful for focusing on forest conservation, recovery, and urban afforestation to maintain ecological balance and biodiversity against changing climates.",
+    "explainer": "Tracking nature in cities is very hard. Even after forty years of trying, global frameworks still struggle to create metrics that let cities compare data, align policies, and learn from each other. This problem is very clear when cities try to use Target 12 from the Kunming-Montreal Global Biodiversity Framework. To understand this, the study looks at how urban experts balance science and policy when picking biodiversity measures. The authors look at two very different cities: Kigali in Rwanda, which represents the Global South, and Melbourne in Australia, which represents the Global North. By learning from these two places, the study creates five practitioner-informed criteria. These rules act like a screening tool instead of a strict universal system. They help find indicators that are meaningful for local people, easy to use for city operations, and relevant for policies in places facing similar urban challenges to Kigali and Melbourne.",
     "caveats": [
-     "The first two principal components only explained 43.39 percent of the total variation.",
-     "Not stated whether other non-shrub vegetation types were analyzed."
+     "Not stated whether these criteria apply to cities outside the contexts of Kigali and Melbourne.",
+     "Not stated how the five criteria were mathematically tested or measured."
     ],
     "jargon": [
      {
-      "term": "Nanophanerophyte",
-      "definition": "A plant life form whose perennating buds are born close to the ground."
+      "term": "Kunming-Montreal Global Biodiversity Framework",
+      "definition": "A global agreement setting international targets to protect nature and biodiversity."
      },
      {
-      "term": "Phenology",
-      "definition": "The study of cyclic and seasonal natural phenomena in plants, such as flowering."
+      "term": "Fit-for-purpose indicators",
+      "definition": "Measures or metrics that are carefully chosen to match specific goals and real-world needs."
      },
      {
-      "term": "Ordination",
-      "definition": "A statistical technique used to arrange samples along gradients based on similarities."
-     },
-     {
-      "term": "Shannon diversity",
-      "definition": "A mathematical index used to measure species diversity in a community."
+      "term": "Science-policy interface",
+      "definition": "The space where scientific research meets political decision-making and practical governance."
      }
     ],
-    "fit": "Connects to the Global South context by examining vegetation patterns, habitat diversity, and environmental planning implications."
+    "fit": "Connects to environmental planning and Global South urban contexts by showing how global nature goals are turned into local city metrics."
    },
    "thesis": {
-    "why": "Provides a regional Global South example of how habitats shape plant diversity, connecting to ecosystem service supplies like habitat quality.",
-    "action": "Check how they measured habitat characteristics and whether spatial statistical modelling was used.",
+    "why": "It addresses how practitioners translate global environmental goals into local metrics, helping inform habitat quality and urban nature access planning in the Global South.",
+    "action": "Check the five screening criteria to see if they apply to habitat quality indicators in data-scarce settings like Kabul.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How reliable are the diversity indices when a large portion of total variation remains unexplained?",
-    "evidence": "The abstract states that the first two principal components explained only 43.39% of the total variation.",
-    "limit": "It cannot be fully established how all uncaptured environmental factors interact with the remaining vegetation patterns.",
-    "check": "Verify the full text to see if additional principal components or alternative models explained more variation."
+    "question": "Can criteria developed from just two cities be useful for data-scarce settings like Kabul?",
+    "evidence": "The abstract draws experiences from only two cities (Kigali and Melbourne) to build a screening approach for diverse urban contexts.",
+    "limit": "The abstract does not show how these criteria perform in conflict-affected or highly data-scarce cities.",
+    "check": "Verify if the full paper discusses how these criteria apply to cities with very few resources or data."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1111/csp2.70444",
+    "doi": "https://doi.org/10.1111/csp2.70444",
+    "venue": "Conservation Science and Practice",
+    "date": "2026-11-10",
+    "authors": [
+     "Evariste Rutebuka",
+     "Judy Bush",
+     "Beth A. Kaplin",
+     "Amy K. Hahs"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225788546",
+   "title": "Ensemble species distribution modeling and InVEST-based habitat quality assessment for Cupressus funebris under climate change: identifying refugia, ecological security patterns, and conservation priorities in China",
+   "headline": "Climate change shrinks tree habitats in China",
+   "bullets": [
+    "Used 12 algorithms and InVEST to model conifer habitats under future climate scenarios.",
+    "Found severe range contractions up to 62.4 percent and identified stable refugia zones.",
+    "Provides a spatial conservation priority map to guide adaptive management and restoration."
+   ],
+   "plain": {
+    "question": "How will climate change affect the habitats of an important tree species in China?",
+    "method": "Used computer models combining tree location data, climate scenarios, and habitat quality tools.",
+    "finding": "Tree habitats will shrink significantly, but certain mountainous areas will stay safe as refuges.",
+    "why": "The findings help plan where to protect, restore, or move endangered trees to save them."
+   },
+   "full": {
+    "explainer": "This paper looks at how climate change and habitat fragmentation threaten Cupressus funebris, an important native conifer tree in China. To figure out how the tree will fare in the future, the researchers used an ensemble species distribution model running twelve different algorithms alongside 355 location records and climate variables. They tested three different greenhouse gas scenarios across the 2050s, 2070s, and 2090s. They also applied the InVEST Habitat Quality model to check current habitat conditions and degradation. Their tests showed that temperature variables are the main drivers of habitat suitability. Across all future scenarios, the tree faces severe range losses ranging from 28 to 62 percent, forcing the species to shift upwards in elevation by up to 310 meters. However, they found persistent climate refugia covering about 15,200 square kilometers in topographically complex regions like the Hengduan Mountains. By combining climate suitability and habitat quality, they created a conservation priority map to help managers decide where to protect current forests, assist tree migration, or run restoration projects.",
+    "caveats": [
+     "Habitat quality is not measured biodiversity.",
+     "Model estimates are based on projections, not direct observations of future outcomes."
+    ],
+    "jargon": [
+     {
+      "term": "Ensemble species distribution model",
+      "definition": "A modeling approach using multiple computer algorithms to predict where species can live."
+     },
+     {
+      "term": "Climate refugia",
+      "definition": "Areas where plants or animals can survive periods of severe climate change."
+     },
+     {
+      "term": "Habitat fragmentation",
+      "definition": "The breaking up of large natural habitats into smaller, isolated patches."
+     },
+     {
+      "term": "Resistance surfaces",
+      "definition": "Spatial maps showing how difficult it is for species to move across different land types."
+     }
+    ],
+    "fit": "Connects via InVEST habitat quality modeling, spatial conservation prioritization, and climate scenario comparison methods."
+   },
+   "thesis": {
+    "why": "It demonstrates how to integrate InVEST habitat quality assessment with spatial modeling and scenario comparison to identify conservation priorities.",
+    "action": "Check how they integrated the InVEST habitat model with climate projections for spatial planning.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does the InVEST habitat quality score truly reflect actual biodiversity status on the ground?",
+    "evidence": "The study uses the InVEST Habitat Quality model to assess degradation and habitat patches without field biodiversity surveys.",
+    "limit": "The abstract cannot establish whether the modeled habitat quality correlates with actual measured species richness.",
+    "check": "Verify how habitat degradation scores were validated against real-world ecological field data in the full text."
    },
    "relevance": 3,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.3389/fenvs.2026.1912941",
-    "doi": "https://doi.org/10.3389/fenvs.2026.1912941",
-    "venue": "Frontiers in Environmental Science",
+    "url": "https://doi.org/10.21203/rs.3.rs-11012365/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11012365/v1",
+    "venue": "Research Square",
+    "date": "2026-11-11",
+    "authors": [
+     "Kouame Kouassi Lemouel",
+     "Zhihang Zhuo",
+     "邓欣祺",
+     "Rulin Wang",
+     "Boyang Zhang",
+     "Danping Xu"
+    ],
+    "n_authors": 6,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225769195",
+   "title": "The Unsung Pollinator: Systematic review on assessing the contribution of moths to nocturnal ecosystem services and biodiversity stability",
+   "headline": "Moths are vital nocturnal pollinators often neglected",
+   "bullets": [
+    "Reviewed global studies on moths using the PRISMA framework",
+    "Found 590 moth species interact with 109 plant families",
+    "Moths help wild and cultivated plants but face threats like light"
+   ],
+   "plain": {
+    "question": "What role do moths play in pollination compared to daytime insects?",
+    "method": "A search of scientific databases following a structured review process.",
+    "finding": "Moths pollinate many plants across 109 families, though they are often ignored.",
+    "why": "It shows we must protect night insects for farming and nature conservation."
+   },
+   "full": {
+    "explainer": "Pollination is a key process where animals help plants reproduce, but daytime insects like bees get most of the attention. This paper looks at the overlooked role of moths as night-time pollinators. Using a structured search method across scientific databases, the authors examined over a thousand records and narrowed them down to 526 relevant studies. They found that 590 different moth species interact with 109 plant families, including many wild and cultivated plants, with families like orchids showing up often. Certain moth groups are especially important for pollination. However, these night insects face many threats, such as habitat loss, climate change, pesticides, and artificial light at night, with the strongest experimental proof existing against artificial night lighting. The review argues that moths should be included in future farming and conservation plans because they are a widespread yet neglected part of nature.",
+    "caveats": [
+     "Data on moth taxa are taxonomically and evidentially patchy",
+     "Not stated"
+    ],
+    "jargon": [
+     {
+      "term": "Diurnal",
+      "definition": "Active during the daytime."
+     },
+     {
+      "term": "PRISMA 2020",
+      "definition": "A structured set of rules for reporting systematic reviews."
+     },
+     {
+      "term": "ALAN",
+      "definition": "Artificial light at night."
+     }
+    ],
+    "fit": "Connects to habitat quality and biodiversity support, though it studies moths rather than urban ecosystem services in Kabul."
+   },
+   "thesis": {
+    "why": "It touches on habitat quality and biodiversity stability, which relate to broader urban ecosystem services.",
+    "action": "Check if artificial night lighting impacts urban insect habitats.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How does this global review of nocturnal pollination apply to urban ecosystem services in semi-arid settings like Kabul?",
+    "evidence": "The abstract discusses worldwide moth pollination, plant families, and threats like artificial light at night across diverse regions.",
+    "limit": "It does not provide spatial data, urban land-cover metrics, or specific findings for Kabul or semi-arid cities.",
+    "check": "Verify if any urban studies or lighting impacts on cities were included in the reviewed papers."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://ijlsci.in/ls/index.php/home/article/view/1753",
+    "doi": null,
+    "venue": "International Journal of Life Sciences",
+    "date": "2026-11-06",
+    "authors": [
+     "Sekhon Charan Kamal",
+     "Diksha",
+     "Monika",
+     "Nain Vishal"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225703411",
+   "title": "Governance Challenges in Implementing Payments for Ecosystem Services in Conflict‐Affected Regions: Insights From Northwestern Colombian Amazon",
+   "headline": "Hybrid governance shapes payments for ecosystem services",
+   "bullets": [
+    "Examined governance arrangements affecting conservation payments in Colombia",
+    "Found formal, community, and armed authorities jointly condition PES success",
+    "Highlights need for conflict-sensitive design in fragile environments"
+   ],
+   "plain": {
+    "question": "How do different types of authority affect conservation payment programs in conflict zones?",
+    "method": "Used fieldwork, surveys, interviews, and secondary data sources in a Colombian municipality.",
+    "finding": "Formal rules, local groups, and armed actors together negotiate and constrain conservation efforts.",
+    "why": "Conservation programs in fragile areas need conflict-sensitive design and tenure safeguards."
+   },
+   "full": {
+    "explainer": "This paper looks at how Payments for Ecosystem Services (PES) are put into practice in conflict-affected areas, using the northwestern Colombian Amazon as a case study. The authors investigate how formal government rules, local community groups, and illegal armed organizations interact to shape these conservation programs. Based on ethnographic fieldwork, surveys, and interviews, the study shows that while formal laws provide the basic legal setup, they are limited by weak state presence and land tenure issues. Local community organizations help translate rules and build trust, but they lack enforcement power. Meanwhile, illegal armed groups act as a coercive authority that can either support or undermine conservation commitments. Ultimately, the research shows that this mix of different governing forces actively shapes how conservation projects work on the ground. The authors suggest that future programs in similar regions need to be conflict-sensitive, protect land rights, and connect closely with peacebuilding efforts.",
+    "caveats": [
+     "Findings are specific to La Macarena, Meta in the northwestern Colombian Amazon.",
+     "Not stated whether quantitative ecological outcomes like carbon sequestration were measured."
+    ],
+    "jargon": [
+     {
+      "term": "Payments for Ecosystem Services",
+      "definition": "Incentives provided to landowners or managers to steward their land and provide ecological services."
+     },
+     {
+      "term": "Hybrid governance",
+      "definition": "A setting where formal state laws, local customs, and informal or armed authorities overlap."
+     },
+     {
+      "term": "State fragility",
+      "definition": "A condition where the government has weak control, limited service delivery, and low legitimacy."
+     }
+    ],
+    "fit": "Examines how governance and conflict shape environmental policy implementation in a Global South forest frontier context."
+   },
+   "thesis": {
+    "why": "It illustrates governance challenges and multi-actor authority in data-scarce, conflict-affected regions, paralleling difficult planning settings.",
+    "action": "Check how the study accounts for local power dynamics when evaluating environmental policy.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How do multiple overlapping authorities genuinely alter long-term ecological outcomes rather than just contract compliance?",
+    "evidence": "The abstract discusses eligibility, enrollment, monitoring, and compliance, but does not detail measured ecological impacts.",
+    "limit": "The abstract does not establish causal links between hybrid governance types and actual ecological restoration or deforestation reduction.",
+    "check": "Verify if the full text measures actual environmental results alongside governance challenges."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1002/eet.70163",
+    "doi": "https://doi.org/10.1002/eet.70163",
+    "venue": "Environmental Policy and Governance",
     "date": "2026-11-10",
     "authors": [
-     "Muhammad Majeed",
-     "Muhammad İrfan Ahamad",
-     "Syed Kashif Ali",
-     "Hassien M. Alnashiri",
-     "Farzana Munir",
-     "Muhammad Imran Kanjal"
-    ],
-    "n_authors": 9,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225654923",
-   "title": "Constructing Hybrid Futures: Fossil-Green Interpath Governance in a Global South Resource Periphery",
-   "headline": "Fossil and green energy paths evolve together in Namibia",
-   "bullets": [
-    "Examined how actors govern links between fossil and green energy paths in Namibia.",
-    "Found that actors use strategic agency to harmonize opposing industrial futures under pressure.",
-    "Advances understanding of hybrid energy trajectories in Global South resource peripheries."
-   ],
-   "plain": {
-    "question": "How do countries manage both old fossil fuels and new green energy at the same time?",
-    "method": "Qualitative research in Namibia, looking at oil discoveries and green hydrogen plans.",
-    "finding": "Actors actively shape how fossil and green energy industries grow together.",
-    "why": "It shows that energy transitions in the Global South are complex and mixed."
-   },
-   "full": {
-    "explainer": "As environmental crises grow, researchers often study how places shift to green economies. However, current research misses how actors strategically shape the coevolution of both fossil and green paths together, especially in Global South resource peripheries where both industries develop at the same time. This paper introduces the interpath linkages framework. It explores how actors govern relations between different energy paths during resource mobilization. The study makes three main contributions: it adds a Global South perspective shaped by foreign leverage, developmental stress, and efficiency imperatives; it introduces interpath governance to show how actors negotiate industrial futures; and it reveals concrete strategies used in investment, market, knowledge, and legitimacy arenas. Using qualitative research in Namibia, where offshore oil finds meet green hydrogen projects, the findings show how actors harmonize opposing industrial futures under intense pressure, advancing our understanding of hybrid energy trajectories.",
-    "caveats": [
-     "The study focuses specifically on Namibia as a resource periphery.",
-     "The research relies on qualitative methods without stated quantitative metrics."
-    ],
-    "jargon": [
-     {
-      "term": "Interpath governance",
-      "definition": "How actors govern relations between different industrial paths to assemble or contest their linkages."
-     },
-     {
-      "term": "Resource periphery",
-      "definition": "A region on the edge of global economies primarily supplying raw materials or energy resources."
-     }
-    ],
-    "fit": "Connects to Global South environmental planning and regional development, though it focuses on energy industries rather than urban ecosystems."
-   },
-   "thesis": {
-    "why": "It provides valuable Global South context on how systemic actors negotiate competing environmental and economic pressures, relevant for regional planning.",
-    "action": "Check how the study's framework on governance and structural pressures can apply to urban planning conflicts.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How do these national-scale energy governance strategies affect local urban ecosystem services?",
-    "evidence": "The abstract discusses resource mobilization and energy trajectories in Namibia but does not mention urban ecosystems or local environments.",
-    "limit": "The abstract does not provide empirical data on ecological impacts, land-cover change, or urban ecosystem service delivery.",
-    "check": "Verify if the full text links national energy path governance to local land-use changes or urban environments."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1080/00130095.2026.2747931",
-    "doi": "https://doi.org/10.1080/00130095.2026.2747931",
-    "venue": "Economic Geography",
-    "date": "2026-11-09",
-    "authors": [
-     "Linus Kalvelage"
-    ],
-    "n_authors": 1,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225636518",
-   "title": "Cash transfer-based social protection mechanisms for household climate resilience in Global South countries: a systematic review",
-   "headline": "Cash transfers boost household climate resilience.",
-   "bullets": [
-    "Reviewed 35 empirical studies on cash transfers as climate adaptation strategies.",
-    "Found they mainly improve absorptive and adaptive capacities.",
-    "Highlights a need for more research in informal urban settings outside Africa."
-   ],
-   "plain": {
-    "question": "How do cash handouts help households deal with climate shocks in the Global South?",
-    "method": "A systematic review of 35 research studies found in major databases.",
-    "finding": "They help families cope and adapt, but local problems limit their success.",
-    "why": "Helps design better climate and social protection programs."
-   },
-   "full": {
-    "explainer": "This paper looks at how giving cash through social protection programs helps households in the Global South deal with climate change and other shocks. By reviewing 35 past studies, the authors found that cash transfers mostly help families absorb shocks and adapt to changes. They can improve things like income, savings, farming, and health while stopping bad coping habits and debt. However, these programs struggle when poverty is too deep, cash amounts are too small, or political corruption and gender inequality get in the way. The study suggests that future climate programs must fix these design flaws to properly help people prepare for and respond to disasters. Finally, the authors point out that more research using qualitative or mixed methods is needed outside of African countries, especially in informal urban areas where data is scarce.",
-    "caveats": [
-     "Limited transformative capacities due to systemic challenges.",
-     "Local socioeconomic and political conditions can limit positive effects."
-    ],
-    "jargon": [
-     {
-      "term": "absorptive capacity",
-      "definition": "The ability of a system or household to cope with and minimize the impacts of shocks."
-     },
-     {
-      "term": "adaptive capacity",
-      "definition": "The ability of a system or household to adjust to climate change and moderate potential damages."
-     },
-     {
-      "term": "transformative capacities",
-      "definition": "The capacity to create fundamentally new systems when ecological or social structures become untenable."
-     },
-     {
-      "term": "political capture",
-      "definition": "When powerful groups manipulate policy formation and resource allocation to their own advantage."
-     }
-    ],
-    "fit": "Connects to Global South planning and informal settlements, though it focuses on social protection rather than ecosystem services."
-   },
-   "thesis": {
-    "why": "It addresses socioeconomic constraints in the Global South, but lacks a direct focus on urban ecosystem services or environmental planning.",
-    "action": "Check if any of the 35 reviewed studies cover informal urban settings relevant to Kabul.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How do social protection cash transfers interact with urban ecosystem service access in informal settlements?",
-    "evidence": "The abstract highlights a lack of research in informal urban settings and focuses on socioeconomic coping pathways.",
-    "limit": "The abstract does not evaluate urban ecosystem services, land-cover change, or environmental planning.",
-    "check": "Verify if the full paper discusses urban green infrastructure or nature-based adaptation strategies."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1080/23311886.2026.2760002",
-    "doi": "https://doi.org/10.1080/23311886.2026.2760002",
-    "venue": "Cogent Social Sciences",
-    "date": "2026-11-09",
-    "authors": [
-     "Hourn Sen",
-     "Nooshin Torabi",
-     "Benjamin Cooke"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225651700",
-   "title": "Multiple factors regulate resource use efficiency of Bothriochloa ischaemum ‐dominated community in arid and semi‐arid regions",
-   "headline": "Climate and soil drive grassland resource efficiency",
-   "bullets": [
-    "Evaluated three ecosystem resource efficiency indices using structural equation modeling",
-    "Found divergent responses of carbon, nitrogen, and phosphorus efficiency along gradients",
-    "Informs sustainable management of arid and semi-arid grasslands under various pressures"
-   ],
-   "plain": {
-    "question": "How do climate, soil, and human activity affect grassland resource use efficiency?",
-    "method": "Measured how carbon, water, and nutrient efficiencies change across climate and elevation gradients.",
-    "finding": "Carbon efficiency stays stable, while nitrogen and phosphorus efficiencies change strongly with moisture and elevation.",
-    "why": "Helps us manage dryland ecosystems sustainably by showing what drives their resource use."
-   },
-   "full": {
-    "explainer": "Classical resource use efficiency usually looks at productivity compared to resource uptake, but how long-term soil pools sustain productivity is less studied. This paper looked at three ecosystem-scale efficiency indices for carbon, nitrogen, and phosphorus in a specific grassland community across arid and semi-arid regions in China. Using a statistical method called piecewise structural equation modeling, the researchers tested how climate, soil, topography, biodiversity, and human activities influence these efficiencies. They found that different efficiencies respond differently to moisture and elevation. For example, carbon efficiency stays stable, nitrogen efficiency increases moderately, and phosphorus efficiency shows a strong nonlinear rise as moisture increases. Temperature of the warmest month was a key indicator, positively affecting carbon and nitrogen efficiencies but negatively affecting phosphorus efficiency. Overall, climate and soil had strong positive effects, human disturbance had negative impacts, and climate and terrain also worked indirectly through the soil.",
-    "caveats": [
-     "Study is focused on a specific grassland community dominated by Bothriochloa ischaemum in China",
-     "Not stated whether findings apply directly to urban ecosystems or Kabul's specific environment"
-    ],
-    "jargon": [
-     {
-      "term": "resource use efficiency",
-      "definition": "Quantifies ecosystem productivity relative to resource availability or uptake."
-     },
-     {
-      "term": "piecewise structural equation modeling",
-      "definition": "A statistical method used to test complex networks of cause-and-effect relationships."
-     }
-    ],
-    "fit": "Provides comparative baseline insights on dryland ecosystem resource efficiency, soil factors, and human impacts relevant to semi-arid regions."
-   },
-   "thesis": {
-    "why": "While focused on rural grasslands rather than urban ecosystems, it highlights how soil, climate, and human disturbance interact to shape ecosystem functions in semi-arid settings.",
-    "action": "Check how soil mediation and human disturbance indices were quantified.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How do these rural grassland findings translate to semi-arid urban environments like Kabul?",
-    "evidence": "The abstract examines natural grassland communities in arid and semi-arid China with specific climate and soil gradients.",
-    "limit": "The abstract does not provide urban data, urban land-cover types, or cities.",
-    "check": "Verify if anthropogenic disturbance metrics include urban or peri-urban pressures."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1002/njb.05181",
-    "doi": "https://doi.org/10.1002/njb.05181",
-    "venue": "Nordic Journal of Botany",
-    "date": "2026-11-09",
-    "authors": [
-     "Xiao Zhang",
-     "Huayong Zhang",
-     "Wang Tian",
-     "Yunxiang Han",
-     "Zichun Gao"
+     "Hernán Felipe Trujillo Quintero",
+     "Jessica E. Leahy",
+     "Jesse Abrams",
+     "Adam Daigneault",
+     "Stephen M. Coghlan"
     ],
     "n_authors": 5,
     "open_access": true,
@@ -549,69 +530,68 @@
    }
   },
   {
-   "id": "W7225827697",
-   "title": "Economic performance and associated characteristics of gross margin in peri-urban dairy camel farms around Nouakchott, Mauritania",
-   "headline": "Dairy camel farms near Nouakchott generate profit",
+   "id": "W4414524811",
+   "title": "Cost-effective climate change mitigation through land sector contributions",
+   "headline": "Land use mitigation is essential to meet climate goals",
    "bullets": [
-    "Surveyed 59 peri-urban dairy camel farms around Nouakchott using a questionnaire.",
-    "Found average gross margin is 355,588 MRU, driven by milk sales and feed costs.",
-    "Shows improving milk collection and management boosts profit more than herd growth."
+    "Used the REMIND-MAgPIE modeling framework to test different future AFOLU policy portfolios.",
+    "Found that missing AFOLU mitigation makes 1.5 °C warming impossible and raises consumption loss.",
+    "Shows that prudent policies reduce sector pressure while keeping climate targets achievable."
    ],
    "plain": {
-    "question": "How well do peri-urban dairy camel farms perform economically near a major city?",
-    "method": "Researchers collected data from 59 camel farms using a survey and analyzed it with statistics.",
-    "finding": "Farms make money mostly from milk, but feed is the biggest cost. Profit per animal links to milk yield and sales.",
-    "why": "This helps groups design better support programs for dairy farmers to improve their household income."
+    "question": "What happens if we do not use the land sector to help fight climate change?",
+    "method": "We used a computer model to test different futures for agriculture, forestry, and land use policies.",
+    "finding": "Without land sector help, stopping global warming at 1.5 degrees becomes impossible and costs rise.",
+    "why": "It proves we need smart land and farming rules to make climate goals achievable without hurting food."
    },
    "full": {
-    "explainer": "This paper looks at the economic performance of peri-urban dairy camel farms around Nouakchott, Mauritania. Camel farming is growing, but its financial success remained poorly documented despite the country relying on dairy imports. Researchers collected data from 59 farms using questionnaires. They found that these farms generate an average annual gross margin of about 9,000 USD per farmer. Most revenue comes from milk sales, while feed costs make up the majority of expenses. A statistical analysis showed that profit per lactating camel goes up when farmers have a higher proportion of marketed milk, longer lactations, and higher daily milk yields. Interestingly, herd size and education level did not significantly change profit per animal, though herd size still matters for total farm income. The authors suggest that support programs should focus on improving milk collection, market access, and lactation management rather than just growing herd sizes.",
+    "explainer": "This paper looks at how land use, agriculture, and forestry can help fight climate change. Using a computer modeling framework called REMIND-MAgPIE, the researchers tested what happens under different land policy options. They found that if the land sector does not help reduce emissions, keeping global warming below 1.5 degrees becomes impossible this century, and economic losses grow significantly. Relying only on the energy sector makes energy prices much higher. However, using land solutions puts a lot of stress on agriculture and food systems. The study shows that smart rules—like limiting total bioenergy use and capping greenhouse gas pricing—can relieve pressure on food prices and farming while still letting us reach important climate targets.",
     "caveats": [
-     "Data comes from a single region around Nouakchott in Mauritania, so results may not apply everywhere.",
-     "The adjusted R-squared value is 0.20, meaning other unmeasured factors also influence gross margins."
+     "not stated"
     ],
     "jargon": [
      {
-      "term": "Gross margin",
-      "definition": "The difference between total revenue and the costs directly related to production."
+      "term": "AFOLU",
+      "definition": "Agriculture, Forestry and Other Land Use sector."
      },
      {
-      "term": "Peri-urban",
-      "definition": "The transition zone where urban and rural areas meet."
+      "term": "Integrated Assessment Modeling",
+      "definition": "Computer models used to simulate interactions between human and environmental systems."
      },
      {
-      "term": "Lactating camel",
-      "definition": "A female camel that is currently producing milk."
+      "term": "Bioenergy",
+      "definition": "Energy derived from biological materials or organic matter."
      }
     ],
-    "fit": "Connects via peri-urban production systems, economic values, and management strategies in a Global South arid setting."
+    "fit": "Connects to environmental planning and scenario comparison by showing how land sector policies shape global climate targets and costs."
    },
    "thesis": {
-    "why": "Provides context on peri-urban economic systems in arid Global South settings, touching on how human activities operate outside core urban centers.",
-    "action": "Check how peri-urban livelihood studies handle local economic data collection methods.",
+    "why": "It uses scenario modeling and policy evaluation, which relates to environmental planning methods, though it focuses on global land use rather than urban services.",
+    "action": "Check how global land-use models handle regional urban-rural dynamics or data-scarce settings.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How robust is the economic model given the low adjusted R-squared value?",
-    "evidence": "The multiple regression model reported an adjusted R-squared of 0.20, meaning 80 percent of the variation in gross margin is unexplained.",
-    "limit": "The abstract does not establish causal mechanisms beyond statistical associations for profit.",
-    "check": "Review the full paper to see what other variables were tested and how models handled local market variations."
+    "question": "How do global land-sector mitigation models account for local urban and peri-urban realities?",
+    "evidence": "The abstract uses macro-level modeling via REMIND-MAgPIE to derive global pathways for agriculture, forestry, and land use without mentioning cities.",
+    "limit": "The abstract does not establish how global land sector scenarios translate to local urban ecosystem services or specific cities.",
+    "check": "Verify whether the full paper scales down its land-sector findings to regions relevant to local environmental planning."
    },
    "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.3389/past.2026.17716",
-    "doi": "https://doi.org/10.3389/past.2026.17716",
-    "venue": "Pastoralism Research Policy and Practice",
+    "url": "https://doi.org/10.1038/s41893-026-01977-7",
+    "doi": "https://doi.org/10.1038/s41893-026-01977-7",
+    "venue": "Nature Sustainability",
     "date": "2026-11-11",
     "authors": [
-     "Mohamed Ould Ahmed",
-     "Youssouf El Hadj",
-     "Mame Mohamed El Alem",
-     "El Hafedh El Mouhab",
-     "Sidi Hamady",
-     "Abir Hamrouni"
+     "Leon Merfort",
+     "Alexander Popp",
+     "Nico Bauer",
+     "Florian Humpenoeder",
+     "Gabriel Medeiros Abrahão",
+     "Benjamin Leon Bodirsky"
     ],
-    "n_authors": 9,
+    "n_authors": 13,
     "open_access": true,
     "basis": "abstract"
    }
@@ -619,10 +599,16 @@
  ],
  "more": [
   {
-   "title": "Asymmetric impacts of climate warming and vegetation restoration on streamflow in the Ji-shaped bend of the…",
-   "url": "https://doi.org/10.1016/j.ejrh.2026.104196",
-   "venue": "Journal of Hydrology Regional Studies",
-   "date": "2026-11-09"
+   "title": "Ecologies of Gendered Vulnerability in South Asia: Displacement, Disaster, Resource Conflict, and the…",
+   "url": "https://doi.org/10.67693/bjcr-8aw8prib",
+   "venue": "British Journal of Contemporary Research",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Interannual variability of regional daily precipitation extremes in subtropical Argentina: circulation…",
+   "url": "https://doi.org/10.21203/rs.3.rs-11283277/v1",
+   "venue": "Research Square",
+   "date": "2026-11-10"
   }
  ]
 }

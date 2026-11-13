@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Conditional cash transfers in conservation",
-   "area": "Payments for ecosystem services",
-   "kind": "policy"
-  },
-  {
    "term": "Postcolonial political ecology",
    "area": "Global South development",
    "kind": "classic_idea"
@@ -161,6 +156,8 @@
   "Remote sensing for land cover",
   "land systems",
   "Multidimensional poverty and well-being",
-  "Sediment management"
+  "Sediment management",
+  "Conditional cash transfers in conservation",
+  "Multimodal mobility"
  ]
 }

@@ -1,31 +1,4 @@
 {
- "2026-10-29": {
-  "papers": [
-   "Linking ecosystem services and land-use disturbance",
-   "Measurement design constrains urban-greening thermal evidence",
-   "Ecological zoning guided by synergy thresholds",
-   "Constructed wetlands rank top for green infrastructure",
-   "Community mapping and modeling mangrove benefits in Belize",
-   "Global methods for assessing urban park cultural benefits",
-   "Vegetation and climate shifts in Sudan",
-   "Spatial and non-spatial measures reshape public realm",
-   "Social and ecological factors shape restoration success"
-  ],
-  "radar": [
-   "Global study finds taller cities are greener cities' worst enemy",
-   "Living laboratory shows green spaces combat climate extremes",
-   "ADB unveils nature bond and project incubator for Asia",
-   "EU launches Friends of Credits for Nature at COP17",
-   "EIB unveils €30 billion climate plan for extreme weather"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Ecosystem services classification",
-   "Remote sensing"
-  ]
- },
  "2026-10-30": {
   "papers": [
    "Corporate actions alone cannot stop biodiversity loss",
@@ -369,6 +342,33 @@
   "lessons": [
    "Multidimensional poverty and well-being",
    "Sediment management"
+  ]
+ },
+ "2026-11-13": {
+  "papers": [
+   "Local knowledge as a living infrastructure",
+   "Mapping and modelling urban gullies across Africa",
+   "South Asia forest greening shows regrowth, not recovery",
+   "Mapping urban heat islands in Francistown, Botswana",
+   "Five criteria for urban biodiversity indicators",
+   "Climate change shrinks tree habitats in China",
+   "Moths are vital nocturnal pollinators often neglected",
+   "Hybrid governance shapes payments for ecosystem services",
+   "Land use mitigation is essential to meet climate goals"
+  ],
+  "radar": [
+   "Cities Rise Up on Climate Agenda at COP31 Leaders' Meeting",
+   "C40 Warns of Extreme Heat Risks at COP Conference",
+   "BfN Expert Meeting on New Regulations for Renewable Energy",
+   "Ho Chi Minh City Master Plan 2025–2050",
+   "Crematorium Plan at Nairobi City Park Draws Public Opposition"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Conditional cash transfers in conservation",
+   "Multimodal mobility"
   ]
  }
 }
