@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Postcolonial political ecology",
-   "area": "Global South development",
-   "kind": "classic_idea"
-  },
-  {
    "term": "Indigenous knowledge and valuation",
    "area": "Nature contributions to people",
    "kind": "concept"
@@ -158,6 +153,8 @@
   "Multidimensional poverty and well-being",
   "Sediment management",
   "Conditional cash transfers in conservation",
-  "Multimodal mobility"
+  "Multimodal mobility",
+  "Postcolonial political ecology",
+  "challenge-based learning"
  ]
 }

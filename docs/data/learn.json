@@ -1,64 +1,64 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "lessons": [
   {
-   "id": "e9d94794a5",
-   "date": "2026-11-13",
-   "term": "Conditional cash transfers in conservation",
-   "area": "Payments for ecosystem services",
-   "kind": "policy",
-   "definition": "Conditional cash transfers in conservation provide money to people if they protect local nature and ecosystems.",
-   "plain": "Conditional cash transfers mean paying money or giving aid to people, but only if they agree to protect or restore nature. In cities, this can help poor communities keep green spaces safe instead of building over them.",
-   "example": "In a Latin American city, residents receive cash support if they help maintain hillside trees that stop floods and cool the area.",
-   "connects": "Links governance and environmental justice by directly paying communities to manage urban ecosystem services.",
-   "why_phd": "Shows how economic tools affect human behavior and how policy can preserve green spaces in data-scarce cities like Kabul.",
+   "id": "9c2276b2f4",
+   "date": "2026-11-14",
+   "term": "Postcolonial political ecology",
+   "area": "Global South development",
+   "kind": "classic_idea",
+   "definition": "Postcolonial political ecology examines how historical colonial power and ongoing inequalities shape environmental access and urban change.",
+   "plain": "It looks at how past colonial powers and modern inequalities shape who gets access to green spaces and nature. In places like Kabul, it helps us see that environmental problems are not just technical, but are tied to power, politics, and historical injustices.",
+   "example": "In a Global South city, green spaces funded by elites might displace poor informal neighborhoods, showing how environmental planning can reinforce social divides.",
+   "connects": "It connects with environmental justice and governance to explain why certain groups lack access to urban nature.",
+   "why_phd": "It stops you from treating land-cover change as neutral, helping you critique who benefits from ecosystem services in Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is required to receive conditional cash transfers for nature?",
-     "a": "People must protect or restore ecosystems to get the money or aid."
+     "q": "What does postcolonial political ecology focus on?",
+     "a": "How historical power relations and social inequalities shape environmental access and urban development."
     },
     {
-     "q": "Why use this tool in urban environmental planning?",
-     "a": "It gives local residents financial reasons to keep green spaces instead of developing them."
+     "q": "Why is this relevant for studying Kabul?",
+     "a": "It highlights that urban planning and unequal ecosystem service access are tied to power dynamics and history."
     }
    ],
-   "search": "conditional cash transfers urban conservation"
+   "search": "postcolonial political ecology urban environment"
   },
   {
-   "id": "c5d44fc247",
-   "date": "2026-11-13",
-   "term": "Multimodal mobility",
+   "id": "e03f842c07",
+   "date": "2026-11-14",
+   "term": "challenge-based learning",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Multimodal mobility refers to using multiple different modes of transport within an urban area.",
-   "plain": "Multimodal mobility means moving around a city using different types of transport, like walking, cycling, buses, and cars. In urban planning, it helps design cities where people do not rely only on cars, improving travel choices and reducing traffic congestion and pollution.",
-   "example": "In a fast-growing city in the Global South, residents might walk to a local bus stop, take a bus, and then rent a bicycle for the final part of their journey.",
-   "connects": "It connects to transport planning, land-cover change, and how people access green spaces and urban ecosystem services.",
-   "why_phd": "It helps you link human movement patterns with environmental planning, green space access, and urban form in data-scarce settings.",
+   "definition": "Challenge-based learning engages students in solving real-world local problems to build deep practical knowledge.",
+   "plain": "Challenge-based learning is a teaching method where you tackle an actual, messy problem from the real world. Instead of just reading theory, you work to understand the issue and design a workable solution, blending hands-on practice with academic study.",
+   "example": "Students work with local planners in Kabul to design green roofs that reduce summer heat and manage stormwater in informal hillside settlements.",
+   "connects": "Links participatory environmental planning with actionable nature-based solutions and governance.",
+   "why_phd": "Crucial for turning complex spatial models into useful policy tools for cities like Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is multimodal mobility?",
-     "a": "Using multiple different transport options, like walking, cycling, and public transit, to move around a city."
+     "q": "What is the main focus of challenge-based learning?",
+     "a": "Solving real-world problems to learn both theory and practical skills."
     },
     {
-     "q": "Why is it relevant to environmental planning?",
-     "a": "It affects urban form, travel access, and pollution levels, linking transport choices to ecosystem access."
+     "q": "How does it apply to Kabul?",
+     "a": "By tackling actual urban challenges like heat or runoff using local data."
     }
    ],
-   "search": "multimodal mobility urban planning Global South"
+   "search": "challenge based environmental planning"
   }
  ],
- "total_learned": 32,
+ "total_learned": 34,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Postcolonial political ecology",
    "Indigenous knowledge and valuation",
    "Protected area design and enforcement",
    "Resilience in socioecological systems",
-   "Adaptive management principles"
+   "Adaptive management principles",
+   "Revealed preference valuation methods"
   ],
   "stages": [
    "Foundation: understand concepts",

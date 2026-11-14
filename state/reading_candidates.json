@@ -1,5 +1,73 @@
 [
  {
+  "id": "W7225910118",
+  "title": "Trade-offs/synergies and their optimization simulation of ecosystem services in mountain-urban complex watersheds from cluster perspective: a case study of the Tuojiang River Basin",
+  "headline": "Ecosystem service trade-offs and optimization in basins",
+  "bullets": [
+   "Analyzed ecosystem service trade-offs and synergies using a cluster perspective",
+   "Simulated optimization of ecosystem services in a mountain-urban watershed",
+   "Helps improve regional environmental planning and balanced resource management"
+  ],
+  "plain": {
+   "question": "How do nature's benefits trade off or work together in complex mountain-city river basins, and how can we optimize them?",
+   "method": "The researchers used a cluster perspective to study and simulate ecosystem services in a specific river basin.",
+   "finding": "They mapped out synergies and trade-offs among ecosystem services and simulated ways to optimize them.",
+   "why": "It helps planners balance human needs and environmental protection in complicated landscapes."
+  },
+  "full": {
+   "explainer": "This paper looks at how different natural benefits, known as ecosystem services, interact with each other in areas that mix mountains and cities. Specifically, the authors focus on a mountain-urban complex watershed called the Tuojiang River Basin. Using a cluster perspective, they examine trade-offs, where gaining one benefit means losing another, and synergies, where multiple benefits increase together. They also run simulations to optimize these services. For a student studying urban environments and land-cover change, this work offers a way to look at regional ecological functions and spatial planning in complicated settings. Although the abstract does not mention specific software tools like InVEST or details about Kabul, it provides a broad view of how to model and manage multiple environmental benefits in complex geography.",
+   "caveats": [
+    "not stated",
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "ecosystem services",
+     "definition": "The benefits that people freely get from the natural environment and healthy ecosystems."
+    },
+    {
+     "term": "trade-offs",
+     "definition": "Situations where improving one environmental benefit causes a loss in another benefit."
+    },
+    {
+     "term": "synergies",
+     "definition": "Situations where multiple environmental benefits increase or work well together."
+    }
+   ],
+   "fit": "Connects via mountain-urban geography and cluster-based ecosystem service bundles, relevant for regional planning and trade-off analysis."
+  },
+  "thesis": {
+   "why": "It shows a cluster perspective on ecosystem service trade-offs in a mountain-urban basin, relating to landscape configuration and spatial optimization methods.",
+   "action": "Check the full text for the exact clustering and simulation methods used.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How transferable are cluster-based optimization simulations from a Chinese river basin to semi-arid, conflict-affected settings like Kabul?",
+   "evidence": "The study focuses specifically on the Tuojiang River Basin, a mountain-urban complex watershed, without discussing data-scarce or arid conditions.",
+   "limit": "The abstract does not provide details on data requirements, local governance context, or transferability to different climates.",
+   "check": "Verify what specific spatial clustering and simulation algorithms were used to optimize the ecosystem services."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.1007/s10668-026-08290-5",
+   "doi": "https://doi.org/10.1007/s10668-026-08290-5",
+   "venue": "Environment Development and Sustainability",
+   "date": "2026-11-13",
+   "authors": [
+    "Qiyan Huang",
+    "Chao Yang",
+    "Qiong Xian",
+    "Meng Yuan",
+    "Jianying Shu",
+    "Tianyi Zhang"
+   ],
+   "n_authors": 7,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225818744",
   "title": "Mapping and modelling urban gullies across Africa",
   "headline": "Mapping and modelling urban gullies across Africa",
@@ -57,6 +125,69 @@
    ],
    "n_authors": 8,
    "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7164193405",
+  "title": "A climate-driven environmental sustainability indicator for assessing future Phlebotomus expansion risk in semi-arid Iran",
+  "headline": "Climate change shifts insect vector risks in semi-arid Iran",
+  "bullets": [
+   "Created an environmental sustainability indicator to map future vector expansion risks.",
+   "Found that suitable habitats will grow significantly, shifting north and higher.",
+   "Provides a transparent framework for multidimensional environmental risk assessment."
+  ],
+  "plain": {
+   "question": "How will climate change affect the future spread of certain disease-carrying insects in dry parts of Iran?",
+   "method": "The researchers used computer models and past records of where these insects live, plus future climate forecasts.",
+   "finding": "Suitable living spaces for the insects will grow by thousands of square kilometers and move north and higher up.",
+   "why": "This helps planners see how climate change creates new environmental risks over large geographic areas."
+  },
+  "full": {
+   "explainer": "Climate change alters where disease-carrying insects, specifically Phlebotomus vectors, can survive in dry regions. Traditional models often miss the broader environmental picture of future expansion. To fix this, researchers created a new tool called the Climate-Driven Environmental Sustainability Indicator (ESI). They used 312 insect location records and environmental factors in a computer modeling program called MaxEnt. They projected future conditions for the years 2041 to 2060 using five climate models under two different greenhouse gas emission scenarios. The ESI combined habitat suitability, climate exposure, expansion potential, and environmental vulnerability. The results showed that suitable habitats will expand by 25,400 to 51,200 square kilometers, moving toward northern and higher-elevation areas while shrinking in very dry southern zones. Areas facing high expansion risk will also grow. Importantly, the authors note that this indicator shows environmental expansion risk, not actual disease transmission probability.",
+   "caveats": [
+    "The indicator does not represent disease transmission probability.",
+    "Not stated whether field validation was performed beyond spatial model metrics."
+   ],
+   "jargon": [
+    {
+     "term": "Phlebotomus",
+     "definition": "A type of insect vector capable of spreading certain diseases."
+    },
+    {
+     "term": "MaxEnt",
+     "definition": "A computer program used for modeling species geographic distributions based on recorded sightings."
+    },
+    {
+     "term": "AUC",
+     "definition": "A statistical measure used to evaluate how well a predictive model performs."
+    }
+   ],
+   "fit": "Demonstrates spatial modeling, uncertainty assessment, and scenario comparison for environmental risk in a semi-arid setting."
+  },
+  "thesis": {
+   "why": "Shows how to build a multidimensional environmental index combining climate exposure and habitat suitability, useful for scenario comparison.",
+   "action": "Check how they integrated different spatial data layers into a single sustainability indicator.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does this environmental sustainability indicator actually measure real-world human health vulnerability?",
+   "evidence": "The abstract states that the ESI integrates habitat suitability, climate exposure, and vulnerability, but explicitly notes it does not represent disease transmission probability.",
+   "limit": "One cannot establish actual disease rates or human health impacts from this environmental indicator alone.",
+   "check": "Verify how the study defines environmental vulnerability and whether human population data was included."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.indic.2026.101625",
+   "doi": "https://doi.org/10.1016/j.indic.2026.101625",
+   "venue": "Environmental and Sustainability Indicators",
+   "date": "2026-11-12",
+   "authors": [
+    "Ebrahim Abbasi"
+   ],
+   "n_authors": 1,
+   "open_access": true,
    "basis": "abstract"
   }
  },
@@ -322,6 +453,146 @@
     "Benjamin Leon Bodirsky"
    ],
    "n_authors": 13,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225787255",
+  "title": "Range-level comparative analysis of woody species diversity, structure, and hotspots in a peri-urban national park, India",
+  "headline": "Diverse woody species and carbon storage in India's park",
+  "bullets": [
+   "Used 50 belt transects across 23 beats to assess woody species.",
+   "Found 12,544 individuals from 189 species with varying dominance.",
+   "Highlights need for range-specific monitoring and conservation."
+  ],
+  "plain": {
+   "question": "How do woody plant types and carbon vary across a protected park?",
+   "method": "Researchers sampled trees in 50 test strips across different park areas.",
+   "finding": "Different areas had different dominant tree types and carbon levels.",
+   "why": "This helps target conservation to protect key plant habitats."
+  },
+  "full": {
+   "explainer": "This study looks at woody plants in a protected national park in southern India to understand forest health, stability, and habitat quality. The researchers used a structured sample design, setting up 50 belt transects across 23 different beats. They counted and identified 12,544 individual plants belonging to 189 different species. The results show that species richness and dominant tree types vary widely across different parts of the park. For example, Anekal had 90 species while Kodihalli had 130, and dominant species changed depending on the range. Additionally, different areas excelled in different ecological features; one area had the highest functional diversity, while another held the most above-ground biomass, showing high carbon storage potential. By mapping spatial hotspots, the study identified microhabitats that support rare, range-restricted species. The authors conclude that these varied landscape patterns mean managers cannot use a one-size-fits-all approach, and instead need targeted, range-specific conservation and monitoring to keep the forest healthy.",
+   "caveats": [
+    "The study only assesses woody species, not the entire ecosystem.",
+    "Not stated whether non-woody plants or animals were evaluated."
+   ],
+   "jargon": [
+    {
+     "term": "Belt transects",
+     "definition": "Strip-shaped sample areas used to count and record plants in field surveys."
+    },
+    {
+     "term": "Above-ground biomass",
+     "definition": "The total mass of living plant matter above the soil, often used to estimate carbon storage."
+    },
+    {
+     "term": "Spatial hotspot analysis",
+     "definition": "A mapping technique used to find geographic clusters of high or low values."
+    }
+   ],
+   "fit": "Connects to habitat quality, spatial hotspot analysis, and biodiversity mapping in peri-urban and conservation contexts in the Global South."
+  },
+  "thesis": {
+   "why": "Provides a clear example of spatial hotspot analysis and range-level habitat quality assessment in a peri-urban landscape in the Global South.",
+   "action": "Check how the authors mapped spatial hotspots and handled field data accuracy.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How do the spatial hotspots of woody species relate to surrounding human pressures?",
+   "evidence": "The abstract identifies microhabitats and spatial hotspots supporting range-restricted species in a peri-urban national park.",
+   "limit": "The abstract does not state how urban proximity or human land-use changes drive these diversity patterns.",
+   "check": "Verify if the full paper links peri-urban pressures to the observed vegetative heterogeneity."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1007/s44415-026-00150-4",
+   "doi": "https://doi.org/10.1007/s44415-026-00150-4",
+   "venue": "Discover Forests",
+   "date": "2026-11-11",
+   "authors": [
+    "Balasubramanya Sharma",
+    "Narayan Kayet",
+    "AKSHAY KUMAR CHAKRAVARTHY",
+    "Suresh Hebbalalu Satyanarayana",
+    "Chetan Halandur Chandrashekara",
+    "Noorunnisa Begum"
+   ],
+   "n_authors": 7,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225815867",
+  "title": "Food sharing networks in a multi-ethnic, predominantly indigenous peri-urban community in the Brazilian Amazon",
+  "headline": "Social networks boost food security in a Brazilian city",
+  "bullets": [
+   "Studied food-sharing networks across 106 households in a peri-urban community in Manaus",
+   "Found social capital links more to food security than economic capital does",
+   "Shows that migration networks remain vital for food access in urban areas"
+  ],
+  "plain": {
+   "question": "How do social networks affect food access when rural families move to cities?",
+   "method": "Researchers surveyed 106 households in a peri-urban area using food security surveys and regression models.",
+   "finding": "Households with larger, reciprocal food-sharing networks felt more food secure, even after income was accounted for.",
+   "why": "This shows community support matters more for city food access than just having money to buy food."
+  },
+  "full": {
+   "explainer": "Many people move from rural and indigenous areas to cities, where buying food with cash usually becomes the norm. Some researchers think this means families stop relying on traditional food-sharing networks and depend only on money. Others believe migrants build new support groups to help secure food. To explore this, researchers studied 106 households in Parque das Tribos, an indigenous, multi-ethnic community in Manaus, Brazil. They used surveys about food security and statistical regressions to see how household income and social network traits predicted food access. The results showed a positive link between feeling food secure and being part of larger, dense, and reciprocal sharing networks. Interestingly, this relationship held true even when accounting for income and cash transfer programs. Overall, the study indicates that social capital plays a stronger role in household food security than economic capital in this peri-urban setting.",
+   "caveats": [
+    "The study focuses on a specific multi-ethnic, indigenous peri-urban community in Manaus, Brazil.",
+    "Food security was measured using residents' perceptions based on a local survey instrument.",
+    "Not stated whether these findings apply to non-indigenous urban populations."
+   ],
+   "jargon": [
+    {
+     "term": "peri-urban",
+     "definition": "An area located immediately outside of a city or town, often bridging rural and urban traits."
+    },
+    {
+     "term": "social capital",
+     "definition": "The networks of relationships among people who live and work in a particular society."
+    },
+    {
+     "term": "regressions",
+     "definition": "Statistical methods used to test the relationship between a dependent outcome and one or more variables."
+    },
+    {
+     "term": "cash-based markets",
+     "definition": "Economic systems where goods and services are bought and sold using money rather than bartered."
+    }
+   ],
+   "fit": "Connects to Global South urban contexts, showing how migrant communities maintain informal support systems instead of relying solely on cash."
+  },
+  "thesis": {
+   "why": "It illustrates how vulnerable urban populations rely on informal social structures for essential resources, offering context for urban equity and planning.",
+   "action": "Check how the paper defines peri-urban boundaries and if spatial proximity influences sharing.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does perceived food security genuinely reflect actual nutritional intake?",
+   "evidence": "The study relies on residents' perceptions of household food security using the EBIA survey instrument rather than direct dietary intake data.",
+   "limit": "We cannot establish whether better social networks directly improve physical nutrition or just lower anxiety about food.",
+   "check": "Verify how the local version of the EBIA survey was validated for this specific multi-ethnic urban population."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1371/journal.pone.0360629",
+   "doi": "https://doi.org/10.1371/journal.pone.0360629",
+   "venue": "PLoS ONE",
+   "date": "2026-11-11",
+   "authors": [
+    "Harold Martin Wright",
+    "Barbara Ann Piperata",
+    "Sean S. Downey",
+    "Shane A. Scaggs",
+    "Therezinha de Jesus Pinto Fraxe"
+   ],
+   "n_authors": 5,
    "open_access": true,
    "basis": "abstract"
   }
@@ -1328,6 +1599,76 @@
   }
  },
  {
+  "id": "W7225635452",
+  "title": "Multi-Decadal Remote Sensing of Land Cover and Surface Water Dynamics in a Data-Limited Monsoon Lake Watershed in Myanmar",
+  "headline": "Land cover and water trends in Myanmar",
+  "bullets": [
+   "Mapped long-term land cover and surface water using satellite data and machine learning.",
+   "Found major agricultural expansion and forest loss between 2000 and 2010.",
+   "Shows why separating raw satellite maps from reference checks is vital for accuracy."
+  ],
+  "plain": {
+   "question": "How can we track long-term land and water changes in areas with few ground records?",
+   "method": "Used satellite images from 2000 to 2025 and tested different computer learning tools.",
+   "finding": "Farms grew while forests shrank, but water changes remained uncertain.",
+   "why": "It shows we must carefully check satellite maps using proper samples before trusting trends."
+  },
+  "full": {
+   "explainer": "Monitoring land and water over a long time is difficult when there are few local records to check against. This study looked at the Inle lake watershed in Myanmar from 2000 to 2025 using satellite data. The researchers tested three different computer classification methods and used a Support Vector Machine approach because it performed best. They evaluated map accuracy using a separate sample of fixed pixels. The results showed that agriculture grew significantly while forests decreased, mostly between 2000 and 2010. However, changes in surface water were less certain, and the water interval included zero. The study highlights that raw satellite maps can differ from actual reference-based estimates. Therefore, distinguishing between raw mapped trends and proper sampling uncertainty is crucial for accurately understanding environmental changes in data-limited regions.",
+   "caveats": [
+    "Built-up user's accuracy remained low at 12.4 to 22.9 percent.",
+    "The water change sampling interval included zero, leaving watershed-wide surface water change uncertain.",
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Landsat annual median composites",
+     "definition": "Combined satellite images taken across a year to represent median surface reflectance."
+    },
+    {
+     "term": "Support Vector Machine",
+     "definition": "A machine learning algorithm used here to classify satellite images into land cover types."
+    },
+    {
+     "term": "Macro-F1",
+     "definition": "A statistical measure of a classification model's accuracy balancing precision and recall."
+    },
+    {
+     "term": "Stratified probability sample",
+     "definition": "A sampling method where a region is divided into groups, and random pixels are chosen from each."
+    }
+   ],
+   "fit": "Demonstrates land-cover change mapping and accuracy assessment methods relevant to data-scarce regional studies."
+  },
+  "thesis": {
+   "why": "It provides methodological insights into land-cover classification and accuracy assessment for data-limited regions, mirroring similar spatial data challenges in Kabul.",
+   "action": "Check how the authors handled spatial autocorrelation and error correction scenarios in the full text.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How reliable are land-cover change trends when built-up accuracy is low?",
+   "evidence": "The abstract notes that built-up user's accuracy remained low at 12.4-22.9% and that agricultural trends changed under error correction scenarios.",
+   "limit": "The abstract does not establish exact causal drivers of the observed forest loss and agricultural expansion.",
+   "check": "Examine how error correction scenarios were modeled and applied to the land-cover change estimates."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.3390/rs18213837",
+   "doi": "https://doi.org/10.3390/rs18213837",
+   "venue": "Remote Sensing",
+   "date": "2026-11-08",
+   "authors": [
+    "La Minn Ko Ko",
+    "Win Sithu Maung",
+    "Phyo Thandar Hlaing"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225468434",
   "title": "Carbon sequestration and avoided emissions reveal the net carbon benefit of urban green space in Beijing (2000–2024)",
   "headline": "Beijing's green spaces became net carbon positive by 2012",
@@ -1521,6 +1862,135 @@
     "Abdifatah Nour Rage"
    ],
    "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225466934",
+  "title": "Smart Cities and Urban Microclimate Sustainability: A Geospatial Framework for Adaptive Urban Design",
+  "headline": "Geospatial framework for smart cities and microclimate",
+  "bullets": [
+   "Used a geospatial framework to study smart cities and urban microclimate sustainability.",
+   "Proposed a framework for adaptive urban design using geospatial tools.",
+   "Helps improve urban microclimate sustainability through smart city design."
+  ],
+  "plain": {
+   "question": "How can geospatial tools help cities stay cool and sustainable?",
+   "method": "Built a geospatial framework for adaptive urban design.",
+   "finding": "Created a new way to link smart cities with microclimate sustainability.",
+   "why": "It helps planners design better, cooler cities using spatial data."
+  },
+  "full": {
+   "explainer": "This paper looks at how smart cities can manage their microclimate and stay sustainable. The authors present a new geospatial framework meant to help with adaptive urban design. By using spatial data and geographic information, the study aims to connect modern smart city concepts with local weather and climate conditions inside urban areas. This approach gives planners tools to better understand how urban layouts affect local temperatures and environmental quality. Because cities face growing climate challenges, having a clear framework for adaptive design is very important. However, the short abstract does not give specific details about empirical testing, case studies, or the exact numerical results found by the authors. It focuses mainly on introducing the overarching geospatial framework itself.",
+   "caveats": [
+    "not stated",
+    "not stated",
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Geospatial Framework",
+     "definition": "A structured system or set of tools that uses location-based data for analysis."
+    },
+    {
+     "term": "Urban Microclimate",
+     "definition": "The local climate conditions of a specific urban area, like temperature and wind."
+    },
+    {
+     "term": "Adaptive Urban Design",
+     "definition": "Designing cities so they can flexibly adjust to environmental changes."
+    }
+   ],
+   "fit": "Connects to urban microclimate management, a key part of urban ecosystem services and planning."
+  },
+  "thesis": {
+   "why": "It provides a geospatial method related to urban microclimates, which connects to cooling and environmental planning themes in the student's work.",
+   "action": "Check the full text to see if the framework evaluates urban cooling or can be applied in data-scarce settings.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How practical is this geospatial framework for data-scarce or developing regions?",
+   "evidence": "The abstract introduces a geospatial framework for smart cities and microclimate sustainability without mentioning data requirements.",
+   "limit": "We cannot establish whether the framework works in informal settlements, data-scarce settings, or the Global South.",
+   "check": "Verify if the methods rely on high-tech smart city data that might be missing in cities like Kabul."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+  "source": {
+   "url": "https://doi.org/10.1007/s12524-026-02617-5",
+   "doi": "https://doi.org/10.1007/s12524-026-02617-5",
+   "venue": "Journal of the Indian Society of Remote Sensing",
+   "date": "2026-11-07",
+   "authors": [
+    "Sagar Tomar",
+    "Kishor Sitaram Kulkarni"
+   ],
+   "n_authors": 2,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225779283",
+  "title": "METHODOLOGICAL FRAMEWORK FOR DELINEATING PERI-URBAN AREA: A CASE OF PANIPAT CITY, HARYANA, INDIA",
+  "headline": "Mapping Peri-Urban Zones in Panipat, India",
+  "bullets": [
+   "Used remote sensing, GIS, and socio-economic data to map Panipat's peri-urban zone.",
+   "Found the zone extends 4 to 20 km outward, covering 102 administrative units.",
+   "Provides a framework for urban planners to manage growth and sustainable land use."
+  ],
+  "plain": {
+   "question": "How can we map the changing transition zone between a city and its countryside?",
+   "method": "We used satellite images, maps, census data, and surveys to measure growth and land use.",
+   "finding": "The transition zone spreads 4 to 20 kilometers out from Panipat in specific directions.",
+   "why": "This helps cities plan better for rapid growth and protect natural resources."
+  },
+  "full": {
+   "explainer": "As cities grow rapidly, they create complex transition zones between urban and rural areas, often called peri-urban zones. This study focuses on Panipat City in India, a fast-growing industrial hub, to figure out a reliable way to map these boundaries. The researchers combined satellite images from 2024 with older census data from 2011 and local surveys. They looked at five main factors: administrative borders, population changes, economic activities like farming supply zones and brick kilns, worker jobs, and how densely built the land is. Their analysis showed that Panipat's transition zone reaches between 4 and 20 kilometers away from the city center, spreading mostly in linear patterns along major roads. This zone includes 102 local areas, which they further split into inner and outer rings. Ultimately, this new method gives city planners a solid tool to manage urban sprawl and plan sustainable land use.",
+   "caveats": [
+    "Data relies heavily on older 2011 Census of India records combined with 2024 satellite imagery.",
+    "Not stated whether this framework applies accurately outside of industrial National Capital Region settings."
+   ],
+   "jargon": [
+    {
+     "term": "Peri-urban area",
+     "definition": "A transitional zone located between fully urbanized city centers and rural countryside."
+    },
+    {
+     "term": "Sentinel-2",
+     "definition": "A type of satellite used to capture detailed images of Earth's land cover."
+    },
+    {
+     "term": "Census towns",
+     "definition": "Areas that do not have local municipal governance but satisfy certain urban demographic criteria."
+    }
+   ],
+   "fit": "Provides a transferable spatial framework for delineating transitional urban-rural zones in rapidly growing Global South contexts."
+  },
+  "thesis": {
+   "why": "It offers a spatial framework and remote sensing approach that helps analyze land-cover change and urban expansion in the Global South.",
+   "action": "Check how they integrated socio-economic indicators with remote sensing data for spatial mapping.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How were five very different types of parameters normalized into a single boundary?",
+   "evidence": "The study uses administrative units, demographics, economic indicators, occupations, and built-up density together.",
+   "limit": "The abstract does not explain the exact mathematical or weighting formula used to combine these five distinct parameters.",
+   "check": "Verify the exact spatial weighting and overlay methods used to combine socio-economic data with satellite imagery."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.62441/actainnovations.vi.3554",
+   "doi": "https://doi.org/10.62441/actainnovations.vi.3554",
+   "venue": "Acta Innovations",
+   "date": "2026-11-07",
+   "authors": [
+    "Preeti",
+    "Prof. Ravinder  Kaur"
+   ],
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
@@ -3521,457 +3991,6 @@
     "Boris O. K. Lokonon"
    ],
    "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225245422",
-  "title": "A risk framework for addressing nature’s harmful contributions to people",
-  "headline": "A risk framework for nature's harmful contributions",
-  "bullets": [
-   "Not stated in the provided abstract text.",
-   "Not stated in the provided abstract text.",
-   "Helps address negative impacts of nature on people."
-  ],
-  "plain": {
-   "question": "How can we address the harmful impacts that nature has on people?",
-   "method": "Not stated in the abstract.",
-   "finding": "Not stated in the abstract.",
-   "why": "It helps us understand and manage risks from nature."
-  },
-  "full": {
-   "explainer": "The abstract for this study is not provided in the prompt text. Therefore, a detailed retelling cannot be given. However, based on the title, the paper introduces a risk framework to address nature's harmful contributions to people. In environmental planning and urban ecosystems, nature does not always provide benefits; it can also pose risks or disservices. Having a risk framework allows researchers and planners to systematically evaluate and manage these negative aspects alongside positive ecosystem services. This is especially important in diverse urban or regional settings where people interact closely with natural elements that might also present hazards.",
-   "caveats": [
-    "not stated",
-    "not stated",
-    "not stated"
-   ],
-   "jargon": [],
-   "fit": "It connects by offering a risk framework for negative nature impacts, useful for balancing ecosystem services in urban planning."
-  },
-  "thesis": {
-   "why": "It addresses harmful nature impacts, complementing ecosystem service assessments in urban and regional planning contexts like Kabul.",
-   "action": "Check the full text for specific risk assessment methods that can be paired with InVEST modeling.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How does this framework apply to urban environments and specific ecosystem service models?",
-   "evidence": "The abstract only provides a title about a risk framework for nature's harmful contributions without details.",
-   "limit": "Nothing about methods, urban areas, or specific applications can be established from the abstract.",
-   "check": "Verify if the paper discusses urban applications or disservices relevant to urban planning."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1126/science.aap8826",
-  "source": {
-   "url": "https://doi.org/10.1038/s41559-026-03225-9",
-   "doi": "https://doi.org/10.1038/s41559-026-03225-9",
-   "venue": "Nature Ecology & Evolution",
-   "date": "2026-11-04",
-   "authors": [
-    "Matthew P. Faith",
-    "Siân E. Rees",
-    "Rory Gibb",
-    "Briana L. Abrahms",
-    "Lisa Hartmann",
-    "Yvonne Walz"
-   ],
-   "n_authors": 11,
-   "open_access": false,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225230361",
-  "title": "Disappearing coastal communities and marine policy: Sustaining climate action through community-based waste intervention in Lagos, Nigeria",
-  "headline": "Community fragmentation breaks climate intervention continuity",
-  "bullets": [
-   "Examined a waste and climate intervention in Kadara, Lagos using field and documentary data.",
-   "Found that successful implementation does not ensure community continuity or long-term action.",
-   "Shows marine policy must account for community fragmentation when planning sustainable action."
-  ],
-  "plain": {
-   "question": "Can climate and waste projects survive when a coastal community breaks apart?",
-   "method": "Studied a community waste project in Lagos, Nigeria using field data and historical documents.",
-   "finding": "The project worked well at first, but the local community later fragmented and dispersed.",
-   "why": "Policies assume communities stay intact, but environmental decline causes them to disperse."
-  },
-  "full": {
-   "explainer": "Climate actions in coastal communities usually assume that the local population will stay put long enough for the benefits to last. However, this assumption is rarely tested in places struggling with severe environmental decline, poor waste services, and unstable livelihoods. This paper looks at a community-based waste and climate intervention in Kadara, a coastal settlement in Lagos, Nigeria. The project combined climate education, stakeholder engagement, waste recovery, volunteer work, and livelihood activities to fight marine dumping and a lack of formal waste services. While the project achieved immediate environmental and participation goals, a major continuity problem emerged later. Even though the physical place remained, the organized social community needed to carry out the environmental work no longer persisted in the same form. The findings show that a successful project and community ownership do not guarantee that the community itself will stay together. This raises a key question for marine policy: how do you sustain environmental knowledge and local capacities when the community expected to carry them forward fragments or changes?",
-   "caveats": [
-    "Not stated",
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "marine dumping",
-     "definition": "The deliberate disposal of wastes or other matter into the ocean."
-    },
-    {
-     "term": "intervention continuity",
-     "definition": "The ability of an environmental project's benefits and actions to endure over time."
-    }
-   ],
-   "fit": "Connects to environmental planning and social stability in vulnerable settlements, highlighting risks of community fragmentation."
-  },
-  "thesis": {
-   "why": "It connects to the student's interest in urban planning, social-ecological systems, and informal settlements by showing how social disruption impacts local action.",
-   "action": "Check how the study defines community fragmentation and whether it relates to local land-cover or displacement drivers.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How do you separate physical displacement from community fragmentation in project longevity?",
-   "evidence": "The abstract notes that a coastal place remains geographically identifiable while the organized social community no longer persists.",
-   "limit": "The abstract does not give quantitative metrics on the exact rate of population loss or dispersal.",
-   "check": "Verify how the authors measured the persistence of the organized social community versus physical presence."
-  },
-  "relevance": 3,
-  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-  "source": {
-   "url": "https://doi.org/10.1016/j.marpol.2026.107339",
-   "doi": "https://doi.org/10.1016/j.marpol.2026.107339",
-   "venue": "Marine Policy",
-   "date": "2026-11-04",
-   "authors": [
-    "Oluwatoyosi Abikoye",
-    "Abimbola Abikoye"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225239797",
-  "title": "Adaptive Thermal Comfort Assessment in Mixed-Mode Office Buildings Under Current and Future Sub-Saharan Tropical Hot and Dry Climate Scenarios",
-  "headline": "Mixed-mode cooling cuts energy while managing heat stress",
-  "bullets": [
-   "Tested office building cooling strategies under current and future climate scenarios",
-   "Found mixed-mode cooling uses half the energy of full air conditioning by 2090",
-   "Supports mixed-mode as a practical climate strategy for sub-Saharan offices"
-  ],
-  "plain": {
-   "question": "How do different cooling strategies perform in offices in hot, dry regions under future climate change?",
-   "method": "A computer model was used to test four cooling approaches in an office building in Burkina Faso from 2023 to 2090.",
-   "finding": "Passive cooling saves energy but causes severe discomfort, while mixed-mode uses half the energy of full air conditioning.",
-   "why": "It shows how buildings can stay comfortable and save energy as outdoor temperatures rise significantly."
-  },
-  "full": {
-   "explainer": "Researchers looked at how office buildings in hot, dry parts of sub-Saharan Africa handle rising temperatures caused by climate change. They used a computer model to test four different ways to cool a compressed earth brick office in Ouagadougou, Burkina Faso, looking at current conditions and future years up to 2090 using a high-emissions climate scenario. The strategies tested were free-running, natural ventilation, mixed-mode, and fully air-conditioned. They measured thermal comfort, meaning how comfortable people feel, and energy use. The results show that outdoor temperatures will rise sharply over time. Purely passive strategies use no energy but result in very high discomfort as the climate warms. Fully air-conditioned buildings use a lot of energy, reaching high demand by 2090. A mixed-mode strategy, which combines natural airflow with mechanical cooling, reduces discomfort while using about half the energy of full air conditioning. The study also found that window-opening habits shift rapidly as the climate gets hotter. This helps show how buildings can adapt to future heat.",
-   "caveats": [
-    "Validation across multiple zones and typologies is needed",
-    "Long-term evidence remains scarce outside this single tested framework"
-   ],
-   "jargon": [
-    {
-     "term": "Mixed-mode",
-     "definition": "A hybrid approach combining natural ventilation and mechanical air conditioning systems."
-    },
-    {
-     "term": "Adaptive thermal comfort",
-     "definition": "Human comfort assessed by how people adapt to indoor temperatures based on outdoor weather."
-    },
-    {
-     "term": "RCP8.5",
-     "definition": "A high-emissions greenhouse gas concentration pathway used for future climate scenarios."
-    },
-    {
-     "term": "PMV-PPD",
-     "definition": "Standard indices used to measure thermal comfort in air-conditioned indoor spaces."
-    }
-   ],
-   "fit": "Connects to environmental planning and climate adaptation in the Global South, though it focuses on buildings rather than urban scale."
-  },
-  "thesis": {
-   "why": "It evaluates adaptation strategies and future climate scenarios in a Global South setting, relating to environmental planning and local thermal conditions.",
-   "action": "Check how future climate scenarios are factored into local urban heat and cooling service planning.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does a single building model in Burkina Faso adequately represent broader urban thermal conditions?",
-   "evidence": "The study applies a stress-test framework to a single compressed earth bricks office in Ouagadougou, Burkina Faso.",
-   "limit": "It cannot establish how these thermal strategies scale up to city-wide urban cooling or wider urban ecosystem services.",
-   "check": "Verify if the paper discusses broader urban microclimate effects beyond the single office building."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.3390/buildings16214410",
-   "doi": "https://doi.org/10.3390/buildings16214410",
-   "venue": "Buildings",
-   "date": "2026-11-04",
-   "authors": [
-    "Alphonse Bouda",
-    "Césaire Hema",
-    "Adamah Messan",
-    "Tizane Daho",
-    "Shady Attia"
-   ],
-   "n_authors": 5,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225191888",
-  "title": "Urban blind spots: Informal settlements and the governance of migrant precarity",
-  "headline": "Urban blind spots in migrant precarity governance",
-  "bullets": [
-   "Examined informal settlements and migrant precarity governance.",
-   "Found urban blind spots relating to informal settlements.",
-   "Matters for understanding governance in the Global South."
-  ],
-  "plain": {
-   "question": "How are informal settlements and migrant precarity governed?",
-   "method": "Not stated",
-   "finding": "Identified urban blind spots regarding informal settlements.",
-   "why": "It helps us see how cities fail to govern migrant precarity."
-  },
-  "full": {
-   "explainer": "This paper looks at urban blind spots, focusing on informal settlements and how migrant precarity is governed. Because the abstract is very brief, specific details about the exact methods, study locations, or concrete data results are not stated. However, the title and abstract highlight the critical issue of how informal settlements are overlooked in urban management and governance structures. This is particularly relevant for understanding vulnerable populations and migrant precarity in developing urban areas. For a student studying urban planning and ecosystem services in the Global South, it points to the governance challenges tied to informal settlement growth, even though environmental services are not explicitly mentioned in this specific text.",
-   "caveats": [
-    "Not stated",
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "informal settlements",
-     "definition": "Residential areas where housing units have been constructed without legal land rights."
-    },
-    {
-     "term": "migrant precarity",
-     "definition": "The uncertain and vulnerable living and working conditions experienced by migrants."
-    },
-    {
-     "term": "governance",
-     "definition": "The way that rules, norms, and actions are structured and executed to manage a system."
-    }
-   ],
-   "fit": "Connects to informal settlements and governance in the Global South, addressing urban blind spots in vulnerable areas."
-  },
-  "thesis": {
-   "why": "It relates to informal settlements, which are a key part of the student's focus on urban planning and land-cover change in the Global South, despite lacking ecological data.",
-   "action": "Check the full paper to see if it discusses land-cover change or resource access in informal areas.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How does the governance of migrant precarity relate to urban ecosystem services?",
-   "evidence": "The abstract focuses purely on urban blind spots, informal settlements, and migrant precarity governance without mentioning ecosystems.",
-   "limit": "We cannot establish any direct links to environmental planning, ecosystem services, or spatial modeling from this abstract.",
-   "check": "Verify if the paper offers transferable governance frameworks that can apply to Kabul's informal settlements."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-  "source": {
-   "url": "https://doi.org/10.1016/j.wdp.2026.100844",
-   "doi": "https://doi.org/10.1016/j.wdp.2026.100844",
-   "venue": "World Development Perspectives",
-   "date": "2026-11-03",
-   "authors": [
-    "Hossein Azemati",
-    "‌Ali Hosseini",
-    "Mohsen Abbasnejad Jelogir",
-    "Brandon Marc Finn"
-   ],
-   "n_authors": 4,
-   "open_access": false,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225170573",
-  "title": "Patterns and implications of land use and land cover change in King Sabata Dalindyebo Local Municipality (1994–2022): insights from remote sensing data",
-  "headline": "Urban growth causes land loss in South Africa",
-  "bullets": [
-   "Analyzed land cover changes using Landsat images from 1994 to 2022.",
-   "Found built-up areas grew while croplands and grasslands declined.",
-   "Informs better land management in rapidly urbanizing regions."
-  ],
-  "plain": {
-   "question": "How did land use change over time in a rapidly growing South African municipality?",
-   "method": "Used satellite images from different years to classify land types and check accuracy.",
-   "finding": "Cities and informal settlements grew a lot, while farms and grass areas shrank.",
-   "why": "This helps local leaders make better plans to protect nature and guide city growth."
-  },
-  "full": {
-   "explainer": "This paper looks at how land use and land cover changed over nearly three decades in the King Sabata Dalindyebo Local Municipality in South Africa. Using satellite images from 1994, 2004, 2014, and 2022, the researchers mapped the landscape to see how human activities altered the environment. They found that cities and informal settlements expanded significantly, which led to a decrease in croplands and grasslands. The study connects these physical landscape shifts to human drivers like urban growth, informal settlement expansion, and land reform policies. It also points out the environmental consequences, such as the loss of biodiversity, soil erosion, and a drop in ecosystem services. By comparing these findings with other low- and middle-income regions, the authors argue that balancing urban development with ecological health is a shared global challenge. Finally, they offer policy suggestions, including stronger land-use planning, support for climate-smart farming, and regular monitoring of land changes by local governments to improve future management.",
-   "caveats": [
-    "Not stated whether specific ecosystem service values were quantified.",
-    "Not stated how biodiversity loss was directly measured beyond noting ecological consequences."
-   ],
-   "jargon": [
-    {
-     "term": "Supervised classification",
-     "definition": "A computer-led method to categorize satellite image pixels using training samples."
-    },
-    {
-     "term": "Confusion matrices",
-     "definition": "A table used to evaluate the accuracy of a map created from remote sensing data."
-    },
-    {
-     "term": "Ecosystem services",
-     "definition": "The benefits that humans freely gain from a healthy natural environment."
-    }
-   ],
-   "fit": "Connects to Global South urban land-cover change, informal settlements, and linking remote sensing evidence to environmental planning."
-  },
-  "thesis": {
-   "why": "It links multi-decadal land-cover change analysis with informal settlement growth and ecological consequences, directly mirroring the student's methodological and regional interests.",
-   "action": "Check how they integrated socio-economic drivers with accuracy-assessed land cover maps.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "How were socio-economic drivers explicitly integrated with the spatial land-cover analysis?",
-   "evidence": "The abstract claims novelty in integrating socio-economic drivers and ecological implications into long-term LULC analysis, but only summarizes broad trends like land reform and informal growth.",
-   "limit": "The abstract does not detail the exact mathematical or statistical models used to link socio-economic drivers to specific land cover changes.",
-   "check": "Examine the full paper to see the exact methods used to combine social data with Landsat classification."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1080/24749508.2026.2681972",
-   "doi": "https://doi.org/10.1080/24749508.2026.2681972",
-   "venue": "Geology Ecology and Landscapes",
-   "date": "2026-11-03",
-   "authors": [
-    "Lwanda Matiso",
-    "Tom Were Okello",
-    "Grace Emily Okuthe",
-    "Grey Magaiza",
-    "Samkelo S’boniso Mhlongo",
-    "Zanele Xelelo"
-   ],
-   "n_authors": 9,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225191990",
-  "title": "Land Use Optimization for Multi-Dimensional Ecosystem Service Deficit Areas with Disrupted Spatial Connectivity on the Northern Slopes of the Tianshan Mountains",
-  "headline": "Land-use optimization in arid northern Tianshan slopes",
-  "bullets": [
-   "Used multi-source data (1980–2025) and a multi-step framework to optimize land use",
-   "Found 35,034 km2 of ecological deficit zones near oasis edges and city peripheries",
-   "Helps manage ecological risks by restructuring land configurations and limits"
-  ],
-  "plain": {
-   "question": "How can we fix damaged nature values and poor connections in dry regions?",
-   "method": "Used maps and computer models from 1980 to 2025 to study and fix land use.",
-   "finding": "Found big areas with low nature value near cities and deserts, and tested fixing them.",
-   "why": "It helps plan land use to protect nature and stop environmental risks."
-  },
-  "full": {
-   "explainer": "This paper looks at how land use changes over time in dry areas and how to fix nature values that are out of balance. Looking at data from 1980 to 2025 on the northern slopes of the Tianshan Mountains, the researchers built a special framework to analyze, diagnose, and optimize land use. They found that changes in nature values are strongly driven by human lights and water runoff. By mapping cold spots across four ecosystem services, they found over 35,000 square kilometers of ecological deficit zones, mostly near cities and the edges of oases. When they tested a plan that stops cities from growing and enforces ecological security rules, it reduced landscape connectivity and made the biggest patches smaller. This helps break up low-value areas and stops environmental risks from spreading, showing a clear way to plan land use in fragile dry regions.",
-   "caveats": [
-    "The study focuses specifically on the northern slopes of the Tianshan Mountains and may not apply everywhere.",
-    "The abstract does not state specific details about individual local species or ground-level social impacts."
-   ],
-   "jargon": [
-    {
-     "term": "Ecosystem Service Values",
-     "definition": "A monetary or weighted measure of the benefits humans get from nature."
-    },
-    {
-     "term": "Oasis-desert ecotones",
-     "definition": "The transition boundary zones where fertile oases meet dry deserts."
-    },
-    {
-     "term": "Landscape connectivity",
-     "definition": "A measure of how well connected different patches of natural habitat are across a landscape."
-    }
-   ],
-   "fit": "Matches research on land-cover change, spatial planning, and ecosystem services in arid and vulnerable settings."
-  },
-  "thesis": {
-   "why": "It provides a framework for multi-objective spatial optimization and mapping ecological deficits in dry regions, fitting spatial planning goals.",
-   "action": "Check how they modeled the spatial trade-offs between construction limits and ecological preservation.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Does restricting landscape connectivity in optimization models actually improve long-term ecosystem health?",
-   "evidence": "The study notes an 11.63% reduction in landscape connectivity alongside a 41.17% contraction in maximum patch size within deficit areas.",
-   "limit": "The abstract cannot establish whether breaking up patches caused actual, measurable ecological recovery on the ground.",
-   "check": "Verify how the model defines and validates ecological security constraints against real-world biodiversity changes."
-  },
-  "relevance": 4,
-  "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-  "source": {
-   "url": "https://doi.org/10.3390/land15112092",
-   "doi": "https://doi.org/10.3390/land15112092",
-   "venue": "Land",
-   "date": "2026-11-03",
-   "authors": [
-    "Jianming Meng",
-    "Qi Zhang"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225170615",
-  "title": "Heatwaves as Invisible Disasters: Disability, Climate Justice, and Urban and Peri-Urban Risk Reduction in Bangladesh",
-  "headline": "Heatwaves disproportionately harm disabled people",
-  "bullets": [
-   "Conducted 8 interviews with disabled people and caregivers in urban Bangladesh",
-   "Found heatwaves worsen health and expose infrastructure and care gaps",
-   "Shows heatwaves must be treated as inclusive disaster risks"
-  ],
-  "plain": {
-   "question": "How do people with disabilities experience severe heatwaves in Bangladesh?",
-   "method": "Interviews with disabled people and caregivers in three cities during 2025.",
-   "finding": "Heatwaves worsen health and daily life, highlighting a lack of accessible support.",
-   "why": "To ensure climate plans protect vulnerable groups through inclusive policies."
-  },
-  "full": {
-   "explainer": "This paper looks at how severe heatwaves affect people with disabilities in urban and suburban areas of Bangladesh, a topic that is often ignored. The authors used a qualitative community-based approach, meaning they focused on the real-life experiences of people. Between July and September 2025, they did eight semi-structured interviews in Dhaka, Rajshahi, and Pabna with individuals who have mobility, intellectual, and speech disabilities. When direct communication was not possible, they included caregivers. Using a decolonial framework that values local knowledge and everyday practices, the study found that extreme heat worsens physical and mental health, makes getting around harder, disrupts jobs, and reveals major shortages in healthcare, infrastructure, and institutional readiness. However, the study also found strong community resilience through family care, spiritual practices, and solidarity. The authors argue that heatwaves should be officially treated as disaster risks, and that cities must include disability-friendly planning and accessible infrastructure to achieve true climate justice.",
-   "caveats": [
-    "The study relies on a small sample of only eight interviews.",
-    "Findings are qualitative and based on self-reported experiences in specific cities in Bangladesh.",
-    "Not stated whether quantitative health or temperature metrics were measured."
-   ],
-   "jargon": [
-    {
-     "term": "Decolonial framework",
-     "definition": "An approach that centers local and marginalized knowledge instead of traditional Western perspectives."
-    },
-    {
-     "term": "Relational thematic analysis",
-     "definition": "A qualitative method used to identify common patterns or themes within interview transcripts."
-    },
-    {
-     "term": "Climate justice",
-     "definition": "The fair treatment of all people and the equitable protection from the impacts of climate change."
-    }
-   ],
-   "fit": "Connects to environmental planning, equity, and urban climate risk reduction in the Global South."
-  },
-  "thesis": {
-   "why": "It connects to the student's focus on environmental planning and vulnerability in the Global South by addressing social justice and human benefits in urban heat studies.",
-   "action": "Check how the study defines urban versus peri-urban risk boundaries.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can qualitative interviews on disability translate into spatial urban planning models?",
-   "evidence": "The abstract recommends embedding disability-inclusive planning and accessible infrastructure based on interview findings, but does not provide spatial data.",
-   "limit": "The abstract does not state how these social insights are mapped or integrated into physical urban cooling models.",
-   "check": "Verify if the full paper links qualitative vulnerability data with spatial heat risk maps."
-  },
-  "relevance": 3,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1007/s13753-026-00778-y",
-   "doi": "https://doi.org/10.1007/s13753-026-00778-y",
-   "venue": "International Journal of Disaster Risk Science",
-   "date": "2026-11-03",
-   "authors": [
-    "Arifatul Kibria",
-    "Ranjan Datta",
-    "Jamiul Hasan"
-   ],
-   "n_authors": 3,
    "open_access": true,
    "basis": "abstract"
   }

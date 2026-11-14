@@ -474,26 +474,27 @@
   "2f0e2b19ac",
   "edaafc487a",
   "e31480686e",
-  "2738817a93"
+  "2738817a93",
+  "27484927d1"
  ],
  "today": {
-  "id": "2738817a93",
+  "id": "27484927d1",
   "scope": "Spatial patterns and planning",
-  "q": "What are the core limitations of interpreting InVEST habitat quality and runoff retention metrics?",
-  "type": "limitations",
+  "q": "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
+  "type": "generalisability",
   "outline": [
-   "State that habitat quality is not measured biodiversity",
-   "Clarify runoff retention is not direct flood depth or risk",
-   "Discuss watershed-scale interpretation for annual water yield"
+   "Evaluate transferability between cities",
+   "Account for semi-arid, mountainous, and conflict-affected traits",
+   "Balance worldwide theory with local realities"
   ],
-  "pitfall": "Overstclaiming ecological health or flood protection benefits from proxy outputs.",
-  "follow_up": "How would you validate these proxy outputs if local ecological data is absent?",
-  "bring": "Explicit methodological caveats regarding InVEST proxy interpretations.",
+  "pitfall": "Applying standardized Global North models without local context adaptation.",
+  "follow_up": "Which specific framework assumptions break down in informal hillside settlements?",
+  "bring": "Comparative notes on transferring spatial models to data-scarce settings.",
   "self_check": [
-   "Clarified habitat proxy limits",
-   "Addressed runoff versus flood risk",
-   "Noted watershed-scale needs"
+   "Addressed city transferability",
+   "Included local constraints",
+   "Balanced theory and context"
   ]
  },
- "today_date": "2026-11-13"
+ "today_date": "2026-11-14"
 }

@@ -762,5 +762,53 @@
    }
   ],
   "search": "multimodal mobility urban planning Global South"
+ },
+ {
+  "id": "9c2276b2f4",
+  "date": "2026-11-14",
+  "term": "Postcolonial political ecology",
+  "area": "Global South development",
+  "kind": "classic_idea",
+  "definition": "Postcolonial political ecology examines how historical colonial power and ongoing inequalities shape environmental access and urban change.",
+  "plain": "It looks at how past colonial powers and modern inequalities shape who gets access to green spaces and nature. In places like Kabul, it helps us see that environmental problems are not just technical, but are tied to power, politics, and historical injustices.",
+  "example": "In a Global South city, green spaces funded by elites might displace poor informal neighborhoods, showing how environmental planning can reinforce social divides.",
+  "connects": "It connects with environmental justice and governance to explain why certain groups lack access to urban nature.",
+  "why_phd": "It stops you from treating land-cover change as neutral, helping you critique who benefits from ecosystem services in Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does postcolonial political ecology focus on?",
+    "a": "How historical power relations and social inequalities shape environmental access and urban development."
+   },
+   {
+    "q": "Why is this relevant for studying Kabul?",
+    "a": "It highlights that urban planning and unequal ecosystem service access are tied to power dynamics and history."
+   }
+  ],
+  "search": "postcolonial political ecology urban environment"
+ },
+ {
+  "id": "e03f842c07",
+  "date": "2026-11-14",
+  "term": "challenge-based learning",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Challenge-based learning engages students in solving real-world local problems to build deep practical knowledge.",
+  "plain": "Challenge-based learning is a teaching method where you tackle an actual, messy problem from the real world. Instead of just reading theory, you work to understand the issue and design a workable solution, blending hands-on practice with academic study.",
+  "example": "Students work with local planners in Kabul to design green roofs that reduce summer heat and manage stormwater in informal hillside settlements.",
+  "connects": "Links participatory environmental planning with actionable nature-based solutions and governance.",
+  "why_phd": "Crucial for turning complex spatial models into useful policy tools for cities like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main focus of challenge-based learning?",
+    "a": "Solving real-world problems to learn both theory and practical skills."
+   },
+   {
+    "q": "How does it apply to Kabul?",
+    "a": "By tackling actual urban challenges like heat or runoff using local data."
+   }
+  ],
+  "search": "challenge based environmental planning"
  }
 ]

@@ -1,30 +1,4 @@
 {
- "2026-10-30": {
-  "papers": [
-   "Corporate actions alone cannot stop biodiversity loss",
-   "Policy intersections for health in five Global South cities",
-   "Spatial assessment of conservation state and priority in Peru",
-   "Land use shifts drive ecosystem supply and demand",
-   "Land changes drive future floods more than climate",
-   "Testing Local Climate Zones in an arid city",
-   "Most buildings poorly oriented for climate",
-   "A new walkability framework for hot-arid cities"
-  ],
-  "radar": [
-   "Workshop Scholarships for PhD Students from Africa, Asia, Latin America",
-   "UNEP on nature-based solutions for urban resilience",
-   "Buon Ma Thuot City Master Plan until 2050 announced",
-   "EBRD and GCF scale up support for greener cities",
-   "November Funding Roundup: 130 New Opportunities"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Decentralized environmental governance",
-   "Geodetector"
-  ]
- },
  "2026-10-31": {
   "papers": [
    "Urban trees help climate adaptation in Brazil",
@@ -369,6 +343,31 @@
   "lessons": [
    "Conditional cash transfers in conservation",
    "Multimodal mobility"
+  ]
+ },
+ "2026-11-14": {
+  "papers": [
+   "Ecosystem service trade-offs and optimization in basins",
+   "Land cover and water trends in Myanmar",
+   "Geospatial framework for smart cities and microclimate",
+   "Diverse woody species and carbon storage in India's park",
+   "Mapping Peri-Urban Zones in Panipat, India",
+   "Climate change shifts insect vector risks in semi-arid Iran",
+   "Social networks boost food security in a Brazilian city"
+  ],
+  "radar": [
+   "Karachi introduces country's first sponge park to cut flood risk",
+   "Saudi Arabia plants over million trees to cool capital city",
+   "Study analyzes Balinese architectural principles in South Denpasar",
+   "Commission restricts lead in fishing weights and lures",
+   "World leaders push investment in climate-resilient cities at COP31"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Postcolonial political ecology",
+   "challenge-based learning"
   ]
  }
 }
