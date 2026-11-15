@@ -1,33 +1,33 @@
 {
  "enabled": true,
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "27484927d1",
+  "id": "5077704898",
   "scope": "Spatial patterns and planning",
-  "q": "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
-  "type": "generalisability",
+  "q": "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
+  "type": "practical relevance",
   "outline": [
-   "Evaluate transferability between cities",
-   "Account for semi-arid, mountainous, and conflict-affected traits",
-   "Balance worldwide theory with local realities"
+   "Connect service bundles and spatial patterns to planning",
+   "Address formal development and informal flatland/hillside areas",
+   "Incorporate green-blue infrastructure scenarios"
   ],
-  "pitfall": "Applying standardized Global North models without local context adaptation.",
-  "follow_up": "Which specific framework assumptions break down in informal hillside settlements?",
-  "bring": "Comparative notes on transferring spatial models to data-scarce settings.",
+  "pitfall": "Proposing planning interventions that ignore conflict and data limitations.",
+  "follow_up": "How do scenario comparisons help guide planning under high uncertainty?",
+  "bring": "Scenario comparison frameworks tailored for data-scarce metropolitan planning.",
   "self_check": [
-   "Addressed city transferability",
-   "Included local constraints",
-   "Balanced theory and context"
+   "Linked patterns to planning",
+   "Addressed informal areas",
+   "Incorporated scenarios"
   ]
  },
  "bank_total": 24,
- "asked": 17,
+ "asked": 18,
  "upcoming": [
-  "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
   "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?",
   "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?",
   "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?",
-  "How do you rule out alternative explanations for differences in ecological functions between settlement types?"
+  "How do you rule out alternative explanations for differences in ecological functions between settlement types?",
+  "What are the limitations of interpreting habitat quality as biodiversity and runoff retention as flood risk?"
  ]
 }

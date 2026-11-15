@@ -1,64 +1,64 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "lessons": [
   {
-   "id": "9c2276b2f4",
-   "date": "2026-11-14",
-   "term": "Postcolonial political ecology",
-   "area": "Global South development",
-   "kind": "classic_idea",
-   "definition": "Postcolonial political ecology examines how historical colonial power and ongoing inequalities shape environmental access and urban change.",
-   "plain": "It looks at how past colonial powers and modern inequalities shape who gets access to green spaces and nature. In places like Kabul, it helps us see that environmental problems are not just technical, but are tied to power, politics, and historical injustices.",
-   "example": "In a Global South city, green spaces funded by elites might displace poor informal neighborhoods, showing how environmental planning can reinforce social divides.",
-   "connects": "It connects with environmental justice and governance to explain why certain groups lack access to urban nature.",
-   "why_phd": "It stops you from treating land-cover change as neutral, helping you critique who benefits from ecosystem services in Kabul.",
+   "id": "e07f2aa73f",
+   "date": "2026-11-15",
+   "term": "Indigenous knowledge and valuation",
+   "area": "Nature contributions to people",
+   "kind": "concept",
+   "definition": "Indigenous knowledge and valuation captures local, non-Western ways of understanding and measuring nature's benefits to people.",
+   "plain": "It means respecting how local communities understand and value nature. Instead of only using Western science or money to measure the benefits of trees and water, researchers listen to indigenous views and traditional practices to see what nature truly means to residents.",
+   "example": "In a Global South city, traditional communities might view a local hillside green space as a sacred heritage site providing vital cooling and spiritual well-being.",
+   "connects": "It links plural values and environmental justice to ecosystem service supply and demand.",
+   "why_phd": "It helps you avoid biased planning by ensuring marginalized voices and non-monetary values are included in environmental assessments.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does postcolonial political ecology focus on?",
-     "a": "How historical power relations and social inequalities shape environmental access and urban development."
+     "q": "What does indigenous valuation add to standard ecosystem service assessments?",
+     "a": "It brings local, non-monetary, and traditional perspectives on the value of nature."
     },
     {
-     "q": "Why is this relevant for studying Kabul?",
-     "a": "It highlights that urban planning and unequal ecosystem service access are tied to power dynamics and history."
+     "q": "Why is this concept important for Global South cities like Kabul?",
+     "a": "It ensures that local community needs and traditional knowledge guide environmental planning."
     }
    ],
-   "search": "postcolonial political ecology urban environment"
+   "search": "indigenous knowledge urban ecosystem services"
   },
   {
-   "id": "e03f842c07",
-   "date": "2026-11-14",
-   "term": "challenge-based learning",
+   "id": "33dc7d8a30",
+   "date": "2026-11-15",
+   "term": "deep learning–based land use/land cover maps",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Challenge-based learning engages students in solving real-world local problems to build deep practical knowledge.",
-   "plain": "Challenge-based learning is a teaching method where you tackle an actual, messy problem from the real world. Instead of just reading theory, you work to understand the issue and design a workable solution, blending hands-on practice with academic study.",
-   "example": "Students work with local planners in Kabul to design green roofs that reduce summer heat and manage stormwater in informal hillside settlements.",
-   "connects": "Links participatory environmental planning with actionable nature-based solutions and governance.",
-   "why_phd": "Crucial for turning complex spatial models into useful policy tools for cities like Kabul.",
+   "definition": "Deep learning-based land use and land cover maps use advanced neural networks to classify satellite images into environmental categories.",
+   "plain": "Traditional mapping manually classifies satellite images, but deep learning uses multi-layered computer algorithms to automatically learn complex spatial patterns. This creates detailed maps of urban vegetation, water, and built-up areas much faster and more accurately.",
+   "example": "Training a neural network on high-resolution satellite imagery to automatically map sprawling informal settlements and green spaces in Kabul.",
+   "connects": "Provides the high-resolution spatial data needed to model ecosystem services like urban cooling and stormwater retention.",
+   "why_phd": "Crucial for accurately tracking rapid land-cover change and settlement morphology in data-scarce cities like Kabul for planning.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the main focus of challenge-based learning?",
-     "a": "Solving real-world problems to learn both theory and practical skills."
+     "q": "What do deep learning maps use to classify satellite images?",
+     "a": "Advanced multi-layered neural networks that automatically learn complex spatial patterns."
     },
     {
-     "q": "How does it apply to Kabul?",
-     "a": "By tackling actual urban challenges like heat or runoff using local data."
+     "q": "Why is this method useful for cities like Kabul?",
+     "a": "It maps rapid land-cover changes and settlement types quickly and accurately in data-scarce settings."
     }
    ],
-   "search": "challenge based environmental planning"
+   "search": "deep learning land cover mapping"
   }
  ],
- "total_learned": 34,
+ "total_learned": 36,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Indigenous knowledge and valuation",
    "Protected area design and enforcement",
    "Resilience in socioecological systems",
    "Adaptive management principles",
-   "Revealed preference valuation methods"
+   "Revealed preference valuation methods",
+   "Resource tenure and property rights"
   ],
   "stages": [
    "Foundation: understand concepts",

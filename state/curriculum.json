@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Indigenous knowledge and valuation",
-   "area": "Nature contributions to people",
-   "kind": "concept"
-  },
-  {
    "term": "Protected area design and enforcement",
    "area": "Conservation policy",
    "kind": "method"
@@ -155,6 +150,8 @@
   "Conditional cash transfers in conservation",
   "Multimodal mobility",
   "Postcolonial political ecology",
-  "challenge-based learning"
+  "challenge-based learning",
+  "Indigenous knowledge and valuation",
+  "deep learning–based land use/land cover maps"
  ]
 }

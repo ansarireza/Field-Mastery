@@ -1,71 +1,94 @@
 {
- "week": "2026-W45",
- "date": "2026-11-08",
+ "week": "2026-W46",
+ "date": "2026-11-15",
  "world": [
   {
-   "region": "Gujarat",
-   "what": "Gujarat's new urban greening policy sets a mandatory target of 20% green cover for urban areas.",
-   "why": "Informs green-blue infrastructure targets and urban planning standards for vegetation cover.",
-   "action": "Review how mandatory green cover policies impact urban cooling and ecosystem service delivery.",
+   "region": "Ho Chi Minh City",
+   "what": "Ho Chi Minh City Master Plan 2025–2050 outlines five growth zones for future urban development.",
+   "why": "Informs research on how formal master planning shapes land-cover change and urban growth dynamics.",
+   "action": "Examine the five growth zones in the master plan.",
    "source": {
-    "title": "Gujarat Urban Greening Policy Sets 20% Green Cover Target",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk5hLWNfNkIwYm9aUzJrck5FR0NqUF9NdmFodkZrb2w5dXlpOHNqR0ZLUkM5UnJvaThUSExEMnF1LUpxNWpfcE16djgtN3VyZU51QWxuUVFZWDFZdF91Xy15YnktMFE2UGkwLW1DczdLQVkyYVlqQldiRl9QczRNMXRKTnpQV1Vh?oc=5",
-    "date": "2026-11-06",
+    "title": "Ho Chi Minh City Master Plan 2025–2050",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMklraXlHNkhkbVhCVjFlcVNRTlVVTVhJZUU4TkcwcGRVOHdPLTJYQTdTZDFxajFka2xLY3NHN2lzNngxcUNtZlZ3b1ZoNVR1VHZLREhMX0p0MXlreXBIcWUyc1pPc0o4NlZpYkRHbl9GTGFLcDkweFppd1RjTWxUVWNjX0NOejhBUmlwaFhBWkotZndnNWV1MlJfRVZ4S1VUcFl5MllKVUNyaG15S2czWm1OOXFGNVl0Znc?oc=5",
+    "date": "2026-11-13",
     "basis": "news headline and feed excerpt"
    }
   },
   {
-   "region": "Metro Manila",
-   "what": "Metro Manila links smart urban governance policies to climate-resilient design strategies.",
-   "why": "Provides a Global South context for integrating smart governance with climate resilience.",
-   "action": "Examine the policy mechanisms connecting smart governance to resilient design.",
+   "region": "Nairobi",
+   "what": "A plan to build a crematorium at City Park in Nairobi has generated intense public controversy.",
+   "why": "Highlights public conflict over green space loss and access to urban nature in Global South cities.",
+   "action": "Review public opposition arguments regarding the park.",
    "source": {
-    "title": "Smart Urban Governance Links Policy to Climate-Resilient Design in Metro Manila",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3RHcmUzSm56VndwQ2kwNkx1aUJ0OXVYZmhhb1NRT2JwVUtHNzhPSkZaLXZKSkFYdFJzODlGVWZRQXdaX0NjcF8xSy1HVUZsYkxYQkZJcGI3c2NSb0FvakpfQlJyd2Vqam9qd3NYT01ubnBLamIwWHRBc2xwRU9MTmVxOU1iT1JwT3I1elVVeTFGVUpPTW1YSGJRcThPZzRlSjd4b2xaNA?oc=5",
-    "date": "2026-11-07",
+    "title": "Crematorium Plan at Nairobi City Park Draws Public Opposition",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1JkQ0RGSVhXZmRkd0N4RVAxbjBPLWlGd1VXWHpPeTBuUlFZMGNQR3JMY0h2cnRVYkc2SlZjaGRLb2tVMnBrLXh3QllkZ2pEZWJ4N2VBS2dRQnJIcjJMaVVhTFlrZEFhWDRFV0JWZGhhNlN6UTBrMUhsZWFUcHc5QnZZbERkNEh0emZ3Y1BnS1ZtV1BXODQwV0xmdlU0SzVteVJ1OTZPMms3UmtfZ1FaWHJDOTZOV1k?oc=5",
+    "date": "2026-11-13",
     "basis": "news headline and feed excerpt"
    }
   },
   {
-   "region": "Mumbai",
-   "what": "A High Court seeks a robust policy to stop garbage dumping in informal slum areas of Mumbai.",
-   "why": "Highlights environmental management challenges in informal settlements and urban planning.",
-   "action": "Check how legal frameworks address environmental degradation in informal areas.",
+   "region": "Karachi",
+   "what": "Karachi launched its first sponge park aimed at saving rainwater and cutting urban flooding risks.",
+   "why": "Provides a practical example of green-blue infrastructure addressing stormwater runoff in the Global South.",
+   "action": "Look into the design and placement of the sponge park.",
    "source": {
-    "title": "HC seeks robust policy to deter garbage dumping in Mumbai’s slum areas",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNGF5d0dDblBBV1pzeTJiM0N3amVUZkJCekVqaWYtMF83a0c2VVBEQUx1QlE1WDN6N1Nhbll1SXllYWc3SzNXcVBwSFNndzJHRGtCZ0xReGJLMVBWcGJxb0p5TVJuR3JKbzNqVXIzdW1RSmtENGM2WjBCaXhVVXNjcXEyTDZZR2JHWHM1MXpCTDE0NTdXbW5qZHNnWC1MbnUzaVVRdTA1ZVRsaDBnSFdUcXBxUWpJZVBfZmxLVUxDSHpxZkMwU3ZjVldSWnlaQzRVQjN6QXlQbXNpNVnSAeABQVVfeXFMT2VsdndHc0NBVnVHOTdyd3RyZGZuZkdPTW1aNmVhbGNJZjdYYkctLU9Dbjlza1NvMWhhb25sQVZSVUdRaW9NWF9lVFBaYW9oQnJnbmQtZkpscXlDTF8zMkVMa1RaRnBXZXdHR2JEV1VnNkRNaUd3S19zeU53TmRseUdjbmpleTNELWlweU1lRnpxUkExTERzcVprUWdld1NwalZteTItZlY3VzdmWTZMb1RmUDFhXzgxTjZ5ZDE2RWpoUF9PSjAydmFBX0NWbUJKSTBoMkRmRGlLZkM3LWNUblc?oc=5",
-    "date": "2026-11-08",
+    "title": "Karachi introduces country's first sponge park to cut flood risk",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WS2F0S3B4d2hKM3BnbTJHcnExMDhLRW1ENFQ4SFNFdV9vX09wUHBPMllWcXJfdTFEQUZWUG5rdUw4OWJBTy12Rw?oc=5",
+    "date": "2026-11-14",
+    "basis": "news headline and feed excerpt"
+   }
+  },
+  {
+   "region": "Saudi Arabia",
+   "what": "Saudi Arabia planted over a million trees to cool the capital city through urban forestry.",
+   "why": "Directly relates to urban cooling, heat mitigation, and green-blue infrastructure in a semi-arid setting.",
+   "action": "Assess the species used and spatial distribution.",
+   "source": {
+    "title": "Saudi Arabia plants over million trees to cool capital city",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1pKanU1TlZqWEtVRmJJWlZRMnZMaDRBWUN0cUh4cVFRYkRzbUxWaXFBYnZIWHJhWHdQTndsbnhudWxGSklvamw3YlpNT054T2tDV0VFbktaUlNtVHdxNVN0cGJBQi1aaHB6SHliU3d0eXEwSk9YZFJIZ2xTdFZKRk8xNlVwVWJlUmxrRDBiYnlEeHY1Vl9xcEd5dlNwbXQ5R1V4Zjh3TXZRVTQ?oc=5",
+    "date": "2026-11-13",
+    "basis": "news headline and feed excerpt"
+   }
+  },
+  {
+   "region": "South Denpasar",
+   "what": "A study examined Balinese architectural principles within the urban spatial planning of South Denpasar.",
+   "why": "Connects settlement morphology and local cultural principles with urban spatial planning approaches.",
+   "action": "Read the study on architectural principles.",
+   "source": {
+    "title": "Study analyzes Balinese architectural principles in South Denpasar",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkNIU0pQTWZOSDNFSlZKSHFWeFFjRFBSUTQ3S010NlJvdGJLbnBfZFlIQW15S0phaUpySDNuOTJNVm1EbWtlYXJ4WDRaWk9TaVdDdUZ6ZDhncGJKaEd2akVSVkl0VmZ5SmRibmhNUzc0OVpCMkpucTdUSVowMVllLW9nMGlESHRyRTNvNDd0QWZqenFENjJqaVZFME12VG1WXzllM0ctbU1aQzR2dzRJR1ZBVTE?oc=5",
+    "date": "2026-11-14",
     "basis": "news headline and feed excerpt"
    }
   }
  ],
  "reading": {
-  "id": "W7225233178",
-  "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
+  "id": "W7225872578",
+  "title": "Land Use Change from 1984 To 2026 and Its Impact on Biodiversity Loss: A Case Study of Port Harcourt Metropolis: Green Cover Decline from 47.9% (1984) to 21.04% (2026)",
   "source": {
-   "url": "https://doi.org/10.3389/ffgc.2026.1973044",
-   "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
-   "venue": "Frontiers in Forests and Global Change",
-   "date": "2026-11-04",
+   "url": "https://doi.org/10.54117/pqwe8p69",
+   "doi": "https://doi.org/10.54117/pqwe8p69",
+   "venue": "",
+   "date": "2026-11-12",
    "authors": [
-    "Boyuan Zhang",
-    "冯方林",
-    "Qian Liu",
-    "Zhenzhao Zhou",
-    "Tieshi Dong",
-    "Lihui Yin"
+    "Efe-Michael Agbragu",
+    "Sunny O. Asomaku",
+    "Augustine O. Wokocha",
+    "Victoria O. Emelu",
+    "Imiete Godspower"
    ],
-   "n_authors": 7,
+   "n_authors": 5,
    "open_access": true,
    "basis": "abstract"
   },
-  "why": "It addresses ecosystem service bundles, trade-offs, and hydrological processes that parallel urban water yield and stormwater retention goals.",
+  "why": "It demonstrates how rapid, unplanned urban expansion in the Global South drives severe green cover loss and habitat fragmentation, matching your focus on land-cover change.",
   "questions": [
-   "How do structural modifications alter multiple ecosystem services simultaneously?",
-   "What role does environmental context play in scaling hydrological processes?",
-   "How do the authors address model uncertainties and hidden underground flows?"
+   "How were the five epochs selected for mapping?",
+   "What specific classification accuracy was achieved?",
+   "How were the biodiversity metrics measured?"
   ],
-  "check": "You cannot establish universal, direct causal links between forest structure and multi-service outcomes from this synthesis alone."
+  "check": "You cannot establish the precise statistical correlation or causality between specific land-cover changes and individual wildlife population shifts from the abstract alone."
  },
- "coverage": "Collected news is limited to global announcements, policy updates, and climate adaptation financing reports, with no specific coverage of Kabul, Afghanistan."
+ "coverage": "Collected evidence is limited and omits direct news from Kabul, Afghanistan. Relevant international research and Global South contexts are represented via news items and the selected paper."
 }

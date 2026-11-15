@@ -1,143 +1,140 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "summary": [
-  "Today's papers explore ecosystem services, land cover change, and environmental planning.",
-  "Studies cover urban design, carbon storage, peri-urban zones, and climate risks.",
-  "Research also examines social networks boosting food security in a Brazilian city."
+  "Studies examine ecological security, land-cover changes, and green cover drops in various regions.",
+  "Research explores conservation, farming adoption, public values, and business incubator growth."
  ],
  "items": [
   {
-   "id": "W7225910118",
-   "title": "Trade-offs/synergies and their optimization simulation of ecosystem services in mountain-urban complex watersheds from cluster perspective: a case study of the Tuojiang River Basin",
-   "headline": "Ecosystem service trade-offs and optimization in basins",
+   "id": "W7226031987",
+   "title": "Multi-scenario ecosystem service trade-offs and ecological security patterns in the upper Yongding River Basin, China (1990-2024)",
+   "headline": "Trade-offs linked to ecological security in China",
    "bullets": [
-    "Analyzed ecosystem service trade-offs and synergies using a cluster perspective",
-    "Simulated optimization of ecosystem services in a mountain-urban watershed",
-    "Helps improve regional environmental planning and balanced resource management"
+    "Quantified six ecosystem services from 1990 to 2024 using InVEST and seven weighting scenarios",
+    "Found ecological sources shrank while network connectivity became more compact and redundant",
+    "Provides a basin-specific workflow to balance service trade-offs for conservation planning"
    ],
    "plain": {
-    "question": "How do nature's benefits trade off or work together in complex mountain-city river basins, and how can we optimize them?",
-    "method": "The researchers used a cluster perspective to study and simulate ecosystem services in a specific river basin.",
-    "finding": "They mapped out synergies and trade-offs among ecosystem services and simulated ways to optimize them.",
-    "why": "It helps planners balance human needs and environmental protection in complicated landscapes."
+    "question": "How can we balance different nature benefits when planning protected areas?",
+    "method": "We mapped six nature benefits over time using computer models and created different future planning scenarios.",
+    "finding": "Protected natural areas shrank over time, but the overall network of connected spaces became tighter.",
+    "why": "This helps planners figure out the best ways to protect nature without wasting resources."
    },
    "full": {
-    "explainer": "This paper looks at how different natural benefits, known as ecosystem services, interact with each other in areas that mix mountains and cities. Specifically, the authors focus on a mountain-urban complex watershed called the Tuojiang River Basin. Using a cluster perspective, they examine trade-offs, where gaining one benefit means losing another, and synergies, where multiple benefits increase together. They also run simulations to optimize these services. For a student studying urban environments and land-cover change, this work offers a way to look at regional ecological functions and spatial planning in complicated settings. Although the abstract does not mention specific software tools like InVEST or details about Kabul, it provides a broad view of how to model and manage multiple environmental benefits in complex geography.",
+    "explainer": "To protect nature effectively, planners must balance multiple benefits that nature provides, like clean water and wildlife habitats, which often compete with each other. This study looked at the upper Yongding River Basin in China from 1990 to 2024 to see how these benefits changed over time. The researchers used computer software to measure six different ecological benefits and tested seven different priority scenarios using weighting techniques. They then mapped out ecological security patterns using landscape analysis tools. They found that the core natural areas shrank in size, dropping from over 56 percent of the area down to about 48 percent. However, the overall network of connected natural spaces actually became more compact and connected through bridges. The authors suggest that protecting the remaining core areas and restoring specific connecting corridors can improve overall landscape connectivity at a lower cost.",
     "caveats": [
-     "not stated",
-     "not stated"
+     "Scenario S5 is a local preference under the tested inputs and not a general rule.",
+     "Not stated whether these findings apply outside this specific basin.",
+     "Not stated how local human settlements or informal areas impacted the results."
     ],
     "jargon": [
      {
       "term": "ecosystem services",
-      "definition": "The benefits that people freely get from the natural environment and healthy ecosystems."
+      "definition": "The benefits that people freely get from the natural environment."
      },
      {
-      "term": "trade-offs",
-      "definition": "Situations where improving one environmental benefit causes a loss in another benefit."
+      "term": "ecological security pattern",
+      "definition": "An arrangement of natural landscape features that protects ecological functions and safety."
      },
      {
-      "term": "synergies",
-      "definition": "Situations where multiple environmental benefits increase or work well together."
+      "term": "InVEST",
+      "definition": "A software suite used to map and value the goods and benefits from nature."
+     },
+     {
+      "term": "MSPA",
+      "definition": "A method used to measure and map landscape patterns and structural connectivity."
      }
     ],
-    "fit": "Connects via mountain-urban geography and cluster-based ecosystem service bundles, relevant for regional planning and trade-off analysis."
+    "fit": "Demonstrates scenario comparison, landscape configuration, and InVEST modeling for environmental planning, matching student methods."
    },
    "thesis": {
-    "why": "It shows a cluster perspective on ecosystem service trade-offs in a mountain-urban basin, relating to landscape configuration and spatial optimization methods.",
-    "action": "Check the full text for the exact clustering and simulation methods used.",
+    "why": "It models ecosystem service trade-offs and scenario comparisons using InVEST and landscape metrics, matching methods the student is learning to defend.",
+    "action": "Check how the authors handled spatial uncertainties and land-change validation in their workflow.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How transferable are cluster-based optimization simulations from a Chinese river basin to semi-arid, conflict-affected settings like Kabul?",
-    "evidence": "The study focuses specifically on the Tuojiang River Basin, a mountain-urban complex watershed, without discussing data-scarce or arid conditions.",
-    "limit": "The abstract does not provide details on data requirements, local governance context, or transferability to different climates.",
-    "check": "Verify what specific spatial clustering and simulation algorithms were used to optimize the ecosystem services."
+    "question": "Does this scenario weighting approach guarantee better ecological outcomes in data-scarce urban regions?",
+    "evidence": "The study relies on modeled scenarios (S5) and graph-theoretic indices over a large basin, concluding that S5 is a local preference.",
+    "limit": "The abstract does not establish whether these specific weighting parameters work in data-scarce or urban settings.",
+    "check": "Verify if the sensitivity and uncertainty assessments of the OWA weighting scenarios are applicable to urban data."
    },
    "relevance": 3,
    "watch": "Cites your reference doi:10.1073/pnas.0907284107",
    "source": {
-    "url": "https://doi.org/10.1007/s10668-026-08290-5",
-    "doi": "https://doi.org/10.1007/s10668-026-08290-5",
-    "venue": "Environment Development and Sustainability",
+    "url": "https://doi.org/10.21203/rs.3.rs-11592346/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11592346/v1",
+    "venue": "Research Square",
     "date": "2026-11-13",
     "authors": [
-     "Qiyan Huang",
-     "Chao Yang",
-     "Qiong Xian",
-     "Meng Yuan",
-     "Jianying Shu",
-     "Tianyi Zhang"
+     "Yan Jiang",
+     "Gang Wang",
+     "Xiaoyan Zhang",
+     "Jingfeng Hu"
     ],
-    "n_authors": 7,
-    "open_access": false,
+    "n_authors": 4,
+    "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225635452",
-   "title": "Multi-Decadal Remote Sensing of Land Cover and Surface Water Dynamics in a Data-Limited Monsoon Lake Watershed in Myanmar",
-   "headline": "Land cover and water trends in Myanmar",
+   "id": "W7226004253",
+   "title": "Public Spatial Perceptions from PPGIS Studies Using Qualitative Content Analysis in Existing, Candidate, and Outside Protected Areas",
+   "headline": "Public mapping reveals protected area values and conflicts",
    "bullets": [
-    "Mapped long-term land cover and surface water using satellite data and machine learning.",
-    "Found major agricultural expansion and forest loss between 2000 and 2010.",
-    "Shows why separating raw satellite maps from reference checks is vital for accuracy."
+    "Used public mapping and coding to analyze stakeholder values and concerns.",
+    "Found values focused on ecology while concerns centered on energy and wildlife.",
+    "Provides spatial evidence for protected area zoning and conflict management."
    ],
    "plain": {
-    "question": "How can we track long-term land and water changes in areas with few ground records?",
-    "method": "Used satellite images from 2000 to 2025 and tested different computer learning tools.",
-    "finding": "Farms grew while forests shrank, but water changes remained uncertain.",
-    "why": "It shows we must carefully check satellite maps using proper samples before trusting trends."
+    "question": "How do people view protected areas before they are officially set up?",
+    "method": "Asked 97 participants to map their opinions and concerns on digital maps.",
+    "finding": "Values focused on nature, while concerns centered on energy and wildlife issues.",
+    "why": "It helps planners see where people and nature might clash before making rules."
    },
    "full": {
-    "explainer": "Monitoring land and water over a long time is difficult when there are few local records to check against. This study looked at the Inle lake watershed in Myanmar from 2000 to 2025 using satellite data. The researchers tested three different computer classification methods and used a Support Vector Machine approach because it performed best. They evaluated map accuracy using a separate sample of fixed pixels. The results showed that agriculture grew significantly while forests decreased, mostly between 2000 and 2010. However, changes in surface water were less certain, and the water interval included zero. The study highlights that raw satellite maps can differ from actual reference-based estimates. Therefore, distinguishing between raw mapped trends and proper sampling uncertainty is crucial for accurately understanding environmental changes in data-limited regions.",
+    "explainer": "This paper looks at how people feel about protected natural areas before those areas are officially designated. The researchers used a method where participants draw maps and write down what they value or worry about in specific places. In eastern Hokkaido, Japan, nearly one hundred local people and visitors marked hundreds of comments on maps of existing, proposed, and outside protected areas. The researchers then grouped these comments into themes. They found that most positive values were about nature, scenery, and recreation, while worries were mainly about energy projects, habitat loss, and conflicts with wildlife. By looking at where these positive and negative points clustered on the map, the authors found potential conflict zones where people value the nature highly but worry about losing habitats. Locals and visitors agreed on many values, but only locals worried about wildlife conflicts. The study shows that gathering public opinions on maps before making plans can help leaders draw boundaries, set up zones, and avoid future disputes.",
     "caveats": [
-     "Built-up user's accuracy remained low at 12.4 to 22.9 percent.",
-     "The water change sampling interval included zero, leaving watershed-wide surface water change uncertain.",
-     "Not stated"
+     "Convenience sampling was used with 97 participants, so results may not represent everyone.",
+     "Not stated whether findings apply to urban areas or the Global South."
     ],
     "jargon": [
      {
-      "term": "Landsat annual median composites",
-      "definition": "Combined satellite images taken across a year to represent median surface reflectance."
+      "term": "PPGIS",
+      "definition": "Public Participation Geographical Information System; a method to map local knowledge."
      },
      {
-      "term": "Support Vector Machine",
-      "definition": "A machine learning algorithm used here to classify satellite images into land cover types."
+      "term": "Location quotient",
+      "definition": "A formula used to find distinctive themes or features in specific locations."
      },
      {
-      "term": "Macro-F1",
-      "definition": "A statistical measure of a classification model's accuracy balancing precision and recall."
-     },
-     {
-      "term": "Stratified probability sample",
-      "definition": "A sampling method where a region is divided into groups, and random pixels are chosen from each."
+      "term": "Gi* hotspot values",
+      "definition": "A spatial statistic used to find clusters of high or low values on a map."
      }
     ],
-    "fit": "Demonstrates land-cover change mapping and accuracy assessment methods relevant to data-scarce regional studies."
+    "fit": "Demonstrates spatial mapping of public values and conflicts, offering transferable public participation methods for environmental planning."
    },
    "thesis": {
-    "why": "It provides methodological insights into land-cover classification and accuracy assessment for data-limited regions, mirroring similar spatial data challenges in Kabul.",
-    "action": "Check how the authors handled spatial autocorrelation and error correction scenarios in the full text.",
+    "why": "It models spatial mapping of human values and concerns, aiding the student's focus on ecosystem service benefits and planning.",
+    "action": "Check how the authors mapped public perceptions to see if a similar approach fits local surveys.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How reliable are land-cover change trends when built-up accuracy is low?",
-    "evidence": "The abstract notes that built-up user's accuracy remained low at 12.4-22.9% and that agricultural trends changed under error correction scenarios.",
-    "limit": "The abstract does not establish exact causal drivers of the observed forest loss and agricultural expansion.",
-    "check": "Examine how error correction scenarios were modeled and applied to the land-cover change estimates."
+    "question": "Can convenience sampling of 97 people accurately represent all stakeholder groups?",
+    "evidence": "The abstract notes that 97 participants were gathered using convenience sampling in eastern Hokkaido.",
+    "limit": "Whether these public mapping methods work equally well in data-scarce or conflict-affected settings.",
+    "check": "Verify how participants were recruited and if the sample size is considered adequate for spatial hotspot analysis."
    },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
    "source": {
-    "url": "https://doi.org/10.3390/rs18213837",
-    "doi": "https://doi.org/10.3390/rs18213837",
-    "venue": "Remote Sensing",
-    "date": "2026-11-08",
+    "url": "https://doi.org/10.3390/land15112182",
+    "doi": "https://doi.org/10.3390/land15112182",
+    "venue": "Land",
+    "date": "2026-11-13",
     "authors": [
-     "La Minn Ko Ko",
-     "Win Sithu Maung",
-     "Phyo Thandar Hlaing"
+     "EeHung Khew",
+     "Tetsuya Aikoh",
+     "Hajime Matsushima"
     ],
     "n_authors": 3,
     "open_access": true,
@@ -145,259 +142,62 @@
    }
   },
   {
-   "id": "W7225466934",
-   "title": "Smart Cities and Urban Microclimate Sustainability: A Geospatial Framework for Adaptive Urban Design",
-   "headline": "Geospatial framework for smart cities and microclimate",
+   "id": "W7226055350",
+   "title": "Sociocultural barriers and enablers to paludiculture adoption",
+   "headline": "Farmers' views shape wet peatland farming adoption",
    "bullets": [
-    "Used a geospatial framework to study smart cities and urban microclimate sustainability.",
-    "Proposed a framework for adaptive urban design using geospatial tools.",
-    "Helps improve urban microclimate sustainability through smart city design."
+    "Interviewed German farmers on values and meanings attached to peat landscapes.",
+    "Found cultural views and place attachment act as barriers, while youth are open if secured.",
+    "Transition success requires accounting for farmers' sociocultural values and realities."
    ],
    "plain": {
-    "question": "How can geospatial tools help cities stay cool and sustainable?",
-    "method": "Built a geospatial framework for adaptive urban design.",
-    "finding": "Created a new way to link smart cities with microclimate sustainability.",
-    "why": "It helps planners design better, cooler cities using spatial data."
+    "question": "Why do farmers hesitate to adopt wet farming on drained peatlands?",
+    "method": "Interviewed farmers in a German region about their views and values.",
+    "finding": "Old cultural habits block change, but young farmers might accept it if secure.",
+    "why": "Helps design better policies for land use and emission reduction."
    },
    "full": {
-    "explainer": "This paper looks at how smart cities can manage their microclimate and stay sustainable. The authors present a new geospatial framework meant to help with adaptive urban design. By using spatial data and geographic information, the study aims to connect modern smart city concepts with local weather and climate conditions inside urban areas. This approach gives planners tools to better understand how urban layouts affect local temperatures and environmental quality. Because cities face growing climate challenges, having a clear framework for adaptive design is very important. However, the short abstract does not give specific details about empirical testing, case studies, or the exact numerical results found by the authors. It focuses mainly on introducing the overarching geospatial framework itself.",
+    "explainer": "In Germany, most drained peatlands are used for farming, turning them into large sources of carbon emissions. Paludiculture, which means using wet and rewetted peatlands productively, can lower these emissions while giving farmers an income. However, adoption by farmers is very low. This study explores how farmers view peat landscapes and what stops or helps them adopt rewetting. Using the Nature's Contributions to People framework, researchers interviewed farmers in the Gnarrenburger Moor, Germany. The results show that cultural views favoring dry, managed grassland, alongside deep emotional ties to the current landscape, act as barriers. Older farmers are skeptical because of past drainage hardships, but younger farmers are more open if their money and livelihoods are protected, policies are clear, and they are listened to. Continuous land management is seen as caring for the landscape, which paludiculture could use as an entry point. Scaling this up needs good economic value chains and clear policies. Overall, changes will only work if they respect farmers' values and everyday lives.",
     "caveats": [
-     "not stated",
-     "not stated",
-     "not stated"
+     "Geographic scope is limited to Germany, specifically the Gnarrenburger Moor.",
+     "Focuses primarily on farmers' perceptions and sociocultural values."
     ],
     "jargon": [
      {
-      "term": "Geospatial Framework",
-      "definition": "A structured system or set of tools that uses location-based data for analysis."
+      "term": "Paludiculture",
+      "definition": "The productive use of wet and rewetted peatlands."
      },
      {
-      "term": "Urban Microclimate",
-      "definition": "The local climate conditions of a specific urban area, like temperature and wind."
+      "term": "Peatlands",
+      "definition": "Wetlands with a thick accumulation of organic soil matter acting as carbon stores."
      },
      {
-      "term": "Adaptive Urban Design",
-      "definition": "Designing cities so they can flexibly adjust to environmental changes."
+      "term": "Nature's Contributions to People (NCP)",
+      "definition": "A framework encompassing all the positive and negative contributions of nature to human quality of life."
      }
     ],
-    "fit": "Connects to urban microclimate management, a key part of urban ecosystem services and planning."
+    "fit": "Connects via land-use change, ecosystem services, and human values in environmental planning."
    },
    "thesis": {
-    "why": "It provides a geospatial method related to urban microclimates, which connects to cooling and environmental planning themes in the student's work.",
-    "action": "Check the full text to see if the framework evaluates urban cooling or can be applied in data-scarce settings.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How practical is this geospatial framework for data-scarce or developing regions?",
-    "evidence": "The abstract introduces a geospatial framework for smart cities and microclimate sustainability without mentioning data requirements.",
-    "limit": "We cannot establish whether the framework works in informal settlements, data-scarce settings, or the Global South.",
-    "check": "Verify if the methods rely on high-tech smart city data that might be missing in cities like Kabul."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
-   "source": {
-    "url": "https://doi.org/10.1007/s12524-026-02617-5",
-    "doi": "https://doi.org/10.1007/s12524-026-02617-5",
-    "venue": "Journal of the Indian Society of Remote Sensing",
-    "date": "2026-11-07",
-    "authors": [
-     "Sagar Tomar",
-     "Kishor Sitaram Kulkarni"
-    ],
-    "n_authors": 2,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225787255",
-   "title": "Range-level comparative analysis of woody species diversity, structure, and hotspots in a peri-urban national park, India",
-   "headline": "Diverse woody species and carbon storage in India's park",
-   "bullets": [
-    "Used 50 belt transects across 23 beats to assess woody species.",
-    "Found 12,544 individuals from 189 species with varying dominance.",
-    "Highlights need for range-specific monitoring and conservation."
-   ],
-   "plain": {
-    "question": "How do woody plant types and carbon vary across a protected park?",
-    "method": "Researchers sampled trees in 50 test strips across different park areas.",
-    "finding": "Different areas had different dominant tree types and carbon levels.",
-    "why": "This helps target conservation to protect key plant habitats."
-   },
-   "full": {
-    "explainer": "This study looks at woody plants in a protected national park in southern India to understand forest health, stability, and habitat quality. The researchers used a structured sample design, setting up 50 belt transects across 23 different beats. They counted and identified 12,544 individual plants belonging to 189 different species. The results show that species richness and dominant tree types vary widely across different parts of the park. For example, Anekal had 90 species while Kodihalli had 130, and dominant species changed depending on the range. Additionally, different areas excelled in different ecological features; one area had the highest functional diversity, while another held the most above-ground biomass, showing high carbon storage potential. By mapping spatial hotspots, the study identified microhabitats that support rare, range-restricted species. The authors conclude that these varied landscape patterns mean managers cannot use a one-size-fits-all approach, and instead need targeted, range-specific conservation and monitoring to keep the forest healthy.",
-    "caveats": [
-     "The study only assesses woody species, not the entire ecosystem.",
-     "Not stated whether non-woody plants or animals were evaluated."
-    ],
-    "jargon": [
-     {
-      "term": "Belt transects",
-      "definition": "Strip-shaped sample areas used to count and record plants in field surveys."
-     },
-     {
-      "term": "Above-ground biomass",
-      "definition": "The total mass of living plant matter above the soil, often used to estimate carbon storage."
-     },
-     {
-      "term": "Spatial hotspot analysis",
-      "definition": "A mapping technique used to find geographic clusters of high or low values."
-     }
-    ],
-    "fit": "Connects to habitat quality, spatial hotspot analysis, and biodiversity mapping in peri-urban and conservation contexts in the Global South."
-   },
-   "thesis": {
-    "why": "Provides a clear example of spatial hotspot analysis and range-level habitat quality assessment in a peri-urban landscape in the Global South.",
-    "action": "Check how the authors mapped spatial hotspots and handled field data accuracy.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How do the spatial hotspots of woody species relate to surrounding human pressures?",
-    "evidence": "The abstract identifies microhabitats and spatial hotspots supporting range-restricted species in a peri-urban national park.",
-    "limit": "The abstract does not state how urban proximity or human land-use changes drive these diversity patterns.",
-    "check": "Verify if the full paper links peri-urban pressures to the observed vegetative heterogeneity."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1007/s44415-026-00150-4",
-    "doi": "https://doi.org/10.1007/s44415-026-00150-4",
-    "venue": "Discover Forests",
-    "date": "2026-11-11",
-    "authors": [
-     "Balasubramanya Sharma",
-     "Narayan Kayet",
-     "AKSHAY KUMAR CHAKRAVARTHY",
-     "Suresh Hebbalalu Satyanarayana",
-     "Chetan Halandur Chandrashekara",
-     "Noorunnisa Begum"
-    ],
-    "n_authors": 7,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225779283",
-   "title": "METHODOLOGICAL FRAMEWORK FOR DELINEATING PERI-URBAN AREA: A CASE OF PANIPAT CITY, HARYANA, INDIA",
-   "headline": "Mapping Peri-Urban Zones in Panipat, India",
-   "bullets": [
-    "Used remote sensing, GIS, and socio-economic data to map Panipat's peri-urban zone.",
-    "Found the zone extends 4 to 20 km outward, covering 102 administrative units.",
-    "Provides a framework for urban planners to manage growth and sustainable land use."
-   ],
-   "plain": {
-    "question": "How can we map the changing transition zone between a city and its countryside?",
-    "method": "We used satellite images, maps, census data, and surveys to measure growth and land use.",
-    "finding": "The transition zone spreads 4 to 20 kilometers out from Panipat in specific directions.",
-    "why": "This helps cities plan better for rapid growth and protect natural resources."
-   },
-   "full": {
-    "explainer": "As cities grow rapidly, they create complex transition zones between urban and rural areas, often called peri-urban zones. This study focuses on Panipat City in India, a fast-growing industrial hub, to figure out a reliable way to map these boundaries. The researchers combined satellite images from 2024 with older census data from 2011 and local surveys. They looked at five main factors: administrative borders, population changes, economic activities like farming supply zones and brick kilns, worker jobs, and how densely built the land is. Their analysis showed that Panipat's transition zone reaches between 4 and 20 kilometers away from the city center, spreading mostly in linear patterns along major roads. This zone includes 102 local areas, which they further split into inner and outer rings. Ultimately, this new method gives city planners a solid tool to manage urban sprawl and plan sustainable land use.",
-    "caveats": [
-     "Data relies heavily on older 2011 Census of India records combined with 2024 satellite imagery.",
-     "Not stated whether this framework applies accurately outside of industrial National Capital Region settings."
-    ],
-    "jargon": [
-     {
-      "term": "Peri-urban area",
-      "definition": "A transitional zone located between fully urbanized city centers and rural countryside."
-     },
-     {
-      "term": "Sentinel-2",
-      "definition": "A type of satellite used to capture detailed images of Earth's land cover."
-     },
-     {
-      "term": "Census towns",
-      "definition": "Areas that do not have local municipal governance but satisfy certain urban demographic criteria."
-     }
-    ],
-    "fit": "Provides a transferable spatial framework for delineating transitional urban-rural zones in rapidly growing Global South contexts."
-   },
-   "thesis": {
-    "why": "It offers a spatial framework and remote sensing approach that helps analyze land-cover change and urban expansion in the Global South.",
-    "action": "Check how they integrated socio-economic indicators with remote sensing data for spatial mapping.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How were five very different types of parameters normalized into a single boundary?",
-    "evidence": "The study uses administrative units, demographics, economic indicators, occupations, and built-up density together.",
-    "limit": "The abstract does not explain the exact mathematical or weighting formula used to combine these five distinct parameters.",
-    "check": "Verify the exact spatial weighting and overlay methods used to combine socio-economic data with satellite imagery."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.62441/actainnovations.vi.3554",
-    "doi": "https://doi.org/10.62441/actainnovations.vi.3554",
-    "venue": "Acta Innovations",
-    "date": "2026-11-07",
-    "authors": [
-     "Preeti",
-     "Prof. Ravinder  Kaur"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7164193405",
-   "title": "A climate-driven environmental sustainability indicator for assessing future Phlebotomus expansion risk in semi-arid Iran",
-   "headline": "Climate change shifts insect vector risks in semi-arid Iran",
-   "bullets": [
-    "Created an environmental sustainability indicator to map future vector expansion risks.",
-    "Found that suitable habitats will grow significantly, shifting north and higher.",
-    "Provides a transparent framework for multidimensional environmental risk assessment."
-   ],
-   "plain": {
-    "question": "How will climate change affect the future spread of certain disease-carrying insects in dry parts of Iran?",
-    "method": "The researchers used computer models and past records of where these insects live, plus future climate forecasts.",
-    "finding": "Suitable living spaces for the insects will grow by thousands of square kilometers and move north and higher up.",
-    "why": "This helps planners see how climate change creates new environmental risks over large geographic areas."
-   },
-   "full": {
-    "explainer": "Climate change alters where disease-carrying insects, specifically Phlebotomus vectors, can survive in dry regions. Traditional models often miss the broader environmental picture of future expansion. To fix this, researchers created a new tool called the Climate-Driven Environmental Sustainability Indicator (ESI). They used 312 insect location records and environmental factors in a computer modeling program called MaxEnt. They projected future conditions for the years 2041 to 2060 using five climate models under two different greenhouse gas emission scenarios. The ESI combined habitat suitability, climate exposure, expansion potential, and environmental vulnerability. The results showed that suitable habitats will expand by 25,400 to 51,200 square kilometers, moving toward northern and higher-elevation areas while shrinking in very dry southern zones. Areas facing high expansion risk will also grow. Importantly, the authors note that this indicator shows environmental expansion risk, not actual disease transmission probability.",
-    "caveats": [
-     "The indicator does not represent disease transmission probability.",
-     "Not stated whether field validation was performed beyond spatial model metrics."
-    ],
-    "jargon": [
-     {
-      "term": "Phlebotomus",
-      "definition": "A type of insect vector capable of spreading certain diseases."
-     },
-     {
-      "term": "MaxEnt",
-      "definition": "A computer program used for modeling species geographic distributions based on recorded sightings."
-     },
-     {
-      "term": "AUC",
-      "definition": "A statistical measure used to evaluate how well a predictive model performs."
-     }
-    ],
-    "fit": "Demonstrates spatial modeling, uncertainty assessment, and scenario comparison for environmental risk in a semi-arid setting."
-   },
-   "thesis": {
-    "why": "Shows how to build a multidimensional environmental index combining climate exposure and habitat suitability, useful for scenario comparison.",
-    "action": "Check how they integrated different spatial data layers into a single sustainability indicator.",
+    "why": "It addresses how human values and sociocultural meanings shape land-use change and transitions, mirroring challenges in urban environmental planning.",
+    "action": "Check how qualitative social data can complement spatial modelling of ecosystem services.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does this environmental sustainability indicator actually measure real-world human health vulnerability?",
-    "evidence": "The abstract states that the ESI integrates habitat suitability, climate exposure, and vulnerability, but explicitly notes it does not represent disease transmission probability.",
-    "limit": "One cannot establish actual disease rates or human health impacts from this environmental indicator alone.",
-    "check": "Verify how the study defines environmental vulnerability and whether human population data was included."
+    "question": "How do qualitative sociocultural findings translate into spatial or landscape-level planning decisions?",
+    "evidence": "The abstract relies entirely on semi-structured interviews about values and meanings, without linking them to spatial mapping or land-cover outcomes.",
+    "limit": "The abstract does not establish a causal link between farmer perceptions and actual land-cover change outcomes.",
+    "check": "Verify if the full paper bridges qualitative interviews with spatial analysis or land-change validation."
    },
    "relevance": 2,
-   "watch": null,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
    "source": {
-    "url": "https://doi.org/10.1016/j.indic.2026.101625",
-    "doi": "https://doi.org/10.1016/j.indic.2026.101625",
-    "venue": "Environmental and Sustainability Indicators",
-    "date": "2026-11-12",
+    "url": "https://stud.epsilon.slu.se/22886/",
+    "doi": null,
+    "venue": "Epsilon Archive for Student Projects (University of Southampton)",
+    "date": "2026-11-09",
     "authors": [
-     "Ebrahim Abbasi"
+     "Carla Lea Muche"
     ],
     "n_authors": 1,
     "open_access": true,
@@ -405,73 +205,347 @@
    }
   },
   {
-   "id": "W7225815867",
-   "title": "Food sharing networks in a multi-ethnic, predominantly indigenous peri-urban community in the Brazilian Amazon",
-   "headline": "Social networks boost food security in a Brazilian city",
+   "id": "W7225872578",
+   "title": "Land Use Change from 1984 To 2026 and Its Impact on Biodiversity Loss: A Case Study of Port Harcourt Metropolis: Green Cover Decline from 47.9% (1984) to 21.04% (2026)",
+   "headline": "Green cover dropped from 47.9% to 21% in Port Harcourt",
    "bullets": [
-    "Studied food-sharing networks across 106 households in a peri-urban community in Manaus",
-    "Found social capital links more to food security than economic capital does",
-    "Shows that migration networks remain vital for food access in urban areas"
+    "Tracked land use changes across five epochs from 1984 to 2026.",
+    "Found green cover dropped by 56% while built-up areas doubled.",
+    "Warns of severe biodiversity loss without stronger urban policies."
    ],
    "plain": {
-    "question": "How do social networks affect food access when rural families move to cities?",
-    "method": "Researchers surveyed 106 households in a peri-urban area using food security surveys and regression models.",
-    "finding": "Households with larger, reciprocal food-sharing networks felt more food secure, even after income was accounted for.",
-    "why": "This shows community support matters more for city food access than just having money to buy food."
+    "question": "How did city growth change land cover and biodiversity in Port Harcourt over forty years?",
+    "method": "Used maps from different years to measure changes in green areas, buildings, water, and bare land.",
+    "finding": "Green spaces shrank by more than half, while buildings and towns grew to cover most of the land.",
+    "why": "Unplanned city growth destroys nature and harms local wildlife unless better rules are enforced."
    },
    "full": {
-    "explainer": "Many people move from rural and indigenous areas to cities, where buying food with cash usually becomes the norm. Some researchers think this means families stop relying on traditional food-sharing networks and depend only on money. Others believe migrants build new support groups to help secure food. To explore this, researchers studied 106 households in Parque das Tribos, an indigenous, multi-ethnic community in Manaus, Brazil. They used surveys about food security and statistical regressions to see how household income and social network traits predicted food access. The results showed a positive link between feeling food secure and being part of larger, dense, and reciprocal sharing networks. Interestingly, this relationship held true even when accounting for income and cash transfer programs. Overall, the study indicates that social capital plays a stronger role in household food security than economic capital in this peri-urban setting.",
+    "explainer": "This paper looks at rapid, mostly unplanned city growth in Port Harcourt, Nigeria, from 1984 to 2026. The authors mapped the land across five different time periods using four main categories: green cover, buildings, water bodies, and bare land. They discovered that green cover shrank dramatically, falling from nearly 48 percent of the land area down to about 21 percent. Meanwhile, the area covered by buildings and settlements more than doubled. The loss of green space happened faster in earlier decades as the city center filled up, then expanded outward into nearby farming and natural areas. This shrinking and breaking up of natural habitats matches reported declines in local wildlife, such as birds, reptiles, and swamp forests. The study warns that without stricter enforcement of city master plans and wetland protections, the area faces severe and possibly permanent wildlife loss. To fight this, the authors suggest specific planning, legal, and community actions to protect nature.",
     "caveats": [
-     "The study focuses on a specific multi-ethnic, indigenous peri-urban community in Manaus, Brazil.",
-     "Food security was measured using residents' perceptions based on a local survey instrument.",
-     "Not stated whether these findings apply to non-indigenous urban populations."
+     "Biodiversity declines are reported based on indicative metrics rather than complete direct counts.",
+     "Not stated whether planning interventions will fully reverse the trend."
     ],
     "jargon": [
      {
-      "term": "peri-urban",
-      "definition": "An area located immediately outside of a city or town, often bridging rural and urban traits."
+      "term": "LULC",
+      "definition": "Land use and land cover, describing how humans use land and what physical features cover it."
      },
      {
-      "term": "social capital",
-      "definition": "The networks of relationships among people who live and work in a particular society."
+      "term": "Herpetofauna",
+      "definition": "Amphibians and reptiles, such as frogs, snakes, and lizards."
      },
      {
-      "term": "regressions",
-      "definition": "Statistical methods used to test the relationship between a dependent outcome and one or more variables."
+      "term": "Riparian habitat",
+      "definition": "Natural areas located along the banks of rivers, streams, or other water bodies."
      },
      {
-      "term": "cash-based markets",
-      "definition": "Economic systems where goods and services are bought and sold using money rather than bartered."
+      "term": "Multi-temporal",
+      "definition": "Involving multiple points in time to analyze changes over a specific period."
      }
     ],
-    "fit": "Connects to Global South urban contexts, showing how migrant communities maintain informal support systems instead of relying solely on cash."
+    "fit": "Shows land-cover change and habitat loss in a Global South city, relevant for studying urban ecosystem services and planning."
    },
    "thesis": {
-    "why": "It illustrates how vulnerable urban populations rely on informal social structures for essential resources, offering context for urban equity and planning.",
-    "action": "Check how the paper defines peri-urban boundaries and if spatial proximity influences sharing.",
+    "why": "It demonstrates how rapid, unplanned urban expansion in the Global South drives severe green cover loss and habitat fragmentation, matching your focus on land-cover change.",
+    "action": "Check how they validated their land-cover classification accuracy across the five epochs.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does perceived food security genuinely reflect actual nutritional intake?",
-    "evidence": "The study relies on residents' perceptions of household food security using the EBIA survey instrument rather than direct dietary intake data.",
-    "limit": "We cannot establish whether better social networks directly improve physical nutrition or just lower anxiety about food.",
-    "check": "Verify how the local version of the EBIA survey was validated for this specific multi-ethnic urban population."
+    "question": "How were biodiversity metrics linked directly to land-cover changes?",
+    "evidence": "The abstract states that habitat loss corresponds with reported declines in avian species richness and herpetofauna occurrence, but does not detail the exact linking method.",
+    "limit": "You cannot establish the precise statistical correlation or causality between specific land-cover changes and individual wildlife population shifts from the abstract alone.",
+    "check": "Verify the data sources used for the reported biodiversity declines to see if they are primary field surveys or secondary literature."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.54117/pqwe8p69",
+    "doi": "https://doi.org/10.54117/pqwe8p69",
+    "venue": "",
+    "date": "2026-11-12",
+    "authors": [
+     "Efe-Michael Agbragu",
+     "Sunny O. Asomaku",
+     "Augustine O. Wokocha",
+     "Victoria O. Emelu",
+     "Imiete Godspower"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7226018382",
+   "title": "Population Diversity of Tecomella undulata across South Asia: Diversity identification Markers, Possible Causes, and Potential for Conservation",
+   "headline": "Plant diversity, markers, and conservation in South Asia",
+   "bullets": [
+    "Reviewed diversity markers for Tecomella undulata across South Asia.",
+    "Found genetic diversity within populations and stress-induced shifts.",
+    "Argues for combining data types to guide conservation planning."
+   ],
+   "plain": {
+    "question": "How can we measure and protect the diversity of a vital desert tree?",
+    "method": "A literature review of molecular, anatomical, and chemical markers.",
+    "finding": "Populations show genetic diversity and physical shifts due to stress.",
+    "why": "This helps conservationists save valuable plant populations from decline."
+   },
+   "full": {
+    "explainer": "This paper looks at Tecomella undulata, an important tree found in the dry regions of South Asia that helps stabilize deserts and is used in traditional medicine. Because threats like habitat destruction, over-harvesting, and climate change are pushing the tree toward endangerment, the authors review how scientists identify population differences. They look at molecular markers, physical structures, and chemical profiles. Published work shows that these trees retain good genetic diversity even when separated geographically. Meanwhile, physical and chemical surveys show adaptations to dry conditions and stress responses linked to local soils. The authors argue that combining these different types of data is crucial for conservation planners across South Asia. It helps them prioritize which populations to protect, collect, or restore before they disappear completely.",
+    "caveats": [
+     "Anatomical and phytochemical surveys are comparatively sparse.",
+     "Other approaches like common garden experiments may be needed."
+    ],
+    "jargon": [
+     {
+      "term": "Keystone tree",
+      "definition": "A species that has a disproportionately large effect on its natural environment."
+     },
+     {
+      "term": "Xeromorphic adaptations",
+      "definition": "Structural traits that allow a plant to survive in dry conditions."
+     },
+     {
+      "term": "Phytochemical profile",
+      "definition": "The chemical compounds produced by plants, often used for medicinal properties."
+     },
+     {
+      "term": "Germplasm",
+      "definition": "Living genetic resources such as seeds or tissues maintained for breeding or conservation."
+     }
+    ],
+    "fit": "It relates to arid ecosystem conservation and plant diversity, though it is not focused on urban settings or Kabul."
+   },
+   "thesis": {
+    "why": "It addresses arid ecosystem conservation and stress adaptations, which parallel environmental planning in semi-arid settings, though it is not urban.",
+    "action": "Check if the review discusses landscape fragmentation metrics useful for habitat quality analysis.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does this plant review provide transferable methods for assessing habitat quality in urbanizing drylands?",
+    "evidence": "The abstract discusses molecular and physical markers for assessing ecological stress and population decline in a semi-arid South Asian context.",
+    "limit": "The abstract does not provide empirical data or urban ecosystem service models for Kabul or cities.",
+    "check": "Verify if the review methods can be adapted for urban green space or habitat quality assessments."
    },
    "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1371/journal.pone.0360629",
-    "doi": "https://doi.org/10.1371/journal.pone.0360629",
-    "venue": "PLoS ONE",
+    "url": "https://doi.org/10.38211/joarps.2026.07.379",
+    "doi": "https://doi.org/10.38211/joarps.2026.07.379",
+    "venue": "Journal of Applied Research in Plant Sciences",
+    "date": "2026-11-13",
+    "authors": [
+     "Samina Awan",
+     "Samreena Sanjrani",
+     "Naematullah Shah",
+     "Saeed Akhtar Abro"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225877078",
+   "title": "Business Incubation and SMME Growth in a Township Economy: Evidence from KwaMashu, South Africa",
+   "headline": "Business incubators aid small business growth conditionally",
+   "bullets": [
+    "Conducted twenty-one semi-structured interviews and a literature review in South Africa.",
+    "Found incubators work conditionally based on skills, alignment, and institutions.",
+    "Explains how small businesses grow in structurally constrained township economies."
+   ],
+   "plain": {
+    "question": "Do business incubators help small businesses grow in township economies?",
+    "method": "A qualitative study using twenty-one interviews and a literature review in one township.",
+    "finding": "They help only if owners have the capacity and conditions are right.",
+    "why": "It shows support programs are not direct drivers of growth on their own."
+   },
+   "full": {
+    "explainer": "Small and medium businesses are often promoted to create jobs in the Global South, but many fail in township economies. This paper studies how business incubators affect the growth of these small businesses in KwaMashu Township, South Africa. The researchers used a qualitative design, which means they interviewed twenty-one small business owners and support workers, and reviewed existing literature. They looked at the results using three theories about resources, human capital, and institutions. The findings show that incubators do not directly drive growth by themselves. Instead, they act as conditional development tools. While they can improve access to resources, skills, and networks, actual business growth depends on whether the owners have the ability to absorb new knowledge, whether the ecosystem is aligned, and whether the institutional conditions are right. This gives us a better, context-aware understanding of how small businesses grow in places with tough structural limits.",
+    "caveats": [
+     "Based on a single-case design in one specific township.",
+     "Relies on twenty-one interviews and literature review.",
+     "Not stated if findings apply to urban environmental planning or ecosystem services."
+    ],
+    "jargon": [
+     {
+      "term": "SMMEs",
+      "definition": "Small, Micro and Medium Enterprises."
+     },
+     {
+      "term": "Business incubation",
+      "definition": "Support interventions designed to help startups and small businesses grow."
+     },
+     {
+      "term": "Absorptive capacity",
+      "definition": "The ability of an entrepreneur to recognize, assimilate, and apply new external knowledge."
+     },
+     {
+      "term": "Qualitative single-case design",
+      "definition": "A research approach that deeply examines one single instance or location using non-numerical data."
+     }
+    ],
+    "fit": "Connects to Global South urban contexts and institutional conditions, though it focuses on business incubation rather than ecosystem services."
+   },
+   "thesis": {
+    "why": "It addresses institutional conditions and context-sensitive development in the Global South, which parallels challenges in data-scarce urban planning settings.",
+    "action": "Check if institutional constraints discussed mirror governance issues in your study areas.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How can qualitative findings on business incubators inform spatial and environmental planning?",
+    "evidence": "The abstract examines support mechanisms and institutional conditions in the Global South without addressing spatial planning or ecosystem services.",
+    "limit": "It cannot establish causal links between business support and physical land-cover change or ecosystem service delivery.",
+    "check": "Verify if the full paper discusses any spatial or land-use implications of township business development."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.59857/axr1kt32",
+    "doi": "https://doi.org/10.59857/axr1kt32",
+    "venue": "International Journal of Advanced Business Studies",
+    "date": "2026-11-12",
+    "authors": [
+     "Molefi Lawrence. Matsieli",
+     "Matthew Speelman",
+     "Thembinkosi Gervase Mkhize",
+     "Stephen Mudogo Mutula"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225873456",
+   "title": "Thermal Performance of Glazing vs Insulated Curtain-Wall Panels in Hot-Arid Urban Environments: Implications for Climate-Adaptive Façade Design",
+   "headline": "Insulated panels beat glass for heat control",
+   "bullets": [
+    "Tested heat transfer in two window panel types using computer modeling",
+    "Insulated panels allowed less heat through than double-glazed glass units",
+    "Helps choose better building walls to lower city energy demand in heat"
+   ],
+   "plain": {
+    "question": "Which window design keeps out hot weather better?",
+    "method": "A computer model tested how heat moves through two different wall panel types.",
+    "finding": "Opaque insulated panels let through less heat than double glass windows.",
+    "why": "This helps design buildings that use less energy in very hot cities."
+   },
+   "full": {
+    "explainer": "This study looks at how heat moves through modern building walls in hot weather. In very hot cities, the outside walls of tall buildings are a big reason why indoor spaces get hot, leading to high energy use for air conditioning. The researchers used a computer program to test two different types of window wall sections: one with a solid, insulated panel, and one with a gas-filled double glass window. They ran tests using summer weather conditions from a hot city. The results showed that the solid insulated panel let through less heat than the glass window. The glass window also created a heat leak around its edges where it meets the frame. The study explains that choosing better walls can help reduce overall energy use and make cities more resilient to extreme heat.",
+    "caveats": [
+     "Tested only steady-state heat transfer under one set of summer boundary conditions",
+     "Evaluated only one representative window and curtain-wall-like frame section detail",
+     "Not stated how other environmental factors like sunlight or wind affect the panels"
+    ],
+    "jargon": [
+     {
+      "term": "Thermal transmittance",
+      "definition": "A measure of how easily heat passes through a building material."
+     },
+     {
+      "term": "Finite-element model",
+      "definition": "A computer method that breaks a complex shape into tiny pieces to calculate physical forces."
+     },
+     {
+      "term": "Thermal bridge",
+      "definition": "An area in a building's structure that lets heat pass through much faster than surrounding areas."
+     }
+    ],
+    "fit": "Connects to urban cooling and climate-adaptive building design, influencing district-scale energy demand in hot-arid urban environments."
+   },
+   "thesis": {
+    "why": "It links building-scale heat transfer to district-scale energy demand and urban resilience to extreme heat in hot-arid environments.",
+    "action": "Check if the paper discusses how individual building façades impact urban microclimates and cooling.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does a small change in panel heat transfer meaningfully alter city-wide urban cooling?",
+    "evidence": "The abstract claims that accumulated heat gains at the district scale influence urban energy demand and resilience to extreme heat.",
+    "limit": "The study only models a single window section and does not model actual city-wide microclimate or temperature changes.",
+    "check": "Verify if the full paper provides empirical proof scaling building façade choices up to the entire district level."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11473323/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11473323/v1",
+    "venue": "Research Square",
+    "date": "2026-11-12",
+    "authors": [
+     "Muhammad Tayyab Naqash",
+     "Antonio Formisano"
+    ],
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225801198",
+   "title": "Effects of topical silicon as a large‐mammal herbivory deterrent in a small‐scale restoration study",
+   "headline": "Silicon boosts plant growth but fails to deter herbivores",
+   "bullets": [
+    "Tested silicon as a plant defense and growth booster in a restoration study.",
+    "Silicon did not stop animal herbivory, but it increased plant height and width.",
+    "Greenhouse silicon use can help grow stronger plants before field planting."
+   ],
+   "plain": {
+    "question": "Does adding silicon to plants help them grow better and stop animals from eating them?",
+    "method": "We measured plant height, cover, and biomass in a greenhouse and a field restoration study.",
+    "finding": "Silicon did not stop animals from eating the plants, but it made the plants taller and wider.",
+    "why": "Using silicon in greenhouses can create stronger plants for replanting projects."
+   },
+   "full": {
+    "explainer": "When trying to restore plants in dry areas, wild animals eating the new plants is a big problem. Traditional fences and cages can be expensive and may harm the plants. This study tested a different idea: using reactive silicon, a substance plants naturally use for defense and health. The researchers looked at how silicon affected plant growth in a greenhouse and whether it protected plants from being eaten by wild herbivores in a small restoration field study. Before the plants faced any animals, those given silicon grew significantly taller and wider than the plants without it. However, when placed in the field, the silicon treatment did not reduce the amount of herbivory by wild animals. The authors conclude that while silicon does not stop animals from eating plants, applying it during the greenhouse stage can help boost early plant growth, which might help them survive better when finally planted outside.",
+    "caveats": [
+     "Tested only in a small-scale restoration and greenhouse setting",
+     "Did not reduce herbivory by field herbivores",
+     "Not stated how long the field study lasted or what specific animal species caused the herbivory"
+    ],
+    "jargon": [
+     {
+      "term": "Herbivory",
+      "definition": "The act of animals eating plants."
+     },
+     {
+      "term": "Revegetation",
+      "definition": "The process of planting vegetation back into an area."
+     },
+     {
+      "term": "Reactive silicon",
+      "definition": "A chemical element sometimes used by plants for defense and health."
+     },
+     {
+      "term": "Biomass",
+      "definition": "The total mass of living organisms in a given area."
+     }
+    ],
+    "fit": "This paper offers a specific plant growth method for arid environments, though it focuses on wildlife browsing rather than urban ecosystem services."
+   },
+   "thesis": {
+    "why": "The paper deals with arid restoration and plant growth, which relates to greening and environmental planning, but it does not address Kabul, urban services, or land cover.",
+    "action": "Check if the plant health methods apply to urban revegetation trials.",
+    "relationship": "unclear"
+   },
+   "critical": {
+    "question": "Can greenhouse growth boosts improve survival against urban pressures?",
+    "evidence": "Silicon increased plant height and width in the greenhouse before field exposure.",
+    "limit": "The abstract does not show long-term survival rates after outplanting in difficult real-world conditions.",
+    "check": "Verify if the species tested share similarities with plants used in semi-arid urban greening."
+   },
+   "relevance": 1,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1111/rec.70586",
+    "doi": "https://doi.org/10.1111/rec.70586",
+    "venue": "Restoration Ecology",
     "date": "2026-11-11",
     "authors": [
-     "Harold Martin Wright",
-     "Barbara Ann Piperata",
-     "Sean S. Downey",
-     "Shane A. Scaggs",
-     "Therezinha de Jesus Pinto Fraxe"
+     "Justin S. Lamb",
+     "Elise S. Gornish"
     ],
-    "n_authors": 5,
+    "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }

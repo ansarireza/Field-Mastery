@@ -475,26 +475,27 @@
   "edaafc487a",
   "e31480686e",
   "2738817a93",
-  "27484927d1"
+  "27484927d1",
+  "5077704898"
  ],
  "today": {
-  "id": "27484927d1",
+  "id": "5077704898",
   "scope": "Spatial patterns and planning",
-  "q": "To what extent can methods and theories developed in the Global North transfer to Kabul's context?",
-  "type": "generalisability",
+  "q": "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
+  "type": "practical relevance",
   "outline": [
-   "Evaluate transferability between cities",
-   "Account for semi-arid, mountainous, and conflict-affected traits",
-   "Balance worldwide theory with local realities"
+   "Connect service bundles and spatial patterns to planning",
+   "Address formal development and informal flatland/hillside areas",
+   "Incorporate green-blue infrastructure scenarios"
   ],
-  "pitfall": "Applying standardized Global North models without local context adaptation.",
-  "follow_up": "Which specific framework assumptions break down in informal hillside settlements?",
-  "bring": "Comparative notes on transferring spatial models to data-scarce settings.",
+  "pitfall": "Proposing planning interventions that ignore conflict and data limitations.",
+  "follow_up": "How do scenario comparisons help guide planning under high uncertainty?",
+  "bring": "Scenario comparison frameworks tailored for data-scarce metropolitan planning.",
   "self_check": [
-   "Addressed city transferability",
-   "Included local constraints",
-   "Balanced theory and context"
+   "Linked patterns to planning",
+   "Addressed informal areas",
+   "Incorporated scenarios"
   ]
  },
- "today_date": "2026-11-14"
+ "today_date": "2026-11-15"
 }

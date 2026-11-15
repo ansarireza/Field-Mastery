@@ -68,6 +68,212 @@
   }
  },
  {
+  "id": "W7226031987",
+  "title": "Multi-scenario ecosystem service trade-offs and ecological security patterns in the upper Yongding River Basin, China (1990-2024)",
+  "headline": "Trade-offs linked to ecological security in China",
+  "bullets": [
+   "Quantified six ecosystem services from 1990 to 2024 using InVEST and seven weighting scenarios",
+   "Found ecological sources shrank while network connectivity became more compact and redundant",
+   "Provides a basin-specific workflow to balance service trade-offs for conservation planning"
+  ],
+  "plain": {
+   "question": "How can we balance different nature benefits when planning protected areas?",
+   "method": "We mapped six nature benefits over time using computer models and created different future planning scenarios.",
+   "finding": "Protected natural areas shrank over time, but the overall network of connected spaces became tighter.",
+   "why": "This helps planners figure out the best ways to protect nature without wasting resources."
+  },
+  "full": {
+   "explainer": "To protect nature effectively, planners must balance multiple benefits that nature provides, like clean water and wildlife habitats, which often compete with each other. This study looked at the upper Yongding River Basin in China from 1990 to 2024 to see how these benefits changed over time. The researchers used computer software to measure six different ecological benefits and tested seven different priority scenarios using weighting techniques. They then mapped out ecological security patterns using landscape analysis tools. They found that the core natural areas shrank in size, dropping from over 56 percent of the area down to about 48 percent. However, the overall network of connected natural spaces actually became more compact and connected through bridges. The authors suggest that protecting the remaining core areas and restoring specific connecting corridors can improve overall landscape connectivity at a lower cost.",
+   "caveats": [
+    "Scenario S5 is a local preference under the tested inputs and not a general rule.",
+    "Not stated whether these findings apply outside this specific basin.",
+    "Not stated how local human settlements or informal areas impacted the results."
+   ],
+   "jargon": [
+    {
+     "term": "ecosystem services",
+     "definition": "The benefits that people freely get from the natural environment."
+    },
+    {
+     "term": "ecological security pattern",
+     "definition": "An arrangement of natural landscape features that protects ecological functions and safety."
+    },
+    {
+     "term": "InVEST",
+     "definition": "A software suite used to map and value the goods and benefits from nature."
+    },
+    {
+     "term": "MSPA",
+     "definition": "A method used to measure and map landscape patterns and structural connectivity."
+    }
+   ],
+   "fit": "Demonstrates scenario comparison, landscape configuration, and InVEST modeling for environmental planning, matching student methods."
+  },
+  "thesis": {
+   "why": "It models ecosystem service trade-offs and scenario comparisons using InVEST and landscape metrics, matching methods the student is learning to defend.",
+   "action": "Check how the authors handled spatial uncertainties and land-change validation in their workflow.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does this scenario weighting approach guarantee better ecological outcomes in data-scarce urban regions?",
+   "evidence": "The study relies on modeled scenarios (S5) and graph-theoretic indices over a large basin, concluding that S5 is a local preference.",
+   "limit": "The abstract does not establish whether these specific weighting parameters work in data-scarce or urban settings.",
+   "check": "Verify if the sensitivity and uncertainty assessments of the OWA weighting scenarios are applicable to urban data."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11592346/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11592346/v1",
+   "venue": "Research Square",
+   "date": "2026-11-13",
+   "authors": [
+    "Yan Jiang",
+    "Gang Wang",
+    "Xiaoyan Zhang",
+    "Jingfeng Hu"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7226004253",
+  "title": "Public Spatial Perceptions from PPGIS Studies Using Qualitative Content Analysis in Existing, Candidate, and Outside Protected Areas",
+  "headline": "Public mapping reveals protected area values and conflicts",
+  "bullets": [
+   "Used public mapping and coding to analyze stakeholder values and concerns.",
+   "Found values focused on ecology while concerns centered on energy and wildlife.",
+   "Provides spatial evidence for protected area zoning and conflict management."
+  ],
+  "plain": {
+   "question": "How do people view protected areas before they are officially set up?",
+   "method": "Asked 97 participants to map their opinions and concerns on digital maps.",
+   "finding": "Values focused on nature, while concerns centered on energy and wildlife issues.",
+   "why": "It helps planners see where people and nature might clash before making rules."
+  },
+  "full": {
+   "explainer": "This paper looks at how people feel about protected natural areas before those areas are officially designated. The researchers used a method where participants draw maps and write down what they value or worry about in specific places. In eastern Hokkaido, Japan, nearly one hundred local people and visitors marked hundreds of comments on maps of existing, proposed, and outside protected areas. The researchers then grouped these comments into themes. They found that most positive values were about nature, scenery, and recreation, while worries were mainly about energy projects, habitat loss, and conflicts with wildlife. By looking at where these positive and negative points clustered on the map, the authors found potential conflict zones where people value the nature highly but worry about losing habitats. Locals and visitors agreed on many values, but only locals worried about wildlife conflicts. The study shows that gathering public opinions on maps before making plans can help leaders draw boundaries, set up zones, and avoid future disputes.",
+   "caveats": [
+    "Convenience sampling was used with 97 participants, so results may not represent everyone.",
+    "Not stated whether findings apply to urban areas or the Global South."
+   ],
+   "jargon": [
+    {
+     "term": "PPGIS",
+     "definition": "Public Participation Geographical Information System; a method to map local knowledge."
+    },
+    {
+     "term": "Location quotient",
+     "definition": "A formula used to find distinctive themes or features in specific locations."
+    },
+    {
+     "term": "Gi* hotspot values",
+     "definition": "A spatial statistic used to find clusters of high or low values on a map."
+    }
+   ],
+   "fit": "Demonstrates spatial mapping of public values and conflicts, offering transferable public participation methods for environmental planning."
+  },
+  "thesis": {
+   "why": "It models spatial mapping of human values and concerns, aiding the student's focus on ecosystem service benefits and planning.",
+   "action": "Check how the authors mapped public perceptions to see if a similar approach fits local surveys.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can convenience sampling of 97 people accurately represent all stakeholder groups?",
+   "evidence": "The abstract notes that 97 participants were gathered using convenience sampling in eastern Hokkaido.",
+   "limit": "Whether these public mapping methods work equally well in data-scarce or conflict-affected settings.",
+   "check": "Verify how participants were recruited and if the sample size is considered adequate for spatial hotspot analysis."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1126/science.aap8826",
+  "source": {
+   "url": "https://doi.org/10.3390/land15112182",
+   "doi": "https://doi.org/10.3390/land15112182",
+   "venue": "Land",
+   "date": "2026-11-13",
+   "authors": [
+    "EeHung Khew",
+    "Tetsuya Aikoh",
+    "Hajime Matsushima"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7226018382",
+  "title": "Population Diversity of Tecomella undulata across South Asia: Diversity identification Markers, Possible Causes, and Potential for Conservation",
+  "headline": "Plant diversity, markers, and conservation in South Asia",
+  "bullets": [
+   "Reviewed diversity markers for Tecomella undulata across South Asia.",
+   "Found genetic diversity within populations and stress-induced shifts.",
+   "Argues for combining data types to guide conservation planning."
+  ],
+  "plain": {
+   "question": "How can we measure and protect the diversity of a vital desert tree?",
+   "method": "A literature review of molecular, anatomical, and chemical markers.",
+   "finding": "Populations show genetic diversity and physical shifts due to stress.",
+   "why": "This helps conservationists save valuable plant populations from decline."
+  },
+  "full": {
+   "explainer": "This paper looks at Tecomella undulata, an important tree found in the dry regions of South Asia that helps stabilize deserts and is used in traditional medicine. Because threats like habitat destruction, over-harvesting, and climate change are pushing the tree toward endangerment, the authors review how scientists identify population differences. They look at molecular markers, physical structures, and chemical profiles. Published work shows that these trees retain good genetic diversity even when separated geographically. Meanwhile, physical and chemical surveys show adaptations to dry conditions and stress responses linked to local soils. The authors argue that combining these different types of data is crucial for conservation planners across South Asia. It helps them prioritize which populations to protect, collect, or restore before they disappear completely.",
+   "caveats": [
+    "Anatomical and phytochemical surveys are comparatively sparse.",
+    "Other approaches like common garden experiments may be needed."
+   ],
+   "jargon": [
+    {
+     "term": "Keystone tree",
+     "definition": "A species that has a disproportionately large effect on its natural environment."
+    },
+    {
+     "term": "Xeromorphic adaptations",
+     "definition": "Structural traits that allow a plant to survive in dry conditions."
+    },
+    {
+     "term": "Phytochemical profile",
+     "definition": "The chemical compounds produced by plants, often used for medicinal properties."
+    },
+    {
+     "term": "Germplasm",
+     "definition": "Living genetic resources such as seeds or tissues maintained for breeding or conservation."
+    }
+   ],
+   "fit": "It relates to arid ecosystem conservation and plant diversity, though it is not focused on urban settings or Kabul."
+  },
+  "thesis": {
+   "why": "It addresses arid ecosystem conservation and stress adaptations, which parallel environmental planning in semi-arid settings, though it is not urban.",
+   "action": "Check if the review discusses landscape fragmentation metrics useful for habitat quality analysis.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does this plant review provide transferable methods for assessing habitat quality in urbanizing drylands?",
+   "evidence": "The abstract discusses molecular and physical markers for assessing ecological stress and population decline in a semi-arid South Asian context.",
+   "limit": "The abstract does not provide empirical data or urban ecosystem service models for Kabul or cities.",
+   "check": "Verify if the review methods can be adapted for urban green space or habitat quality assessments."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.38211/joarps.2026.07.379",
+   "doi": "https://doi.org/10.38211/joarps.2026.07.379",
+   "venue": "Journal of Applied Research in Plant Sciences",
+   "date": "2026-11-13",
+   "authors": [
+    "Samina Awan",
+    "Samreena Sanjrani",
+    "Naematullah Shah",
+    "Saeed Akhtar Abro"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225818744",
   "title": "Mapping and modelling urban gullies across Africa",
   "headline": "Mapping and modelling urban gullies across Africa",
@@ -187,6 +393,213 @@
     "Ebrahim Abbasi"
    ],
    "n_authors": 1,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225872578",
+  "title": "Land Use Change from 1984 To 2026 and Its Impact on Biodiversity Loss: A Case Study of Port Harcourt Metropolis: Green Cover Decline from 47.9% (1984) to 21.04% (2026)",
+  "headline": "Green cover dropped from 47.9% to 21% in Port Harcourt",
+  "bullets": [
+   "Tracked land use changes across five epochs from 1984 to 2026.",
+   "Found green cover dropped by 56% while built-up areas doubled.",
+   "Warns of severe biodiversity loss without stronger urban policies."
+  ],
+  "plain": {
+   "question": "How did city growth change land cover and biodiversity in Port Harcourt over forty years?",
+   "method": "Used maps from different years to measure changes in green areas, buildings, water, and bare land.",
+   "finding": "Green spaces shrank by more than half, while buildings and towns grew to cover most of the land.",
+   "why": "Unplanned city growth destroys nature and harms local wildlife unless better rules are enforced."
+  },
+  "full": {
+   "explainer": "This paper looks at rapid, mostly unplanned city growth in Port Harcourt, Nigeria, from 1984 to 2026. The authors mapped the land across five different time periods using four main categories: green cover, buildings, water bodies, and bare land. They discovered that green cover shrank dramatically, falling from nearly 48 percent of the land area down to about 21 percent. Meanwhile, the area covered by buildings and settlements more than doubled. The loss of green space happened faster in earlier decades as the city center filled up, then expanded outward into nearby farming and natural areas. This shrinking and breaking up of natural habitats matches reported declines in local wildlife, such as birds, reptiles, and swamp forests. The study warns that without stricter enforcement of city master plans and wetland protections, the area faces severe and possibly permanent wildlife loss. To fight this, the authors suggest specific planning, legal, and community actions to protect nature.",
+   "caveats": [
+    "Biodiversity declines are reported based on indicative metrics rather than complete direct counts.",
+    "Not stated whether planning interventions will fully reverse the trend."
+   ],
+   "jargon": [
+    {
+     "term": "LULC",
+     "definition": "Land use and land cover, describing how humans use land and what physical features cover it."
+    },
+    {
+     "term": "Herpetofauna",
+     "definition": "Amphibians and reptiles, such as frogs, snakes, and lizards."
+    },
+    {
+     "term": "Riparian habitat",
+     "definition": "Natural areas located along the banks of rivers, streams, or other water bodies."
+    },
+    {
+     "term": "Multi-temporal",
+     "definition": "Involving multiple points in time to analyze changes over a specific period."
+    }
+   ],
+   "fit": "Shows land-cover change and habitat loss in a Global South city, relevant for studying urban ecosystem services and planning."
+  },
+  "thesis": {
+   "why": "It demonstrates how rapid, unplanned urban expansion in the Global South drives severe green cover loss and habitat fragmentation, matching your focus on land-cover change.",
+   "action": "Check how they validated their land-cover classification accuracy across the five epochs.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How were biodiversity metrics linked directly to land-cover changes?",
+   "evidence": "The abstract states that habitat loss corresponds with reported declines in avian species richness and herpetofauna occurrence, but does not detail the exact linking method.",
+   "limit": "You cannot establish the precise statistical correlation or causality between specific land-cover changes and individual wildlife population shifts from the abstract alone.",
+   "check": "Verify the data sources used for the reported biodiversity declines to see if they are primary field surveys or secondary literature."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.54117/pqwe8p69",
+   "doi": "https://doi.org/10.54117/pqwe8p69",
+   "venue": "",
+   "date": "2026-11-12",
+   "authors": [
+    "Efe-Michael Agbragu",
+    "Sunny O. Asomaku",
+    "Augustine O. Wokocha",
+    "Victoria O. Emelu",
+    "Imiete Godspower"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225877078",
+  "title": "Business Incubation and SMME Growth in a Township Economy: Evidence from KwaMashu, South Africa",
+  "headline": "Business incubators aid small business growth conditionally",
+  "bullets": [
+   "Conducted twenty-one semi-structured interviews and a literature review in South Africa.",
+   "Found incubators work conditionally based on skills, alignment, and institutions.",
+   "Explains how small businesses grow in structurally constrained township economies."
+  ],
+  "plain": {
+   "question": "Do business incubators help small businesses grow in township economies?",
+   "method": "A qualitative study using twenty-one interviews and a literature review in one township.",
+   "finding": "They help only if owners have the capacity and conditions are right.",
+   "why": "It shows support programs are not direct drivers of growth on their own."
+  },
+  "full": {
+   "explainer": "Small and medium businesses are often promoted to create jobs in the Global South, but many fail in township economies. This paper studies how business incubators affect the growth of these small businesses in KwaMashu Township, South Africa. The researchers used a qualitative design, which means they interviewed twenty-one small business owners and support workers, and reviewed existing literature. They looked at the results using three theories about resources, human capital, and institutions. The findings show that incubators do not directly drive growth by themselves. Instead, they act as conditional development tools. While they can improve access to resources, skills, and networks, actual business growth depends on whether the owners have the ability to absorb new knowledge, whether the ecosystem is aligned, and whether the institutional conditions are right. This gives us a better, context-aware understanding of how small businesses grow in places with tough structural limits.",
+   "caveats": [
+    "Based on a single-case design in one specific township.",
+    "Relies on twenty-one interviews and literature review.",
+    "Not stated if findings apply to urban environmental planning or ecosystem services."
+   ],
+   "jargon": [
+    {
+     "term": "SMMEs",
+     "definition": "Small, Micro and Medium Enterprises."
+    },
+    {
+     "term": "Business incubation",
+     "definition": "Support interventions designed to help startups and small businesses grow."
+    },
+    {
+     "term": "Absorptive capacity",
+     "definition": "The ability of an entrepreneur to recognize, assimilate, and apply new external knowledge."
+    },
+    {
+     "term": "Qualitative single-case design",
+     "definition": "A research approach that deeply examines one single instance or location using non-numerical data."
+    }
+   ],
+   "fit": "Connects to Global South urban contexts and institutional conditions, though it focuses on business incubation rather than ecosystem services."
+  },
+  "thesis": {
+   "why": "It addresses institutional conditions and context-sensitive development in the Global South, which parallels challenges in data-scarce urban planning settings.",
+   "action": "Check if institutional constraints discussed mirror governance issues in your study areas.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How can qualitative findings on business incubators inform spatial and environmental planning?",
+   "evidence": "The abstract examines support mechanisms and institutional conditions in the Global South without addressing spatial planning or ecosystem services.",
+   "limit": "It cannot establish causal links between business support and physical land-cover change or ecosystem service delivery.",
+   "check": "Verify if the full paper discusses any spatial or land-use implications of township business development."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.59857/axr1kt32",
+   "doi": "https://doi.org/10.59857/axr1kt32",
+   "venue": "International Journal of Advanced Business Studies",
+   "date": "2026-11-12",
+   "authors": [
+    "Molefi Lawrence. Matsieli",
+    "Matthew Speelman",
+    "Thembinkosi Gervase Mkhize",
+    "Stephen Mudogo Mutula"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225873456",
+  "title": "Thermal Performance of Glazing vs Insulated Curtain-Wall Panels in Hot-Arid Urban Environments: Implications for Climate-Adaptive Façade Design",
+  "headline": "Insulated panels beat glass for heat control",
+  "bullets": [
+   "Tested heat transfer in two window panel types using computer modeling",
+   "Insulated panels allowed less heat through than double-glazed glass units",
+   "Helps choose better building walls to lower city energy demand in heat"
+  ],
+  "plain": {
+   "question": "Which window design keeps out hot weather better?",
+   "method": "A computer model tested how heat moves through two different wall panel types.",
+   "finding": "Opaque insulated panels let through less heat than double glass windows.",
+   "why": "This helps design buildings that use less energy in very hot cities."
+  },
+  "full": {
+   "explainer": "This study looks at how heat moves through modern building walls in hot weather. In very hot cities, the outside walls of tall buildings are a big reason why indoor spaces get hot, leading to high energy use for air conditioning. The researchers used a computer program to test two different types of window wall sections: one with a solid, insulated panel, and one with a gas-filled double glass window. They ran tests using summer weather conditions from a hot city. The results showed that the solid insulated panel let through less heat than the glass window. The glass window also created a heat leak around its edges where it meets the frame. The study explains that choosing better walls can help reduce overall energy use and make cities more resilient to extreme heat.",
+   "caveats": [
+    "Tested only steady-state heat transfer under one set of summer boundary conditions",
+    "Evaluated only one representative window and curtain-wall-like frame section detail",
+    "Not stated how other environmental factors like sunlight or wind affect the panels"
+   ],
+   "jargon": [
+    {
+     "term": "Thermal transmittance",
+     "definition": "A measure of how easily heat passes through a building material."
+    },
+    {
+     "term": "Finite-element model",
+     "definition": "A computer method that breaks a complex shape into tiny pieces to calculate physical forces."
+    },
+    {
+     "term": "Thermal bridge",
+     "definition": "An area in a building's structure that lets heat pass through much faster than surrounding areas."
+    }
+   ],
+   "fit": "Connects to urban cooling and climate-adaptive building design, influencing district-scale energy demand in hot-arid urban environments."
+  },
+  "thesis": {
+   "why": "It links building-scale heat transfer to district-scale energy demand and urban resilience to extreme heat in hot-arid environments.",
+   "action": "Check if the paper discusses how individual building façades impact urban microclimates and cooling.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does a small change in panel heat transfer meaningfully alter city-wide urban cooling?",
+   "evidence": "The abstract claims that accumulated heat gains at the district scale influence urban energy demand and resilience to extreme heat.",
+   "limit": "The study only models a single window section and does not model actual city-wide microclimate or temperature changes.",
+   "check": "Verify if the full paper provides empirical proof scaling building façade choices up to the entire district level."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11473323/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11473323/v1",
+   "venue": "Research Square",
+   "date": "2026-11-12",
+   "authors": [
+    "Muhammad Tayyab Naqash",
+    "Antonio Formisano"
+   ],
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
@@ -593,6 +1006,75 @@
     "Therezinha de Jesus Pinto Fraxe"
    ],
    "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225801198",
+  "title": "Effects of topical silicon as a large‐mammal herbivory deterrent in a small‐scale restoration study",
+  "headline": "Silicon boosts plant growth but fails to deter herbivores",
+  "bullets": [
+   "Tested silicon as a plant defense and growth booster in a restoration study.",
+   "Silicon did not stop animal herbivory, but it increased plant height and width.",
+   "Greenhouse silicon use can help grow stronger plants before field planting."
+  ],
+  "plain": {
+   "question": "Does adding silicon to plants help them grow better and stop animals from eating them?",
+   "method": "We measured plant height, cover, and biomass in a greenhouse and a field restoration study.",
+   "finding": "Silicon did not stop animals from eating the plants, but it made the plants taller and wider.",
+   "why": "Using silicon in greenhouses can create stronger plants for replanting projects."
+  },
+  "full": {
+   "explainer": "When trying to restore plants in dry areas, wild animals eating the new plants is a big problem. Traditional fences and cages can be expensive and may harm the plants. This study tested a different idea: using reactive silicon, a substance plants naturally use for defense and health. The researchers looked at how silicon affected plant growth in a greenhouse and whether it protected plants from being eaten by wild herbivores in a small restoration field study. Before the plants faced any animals, those given silicon grew significantly taller and wider than the plants without it. However, when placed in the field, the silicon treatment did not reduce the amount of herbivory by wild animals. The authors conclude that while silicon does not stop animals from eating plants, applying it during the greenhouse stage can help boost early plant growth, which might help them survive better when finally planted outside.",
+   "caveats": [
+    "Tested only in a small-scale restoration and greenhouse setting",
+    "Did not reduce herbivory by field herbivores",
+    "Not stated how long the field study lasted or what specific animal species caused the herbivory"
+   ],
+   "jargon": [
+    {
+     "term": "Herbivory",
+     "definition": "The act of animals eating plants."
+    },
+    {
+     "term": "Revegetation",
+     "definition": "The process of planting vegetation back into an area."
+    },
+    {
+     "term": "Reactive silicon",
+     "definition": "A chemical element sometimes used by plants for defense and health."
+    },
+    {
+     "term": "Biomass",
+     "definition": "The total mass of living organisms in a given area."
+    }
+   ],
+   "fit": "This paper offers a specific plant growth method for arid environments, though it focuses on wildlife browsing rather than urban ecosystem services."
+  },
+  "thesis": {
+   "why": "The paper deals with arid restoration and plant growth, which relates to greening and environmental planning, but it does not address Kabul, urban services, or land cover.",
+   "action": "Check if the plant health methods apply to urban revegetation trials.",
+   "relationship": "unclear"
+  },
+  "critical": {
+   "question": "Can greenhouse growth boosts improve survival against urban pressures?",
+   "evidence": "Silicon increased plant height and width in the greenhouse before field exposure.",
+   "limit": "The abstract does not show long-term survival rates after outplanting in difficult real-world conditions.",
+   "check": "Verify if the species tested share similarities with plants used in semi-arid urban greening."
+  },
+  "relevance": 1,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1111/rec.70586",
+   "doi": "https://doi.org/10.1111/rec.70586",
+   "venue": "Restoration Ecology",
+   "date": "2026-11-11",
+   "authors": [
+    "Justin S. Lamb",
+    "Elise S. Gornish"
+   ],
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
@@ -1460,6 +1942,69 @@
     "Zichun Gao"
    ],
    "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7226055350",
+  "title": "Sociocultural barriers and enablers to paludiculture adoption",
+  "headline": "Farmers' views shape wet peatland farming adoption",
+  "bullets": [
+   "Interviewed German farmers on values and meanings attached to peat landscapes.",
+   "Found cultural views and place attachment act as barriers, while youth are open if secured.",
+   "Transition success requires accounting for farmers' sociocultural values and realities."
+  ],
+  "plain": {
+   "question": "Why do farmers hesitate to adopt wet farming on drained peatlands?",
+   "method": "Interviewed farmers in a German region about their views and values.",
+   "finding": "Old cultural habits block change, but young farmers might accept it if secure.",
+   "why": "Helps design better policies for land use and emission reduction."
+  },
+  "full": {
+   "explainer": "In Germany, most drained peatlands are used for farming, turning them into large sources of carbon emissions. Paludiculture, which means using wet and rewetted peatlands productively, can lower these emissions while giving farmers an income. However, adoption by farmers is very low. This study explores how farmers view peat landscapes and what stops or helps them adopt rewetting. Using the Nature's Contributions to People framework, researchers interviewed farmers in the Gnarrenburger Moor, Germany. The results show that cultural views favoring dry, managed grassland, alongside deep emotional ties to the current landscape, act as barriers. Older farmers are skeptical because of past drainage hardships, but younger farmers are more open if their money and livelihoods are protected, policies are clear, and they are listened to. Continuous land management is seen as caring for the landscape, which paludiculture could use as an entry point. Scaling this up needs good economic value chains and clear policies. Overall, changes will only work if they respect farmers' values and everyday lives.",
+   "caveats": [
+    "Geographic scope is limited to Germany, specifically the Gnarrenburger Moor.",
+    "Focuses primarily on farmers' perceptions and sociocultural values."
+   ],
+   "jargon": [
+    {
+     "term": "Paludiculture",
+     "definition": "The productive use of wet and rewetted peatlands."
+    },
+    {
+     "term": "Peatlands",
+     "definition": "Wetlands with a thick accumulation of organic soil matter acting as carbon stores."
+    },
+    {
+     "term": "Nature's Contributions to People (NCP)",
+     "definition": "A framework encompassing all the positive and negative contributions of nature to human quality of life."
+    }
+   ],
+   "fit": "Connects via land-use change, ecosystem services, and human values in environmental planning."
+  },
+  "thesis": {
+   "why": "It addresses how human values and sociocultural meanings shape land-use change and transitions, mirroring challenges in urban environmental planning.",
+   "action": "Check how qualitative social data can complement spatial modelling of ecosystem services.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How do qualitative sociocultural findings translate into spatial or landscape-level planning decisions?",
+   "evidence": "The abstract relies entirely on semi-structured interviews about values and meanings, without linking them to spatial mapping or land-cover outcomes.",
+   "limit": "The abstract does not establish a causal link between farmer perceptions and actual land-cover change outcomes.",
+   "check": "Verify if the full paper bridges qualitative interviews with spatial analysis or land-change validation."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1126/science.aap8826",
+  "source": {
+   "url": "https://stud.epsilon.slu.se/22886/",
+   "doi": null,
+   "venue": "Epsilon Archive for Student Projects (University of Southampton)",
+   "date": "2026-11-09",
+   "authors": [
+    "Carla Lea Muche"
+   ],
+   "n_authors": 1,
    "open_access": true,
    "basis": "abstract"
   }
@@ -3459,538 +4004,6 @@
     "Yan Peng"
    ],
    "n_authors": 8,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W4412765326",
-  "title": "Role of aridity in shaping adaptive genomic divergence and population connectivity in a southern African rodent",
-  "headline": "Aridity drives genomic divergence in a southern African rodent",
-  "bullets": [
-   "Used genomic data from 230 four-striped mice across an aridity gradient",
-   "Found genetic divergence linked to aridity, water conservation, and neurology",
-   "Shows how dry conditions shape population connectivity and climate resilience"
-  ],
-  "plain": {
-   "question": "How does dryness shape the evolution and genes of desert-adapted animals?",
-   "method": "Examined genes of 230 mice across a dry region and compared them with past and present dryness.",
-   "finding": "Mouse genes show distinct changes related to water preservation and brain functions linked to dry areas.",
-   "why": "It helps us understand how wildlife survives and adapts to climate change and increasing dryness."
-  },
-  "full": {
-   "explainer": "Understanding how animals evolve in dry areas is important for predicting how they will cope with climate change. This study looked at how dryness influences the genetics of the four-striped mouse in southern Africa. Researchers used genomic data from 230 mice gathered across a changing dryness gradient. They combined this information with past climate reconstructions and current dryness measures to see how genetic variation connects to environmental conditions over time. The results showed that past population sizes dropped during a historical dry period. Today, the genetic structure of the mouse populations reflects both geographic distance and the dryness gradient. By analyzing gene-environment links, the study identified specific genetic variants associated with dryness. These genes help with water and energy conservation, as well as neurological processes. This highlights that brain functions play a surprising role in dealing with scarce water and resources. Ultimately, the work shows that aridity shapes population connectivity and genetic adaptation, giving us clues about climate resilience in vulnerable species.",
-   "caveats": [
-    "Only tests a single rodent species in southern Africa",
-    "Past population size inferred from genetic data and models",
-    "Exact causal mechanisms of neurological genes are not directly tested"
-   ],
-   "jargon": [
-    {
-     "term": "Intraspecific divergence",
-     "definition": "The genetic differences that develop within a single species over time."
-    },
-    {
-     "term": "Isolation by distance",
-     "definition": "A pattern where populations that are further apart geographically are also more genetically different."
-    },
-    {
-     "term": "Genotype-environment association",
-     "definition": "Statistical methods used to find links between genetic traits and specific environmental factors."
-    },
-    {
-     "term": "Single nucleotide polymorphisms",
-     "definition": "Common variations in the DNA sequence among individuals in a species."
-    }
-   ],
-   "fit": "Not directly focused on urban ecosystem services, but touches on climate resilience, environmental gradients, and habitat connectivity."
-  },
-  "thesis": {
-   "why": "The student's focus is on urban ecosystem services and land-cover change in the Global South, not wildlife genomics in southern Africa.",
-   "action": "Check if spatial connectivity methods used here apply to habitat quality mapping.",
-   "relationship": "unclear"
-  },
-  "critical": {
-   "question": "Can genomic adaptation patterns across natural aridity gradients inform urban ecological planning?",
-   "evidence": "The abstract demonstrates how aridity shapes population connectivity and genetic divergence through environmental gradients.",
-   "limit": "The study evaluates a non-urban rodent species in southern Africa, lacking any urban land-cover or ecosystem service metrics.",
-   "check": "Verify whether landscape genetics methods discussed can transfer to fragmented urban habitat quality assessments."
-  },
-  "relevance": 1,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1098/rspb.2026.1628",
-   "doi": "https://doi.org/10.1098/rspb.2026.1628",
-   "venue": "Proceedings of the Royal Society B Biological Sciences",
-   "date": "2026-11-04",
-   "authors": [
-    "Hamilcar Keilani",
-    "Anna-Sophie Fiston-Lavier",
-    "Pierre Caminade",
-    "Anne Loiseau",
-    "Maxime Galan",
-    "Hugues Parrinello"
-   ],
-   "n_authors": 12,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225233178",
-  "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
-  "headline": "Forest structure alters water and ecosystem services",
-  "bullets": [
-   "Synthesized how forest structure shapes water and multiple services.",
-   "Found service changes depend on environmental context and scale.",
-   "Informs adaptive management and trade-off analysis in planning."
-  ],
-  "plain": {
-   "question": "How do forest structures and management change water and other benefits?",
-   "method": "Reviewed global studies, experiments, models, and a long-term forest case study.",
-   "finding": "Forest changes alter water and other services together, but results vary by scale and setting.",
-   "why": "Helps planners manage trade-offs between different environmental benefits."
-  },
-  "full": {
-   "explainer": "Forests give us many benefits at once, like clean water, soil protection, carbon storage, and wildlife habitats. These benefits come from natural processes happening across plant canopies, litter, soil, and entire watersheds. When climate, land use, or forest management changes, it alters these processes, which changes the benefits we get. However, whether a change is good or bad depends on the local environment and scale. This paper looks at how managing forests changes water movement—like rain falling through leaves, soaking into soil, and flowing underground—and how that affects other ecosystem services. The authors review field experiments, watershed data, computer models, and machine learning. They also look at a long-term pine forest experiment in China to see how different treatments relate to soil and water processes. Finally, they point out big knowledge gaps, such as hidden underground water movements, tipping points, and model uncertainties, and suggest a framework combining long-term studies, remote sensing, and models to improve future management.",
-   "caveats": [
-    "Hydrological measurements for the case study represent 2023 observations, not a 27-year time series.",
-    "The case study is not presented as a formal causal mediation test.",
-    "Not stated: specific economic valuations of the timber or water outputs."
-   ],
-   "jargon": [
-    {
-     "term": "Ecosystem multifunctionality",
-     "definition": "The capacity of an ecosystem to provide multiple services or benefits at the same time."
-    },
-    {
-     "term": "Hydrological partitioning",
-     "definition": "How precipitation is divided into different water pathways like runoff, evaporation, and storage."
-    },
-    {
-     "term": "Causal inference",
-     "definition": "Statistical methods used to determine whether a specific action actually caused an observed outcome."
-    },
-    {
-     "term": "Hydraulic redistribution",
-     "definition": "The movement of water through plant roots from moist soil layers to drier soil layers."
-    }
-   ],
-   "fit": "Connects via ecosystem service trade-offs, spatial modelling, watershed-scale hydrology, and methods like remote sensing and scenarios."
-  },
-  "thesis": {
-   "why": "It addresses ecosystem service bundles, trade-offs, and hydrological processes that parallel urban water yield and stormwater retention goals.",
-   "action": "Check how their process-based frameworks and uncertainty methods can apply to urban green-blue infrastructure.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Does structural modification directly cause predictable changes in multi-service delivery across all settings?",
-   "evidence": "The abstract notes that the direction of change depends on process pathways, environmental context, and scale, and that the case study is not a formal causal test.",
-   "limit": "You cannot establish universal, direct causal links between forest structure and multi-service outcomes from this synthesis alone.",
-   "check": "Verify how the authors separate true causal effects from site-specific spatial associations in their global evidence synthesis."
-  },
-  "relevance": 4,
-  "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-  "source": {
-   "url": "https://doi.org/10.3389/ffgc.2026.1973044",
-   "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
-   "venue": "Frontiers in Forests and Global Change",
-   "date": "2026-11-04",
-   "authors": [
-    "Boyuan Zhang",
-    "冯方林",
-    "Qian Liu",
-    "Zhenzhao Zhou",
-    "Tieshi Dong",
-    "Lihui Yin"
-   ],
-   "n_authors": 7,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225224209",
-  "title": "Understanding the social-ecological factors that shape human-nature relationships in Brazil",
-  "headline": "Social-ecological factors shape human-nature links in Brazil",
-  "bullets": [
-   "Studied social-ecological factors shaping human-nature relationships in Brazil.",
-   "Findings are not stated because the abstract text is completely missing.",
-   "Helps understand human-nature links in Global South urban settings."
-  ],
-  "plain": {
-   "question": "What social and ecological things shape how people in Brazil connect with nature?",
-   "method": "Not stated in the abstract.",
-   "finding": "Not stated in the abstract.",
-   "why": "It helps us see how humans and nature interact in the Global South."
-  },
-  "full": {
-   "explainer": "This paper looks at the social and ecological factors that shape human-nature relationships in Brazil. Because the provided abstract contains only the title and no actual summary of the study's content, methods, or results, specific details are not available. However, in the broader context of urban environmental planning and ecosystem services in the Global South, understanding how people relate to nature is crucial. It connects to how communities experience urban nature, green spaces, and environmental benefits. Even though the exact findings and methods cannot be read here, studies of this type generally explore the links between human societies and their natural surroundings, offering insights that can inform better urban planning, environmental justice, and management of ecosystem services. Researchers studying different regions of the Global South can use these insights to compare how urban development and social factors influence human-nature interactions across various cultural and geographical settings.",
-   "caveats": [
-    "The abstract does not provide any specific findings or results.",
-    "The abstract does not state the methods used in the study."
-   ],
-   "jargon": [],
-   "fit": "It provides a Global South perspective on human-nature relationships, connecting to urban ecosystem services and planning."
-  },
-  "thesis": {
-   "why": "It offers insight into human-nature relationships in a Global South country, aiding the broader study of urban ecosystem services and social-ecological systems.",
-   "action": "Check the full paper to see if specific methods or empirical findings apply to your framework.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can we rely on this study when the abstract provides no details on methods or findings?",
-   "evidence": "The provided abstract text ends immediately after the journal name and date, containing no summary of the actual research.",
-   "limit": "One cannot establish what data, models, or specific conclusions were produced by the authors.",
-   "check": "Read the full text to extract the specific social-ecological factors and methods used."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1126/science.aap8826",
-  "source": {
-   "url": "https://doi.org/10.1016/j.cities.2026.107779",
-   "doi": "https://doi.org/10.1016/j.cities.2026.107779",
-   "venue": "Cities",
-   "date": "2026-11-04",
-   "authors": [
-    "Nuria Pistón",
-    "Dario S.E. Silva Filho",
-    "André T. C. Dias"
-   ],
-   "n_authors": 3,
-   "open_access": false,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225273114",
-  "title": "Birds among us: Perceptions of bird‐mediated services and disservices in a northern city",
-  "headline": "People view small songbirds as helpful and large gulls as bad",
-  "bullets": [
-   "Surveyed people in Lahti, Finland about bird-mediated benefits and harms",
-   "Found people saw birds as more helpful than harmful, with small songbirds viewed best",
-   "Helps cities improve human-nature interactions and shape urban conservation efforts"
-  ],
-  "plain": {
-   "question": "How do city residents view the benefits and harms that birds bring?",
-   "method": "The researchers handed out a survey in a growing city in Finland.",
-   "finding": "People think birds are mostly helpful, especially small songbirds, while large birds like gulls are disliked.",
-   "why": "This helps cities know which animals people like so they can plan better urban nature spaces."
-  },
-  "full": {
-   "explainer": "Most daily human-nature interactions happen in cities, where birds can either help people or cause harm. To understand how city residents feel about urban birds, researchers handed out a survey in a growing mid-sized city called Lahti in Finland. They wanted to see which bird-related benefits and harms people noticed most, and whether human traits like age or gender changed their attitudes. The study found that people generally felt birds provided more benefits than harms. Women and older respondents agreed most strongly that birds are beneficial. However, people did not view all bird types the same way. Small-bodied songbirds were seen as very beneficial, while large-bodied species that adapt well to humans, like gulls and geese, were viewed most negatively. These insights suggest that cities could help favorite species thrive while managing harms like waste and disease. This helps improve human-nature interactions and shows that cities should also target younger generations to build better connections to nature.",
-   "caveats": [
-    "Study relies on survey responses from a single mid-sized city in Finland",
-    "Not stated whether findings apply directly to the Global South or Kabul",
-    "Not stated how perceptions translate to actual ecological outcomes"
-   ],
-   "jargon": [
-    {
-     "term": "Ecosystem services",
-     "definition": "The benefits that people freely gain from a healthy natural environment."
-    },
-    {
-     "term": "Ecosystem disservices",
-     "definition": "The negative effects or harms that nature can cause to human well-being."
-    }
-   ],
-   "fit": "Connects to studying urban nature benefits, human-nature connections, and planning urban environments across different global contexts."
-  },
-  "thesis": {
-   "why": "It addresses human perceptions of urban nature, touching on the demand side of ecosystem services and the social values that inform environmental planning.",
-   "action": "Check how the study evaluates plural values and whether the survey methods are transferable to data-scarce regions.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can subjective survey data about bird perceptions inform objective ecosystem service planning in data-scarce settings like Kabul?",
-   "evidence": "The abstract notes that people perceive birds as beneficial or harmful based on species traits and demographics, but it does not measure physical service flows or supply.",
-   "limit": "The abstract cannot establish a direct causal link between these perceptual attitudes and actual ecological function or biodiversity supply.",
-   "check": "Verify how the survey was sampled and whether cultural differences in other global regions might completely alter these perceptions."
-  },
-  "relevance": 3,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1002/pan3.70473",
-   "doi": "https://doi.org/10.1002/pan3.70473",
-   "venue": "People and Nature",
-   "date": "2026-11-04",
-   "authors": [
-    "Liba Pejchar",
-    "Michelle García‐Arroyo",
-    "Miguel A. Gómez‐Martínez",
-    "Gretchen C. Daily"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225250328",
-  "title": "What shapes public support for mangrove restoration? The role of perceptions of ecosystem services and disservices",
-  "headline": "Public support for mangrove restoration and perceptions",
-  "bullets": [
-   "Surveyed 869 residents across Australia to study views on mangroves.",
-   "Found 87.6% supported restoration, linked to positive and negative views.",
-   "Shows how public perceptions and social factors shape restoration support."
-  ],
-  "plain": {
-   "question": "What makes people support or oppose restoring mangrove trees?",
-   "method": "We surveyed 869 residents in Australia and used statistical models to test their views.",
-   "finding": "Most people supported restoration, strongly tied to biodiversity views and land concerns.",
-   "why": "Understanding public views helps design better environmental projects."
-  },
-  "full": {
-   "explainer": "Mangrove trees provide many helpful benefits, but people sometimes dislike them due to real or perceived negative effects, known as disservices. Although global interest in restoring mangroves is growing, success varies because of social barriers like low public involvement. This study explores how the public's views on these benefits and negative effects influence their support for restoration, and whether these views differ across social groups. The researchers surveyed 869 residents across 21 local government areas in Australia's Great Barrier Reef catchments using a 5-point scale. They used a statistical method called binomial logistic regression to see how these perceptions and background factors affected support for restoration. Overall, 87.6 percent of residents supported mangrove restoration. Views on biodiversity had the strongest positive link to support, while concerns about losing land productivity reduced support. Factors like gender, age, and population density also played a role. These findings show that projects must consider both positive and negative views to build public support.",
-   "caveats": [
-    "The exact extent to which multiple disservices shape support across different social groups remains unclear.",
-    "Not stated whether findings apply outside of Australia's Great Barrier Reef catchments."
-   ],
-   "jargon": [
-    {
-     "term": "Ecosystem services",
-     "definition": "The benefits that people freely get from the natural environment and healthy ecosystems."
-    },
-    {
-     "term": "Binomial logistic regression",
-     "definition": "A statistical method used to predict the likelihood of an event with two possible outcomes."
-    },
-    {
-     "term": "Odds Ratio",
-     "definition": "A statistic that shows how much higher or lower the odds of an outcome are for one group versus another."
-    }
-   ],
-   "fit": "Connects to public perceptions of ecosystem services, stakeholder engagement, and planning barriers in environmental management."
-  },
-  "thesis": {
-   "why": "It shows how public perceptions of benefits and disservices affect environmental planning support, which relates to understanding human benefits and social values.",
-   "action": "Check how they measured public perceptions of disservices to see if it applies to urban nature access surveys.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How do we know if stated public support translates into actual participation in restoration?",
-   "evidence": "The study measures reported support via a survey rather than observed behavior or actual community participation in restoration work.",
-   "limit": "The abstract does not show whether high survey support leads to successful long-term project outcomes on the ground.",
-   "check": "Verify how survey questions were worded to ensure they capture realistic public trade-offs."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1016/j.ecoser.2026.101932",
-   "doi": "https://doi.org/10.1016/j.ecoser.2026.101932",
-   "venue": "Ecosystem Services",
-   "date": "2026-11-04",
-   "authors": [
-    "Alexandra Rodríguez-Rodríguez",
-    "Vanessa M. Adams",
-    "A. Rifaee Rasheed",
-    "Martino E. Malerba",
-    "Melissa Wartman",
-    "Peter Ian Macreadie"
-   ],
-   "n_authors": 8,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225230618",
-  "title": "Sustainable Green Marketing as a Business Model",
-  "headline": "Green marketing boosts business, but faces challenges.",
-  "bullets": [
-   "Used a literature review to study green marketing in Africa.",
-   "Found companies struggle with knowledge gaps and money limits.",
-   "Shows sustainable practices drive competitive advantage."
-  ],
-  "plain": {
-   "question": "What are green marketing practices, benefits, and challenges in Africa?",
-   "method": "The authors used an integrative literature review.",
-   "finding": "Businesses lack green skills, but eco-friendly packaging brings a competitive edge.",
-   "why": "It helps companies make money while teaching consumers about sustainability."
-  },
-  "full": {
-   "explainer": "This paper investigates sustainable green marketing as a business model in the African context. Green marketing means promoting eco-friendly products and using sustainable principles across marketing. The study explores what these practices look like, their benefits, and the challenges of implementing them. Using an integrative literature review methodology and theories like stakeholder theory and institutional theory, the authors examined how businesses operate. The findings show that some African businesses lack knowledge, skills, and proficiency in environmental sustainability and conservation, and people often use harmful products without knowing their environmental impact. However, using waste-free packaging and green advertising gives manufacturing companies a competitive advantage. Implementation challenges include a lack of standardized criteria to evaluate environmental impact, limited financial resources and measurement tools, and difficulties tracking consumer behavior.",
-   "caveats": [
-    "Limited financial resources and measurement tools hinder green marketing.",
-    "There are no standardized criteria for evaluating environmental impact.",
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "Green marketing",
-     "definition": "Promoting eco-friendly products and incorporating sustainable principles into marketing."
-    },
-    {
-     "term": "Integrative literature review",
-     "definition": "A methodology used to gather and understand existing research on a topic."
-    },
-    {
-     "term": "Stakeholder theory",
-     "definition": "A theory guiding how businesses interact with various groups affected by their actions."
-    },
-    {
-     "term": "Institutional theory",
-     "definition": "A theory examining the pressures and rules that influence organizational behavior."
-    }
-   ],
-   "fit": "Connects via Global South context and business sustainability, though it focuses on marketing rather than urban ecosystem services."
-  },
-  "thesis": {
-   "why": "It touches on the Global South context and sustainability challenges, but it focuses on business marketing rather than urban ecosystem services.",
-   "action": "Check if consumer behavior tracking methods overlap with your work on human benefits.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How does a study on African corporate green marketing inform urban environmental planning in Kabul?",
-   "evidence": "The abstract examines sustainable business models and marketing challenges in the African context using stakeholder and institutional theories.",
-   "limit": "It cannot establish direct links between corporate green marketing and urban ecosystem service supply or land-cover change.",
-   "check": "Verify if the literature review includes any spatial analysis or urban-specific environmental planning frameworks."
-  },
-  "relevance": 1,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.36096/ijbes.v8i6.1668",
-   "doi": "https://doi.org/10.36096/ijbes.v8i6.1668",
-   "venue": "International Journal of Business Ecosystem and Strategy (2687-2293)",
-   "date": "2026-11-04",
-   "authors": [
-    "Kebiat Mukuze",
-    "Raymond Mapuranga",
-    "Owen Zivanai Mukwawaya",
-    "Emmanuel Mutambara"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225228324",
-  "title": "Mapping major types of hunting across the South American Dry Chaco and Chiquitano forests",
-  "headline": "Mapping hunting types in South American forests over time",
-  "bullets": [
-   "Used a literature review and expert opinions to map four major hunting types.",
-   "Found that commercial, retaliatory, and recreational hunting footprints grew over time.",
-   "Helps improve conservation and sustainability planning across large regions."
-  ],
-  "plain": {
-   "question": "Where are different types of hunting happening in large South American forests?",
-   "method": "The researchers used past studies and expert knowledge to map hunting types from 1985 to 2023.",
-   "finding": "Retaliatory, recreational, and commercial hunting footprints grew significantly over the years.",
-   "why": "This helps planners understand human-nature relationships to protect wildlife and ecosystems."
-  },
-  "full": {
-   "explainer": "Hunting is an important relationship between people and nature, but it also causes wildlife declines. Because hunting involves many different actors and techniques, its impacts vary. However, the exact locations of different hunting types remain unclear, which hurts conservation efforts. To solve this, researchers developed a way to identify and map key types of hunting across the large Dry Chaco and Chiquitano tropical dry forests. Using a structured literature review and expert knowledge, they linked hunting types to land systems to track their spatial footprints from 1985 to 2023. They found four major hunting types: traditional, retaliatory, commercial, and recreational. All types were widespread with many overlapping areas. The footprints of retaliatory, recreational, and commercial hunting grew considerably over time, while traditional hunting increased less and recently declined. This approach shows how different hunting types are distributed and change as landscapes shift, aiding future sustainability planning.",
-   "caveats": [
-    "The study area is specific to the South American Dry Chaco and Chiquitano forests.",
-    "Not stated whether these methods apply directly to urban areas or Kabul."
-   ],
-   "jargon": [
-    {
-     "term": "expert elicitation",
-     "definition": "A formal method of gathering knowledge and judgments from experts on a specific topic."
-    },
-    {
-     "term": "land systems",
-     "definition": "Categories describing the combined characteristics of human and natural land use."
-    },
-    {
-     "term": "spatial footprint",
-     "definition": "The geographic area or physical space occupied by a specific activity or phenomenon."
-    }
-   ],
-   "fit": "Connects to environmental planning and land-cover change, though focused on rural hunting in South America rather than urban Kabul."
-  },
-  "thesis": {
-   "why": "It shows how land-cover and land systems can be linked to human activities over time, offering a broad parallel to tracking environmental changes in regional planning.",
-   "action": "Check how the authors linked land system typologies to specific human activities.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Can mapping land systems accurately reflect the true extent of hidden human activities like hunting?",
-   "evidence": "The paper links a typology of land systems to map the spatial footprints of different hunting types using expert elicitation and a literature review.",
-   "limit": "The abstract does not provide field validation data to prove the actual presence or intensity of hunting within those mapped land systems.",
-   "check": "Verify how the authors validated the accuracy of their mapped hunting footprints against ground data."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1126/science.aap8826",
-  "source": {
-   "url": "https://doi.org/10.1002/pan3.70474",
-   "doi": "https://doi.org/10.1002/pan3.70474",
-   "venue": "People and Nature",
-   "date": "2026-11-04",
-   "authors": [
-    "Julia Martínez Pardo",
-    "Jamie Burton",
-    "Marie Pratzer",
-    "Matthias Baumann",
-    "Alfredo Romero‐Muñoz",
-    "Verónica Andrea Quiroga"
-   ],
-   "n_authors": 24,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225241518",
-  "title": "Biodiversity and Food Security in Sub‐Saharan Africa: Evidence From a Dynamic Spatial Durbin Model",
-  "headline": "Biodiversity aids specific food security measures",
-  "bullets": [
-   "Analyzed 40 Sub-Saharan African countries from 2001 to 2002 using a dynamic spatial model.",
-   "Found biodiversity improves specific nutrition outcomes but has no effect on composite indices.",
-   "Highlights the need to link biodiversity protection with agricultural policies."
-  ],
-  "plain": {
-   "question": "Does nature health help people have enough food in Sub-Saharan Africa?",
-   "method": "The researchers studied data from 40 countries over many years using advanced spatial statistics.",
-   "finding": "General food scores did not change, but specific nutrition and cereal supplies improved.",
-   "why": "It shows we must look at specific nutrition outcomes rather than broad scores."
-  },
-  "full": {
-   "explainer": "This study looks at how biodiversity, measured by the Red List Index, affects food security across 40 countries in Sub-Saharan Africa between 2001 and 2022. The authors used a complex statistical tool called a Dynamic Spatial Durbin Model to account for how things change over time and spread across borders. Interestingly, they found that biodiversity does not have a statistically significant effect on a broad, combined food security index. However, when looking at specific parts of the data, biodiversity actually improves dietary energy adequacy and the share of energy from basic crops like cereals, roots, and tubers. It also reduces food deprivation when measured by undernourishment prevalence. Other factors like food production and political stability helped food security, while unemployment and fast population growth hurt it. The paper suggests combining nature conservation with farming rules.",
-   "caveats": [
-    "The study focuses on Sub-Saharan Africa, so results may not apply to other regions.",
-    "It uses proxy measures like the Red List Index for biodiversity."
-   ],
-   "jargon": [
-    {
-     "term": "Dynamic Spatial Durbin Model",
-     "definition": "A statistical method that looks at how things change over time and across neighboring geographic areas."
-    },
-    {
-     "term": "Red List Index",
-     "definition": "A measure of the changing risk of extinction for groups of species over time."
-    },
-    {
-     "term": "Principal Component Analysis",
-     "definition": "A math method used to turn many variables into a smaller set of composite values."
-    }
-   ],
-   "fit": "Connects to Global South environmental planning, showing how ecological health links to human well-being and basic needs."
-  },
-  "thesis": {
-   "why": "It provides regional evidence from the Global South on how ecosystem metrics relate to human resource outcomes, relevant for ecosystem service valuation.",
-   "action": "Check how the spatial dependence was modeled to see if lessons apply to urban settlement analyses.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Why did broad composite indexes fail to show an effect while specific nutritional outcomes did?",
-   "evidence": "The abstract notes biodiversity has no effect on the aggregate index, but significantly improves dietary energy supply adequacy.",
-   "limit": "The abstract does not explain the exact causal mechanisms behind how biodiversity specifically boosts cereal and root supplies.",
-   "check": "Verify how spatial spillovers were defined and calculated across national borders in the full text."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1126/science.aap8826",
-  "source": {
-   "url": "https://doi.org/10.1002/pei3.70232",
-   "doi": "https://doi.org/10.1002/pei3.70232",
-   "venue": "Plant-Environment Interactions",
-   "date": "2026-11-04",
-   "authors": [
-    "Etonam Julien Adangbedou",
-    "Boris O. K. Lokonon"
-   ],
-   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }

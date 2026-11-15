@@ -1,21 +1,21 @@
 {
- "week": "2026-W45",
- "date": "2026-11-08",
+ "week": "2026-W46",
+ "date": "2026-11-15",
  "partial": false,
  "themes": [
-  "Global South urban planning and ecosystem services discussions advanced.",
-  "Green spaces and urban forestry policy initiatives gained traction.",
-  "Land-cover change and urban growth impacts were examined.",
-  "Climate adaptation finance and policy frameworks were highlighted."
+  "Discussions on protecting cities and vulnerable communities from climate change featured at COP31.",
+  "Studies examined urban ecosystem services, deficits, and surplus mask effects.",
+  "Research evaluated Kabul water options through an evidence audit.",
+  "Urban expansion, heat risks, and cooling strategies were highlighted in regional studies."
  ],
- "learned": "Studied global south development paradigms and socioecological systems thinking.",
+ "learned": "Explored land systems, remote sensing for land cover, and polycentric governance systems.",
  "next": [
-  "Review Six paradigm shifts needed for Global South planning",
-  "Read Review of urban agriculture and nexus policies in the South",
-  "Examine Six paradigm shifts for Global South cities sustainability"
+  "Reassessing Kabul water options via evidence audit",
+  "Regional surplus masks urban ecosystem service deficits",
+  "New framework for urban heat health risks"
  ],
  "counts": {
-  "papers": 61,
+  "papers": 57,
   "radar": 35,
   "lessons": 14
  }

@@ -810,5 +810,53 @@
    }
   ],
   "search": "challenge based environmental planning"
+ },
+ {
+  "id": "e07f2aa73f",
+  "date": "2026-11-15",
+  "term": "Indigenous knowledge and valuation",
+  "area": "Nature contributions to people",
+  "kind": "concept",
+  "definition": "Indigenous knowledge and valuation captures local, non-Western ways of understanding and measuring nature's benefits to people.",
+  "plain": "It means respecting how local communities understand and value nature. Instead of only using Western science or money to measure the benefits of trees and water, researchers listen to indigenous views and traditional practices to see what nature truly means to residents.",
+  "example": "In a Global South city, traditional communities might view a local hillside green space as a sacred heritage site providing vital cooling and spiritual well-being.",
+  "connects": "It links plural values and environmental justice to ecosystem service supply and demand.",
+  "why_phd": "It helps you avoid biased planning by ensuring marginalized voices and non-monetary values are included in environmental assessments.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does indigenous valuation add to standard ecosystem service assessments?",
+    "a": "It brings local, non-monetary, and traditional perspectives on the value of nature."
+   },
+   {
+    "q": "Why is this concept important for Global South cities like Kabul?",
+    "a": "It ensures that local community needs and traditional knowledge guide environmental planning."
+   }
+  ],
+  "search": "indigenous knowledge urban ecosystem services"
+ },
+ {
+  "id": "33dc7d8a30",
+  "date": "2026-11-15",
+  "term": "deep learning–based land use/land cover maps",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Deep learning-based land use and land cover maps use advanced neural networks to classify satellite images into environmental categories.",
+  "plain": "Traditional mapping manually classifies satellite images, but deep learning uses multi-layered computer algorithms to automatically learn complex spatial patterns. This creates detailed maps of urban vegetation, water, and built-up areas much faster and more accurately.",
+  "example": "Training a neural network on high-resolution satellite imagery to automatically map sprawling informal settlements and green spaces in Kabul.",
+  "connects": "Provides the high-resolution spatial data needed to model ecosystem services like urban cooling and stormwater retention.",
+  "why_phd": "Crucial for accurately tracking rapid land-cover change and settlement morphology in data-scarce cities like Kabul for planning.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do deep learning maps use to classify satellite images?",
+    "a": "Advanced multi-layered neural networks that automatically learn complex spatial patterns."
+   },
+   {
+    "q": "Why is this method useful for cities like Kabul?",
+    "a": "It maps rapid land-cover changes and settlement types quickly and accurately in data-scarce settings."
+   }
+  ],
+  "search": "deep learning land cover mapping"
  }
 ]
