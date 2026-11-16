@@ -1,69 +1,69 @@
 {
- "week": "2026-W46",
- "index": 2,
+ "week": "2026-W47",
+ "index": 3,
  "current": {
-  "title": "Can ecosystem service models developed in the Global North be reliably transferred to mountainous semi-arid cities?",
-  "question": "Can ecosystem service models from the Global North be reliably transferred to Kabul?",
+  "title": "Do green-blue infrastructure interventions in conflict-affected regions exacerbate environmental injustices?",
+  "question": "Do green-blue infrastructure interventions exacerbate environmental injustices?",
   "side_a": {
    "claim": "Not stated in the provided papers",
-   "argument": "The provided papers do not cover the transferability of ecosystem service models from the Global North to mountainous semi-arid cities.",
+   "argument": "The provided papers do not cover green-blue infrastructure interventions or environmental injustices in conflict-affected regions or Kabul.",
    "cites": []
   },
   "side_b": {
    "claim": "Not stated in the provided papers",
-   "argument": "The provided papers do not contain evidence regarding arguments against transferring ecosystem service models to cities like Kabul.",
+   "argument": "The provided literature does not contain evidence addressing whether green-blue infrastructure interventions exacerbate environmental injustices.",
    "cites": []
   },
-  "middle": "The provided literature does not cover this debate, as the texts focus on deep learning, climate pathways, biomass, ecology scales, black carbon, mortality, and AI.",
-  "committee": "How can you debate model transferability when the provided literature contains no evidence on ecosystem services in Kabul?",
+  "middle": "The provided papers do not cover this topic, so the texts offer no common ground regarding green-blue infrastructure or environmental injustices.",
+  "committee": "How can you research Kabul without relevant papers?",
   "sources": [
    {
     "n": 0,
-    "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
-    "year": "2021",
-    "url": "https://doi.org/10.1186/s40537-021-00444-8"
+    "title": "Habitat fragmentation and its lasting impact on Earth’s ecosystems",
+    "year": "2015",
+    "url": "https://doi.org/10.1126/sciadv.1500052"
    },
    {
     "n": 1,
-    "title": "The representative concentration pathways: an overview",
+    "title": "An Integrative Framework for Collaborative Governance",
     "year": "2011",
-    "url": "https://doi.org/10.1007/s10584-011-0148-z"
+    "url": "https://doi.org/10.1093/jopart/mur011"
    },
    {
     "n": 2,
-    "title": "Synthesis of Transportation Fuels from Biomass: Chemistry, Catalysts, and Engineering",
-    "year": "2006",
-    "url": "https://doi.org/10.1021/cr068360d"
+    "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+    "year": "2020",
+    "url": "https://doi.org/10.1038/s41467-019-14108-y"
    },
    {
     "n": 3,
-    "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
-    "year": "1992",
-    "url": "https://doi.org/10.2307/1941447"
+    "title": "Putting the S back in corporate social responsibility: A multilevel theory of social change in organizations",
+    "year": "2007",
+    "url": "https://doi.org/10.5465/amr.2007.25275678"
    },
    {
     "n": 4,
-    "title": "Bounding the role of black carbon in the climate system: A scientific assessment",
-    "year": "2013",
-    "url": "https://doi.org/10.1002/jgrd.50171"
+    "title": "International Statistical Classification of Diseases and Related Health Problems",
+    "year": "2014",
+    "url": "https://doi.org/10.1215/23289252-2399740"
    },
    {
     "n": 5,
-    "title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249…",
-    "year": "2016",
-    "url": "https://doi.org/10.1016/s0140-6736(16)31012-1"
+    "title": "Trajectories of the Earth System in the Anthropocene",
+    "year": "2018",
+    "url": "https://doi.org/10.1073/pnas.1810141115"
    },
    {
     "n": 6,
-    "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges…",
-    "year": "2023",
-    "url": "https://doi.org/10.1016/j.ijinfomgt.2023.102642"
+    "title": "Life’s Essential 8: Updating and Enhancing the American Heart Association’s Construct of Cardiovascular…",
+    "year": "2022",
+    "url": "https://doi.org/10.1161/cir.0000000000001078"
    },
    {
     "n": 7,
-    "title": "The Human Microbiome Project",
-    "year": "2007",
-    "url": "https://doi.org/10.1038/nature06244"
+    "title": "The IPBES Conceptual Framework — connecting nature and people",
+    "year": "2014",
+    "url": "https://doi.org/10.1016/j.cosust.2014.11.002"
    }
   ]
  }

@@ -1,5 +1,269 @@
 [
  {
+  "id": "W4414358641",
+  "title": "Quality of personal time as a candidate common metric for the experiential dimension of cultural ecosystem services",
+  "headline": "A new metric for nature's experiential benefits",
+  "bullets": [
+   "Proposed personal time quality as a cultural ecosystem service metric.",
+   "Showed how time-quality ratings can link plural values and digital tools.",
+   "Could help monitor global biodiversity goals using people's lived time."
+  ],
+  "plain": {
+   "question": "How can we measure the real-life quality of human experiences with nature using a single, comparable scale?",
+   "method": "They propose a new idea: measuring how well-spent or wasted time feels when people interact with nature.",
+   "finding": "Treating time quality as a shared metric can bridge economic and non-monetary values across different places.",
+   "why": "It gives policy makers a simple way to track nature's experiential benefits and help people find better experiences."
+  },
+  "full": {
+   "explainer": "This paper addresses how to measure the experiential dimension of cultural ecosystem services, which are the non-material benefits people get from ecosystems. While current methods capture multiple values, they lack a single comparable signal for how well-spent time feels during nature interactions. The authors propose the subjective quality of personal time—how 'well spent' or 'wasted' moments feel—as a new candidate indicator. They suggest measuring this using participatory mapping, known as PPGIS, and passive crowdsourcing. Conceptually, this reframes lived experience as time co-produced by people, social relations, and the environment. Operationally, a proposed PPGIS 2.0 approach could combine time-quality ratings with landscape settings to give people personalised recommendations. For policy, this metric could make lived experiences visible to support the Kunming-Montreal Global Biodiversity Framework, encouraging managers to focus on the quality of time places facilitate rather than just visitor counts.",
+   "caveats": [
+    "The comparability of the time-quality metric across contexts remains to be tested empirically.",
+    "The feasibility and effects of the proposed PPGIS 2.0 approach remain to be tested.",
+    "The availability of passive crowdsourcing data is declining."
+   ],
+   "jargon": [
+    {
+     "term": "Cultural ecosystem services",
+     "definition": "Non-material benefits people obtain from ecosystems, such as spiritual or recreational experiences."
+    },
+    {
+     "term": "Participatory mapping (PPGIS)",
+     "definition": "A method combining local spatial knowledge with modern mapping to capture public values."
+    },
+    {
+     "term": "Crowdsourcing",
+     "definition": "Obtaining data or services by enlisting a large number of people, typically via the internet."
+    },
+    {
+     "term": "Plural valuation",
+     "definition": "Recognizing multiple, different values of nature rather than using a single monetary measure."
+    }
+   ],
+   "fit": "It connects by exploring cultural ecosystem services, participatory mapping methods, and how people experience nature in places."
+  },
+  "thesis": {
+   "why": "It introduces a novel experiential metric for cultural ecosystem services, relevant for assessing human benefits from urban nature access.",
+   "action": "Check how participatory mapping tools are proposed to capture qualitative human experiences.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can subjective time-quality ratings really be compared reliably across vastly different cultural and physical contexts?",
+   "evidence": "The abstract explicitly states that the comparability of this metric across contexts remains to be tested empirically.",
+   "limit": "We cannot establish whether the proposed PPGIS 2.0 approach works in practice or yields reliable data yet.",
+   "check": "Verify if the full paper provides any preliminary empirical data or relies entirely on a theoretical framework."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1126/science.aap8826",
+  "source": {
+   "url": "https://doi.org/10.1002/pan3.70493",
+   "doi": "https://doi.org/10.1002/pan3.70493",
+   "venue": "People and Nature",
+   "date": "2026-11-14",
+   "authors": [
+    "Oleksandr Karasov",
+    "Henrikki Tenkanen"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7227419269",
+  "title": "Unraveling watershed-scale relationships between ecosystem health and water-related ecosystem services: A clustering–network framework for sustainable ecosystem management in the Yangtze River Basin",
+  "headline": "Linking ecosystem health and water services in river basins",
+  "bullets": [
+   "Used a clustering-network framework in the Yangtze River Basin",
+   "Unraveled watershed-scale ties between ecosystem health and water services",
+   "Aids sustainable management of ecosystems at a large watershed scale"
+  ],
+  "plain": {
+   "question": "How do ecosystem health and water services relate across a large river basin?",
+   "method": "Used a special grouping and network framework to analyze watershed data.",
+   "finding": "Found clear connections between health and water-related benefits.",
+   "why": "This helps people manage nature and water resources more sustainably."
+  },
+  "full": {
+   "explainer": "Researchers looked at how the health of ecosystems connects to water-related benefits across a huge river basin called the Yangtze River Basin. To figure this out, they used a special framework that groups data and maps out networks. This study tries to understand the complex ties between nature's condition and the services it provides regarding water. By doing this at a watershed scale, the findings can help guide better and more sustainable management of natural resources. For a student studying environmental planning and ecosystem services, seeing how large-scale water services and ecosystem health are evaluated together offers a useful perspective on regional environmental management.",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem services",
+     "definition": "The benefits that people freely gain from a healthy natural environment."
+    },
+    {
+     "term": "Watershed-scale",
+     "definition": "An area of land where all flowing water drains to a single common point."
+    },
+    {
+     "term": "Clustering-network framework",
+     "definition": "A structured method to group data points and map out their relationships."
+    }
+   ],
+   "fit": "It shows watershed-scale methods for evaluating water-related ecosystem services, useful for regional environmental planning."
+  },
+  "thesis": {
+   "why": "It applies large-scale ecosystem service frameworks, offering methodological insights for analyzing water yield and natural benefits across large areas.",
+   "action": "Check how they linked health to water services for potential adaptation in urban watersheds.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How do large river basin findings translate to urban or data-scarce settings?",
+   "evidence": "The abstract focuses on the Yangtze River Basin using a clustering-network framework for watershed-scale management.",
+   "limit": "The abstract does not state how these regional methods apply to urban areas or dry, data-scarce settings like Kabul.",
+   "check": "Verify if the framework scales down to urban environments or requires large regional data."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
+  "source": {
+   "url": "https://doi.org/10.1016/j.ecoleng.2026.108223",
+   "doi": "https://doi.org/10.1016/j.ecoleng.2026.108223",
+   "venue": "Ecological Engineering",
+   "date": "2026-11-14",
+   "authors": [
+    "Shu Fu",
+    "Jianjun Zhang",
+    "魏晓婕",
+    "Wei Chen",
+    "Jiongxin Chen",
+    "Yuming Zhou"
+   ],
+   "n_authors": 7,
+   "open_access": false,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7228584430",
+  "title": "Toward a species-based approach to One Health by leveraging large language models",
+  "headline": "Using large language models for a species-based One Health",
+  "bullets": [
+   "Used large language models to support a species-based approach to One Health.",
+   "Not stated in the abstract.",
+   "It helps connect large language models with One Health initiatives."
+  ],
+  "plain": {
+   "question": "How can large language models help with a species-based One Health approach?",
+   "method": "Not stated in the abstract.",
+   "finding": "Not stated in the abstract.",
+   "why": "It shows a new way to use language models for health and species studies."
+  },
+  "full": {
+   "explainer": "This paper explores how large language models can be used to support a species-based approach to One Health. One Health typically looks at the connections between human, animal, and environmental health. While the title suggests that advanced language technology can be leveraged for this field, the provided abstract does not contain any details about the specific methods used, the data analyzed, or the actual findings. Therefore, readers must look to the full text to understand how these large language models are practically applied to species-based health research and what outcomes were achieved.",
+   "caveats": [
+    "The abstract does not state the methods used.",
+    "The abstract does not state any findings.",
+    "The abstract does not state limitations."
+   ],
+   "jargon": [
+    {
+     "term": "One Health",
+     "definition": "An approach balancing and optimizing the health of people, animals, and ecosystems."
+    },
+    {
+     "term": "large language models",
+     "definition": "Advanced computer programs trained on vast amounts of text to understand and generate human language."
+    }
+   ],
+   "fit": "Not stated in the abstract, as the paper focuses on large language models and One Health rather than urban ecosystem services in Kabul."
+  },
+  "thesis": {
+   "why": "It addresses health and species, but lacks direct links to urban ecosystem services, land-cover change, or environmental planning in Kabul.",
+   "action": "Check the full text to see if any spatial or urban environmental data was actually processed.",
+   "relationship": "unclear"
+  },
+  "critical": {
+   "question": "How do large language models specifically contribute to spatial urban ecosystem services or planning?",
+   "evidence": "The abstract mentions leveraging large language models for a species-based approach to One Health, but provides no details.",
+   "limit": "It is impossible to know what specific data, geographic scale, or urban metrics were tested from this abstract.",
+   "check": "Verify whether the full text includes any spatial modelling or environmental planning applications."
+  },
+  "relevance": 1,
+  "watch": "Cites your reference doi:10.1126/science.aap8826",
+  "source": {
+   "url": "https://doi.org/10.1016/j.nxsust.2026.100590",
+   "doi": "https://doi.org/10.1016/j.nxsust.2026.100590",
+   "venue": "Next Sustainability",
+   "date": "2026-11-14",
+   "authors": [
+    "Antoine Adde",
+    "François Keck",
+    "Florian Altermatt"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225982857",
+  "title": "Examining urban expansion and spatial morphological evolution in Shillong city using geospatial techniques",
+  "headline": "Shillong's rapid urban growth and sprawl analyzed",
+  "bullets": [
+   "Used geospatial techniques to study Shillong's urban expansion from 2004 to 2024.",
+   "Found built-up area grew from 11.6 to 47.03 sq km, with edge-expansion as dominant.",
+   "Helps inform the Shillong Master Plan to regulate sprawl and promote sustainable use."
+  ],
+  "plain": {
+   "question": "How did Shillong grow and change from 2004 to 2024?",
+   "method": "Used maps, satellite data, and field observations from two villages.",
+   "finding": "City buildings grew massively, spreading out mainly in the north-east.",
+   "why": "To help city planners control sprawl and make better land choices."
+  },
+  "full": {
+   "explainer": "This paper looks at how a smaller city in India, Shillong, grew and changed physically between 2004 and 2024. While big cities get a lot of attention, smaller and medium-sized cities also face rapid changes due to urban growth. The researchers used maps, satellite data, and field observations from two nearby villages to understand how land use shifted. They found that built-up areas expanded greatly, jumping from a small fraction of the land to over a quarter of the study area. The growth happened mostly in the north-eastern part of the city. By looking at landscape metrics, they discovered the city is becoming more multi-centered, with new growth spreading along edges, influenced by highways, markets, and local planning. The authors hope these insights can help local authorities apply the Shillong Master Plan to manage sprawl and encourage sustainable land use.",
+   "caveats": [
+    "Findings are specific to Shillong and two peri-urban villages.",
+    "Not stated how ecological functions or ecosystem services were measured."
+   ],
+   "jargon": [
+    {
+     "term": "Shannon entropy",
+     "definition": "A mathematical measure used to detect the degree of urban sprawl and dispersion."
+    },
+    {
+     "term": "Landscape Expansion Index",
+     "definition": "A metric used to classify the types of urban growth like edge-expansion or infilling."
+    },
+    {
+     "term": "Polycentric urban form",
+     "definition": "A city structure with multiple centers of activity rather than just one single downtown."
+    }
+   ],
+   "fit": "Provides a Global South case study on urban expansion patterns, land-cover change, and spatial planning in a smaller city context."
+  },
+  "thesis": {
+   "why": "It models land-cover change and spatial morphology in a Global South city, demonstrating methods relevant to tracking physical urban footprints over time.",
+   "action": "Check how they handled land-cover classification accuracy and accuracy assessment.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How does physical expansion translate to actual changes in urban ecosystem services?",
+   "evidence": "The abstract tracks built-up area growth and sprawl types but does not mention ecological functions or service delivery.",
+   "limit": "We cannot establish how urban expansion affected cooling, water yield, or habitat quality from this abstract alone.",
+   "check": "Verify whether the full text assesses environmental impacts alongside physical growth."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1007/s44288-026-00803-z",
+   "doi": "https://doi.org/10.1007/s44288-026-00803-z",
+   "venue": "Discover Geoscience",
+   "date": "2026-11-14",
+   "authors": [
+    "Debojyoti Dhali",
+    "Sanjit Paul",
+    "Sarfaraz Alam",
+    "Jason Jyrwa"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7225910118",
   "title": "Trade-offs/synergies and their optimization simulation of ecosystem services in mountain-urban complex watersheds from cluster perspective: a case study of the Tuojiang River Basin",
   "headline": "Ecosystem service trade-offs and optimization in basins",
@@ -269,6 +533,335 @@
     "Saeed Akhtar Abro"
    ],
    "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225996004",
+  "title": "How fit between nature-based solutions and local contexts can be enhanced: Four water-related cases from Global South",
+  "headline": "Seven ways to match water nature solutions to local needs",
+  "bullets": [
+   "Analyzed four water nature-based solution cases across the Global South using fit",
+   "Identified seven core recommendations to achieve fit between projects and contexts",
+   "Helps improve long-term project success and fair water governance"
+  ],
+  "plain": {
+   "question": "How can nature projects for water fit better with local settings?",
+   "method": "Studied four water project cases in different Global South places.",
+   "finding": "Created seven recommendations to make projects match local contexts well.",
+   "why": "This helps water projects last longer and work better for society."
+  },
+  "full": {
+   "explainer": "Nature-based solutions are tools used worldwide to handle water problems. Experts know that working together with local people helps these projects last longer. However, wider societal and environmental settings also matter. This paper uses the concept of \"fit\" to see how well these environmental and governance interventions match the local places where they happen. The authors look at four water-related cases in the Global South: a river ecosystem in Brazil, rainwater harvesting ponds in the Pakistan-administrated region of Jammu and Kashmir, watershed restoration in Peru, and the rehabilitation of ponds and forests on Carriacou Island in Grenada. By comparing these four cases, the researchers found seven key recommendations to achieve a good fit between projects and local contexts. The paper suggests future studies should build deeper theories about fit, create better evaluation tools, and explore how these projects can support sustainable water governance.",
+   "caveats": [
+    "Not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Nature-based solutions",
+     "definition": "Tools using natural processes to tackle environmental and social issues."
+    },
+    {
+     "term": "Co-creation",
+     "definition": "Creating projects together with local people and stakeholders."
+    },
+    {
+     "term": "Adaptive co-management",
+     "definition": "Joint management of ecosystems that adjusts based on learning and monitoring."
+    }
+   ],
+   "fit": "Connects to Global South environmental planning, governance, and green-blue infrastructure contexts."
+  },
+  "thesis": {
+   "why": "It offers cross-case insights on governance and local context fit for water-related environmental planning in the Global South.",
+   "action": "Check the seven specific recommendations for applicability to watershed or green-blue infrastructure planning.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How were the seven recommendations generalized from only four diverse cases?",
+   "evidence": "The study builds on an inductive cross-case analysis of four water-related cases in the Global South.",
+   "limit": "The abstract does not list the specific seven recommendations or the exact criteria used to select the cases.",
+   "check": "Review the full paper to examine the qualitative coding or comparative logic used to derive the seven points."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11404416/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11404416/v1",
+   "venue": "Research Square",
+   "date": "2026-11-13",
+   "authors": [
+    "Naveed Imran",
+    "Simo Sarkki",
+    "Michael Kull",
+    "Liza M. S. Andrade",
+    "Beatriz Caitana Silva",
+    "Luis J. Castillo Mena"
+   ],
+   "n_authors": 9,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225985240",
+  "title": "Informal green spaces as a strategic opportunity for urban rewilding in densely built environments",
+  "headline": "Informal green spaces key for urban rewilding",
+  "bullets": [
+   "Mapped rewilding opportunities using a GIS-based index and field surveys in Beijing.",
+   "Found a mismatch: dense urban areas have many informal green spaces despite low index scores.",
+   "Shows informal green spaces are activation-ready resources for making cities wilder."
+  ],
+  "plain": {
+   "question": "Can unplanned or neglected green areas help bring nature back into crowded cities?",
+   "method": "The researchers mapped rewilding chances in Beijing and surveyed 35 plots in dense areas.",
+   "finding": "Crowded parts of the city actually contain the most informal green spaces, despite low scores.",
+   "why": "These neglected green spots can be easily used to make dense cities greener and wilder."
+  },
+  "full": {
+   "explainer": "Urban rewilding helps build resilience and biodiversity, but it is rarely studied in crowded, densely built environments where land is scarce and social conflicts are high. This paper explores whether spontaneous, low-maintenance informal green spaces can be used as strategic rewilding opportunities. Using Haidian District in Beijing as a case study, the authors created a GIS-based Urban Rewilding Opportunity Index to map spaces and conducted field surveys across 35 plots. Interestingly, they found a spatial mismatch: while high index values appeared mostly in mountainous areas and large parks, the actual highest abundance of informal green spaces was in the dense urban core. These spaces made up most of the area and patch counts, largely dominated by vacant lots. Vegetation analysis revealed a low shrub cover, while structure-associated spaces showed high vine coverage, and most patches were fully accessible. The findings show that these informal spaces are not just leftover land, but activation-ready resources that can help support urban regeneration and make cities more livable.",
+   "caveats": [
+    "The study focuses on a single case study in Haidian District, Beijing.",
+    "Field surveys were limited to 35 plots in the dense built-up area within the Fifth Ring Road."
+   ],
+   "jargon": [
+    {
+     "term": "urban rewilding",
+     "definition": "A strategy for increasing urban resilience and biodiversity by letting nature recover."
+    },
+    {
+     "term": "Informal Green Spaces (IGS)",
+     "definition": "Spontaneous, low-maintenance, and often unplanned green areas in cities."
+    },
+    {
+     "term": "spatial mismatch",
+     "definition": "A difference or disconnect between where an index predicts something should be and where it is actually found."
+    }
+   ],
+   "fit": "Connects via urban ecosystem services, mapping methods, and spatial distribution patterns in dense urban environments."
+  },
+  "thesis": {
+   "why": "It evaluates spatial planning and ecosystem opportunities in a dense setting, offering transferable GIS methods for analyzing neglected urban green spaces.",
+   "action": "Check how the study validates its GIS-based opportunity index against actual ecological functions.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does a high abundance of informal green spaces truly translate to meaningful ecological benefits?",
+   "evidence": "The abstract highlights high area coverage and accessibility of informal green spaces but also notes a mid-layer vegetation deficiency like low shrub cover.",
+   "limit": "The abstract does not establish whether these informal green spaces actually improve specific ecosystem services like cooling or biodiversity.",
+   "check": "Verify how vegetation quality and biodiversity outcomes were measured beyond simple area coverage and vine or shrub percentages."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11440823/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11440823/v1",
+   "venue": "Research Square",
+   "date": "2026-11-13",
+   "authors": [
+    "Linying Tan",
+    "Mengyixin Li"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7226034229",
+  "title": "Not too small to matter: park area, bird diversity, and nestedness in pocket parks of an arid city",
+  "headline": "Larger pocket parks boost bird diversity in dry cities",
+  "bullets": [
+   "Studied 15 pocket parks in La Serena, Chile, testing park size and noise effects on bird diversity.",
+   "Found that species richness, taxonomic diversity, and functional richness rose with park area.",
+   "Highlights the need to protect larger green spaces and tree abundance for urban bird conservation."
+  ],
+  "plain": {
+   "question": "How do park size and human noise affect bird types in small city parks?",
+   "method": "We looked at bird species and traits across 15 tiny parks in a dry city.",
+   "finding": "Big parks held more diverse bird types, while small parks had common city birds.",
+   "why": "This helps us learn how to design better city parks to protect nature."
+  },
+  "full": {
+   "explainer": "Urban growth causes animals to lose their homes, making city green spaces vital for protecting wildlife. In dry cities, water shortages mean big parks are hard to build, so scientists must look at small spaces called pocket parks. This study looked at 15 pocket parks in La Serena, Chile, to see how park size and human noise affect bird types and traits. The researchers recorded 29 bird species. They found that species richness and diversity increased when parks were larger, while noise only had a small negative effect. Larger parks supported more diverse bird types, whereas smaller parks mostly held common birds that easily adapt to cities. Furthermore, bird types in smaller parks were basically subsets of those found in larger parks. The results show that keeping larger green spaces and planting plenty of trees is very important for protecting bird life in dry cities.",
+   "caveats": [
+    "Studied only 15 pocket parks in a single dry city (La Serena, Chile).",
+    "Noise effects on birds were found to be weak.",
+    "Passive sampling did not explain the area-richness relationship."
+   ],
+   "jargon": [
+    {
+     "term": "nestedness",
+     "definition": "A pattern where smaller areas contain subsets of the species found in larger areas."
+    },
+    {
+     "term": "functional richness",
+     "definition": "The amount of functional trait space filled by species in a community."
+    },
+    {
+     "term": "taxonomic diversity",
+     "definition": "A measure of the different types of biological organisms present in an area."
+    }
+   ],
+   "fit": "Connects to habitat quality and urban nature access in arid cities, showing how park size shapes urban biodiversity patterns."
+  },
+  "thesis": {
+   "why": "It links urban park attributes to habitat quality and biodiversity in a dryland city, offering parallels for evaluating urban nature access.",
+   "action": "Check how they measured functional richness and whether habitat quality metrics overlap with InVEST.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does park size truly drive bird diversity, or do surrounding urban land-cover factors play a larger role?",
+   "evidence": "The abstract notes that species richness increased with park area and tree abundance, while nestedness matched species occurrence frequencies.",
+   "limit": "The abstract does not state the wider landscape context or surrounding land-cover types around the 15 pocket parks.",
+   "check": "Verify if the full paper controls for surrounding matrix land-cover or if park isolation affects bird presence."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.21203/rs.3.rs-11526355/v1",
+   "doi": "https://doi.org/10.21203/rs.3.rs-11526355/v1",
+   "venue": "Research Square",
+   "date": "2026-11-13",
+   "authors": [
+    "María José Peralta-Scholz",
+    "Rodrigo S. Ríos",
+    "Marco Garrido-Salinas",
+    "Andrea P. Loayza"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225996678",
+  "title": "Power-sensitive partnerships for just nature-based solutions in urban informal settlements",
+  "headline": "Power-sensitive partnerships for just nature solutions",
+  "bullets": [
+   "Argued for power-sensitive partnerships in urban informal settlements",
+   "Highlighted the need to redistribute benefits and reduce climate risks",
+   "Stressed a deep commitment to pluralism in values and ways of knowing"
+  ],
+  "plain": {
+   "question": "How can nature projects help vulnerable groups in informal areas?",
+   "method": "The authors make an argument and propose a framework for partnerships.",
+   "finding": "Projects need power-sensitive partnerships and pluralism in values.",
+   "why": "This helps share benefits fairly and lower climate risks for the poor."
+  },
+  "full": {
+   "explainer": "This paper looks at how nature-based solutions, which are projects that use nature to tackle environmental challenges, can better help vulnerable people living in urban informal settlements. These are areas where housing is often unplanned or built outside formal rules. The authors argue that current projects must do a better job of sharing benefits fairly and reducing climate risks for these groups. To make this happen, the study suggests using power-sensitive partnerships. This means paying close attention to who holds power in decision-making. The authors also call for a deep commitment to pluralism. This means respecting and including many different values, ways of knowing, and understandings of what nature means to different communities, rather than imposing a single top-down view. Overall, the work focuses on the social and political side of planning green projects in informal urban areas.",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "nature-based solutions",
+     "definition": "Actions that use nature to address environmental and societal challenges."
+    },
+    {
+     "term": "informal settlements",
+     "definition": "Residential areas where housing is built outside official planning and legal frameworks."
+    },
+    {
+     "term": "pluralism",
+     "definition": "The acceptance and inclusion of multiple different values, beliefs, and knowledge systems."
+    }
+   ],
+   "fit": "Connects to environmental planning, informal settlements, and the fair distribution of benefits in the Global South."
+  },
+  "thesis": {
+   "why": "It connects to the study of informal settlements, environmental justice, and plural values in urban environmental planning across the Global South.",
+   "action": "Check how the paper defines power-sensitive partnerships for informal areas.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How are power-sensitive partnerships practically measured and implemented in data-scarce informal settlements?",
+   "evidence": "The abstract argues for power-sensitive partnerships and pluralism without detailing a specific empirical testing method.",
+   "limit": "We cannot establish what specific methods, data, or case studies were used to test these partnerships.",
+   "check": "Verify whether the paper presents empirical case studies or purely conceptual arguments."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1038/s41467-026-79301-2",
+   "doi": "https://doi.org/10.1038/s41467-026-79301-2",
+   "venue": "Nature Communications",
+   "date": "2026-11-13",
+   "authors": [
+    "Petra B. Holden",
+    "Gina Ziervogel"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7225983488",
+  "title": "Greenwashing in green bonds: a systematic literature review",
+  "headline": "Review on greenwashing in green bond markets",
+  "bullets": [
+   "Reviewed 46 academic articles on greenwashing using PRISMA.",
+   "Found drivers like weak oversight and relabeling old projects.",
+   "Matters because it erodes trust and increases financing costs."
+  ],
+  "plain": {
+   "question": "How does greenwashing happen and affect green bond markets?",
+   "method": "Searched and reviewed 46 research papers using thematic analysis.",
+   "finding": "Weak rules and incentives cause greenwashing, which hurts trust.",
+   "why": "It helps us see how financial markets fail to protect environmental goals."
+  },
+  "full": {
+   "explainer": "This paper looks at greenwashing in green bond markets. Green bonds are financial tools meant to fund eco-friendly projects. The authors wanted to understand why greenwashing happens, how it persists, and how it hurts market credibility. Instead of treating it as just misleading talk, they looked at how money, rules, and information problems interact. They searched databases for peer-reviewed studies and analyzed 46 articles. They found that greenwashing is driven by the desire for cheaper money, weak government rules, and the practice of renaming old projects as green. It shows up as selective information sharing, weak proof that projects are actually new or helpful, and symbolic certifications. These actions break investor trust, harm the reputation of issuers, and raise financing costs. The study is limited because the existing research focuses heavily on China and misses some real-world regulatory actions. Future work should look at emerging markets and the Global South.",
+   "caveats": [
+    "Geographical concentration of the literature with a strong focus on the Chinese green bond market.",
+    "Reliance on published academic research, which may underrepresent enforcement actions and emerging regulatory developments."
+   ],
+   "jargon": [
+    {
+     "term": "greenwashing",
+     "definition": "Misleading people into believing a product or company is more environmentally friendly than it is."
+    },
+    {
+     "term": "systematic literature review",
+     "definition": "A structured way of finding, selecting, and analyzing all available studies on a specific topic."
+    },
+    {
+     "term": "green bonds",
+     "definition": "Debt instruments specifically issued to raise money for climate or environmental projects."
+    },
+    {
+     "term": "information asymmetries",
+     "definition": "A situation where one party in a transaction has more or better information than the other."
+    }
+   ],
+   "fit": "Connects to environmental governance, institutional arrangements, and the need for empirical work in emerging markets and the Global South."
+  },
+  "thesis": {
+   "why": "It explores governance and institutional challenges in environmental financing, which parallels tracking human benefits and planning integrity.",
+   "action": "Check how institutional arrangements and governance failures apply to local environmental planning.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does financial greenwashing theory apply to physical urban ecosystem service planning?",
+   "evidence": "The paper focuses on financial instruments and debt markets, not urban land-cover change or ecosystem service delivery.",
+   "limit": "The abstract does not provide empirical data on urban planning or ecosystem service supply in cities like Kabul.",
+   "check": "Verify whether the governance framework transfers from financial markets to urban environmental planning."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1108/rae-09-2026-0426",
+   "doi": "https://doi.org/10.1108/rae-09-2026-0426",
+   "venue": "Revista de Administração de Empresas",
+   "date": "2026-11-13",
+   "authors": [
+    "Nikolas Christian Keppe",
+    "Tania Pereira Christopoulos"
+   ],
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
@@ -3387,623 +3980,6 @@
     "Gino Sturla"
    ],
    "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225298576",
-  "title": "Three-Dimensional Coupling Assessment of Eco-Geological Environment in Alpine Gorge Areas Integrating the Remote Sensing Ecological Index, Ecosystem Services, and Geological Environment Carrying Capacity",
-  "headline": "3D Eco-Geological Framework Evaluates Alpine Regions",
-  "bullets": [
-   "Integrated RSEI, ecosystem services, and geological capacity into a 3D framework.",
-   "Found geological capacity drives most variation; ecological indices cannot replace it.",
-   "Provides a transferable zoning method for fragile alpine gorge counties."
-  ],
-  "plain": {
-   "question": "How can we better assess fragile mountainous areas by combining ecology and geology?",
-   "method": "Combined three indexes—surface ecology, ecosystem services, and geological capacity—at the pixel level.",
-   "finding": "Geological capacity provides unique information that ecological indexes alone miss.",
-   "why": "Without geology, risk assessments mislabel unsafe areas as safe."
-  },
-  "full": {
-   "explainer": "In steep mountainous areas, fragile nature and geological hazards like landslides often overlap. Usually, scientists study surface environment, ecosystem functions, or geology separately. Because each method looks at different things, they miss important combined information. To fix this gap, this study creates a three-dimensional framework that joins the Remote Sensing Ecological Index, the Ecosystem Services Index, and the Geological Environmental Carrying Capacity. Testing this in a Chinese county, the authors checked how these three parts interact across different elevations. They found that surface ecology and ecosystem services do not peak at the same heights and only link moderately, meaning one cannot stand in for the other. Crucially, the geological dimension drives the largest share of overall variation and contains information that cannot be guessed from ecology alone. If you drop the geological dimension, you mistakenly label some dangerous areas as safe. This work offers a useful five-tier management plan and a transferable basis for environmental zoning in rugged, hazard-prone regions.",
-   "caveats": [
-    "Results are based on a specific study site in Lixian County, Sichuan Province.",
-    "Not stated how urban areas or informal settlements are affected.",
-    "Not stated what exact data sources populated the geological models."
-   ],
-   "jargon": [
-    {
-     "term": "Remote Sensing Ecological Index",
-     "definition": "An index derived from satellite data to describe surface ecological status."
-    },
-    {
-     "term": "Ecosystem Services Index",
-     "definition": "An index describing the functional supply of benefits provided by ecosystems."
-    },
-    {
-     "term": "Geological Environmental Carrying Capacity",
-     "definition": "A measure of how much geological stress an environment can support."
-    },
-    {
-     "term": "Vertical differentiation",
-     "definition": "Changes in environmental properties occurring along an altitudinal gradient."
-    }
-   ],
-   "fit": "Connects via spatial modeling, multi-index framework integration, and scenario or zoning approaches relevant to complex environments."
-  },
-  "thesis": {
-   "why": "It shows that combining multiple dimensions prevents misclassifying risky zones, mirroring challenges in data-scarce and hazard-prone regions.",
-   "action": "Check if their multidimensional framework handles spatial uncertainty and data-scarce contexts.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Does combining these three indices truly measure causal capacity or just spatial correlation?",
-   "evidence": "The study analyzes pixel-level coupling and variance contribution along gradients, but does not test long-term physical outcomes.",
-   "limit": "It cannot establish whether the proposed five-tier management strategy prevents actual environmental degradation over time.",
-   "check": "Verify how geological carrying capacity was quantified and whether input data is available in data-scarce regions."
-  },
-  "relevance": 3,
-  "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-  "source": {
-   "url": "https://doi.org/10.3390/su182111302",
-   "doi": "https://doi.org/10.3390/su182111302",
-   "venue": "Sustainability",
-   "date": "2026-11-05",
-   "authors": [
-    "Ruihan Ju",
-    "Mingli Xie",
-    "Lingduo Kou"
-   ],
-   "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225296891",
-  "title": "A systematic literature review on the use of the ecosystem services concept in sustainability assessments for forestry",
-  "headline": "Review of forest ecosystem services in sustainability tools",
-  "bullets": [
-   "Reviewed 109 articles using sustainability assessments with forest ecosystem services",
-   "Found over half of 1243 indicators are forest ecosystem service related",
-   "Suggests sustainability assessments need to be inter- and transdisciplinary"
-  ],
-  "plain": {
-   "question": "How are ecosystem services used in sustainability assessments for forests?",
-   "method": "We reviewed past scientific articles to find and analyze these studies.",
-   "finding": "Most tracked indicators relate to forest ecosystem services, along with social and economic factors.",
-   "why": "This helps show how to better protect and manage forest benefits."
-  },
-  "full": {
-   "explainer": "This study looks at how sustainability assessments can help improve the supply of forest ecosystem services and nature's contributions to people. The authors carried out a systematic literature review and found 109 scientific articles that use these concepts. Within these studies, they analyzed 1243 different indicators. They discovered that more than half of these indicators are directly related to forest ecosystem services, covering things like regulating, provisioning, cultural, and supporting benefits. The remaining indicators included various social, economic, environmental, and cross-cutting factors that can influence these forest benefits. The review concludes that using ecosystem service and nature's contribution concepts can make sustainability assessments stronger. To do this well, the assessments should involve different fields and work across disciplines so they can provide a complete, specific understanding of the forest being studied.",
-   "caveats": [
-    "not stated"
-   ],
-   "jargon": [
-    {
-     "term": "Systematic literature review",
-     "definition": "A structured method to find, select, and analyze all available research on a specific topic."
-    },
-    {
-     "term": "Ecosystem services",
-     "definition": "The direct and indirect contributions of ecosystems to human survival and quality of life."
-    },
-    {
-     "term": "Indicators",
-     "definition": "Measurable signs or values used to track conditions, trends, or performance over time."
-    },
-    {
-     "term": "Transdisciplinary",
-     "definition": "Involving different academic branches and non-academic groups working together on a shared problem."
-    }
-   ],
-   "fit": "Connects broadly through ecosystem service concepts and indicator frameworks, though it focuses on forests rather than urban areas or Kabul."
-  },
-  "thesis": {
-   "why": "It shows how ecosystem service concepts are integrated into broader sustainability assessments and indicator sets, which parallels framing ecosystem service delivery.",
-   "action": "Check how the review categorizes indicators across social, economic, and environmental dimensions.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Can forest-focused sustainability assessment indicators apply to urban ecosystem service planning?",
-   "evidence": "The abstract examines forest ecosystem services and cross-cutting social, economic, and environmental indicators in sustainability assessments.",
-   "limit": "The abstract does not provide urban-specific indicators, spatial modeling methods, or data relevant to arid urban environments like Kabul.",
-   "check": "Verify if the paper discusses indicator transferability or methods that could be adapted for urban settings."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1016/j.sftr.2026.102277",
-   "doi": "https://doi.org/10.1016/j.sftr.2026.102277",
-   "venue": "Sustainable Futures",
-   "date": "2026-11-05",
-   "authors": [
-    "Gino Garcia",
-    "Henrik von Wehrden"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225298529",
-  "title": "Seasonal spatio-temporal coexistence of leopard (Panthera pardus) and brown hyena (Parahyaena brunnea) in the hyper-arid landscape of southern Namibia",
-  "headline": "Leopards and hyenas coexist in arid Namibia",
-  "bullets": [
-   "Used two years of camera trapping in a private reserve in hyper-arid Namibia.",
-   "Found seasonal shifts between spatial independence and positive co-occurrence.",
-   "Shows how large carnivores manage competition in harsh, low-productivity environments."
-  ],
-  "plain": {
-   "question": "How do leopards and brown hyenas share the same space in a very dry desert?",
-   "method": "The team used cameras for two years to track where and when these animals move.",
-   "finding": "They share time differently and change how closely they live together by season.",
-   "why": "It helps us understand how large animals survive and share limited resources."
-  },
-  "full": {
-   "explainer": "In southern Africa, scientists mostly study how large meat-eating animals interact in wet, high-productivity places. However, these relationships are less understood in dry deserts. This study looked at how leopards and brown hyenas live together in the very dry inland region of Namibia, where lions and spotted hyenas are absent. Researchers used 71 camera trap stations over two years across a private reserve to watch their habits. They found that the animals maintain moderate temporal overlap while keeping different daily activity rhythms in both dry and wet seasons. Their living space relationship changes with the seasons: they are spatially independent during the dry season, but positively influence each other's presence during the wetter, more productive period. The strongest drivers of where they live were prey abundance, distance from water, and landscape features. Ultimately, the animals coexist by splitting up their active hours, staying apart when resources are scarce, and helping each other during good times.",
-   "caveats": [
-    "Study was limited to a single 533 square kilometer private reserve in hyper-arid Namibia.",
-    "Not stated whether findings apply beyond leopards and brown hyenas in this specific environment."
-   ],
-   "jargon": [
-    {
-     "term": "mesic",
-     "definition": "An environment with a moderate or well-balanced supply of moisture."
-    },
-    {
-     "term": "kernel density functions",
-     "definition": "A statistical method used here to estimate and visualize animals' temporal activity patterns."
-    },
-    {
-     "term": "occupancy models",
-     "definition": "Statistical models used to estimate the probability that a species uses a specific area."
-    }
-   ],
-   "fit": "Connects via spatial modelling, habitat use, and resource distribution in dry regions, though outside urban ecosystems."
-  },
-  "thesis": {
-   "why": "This paper examines spatial distribution and habitat drivers using occupancy models, offering methodological parallels for spatial modeling in environmental planning.",
-   "action": "Check how the authors handle spatial detection bias and environmental variables.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How do private reserve boundaries and human activity gradients affect the observed spatial patterns?",
-   "evidence": "The study took place within a 533 km² private reserve and notes that human activity was assessed as a variable, but reserve edges can create artificial animal densities.",
-   "limit": "The abstract does not state how reserve fences or surrounding human settlements influenced animal movements.",
-   "check": "Verify if reserve boundaries restricted normal animal movement and affected occupancy results."
-  },
-  "relevance": 1,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-11239814/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-11239814/v1",
-   "venue": "Research Square",
-   "date": "2026-11-05",
-   "authors": [
-    "Veronica Ramello",
-    "Davide Sogliani",
-    "Federica AVESANI ZABORRA",
-    "Massimo Franchini",
-    "Maila Cicero",
-    "LEN Le ROUX"
-   ],
-   "n_authors": 9,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W4412677205",
-  "title": "Quantifying the impact of groundwater fauna and temperature on the ecosystem service of microbial carbon degradation; a proof-of-principle approach",
-  "headline": "Groundwater fauna boost carbon degradation",
-  "bullets": [
-   "Modeled a dynamic food web of groundwater carbon, microbes, and fauna using field data.",
-   "Found that removing fauna caused remaining carbon to increase by up to 6.6 times.",
-   "Shows groundwater fauna help clean water, making drinking water production more reliable."
-  ],
-  "plain": {
-   "question": "How do groundwater creatures and temperature affect how microbes break down carbon?",
-   "method": "We used a mathematical food web model based on field data and tested different future temperature and fauna scenarios.",
-   "finding": "Without groundwater creatures eating microbes, the remaining carbon in the water stayed much higher.",
-   "why": "Active groundwater creatures help clean water naturally, making drinking water production safer and cheaper."
-  },
-  "full": {
-   "explainer": "Groundwater systems provide essential functions like helping to produce clean drinking water, but we lack ways to measure these natural benefits. Without a way to measure them, we cannot predict how they might change under future climates. To fix this, researchers used data from a detailed groundwater study covering four different land use zones and water exchange areas. They built a mathematical model of a food web. This model included organic carbon, the microbes that eat the biodegradable part of that carbon, and the small animals that graze on those microbes. After checking that the model matched real field data, they tested five different futures. Three scenarios removed the animals to simulate stressors like pollution or sudden heat, while others raised temperatures by 1.5 or 3 degrees. They measured the ecosystem service of cleaning carbon by looking at carbon changes over time. When animals were removed, remaining carbon was up to 6.6 times higher than normal. This proves that groundwater animals play a major role in cleaning water.",
-   "caveats": [
-    "Scenarios are modeled estimates, not direct field observations of all future conditions.",
-    "Specific geographical locations of the four zones are not stated.",
-    "Long-term adaptation of microbes and fauna to temperature increases is not stated."
-   ],
-   "jargon": [
-    {
-     "term": "Dynamic food web model",
-     "definition": "A mathematical representation of how living organisms in a system interact and feed on each other over time."
-    },
-    {
-     "term": "Biodegradable fraction",
-     "definition": "The portion of a substance that can be broken down naturally by living organisms like bacteria."
-    },
-    {
-     "term": "Ecosystem service",
-     "definition": "The direct or indirect benefits that humans freely gain from properly functioning natural environments."
-    },
-    {
-     "term": "Microbial carbon degradation",
-     "definition": "The breakdown of carbon compounds by microscopic organisms like bacteria and fungi."
-    }
-   ],
-   "fit": "Demonstrates scenario modeling of ecosystem services and the hidden role of biological communities in supplying water-related benefits."
-  },
-  "thesis": {
-   "why": "It shows how scenario modeling can isolate the specific contributions of biological communities to ecosystem service delivery under changing environmental conditions.",
-   "action": "Check how the authors handled parameter uncertainty and model validation against field data.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "How reliable are scenario outcomes when animal mortality is artificially simulated without dynamic adaptation?",
-   "evidence": "The study tested scenarios without fauna due to contamination or temperature peaks, and raised temperatures by 1.5°C and 3°C.",
-   "limit": "The abstract does not establish whether real organisms would adapt over time to the simulated temperature increases and stressors.",
-   "check": "Examine how the authors validated the dynamic food web model against baseline field data and quantified its uncertainties."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.5194/bg-23-7849-2026",
-   "doi": "https://doi.org/10.5194/bg-23-7849-2026",
-   "venue": "Biogeosciences",
-   "date": "2026-11-05",
-   "authors": [
-    "Susanne Isabel Schmidt",
-    "Nora Rütz",
-    "Jürgen Marxsen"
-   ],
-   "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225348442",
-  "title": "Northward shifts and range contractions: future distribution of Plicosepalus acaciae in Vachellia woodlands of AlUla, Saudi Arabia",
-  "headline": "Parasitic plants face shifts under climate change",
-  "bullets": [
-   "Used a maximum entropy model with 124 occurrences and 19 bioclimatic variables.",
-   "Found future range contractions and northward shifts due to warming and drying.",
-   "Informs adaptive woodland management and ecological restoration goals."
-  ],
-  "plain": {
-   "question": "How will climate change affect the future habitat of a key parasitic plant in Saudi Arabia?",
-   "method": "The researchers used a computer model to study current locations, weather data, and land features.",
-   "finding": "The plant will likely shrink in the south and move northward due to heat and dryness.",
-   "why": "This helps people protect stressed woodlands and plan better environmental restoration."
-  },
-  "full": {
-   "explainer": "This study looks at a parasitic plant called Plicosepalus acaciae, which plays an important role as a keystone species in woodlands in AlUla, Saudi Arabia, but can also stress its tree hosts as things get warmer and drier. To help manage these woodlands under climate change, the authors modeled where the plant might live in the future. They used a computer tool called a maximum entropy model, looking at 124 recorded locations along with 19 climate variables, land elevation, and host tree preferences. Their analysis showed that right now, the plant mostly lives in valleys and mountains where conditions match its needs for moderate temperatures and specific rainfall and altitude. However, when looking ahead to future climate scenarios, the models predict that the plant's home range will shrink in central and southern areas, with a shift toward the north. This shows the plant is vulnerable to rising heat and aridity. The findings suggest that protecting these plants relies heavily on microclimates, host trees, and animal dispersers, which can help guide local ecological restoration.",
-   "caveats": [
-    "Future projections depend heavily on specific climate scenarios like RCP 2.6 and RCP 8.5.",
-    "The study focuses specifically on AlUla, Saudi Arabia, so results are context-dependent."
-   ],
-   "jargon": [
-    {
-     "term": "keystone species",
-     "definition": "A species that has a disproportionately large effect on its natural environment."
-    },
-    {
-     "term": "maximum entropy model",
-     "definition": "A statistical method used to predict species distribution based on environmental data."
-    },
-    {
-     "term": "bioclimatic variables",
-     "definition": "Variables representing temperature and rainfall patterns used to study climate suitability."
-    },
-    {
-     "term": "range contractions",
-     "definition": "A shrinking of the geographic area where a species is able to survive and live."
-    }
-   ],
-   "fit": "Demonstrates habitat suitability modeling and climate change scenario analysis relevant to environmental planning and ecosystem shifts."
-  },
-  "thesis": {
-   "why": "Connects to spatial modeling, scenario comparison, and habitat suitability, though the specific study system is a desert woodland rather than urban Kabul.",
-   "action": "Check how the maximum entropy model handles environmental variables and uncertainty.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "How do non-climatic local factors interact with broad climate scenarios in determining actual survival?",
-   "evidence": "The abstract notes that survival depends on microclimatic stability, host availability, and disperser behavior, but models mainly use macro-variables.",
-   "limit": "The abstract does not establish direct causal links between specific host stress levels and the actual mortality rates of the parasite.",
-   "check": "Examine the full paper to see how non-climatic variables like host availability were integrated into the spatial distribution model."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1038/s41598-026-79357-6",
-   "doi": "https://doi.org/10.1038/s41598-026-79357-6",
-   "venue": "Scientific Reports",
-   "date": "2026-11-05",
-   "authors": [
-    "Thobayet Safar Alshahrani",
-    "Hazem S. Kassem",
-    "Abdulaziz Mohammad Assaeed",
-    "László Patkó",
-    "Ayman A. Abdulkareem",
-    "Mohamed Nasser"
-   ],
-   "n_authors": 7,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225333360",
-  "title": "Supply–Demand Differentiation and Ecological Functional Zoning of Ecosystem Services in the Pearl River Basin Based on Explainable Ensemble Machine Learning",
-  "headline": "Regional surplus masks urban ecosystem service deficits",
-  "bullets": [
-   "Mapped water, carbon, soil, and habitat supply and demand from 2000 to 2020",
-   "Found regional service surpluses mask growing local deficits in urban areas",
-   "Helps target local ecological management and zoning in rapidly urbanizing basins"
-  ],
-  "plain": {
-   "question": "How do supplies and needs of nature benefits change across a growing river basin?",
-   "method": "Used computer models and data maps to track changes from 2000 to 2020.",
-   "finding": "Overall nature supplies stayed positive, but cities showed large local shortages.",
-   "why": "This helps planners spot where nature is running low near growing cities."
-  },
-  "full": {
-   "explainer": "As cities grow rapidly, looking at a whole region can hide local problems. This study looks at the Pearl River Basin to see how the supply and demand for four nature-based benefits—water yield, carbon storage, soil conservation, and habitat quality—changed between 2000 and 2020. The researchers combined standard environmental models with advanced machine learning and grouping methods to see where nature benefits are abundant and where they are running short. They found that while the region as a whole looks healthy, cities like Guangzhou, Foshan, and others face growing shortages, especially for carbon storage and water. For example, carbon demand soared by over two hundred percent in growing urban areas. The team used machine learning to figure out which factors drive these shortages, discovering that things like rainfall, population growth, and human disturbances play major roles. Finally, they used clustering tools to divide the basin into different zones, helping leaders figure out where to focus protection and management.",
-   "caveats": [
-    "Study area is limited to the Pearl River Basin",
-    "Analysis covers the period from 2000 to 2020",
-    "Not stated for other global regions or Kabul"
-   ],
-   "jargon": [
-    {
-     "term": "Ecosystem service supply-demand ratio",
-     "definition": "A measure comparing what nature provides against what people use."
-    },
-    {
-     "term": "SHAP analysis",
-     "definition": "A method to explain how different factors influence machine learning predictions."
-    },
-    {
-     "term": "Gaussian mixture model",
-     "definition": "A clustering tool used to group data points into different categories."
-    }
-   ],
-   "fit": "Connects supply-demand gaps and modeling approaches to urban ecosystem services and planning."
-  },
-  "thesis": {
-   "why": "It demonstrates how to analyze supply-demand gaps and use advanced machine learning models for spatial zoning, relevant to urban environmental planning.",
-   "action": "Check how they integrated the InVEST model with machine learning algorithms for scenario work.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Does a regional method work for fine-scale urban planning in data-scarce settings?",
-   "evidence": "The abstract relies on extensive regional data inputs and advanced machine learning for a massive river basin over a twenty-year period.",
-   "limit": "The abstract does not show how these complex machine learning workflows perform in data-scarce or conflict settings.",
-   "check": "Verify if the machine learning approach can be adapted or if simpler models are better for data-scarce areas."
-  },
-  "relevance": 4,
-  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
-  "source": {
-   "url": "https://doi.org/10.3390/su182111310",
-   "doi": "https://doi.org/10.3390/su182111310",
-   "venue": "Sustainability",
-   "date": "2026-11-05",
-   "authors": [
-    "Yongbing Yu",
-    "Shaoquan Yang",
-    "燕武 陳"
-   ],
-   "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225302361",
-  "title": "Global news reports reveal the human dimensions of water scarcity",
-  "headline": "News reports reveal human dimensions of water scarcity",
-  "bullets": [
-   "Used large language models on global news reports to find real water scarcity events from 2014 to…",
-   "Found reported water scarcity does not match traditional hydrologic models and often peaks…",
-   "Complements hydrologic models by showing how human factors and infrastructure create water…"
-  ],
-  "plain": {
-   "question": "How can we better track real water shortages experienced by people worldwide?",
-   "method": "Used computer tools to scan global news reports for actual water scarcity events.",
-   "finding": "Real shortages do not always match maps based only on physical water supplies.",
-   "why": "It helps us see how human actions and infrastructure affect water access."
-  },
-  "full": {
-   "explainer": "Traditional water scarcity is usually measured using hydrologic models that look at physical water pressure. However, physical stress does not always mean people actually face water shortages. Human adaptation can help buffer limits, while broken infrastructure or poor governance can cause scarcity even where water is plentiful. To explore this, researchers used large language models to find concrete news reports about real water scarcity across 190 countries from 2014 to 2024. The results show that reported water scarcity increased in most regions, peaking globally in 2023. These spatial patterns are very mixed and only partly match traditional hydrologic maps. For instance, water-abundant areas like the eastern United States appeared as hotspots for reported scarcity, while some dry regions showed little reporting despite physical stress. This suggests human systems help shape water shortages, though differences in media reporting may also play a role.",
-   "caveats": [
-    "Differences in media reporting may contribute to the observed patterns.",
-    "Not stated whether specific urban areas or Kabul were analyzed."
-   ],
-   "jargon": [
-    {
-     "term": "Hydrologic models",
-     "definition": "Computer tools used to estimate water resources and physical pressure on water."
-    },
-    {
-     "term": "Large language models",
-     "definition": "Advanced computer programs that can process and analyze large amounts of text."
-    }
-   ],
-   "fit": "It highlights how human systems and infrastructure mediate resource access, relevant for studying ecosystem service supply and demand."
-  },
-  "thesis": {
-   "why": "It connects physical resource constraints to human systems, offering insight into actual service delivery versus modeled potential.",
-   "action": "Check how the paper separates media reporting biases from actual human water shortages.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Are news reports a reliable measure of actual water scarcity rather than media attention biases?",
-   "evidence": "The abstract notes that differences in media reporting may contribute to the contrasting spatial patterns observed.",
-   "limit": "The abstract does not establish how media reporting bias was mathematically separated from real scarcity events.",
-   "check": "Verify how the authors validated news reports against ground-truth water shortage data."
-  },
-  "relevance": 3,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.31223/x5223v",
-   "doi": "https://doi.org/10.31223/x5223v",
-   "venue": "",
-   "date": "2026-11-05",
-   "authors": [
-    "Arushi Arnav",
-    "Lav R. Varshney",
-    "Megan Konar"
-   ],
-   "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7127370499",
-  "title": "Tree-cover loss–gain balance in Cundinamarca (Colombia) using deep learning–based land use/land cover (LULC) maps (2017–2024)",
-  "headline": "Tree cover loss and gain balance in Colombia",
-  "bullets": [
-   "Used deep learning maps to track tree cover loss and gain in Cundinamarca and Bogotá from 2017 to…",
-   "Found 125,918 ha of loss and 116,077 ha of gain, showing high hidden turnover behind a small net…",
-   "Helps monitor landscape changes and spot areas where tree cover is actively shifting or protected."
-  ],
-  "plain": {
-   "question": "How did tree cover change in a region of Colombia from 2017 to 2024 when looking beyond simple net totals?",
-   "method": "They used satellite maps driven by deep learning on a grid, and statistical models to link changes to roads and terrain.",
-   "finding": "There was much hidden tree loss and gain at the same time, even though the overall net decline was very small.",
-   "why": "It shows why tracking both loss and gain separately matters for environmental planning instead of just looking at net totals."
-  },
-  "full": {
-   "explainer": "Researchers looked at tree cover changes in Cundinamarca and Bogotá, Colombia, between 2017 and 2024. Usually, studies only report the final net change in trees, which can hide a lot of movement. Instead, the authors used detailed satellite maps created with deep learning to track both losses and gains at the same time across a grid. They found that while the net change was a small decline of about 9,841 hectares, there were actually over 125,000 hectares of loss and nearly 116,000 hectares of gain happening simultaneously. They used statistical models to test how factors like distance to settlements, steep slopes, and protected areas related to these changes. Steeper areas and places farther from settlements had less loss and more gain. However, the study notes that these spatial associations do not prove direct cause and effect, and some unexplained spatial clustering remained. Overall, the method helps reveal hidden tree turnover and supports better monitoring for environmental planning.",
-   "caveats": [
-    "Associations with protected areas and terrain are not causal.",
-    "Residual spatial autocorrelation remained substantial for both loss and gain models.",
-    "Mapped gains require ecological verification."
-   ],
-   "jargon": [
-    {
-     "term": "deep learning–based land use/land cover maps",
-     "definition": "Computer-generated maps from satellite images that classify types of land use and cover."
-    },
-    {
-     "term": "fractional-logit models",
-     "definition": "Statistical equations used to analyze data that represent proportions or percentages."
-    },
-    {
-     "term": "territorial-unit fixed effects",
-     "definition": "Statistical controls used to account for unchanging characteristics of specific regions."
-    },
-    {
-     "term": "residual spatial autocorrelation",
-     "definition": "When unexplained errors in a statistical model are still spatially clustered together."
-    }
-   ],
-   "fit": "Provides a transferable spatial indicator method and land-change analysis framework relevant to Global South urban-rural transitions."
-  },
-  "thesis": {
-   "why": "Demonstrates a spatial indicator set and fractional-logit modeling to analyze land-cover change dynamics, which mirrors the student's focus on land-cover change and spatial statistics.",
-   "action": "Check how the study handles land-change accuracy assessment and spatial block clustering for your own methods.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Can spatial statistical models really isolate the effect of protected areas on tree cover dynamics without proving causation?",
-   "evidence": "The abstract explicitly states that cells overlapping the protected area layer showed less loss and more gain, but immediately notes these associations are not causal.",
-   "limit": "The abstract cannot establish whether the observed tree gains represent ecologically healthy native forests or just commercial plantations.",
-   "check": "Verify how the full paper addresses the remaining spatial autocorrelation and ecological verification of mapped gains."
-  },
-  "relevance": 4,
-  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
-  "source": {
-   "url": "https://doi.org/10.1016/j.indic.2026.101616",
-   "doi": "https://doi.org/10.1016/j.indic.2026.101616",
-   "venue": "Environmental and Sustainability Indicators",
-   "date": "2026-11-05",
-   "authors": [
-    "Andrés José Vergara Narváez",
-    "Tania Jimenez Castilla",
-    "Gastón Ballut-Dajud"
-   ],
-   "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225298225",
-  "title": "Task-Oriented Evaluation of Eight Cropland Maps for Agricultural Monitoring in China",
-  "headline": "Evaluating eight cropland maps for agricultural monitoring",
-  "bullets": [
-   "Harmonized and evaluated eight 2020 cropland products across China.",
-   "Found only 26.8% agreement and varying accuracy based on product definitions.",
-   "Guides map selection for specific land-cover applications and scale."
-  ],
-  "plain": {
-   "question": "How do different cropland maps compare when tested across China?",
-   "method": "The authors tested eight different land maps using probability samples.",
-   "finding": "The maps showed very low agreement and different accuracy levels.",
-   "why": "This helps people choose the right map for their specific study."
-  },
-  "full": {
-   "explainer": "Different maps of farmland often use different rules, details, and goals, making it hard to choose the right one for research. This study tested eight different land-cover maps for the year 2020 across China using careful probability samples. The researchers harmonized the data to compare them fairly. They discovered that only 26.8% of the pixels agreed across all products as being farmland. Individual products performed differently; for example, CropLayer had the highest overall accuracy among certain groups, while another product had an area bias closest to zero. The authors also found that how reference labels are defined changes the performance score heavily, and scaling data down can hurt fine-resolution products. Ultimately, this shows that accuracy rankings change depending on what metrics and definitions you use, meaning researchers must carefully match their map to their specific goals.",
-   "caveats": [
-    "The study focuses on mainland China.",
-    "Evaluations are specific to 2020 cropland and land-cover products.",
-    "Not stated how this translates to urban ecosystem services or Kabul."
-   ],
-   "jargon": [
-    {
-     "term": "spatial resolution",
-     "definition": "The size of each pixel in a digital map representing ground area."
-    },
-    {
-     "term": "design-weighted classification accuracy",
-     "definition": "A statistical measure of map correctness that accounts for sampling design."
-    },
-    {
-     "term": "commission-dominated errors",
-     "definition": "Errors where a map incorrectly labels something as belonging to a class."
-    },
-    {
-     "term": "spatial aggregation",
-     "definition": "Combining multiple smaller spatial units into a larger single unit."
-    }
-   ],
-   "fit": "Shows how map definitions and accuracy metrics vary, which is relevant for land-cover change and remote sensing methods."
-  },
-  "thesis": {
-   "why": "It illustrates how map choices and definitions alter land-cover results, mirroring accuracy and validation challenges in urban remote sensing.",
-   "action": "Check how the authors handled land-change validation and uncertainty assessment.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "How do varying land-cover map definitions impact spatial modelling accuracy?",
-   "evidence": "The abstract notes that switching reference labels changed F1 scores and area bias significantly.",
-   "limit": "The abstract does not test urban land covers, ecosystem services, or data-scarce settings.",
-   "check": "Verify how error and uncertainty metrics apply to urban land-cover change mapping."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
-  "source": {
-   "url": "https://doi.org/10.3390/rs18213798",
-   "doi": "https://doi.org/10.3390/rs18213798",
-   "venue": "Remote Sensing",
-   "date": "2026-11-05",
-   "authors": [
-    "Yuan Xue",
-    "Guojin He",
-    "Ranyu Yin",
-    "Guizhou Wang",
-    "Zhaoming Zhang",
-    "Yan Peng"
-   ],
-   "n_authors": 8,
    "open_access": true,
    "basis": "abstract"
   }

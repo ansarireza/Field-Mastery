@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Protected area design and enforcement",
-   "area": "Conservation policy",
-   "kind": "method"
-  },
-  {
    "term": "Resilience in socioecological systems",
    "area": "Socioecological systems",
    "kind": "concept"
@@ -152,6 +147,8 @@
   "Postcolonial political ecology",
   "challenge-based learning",
   "Indigenous knowledge and valuation",
-  "deep learning–based land use/land cover maps"
+  "deep learning–based land use/land cover maps",
+  "Protected area design and enforcement",
+  "Infrastructure studies"
  ]
 }

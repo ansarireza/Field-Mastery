@@ -476,26 +476,27 @@
   "e31480686e",
   "2738817a93",
   "27484927d1",
-  "5077704898"
+  "5077704898",
+  "e2872f0900"
  ],
  "today": {
-  "id": "5077704898",
-  "scope": "Spatial patterns and planning",
-  "q": "How can spatial prioritization inform environmental planning given data scarcity and conflict?",
-  "type": "practical relevance",
+  "id": "e2872f0900",
+  "scope": "Land-cover change and settlement expansion",
+  "q": "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?",
+  "type": "generalisability",
   "outline": [
-   "Connect service bundles and spatial patterns to planning",
-   "Address formal development and informal flatland/hillside areas",
-   "Incorporate green-blue infrastructure scenarios"
+   "Acknowledge semi-arid and conflict-affected data constraints",
+   "Explain how transferable methods are adapted",
+   "Discuss limits of applying non-Kabul international research"
   ],
-  "pitfall": "Proposing planning interventions that ignore conflict and data limitations.",
-  "follow_up": "How do scenario comparisons help guide planning under high uncertainty?",
-  "bring": "Scenario comparison frameworks tailored for data-scarce metropolitan planning.",
+  "pitfall": "Assuming methods transfer directly without addressing data-scarce or conflict contexts.",
+  "follow_up": "What specific indicators ensure a model calibrated elsewhere fits Kabul's mountain morphology?",
+  "bring": "Comparative methodological framework mapping global methods to data-scarce settings.",
   "self_check": [
-   "Linked patterns to planning",
-   "Addressed informal areas",
-   "Incorporated scenarios"
+   "Addresses data scarcity",
+   "Considers context mismatch",
+   "Avoids over-generalization"
   ]
  },
- "today_date": "2026-11-15"
+ "today_date": "2026-11-16"
 }

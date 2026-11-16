@@ -1,64 +1,64 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "lessons": [
   {
-   "id": "e07f2aa73f",
-   "date": "2026-11-15",
-   "term": "Indigenous knowledge and valuation",
-   "area": "Nature contributions to people",
-   "kind": "concept",
-   "definition": "Indigenous knowledge and valuation captures local, non-Western ways of understanding and measuring nature's benefits to people.",
-   "plain": "It means respecting how local communities understand and value nature. Instead of only using Western science or money to measure the benefits of trees and water, researchers listen to indigenous views and traditional practices to see what nature truly means to residents.",
-   "example": "In a Global South city, traditional communities might view a local hillside green space as a sacred heritage site providing vital cooling and spiritual well-being.",
-   "connects": "It links plural values and environmental justice to ecosystem service supply and demand.",
-   "why_phd": "It helps you avoid biased planning by ensuring marginalized voices and non-monetary values are included in environmental assessments.",
+   "id": "955a523a19",
+   "date": "2026-11-16",
+   "term": "Protected area design and enforcement",
+   "area": "Conservation policy",
+   "kind": "method",
+   "definition": "Protected area design and enforcement involve creating and guarding zones to conserve nature and secure ecological benefits.",
+   "plain": "This method means setting aside specific urban areas for nature and making sure rules protect them. In fast-growing cities, it helps keep green spaces safe for cooling or water filtering, despite weak rule enforcement or rapid informal building.",
+   "example": "Guarding a hillside park in a growing Global South city from being turned into informal housing to preserve water flow.",
+   "connects": "It connects to habitat quality, green-blue infrastructure, and governance in data-scarce regions.",
+   "why_phd": "Critical for defending how spatial planning proposals can legally safeguard ecosystem services against rapid land-cover change.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does indigenous valuation add to standard ecosystem service assessments?",
-     "a": "It brings local, non-monetary, and traditional perspectives on the value of nature."
+     "q": "What is the main goal of protected area enforcement?",
+     "a": "To guard designated nature zones and maintain their ecological benefits against pressures like informal settlement."
     },
     {
-     "q": "Why is this concept important for Global South cities like Kabul?",
-     "a": "It ensures that local community needs and traditional knowledge guide environmental planning."
+     "q": "Why is enforcement difficult in semi-arid and conflict-affected cities?",
+     "a": "Due to data scarcity, rapid urban growth, and weak institutional capacity."
     }
    ],
-   "search": "indigenous knowledge urban ecosystem services"
+   "search": "protected area enforcement urban conservation"
   },
   {
-   "id": "33dc7d8a30",
-   "date": "2026-11-15",
-   "term": "deep learning–based land use/land cover maps",
+   "id": "bdb2916fd5",
+   "date": "2026-11-16",
+   "term": "Infrastructure studies",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Deep learning-based land use and land cover maps use advanced neural networks to classify satellite images into environmental categories.",
-   "plain": "Traditional mapping manually classifies satellite images, but deep learning uses multi-layered computer algorithms to automatically learn complex spatial patterns. This creates detailed maps of urban vegetation, water, and built-up areas much faster and more accurately.",
-   "example": "Training a neural network on high-resolution satellite imagery to automatically map sprawling informal settlements and green spaces in Kabul.",
-   "connects": "Provides the high-resolution spatial data needed to model ecosystem services like urban cooling and stormwater retention.",
-   "why_phd": "Crucial for accurately tracking rapid land-cover change and settlement morphology in data-scarce cities like Kabul for planning.",
+   "definition": "Infrastructure studies examine how physical structures shape ecological functions, resource flows, and human well-being in cities.",
+   "plain": "Infrastructure studies look at how built networks—like roads, water pipes, and green spaces—interact with nature. In cities, they help us see how physical changes affect things like heat, flooding, and access to nature for different communities.",
+   "example": "Studying how informal water pipes and paved roads alter stormwater runoff and neighborhood cooling in a growing South Asian city.",
+   "connects": "Links settlement morphology to ecosystem service supply, demand, and environmental justice.",
+   "why_phd": "Vital for planning because built structures dictate whether ecosystem services actually reach vulnerable urban residents.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What do deep learning maps use to classify satellite images?",
-     "a": "Advanced multi-layered neural networks that automatically learn complex spatial patterns."
+     "q": "What do infrastructure studies examine in urban areas?",
+     "a": "How physical structures shape ecological functions, resource flows, and human well-being."
     },
     {
-     "q": "Why is this method useful for cities like Kabul?",
-     "a": "It maps rapid land-cover changes and settlement types quickly and accurately in data-scarce settings."
+     "q": "Why is this topic important for urban planning?",
+     "a": "It helps show how built networks affect environmental benefits like cooling and flood control."
     }
    ],
-   "search": "deep learning land cover mapping"
+   "search": "urban infrastructure studies ecosystem services"
   }
  ],
- "total_learned": 36,
+ "total_learned": 38,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Protected area design and enforcement",
    "Resilience in socioecological systems",
    "Adaptive management principles",
    "Revealed preference valuation methods",
-   "Resource tenure and property rights"
+   "Resource tenure and property rights",
+   "Spatial econometric land models"
   ],
   "stages": [
    "Foundation: understand concepts",

@@ -858,5 +858,53 @@
    }
   ],
   "search": "deep learning land cover mapping"
+ },
+ {
+  "id": "955a523a19",
+  "date": "2026-11-16",
+  "term": "Protected area design and enforcement",
+  "area": "Conservation policy",
+  "kind": "method",
+  "definition": "Protected area design and enforcement involve creating and guarding zones to conserve nature and secure ecological benefits.",
+  "plain": "This method means setting aside specific urban areas for nature and making sure rules protect them. In fast-growing cities, it helps keep green spaces safe for cooling or water filtering, despite weak rule enforcement or rapid informal building.",
+  "example": "Guarding a hillside park in a growing Global South city from being turned into informal housing to preserve water flow.",
+  "connects": "It connects to habitat quality, green-blue infrastructure, and governance in data-scarce regions.",
+  "why_phd": "Critical for defending how spatial planning proposals can legally safeguard ecosystem services against rapid land-cover change.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is the main goal of protected area enforcement?",
+    "a": "To guard designated nature zones and maintain their ecological benefits against pressures like informal settlement."
+   },
+   {
+    "q": "Why is enforcement difficult in semi-arid and conflict-affected cities?",
+    "a": "Due to data scarcity, rapid urban growth, and weak institutional capacity."
+   }
+  ],
+  "search": "protected area enforcement urban conservation"
+ },
+ {
+  "id": "bdb2916fd5",
+  "date": "2026-11-16",
+  "term": "Infrastructure studies",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Infrastructure studies examine how physical structures shape ecological functions, resource flows, and human well-being in cities.",
+  "plain": "Infrastructure studies look at how built networks—like roads, water pipes, and green spaces—interact with nature. In cities, they help us see how physical changes affect things like heat, flooding, and access to nature for different communities.",
+  "example": "Studying how informal water pipes and paved roads alter stormwater runoff and neighborhood cooling in a growing South Asian city.",
+  "connects": "Links settlement morphology to ecosystem service supply, demand, and environmental justice.",
+  "why_phd": "Vital for planning because built structures dictate whether ecosystem services actually reach vulnerable urban residents.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do infrastructure studies examine in urban areas?",
+    "a": "How physical structures shape ecological functions, resource flows, and human well-being."
+   },
+   {
+    "q": "Why is this topic important for urban planning?",
+    "a": "It helps show how built networks affect environmental benefits like cooling and flood control."
+   }
+  ],
+  "search": "urban infrastructure studies ecosystem services"
  }
 ]
