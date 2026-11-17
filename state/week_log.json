@@ -1,31 +1,4 @@
 {
- "2026-11-02": {
-  "papers": [
-   "Return migration to informal housing in coastal Jakarta",
-   "Ghana's climate policy analysis",
-   "Management shift in urban sewage recycling systems",
-   "Six paradigm shifts needed for Global South planning",
-   "Review of urban agriculture and nexus policies in the South",
-   "Local views shape forest restoration in Nigeria",
-   "Evaluating Ecotourism in Arid Oases",
-   "New lightweight green roof lowers temperature",
-   "Small mammal diversity in Tianshan Mountains"
-  ],
-  "radar": [
-   "UNDP and Adaptation Fund equip water users in Kafernighan River",
-   "Green Climate Fund Approves Record $3.3B Climate Investments",
-   "EBRD and Green Climate Fund Allocate €87m for Greener Cities",
-   "Delhi Declaration 2026 Calls for Stronger City Role in Climate Governance",
-   "Southeast Asian voices on climate change in Nature"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Payments for ecosystem services basics",
-   "High-Andean landscape"
-  ]
- },
  "2026-11-03": {
   "papers": [
    "Undeveloped land matches urban footprint in arid cities",
@@ -367,6 +340,33 @@
   "lessons": [
    "Protected area design and enforcement",
    "Infrastructure studies"
+  ]
+ },
+ "2026-11-17": {
+  "papers": [
+   "Monthly data reveals seasonal shifts in ecosystem services",
+   "Perceived agroecological management and household livelihoods",
+   "New method detects small fires in satellite images",
+   "Crime fear affects park use in Pakistan settlements",
+   "Plant complexity predicts soil carbon in drylands",
+   "Water overuse and climate change degrade an Argentine wetland",
+   "Medieval diet and environment studied in Central Asia",
+   "LEGO AI workshop teaches urban heat concepts",
+   "Fragile governance of marine plastics in Tumaco, Colombia"
+  ],
+  "radar": [
+   "IUCN launches framework for Nature-based Solutions at COP31",
+   "Proposals to amend Vietnam's Environmental Protection Law",
+   "The growing challenge of heat in Europe's cities",
+   "Mega-developments threaten Cape Town's greenway",
+   "Who gets to shape Greater Dhaka's urban future?"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Resilience in socioecological systems",
+   "ecosystem services"
   ]
  }
 }

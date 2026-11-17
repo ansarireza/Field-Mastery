@@ -1,30 +1,29 @@
 {
  "enabled": true,
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "e2872f0900",
+  "id": "e6afca7ade",
   "scope": "Land-cover change and settlement expansion",
-  "q": "How do you account for transferability between cities when applying worldwide theories to data-scarce Kabul?",
-  "type": "generalisability",
+  "q": "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?",
+  "type": "theory",
   "outline": [
-   "Acknowledge semi-arid and conflict-affected data constraints",
-   "Explain how transferable methods are adapted",
-   "Discuss limits of applying non-Kabul international research"
+   "Define modeled supply potential using InVEST",
+   "Clarify demand and service flow concepts",
+   "Explain how actual delivery differs from biophysical potential"
   ],
-  "pitfall": "Assuming methods transfer directly without addressing data-scarce or conflict contexts.",
-  "follow_up": "What specific indicators ensure a model calibrated elsewhere fits Kabul's mountain morphology?",
-  "bring": "Comparative methodological framework mapping global methods to data-scarce settings.",
+  "pitfall": "Treating InVEST model outputs as direct measurements of human benefits or actual use.",
+  "follow_up": "How does access to urban nature factor into the gap between supply and human benefits?",
+  "bring": "Conceptual diagram separating supply, demand, flows, and actual benefits.",
   "self_check": [
-   "Addresses data scarcity",
-   "Considers context mismatch",
-   "Avoids over-generalization"
+   "Clearly separates supply from delivery",
+   "References ecosystem service cascade",
+   "Acknowledges model limitations"
   ]
  },
  "bank_total": 24,
- "asked": 19,
+ "asked": 20,
  "upcoming": [
-  "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?",
   "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?",
   "How do you rule out alternative explanations for differences in ecological functions between settlement types?",
   "What are the limitations of interpreting habitat quality as biodiversity and runoff retention as flood risk?",

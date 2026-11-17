@@ -1,64 +1,64 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "lessons": [
   {
-   "id": "955a523a19",
-   "date": "2026-11-16",
-   "term": "Protected area design and enforcement",
-   "area": "Conservation policy",
-   "kind": "method",
-   "definition": "Protected area design and enforcement involve creating and guarding zones to conserve nature and secure ecological benefits.",
-   "plain": "This method means setting aside specific urban areas for nature and making sure rules protect them. In fast-growing cities, it helps keep green spaces safe for cooling or water filtering, despite weak rule enforcement or rapid informal building.",
-   "example": "Guarding a hillside park in a growing Global South city from being turned into informal housing to preserve water flow.",
-   "connects": "It connects to habitat quality, green-blue infrastructure, and governance in data-scarce regions.",
-   "why_phd": "Critical for defending how spatial planning proposals can legally safeguard ecosystem services against rapid land-cover change.",
+   "id": "7e3c7410f7",
+   "date": "2026-11-17",
+   "term": "Resilience in socioecological systems",
+   "area": "Socioecological systems",
+   "kind": "concept",
+   "definition": "Resilience in socioecological systems is the capacity of linked human and nature systems to absorb shocks and adapt while keeping core functions.",
+   "plain": "Cities and nature are closely linked. Resilience means how well this combined system handles stress, like heatwaves or rapid urban growth, without collapsing. Instead of just bouncing back to how things were, a resilient system adapts and learns to survive future challenges.",
+   "example": "In Kabul, integrating hillside green spaces helps a neighborhood absorb heavy rainfall and reduce flood risks while coping with rapid informal housing growth.",
+   "connects": "It connects to ecosystem service supply, nature's contributions to people, and planning for climate adaptation in data-scarce cities.",
+   "why_phd": "Vital for your defense because it helps explain how Kabul's informal settlements and green spaces can adapt to rapid land-cover change and stress.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the main goal of protected area enforcement?",
-     "a": "To guard designated nature zones and maintain their ecological benefits against pressures like informal settlement."
+     "q": "What does resilience mean for a socioecological system?",
+     "a": "The capacity of linked human and nature systems to absorb shocks and adapt while keeping core functions."
     },
     {
-     "q": "Why is enforcement difficult in semi-arid and conflict-affected cities?",
-     "a": "Due to data scarcity, rapid urban growth, and weak institutional capacity."
+     "q": "Why is resilience important for Kabul's environmental planning?",
+     "a": "It helps the city adapt to rapid development, climate stress, and land-cover changes without system collapse."
     }
    ],
-   "search": "protected area enforcement urban conservation"
+   "search": "socioecological resilience urban Global South"
   },
   {
-   "id": "bdb2916fd5",
-   "date": "2026-11-16",
-   "term": "Infrastructure studies",
+   "id": "5ec20b4874",
+   "date": "2026-11-17",
+   "term": "ecosystem services",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Infrastructure studies examine how physical structures shape ecological functions, resource flows, and human well-being in cities.",
-   "plain": "Infrastructure studies look at how built networks—like roads, water pipes, and green spaces—interact with nature. In cities, they help us see how physical changes affect things like heat, flooding, and access to nature for different communities.",
-   "example": "Studying how informal water pipes and paved roads alter stormwater runoff and neighborhood cooling in a growing South Asian city.",
-   "connects": "Links settlement morphology to ecosystem service supply, demand, and environmental justice.",
-   "why_phd": "Vital for planning because built structures dictate whether ecosystem services actually reach vulnerable urban residents.",
+   "definition": "Urban ecosystem services are the benefits that city environments and nature provide to human well-being.",
+   "plain": "Think of nature in cities as a working system that cools hot neighborhoods, manages stormwater, and gives people places to relax. In places like Kabul, studying these benefits helps us see how changing land use affects everyday human life.",
+   "example": "In a dry city like Kabul, trees and green spaces cool down crowded neighborhoods during hot summers and help soak up heavy rain.",
+   "connects": "It links ecological functions to human benefits, forming the basis for analyzing service supply, demand, and environmental justice.",
+   "why_phd": "Essential for your thesis to separate modeled nature supply from actual human benefits across formal and informal neighborhoods.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What do infrastructure studies examine in urban areas?",
-     "a": "How physical structures shape ecological functions, resource flows, and human well-being."
+     "q": "What is the difference between ecosystem service supply and demand?",
+     "a": "Supply is what nature provides, while demand is what human populations actually need and use."
     },
     {
-     "q": "Why is this topic important for urban planning?",
-     "a": "It helps show how built networks affect environmental benefits like cooling and flood control."
+     "q": "Why is separating modeled supply from actual delivery important?",
+     "a": "It ensures that the benefits measured actually reach people, especially in unequal or informal areas."
     }
    ],
-   "search": "urban infrastructure studies ecosystem services"
+   "search": "urban ecosystem services supply demand"
   }
  ],
- "total_learned": 38,
+ "total_learned": 40,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Resilience in socioecological systems",
    "Adaptive management principles",
    "Revealed preference valuation methods",
    "Resource tenure and property rights",
-   "Spatial econometric land models"
+   "Spatial econometric land models",
+   "Capabilities approach to well-being"
   ],
   "stages": [
    "Foundation: understand concepts",

@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Resilience in socioecological systems",
-   "area": "Socioecological systems",
-   "kind": "concept"
-  },
-  {
    "term": "Adaptive management principles",
    "area": "Natural resource management",
    "kind": "framework"
@@ -149,6 +144,8 @@
   "Indigenous knowledge and valuation",
   "deep learning–based land use/land cover maps",
   "Protected area design and enforcement",
-  "Infrastructure studies"
+  "Infrastructure studies",
+  "Resilience in socioecological systems",
+  "ecosystem services"
  ]
 }
