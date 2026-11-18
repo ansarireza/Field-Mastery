@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Adaptive management principles",
-   "area": "Natural resource management",
-   "kind": "framework"
-  },
-  {
    "term": "Revealed preference valuation methods",
    "area": "Ecosystem services valuation",
    "kind": "method"
@@ -146,6 +141,8 @@
   "Protected area design and enforcement",
   "Infrastructure studies",
   "Resilience in socioecological systems",
-  "ecosystem services"
+  "ecosystem services",
+  "Adaptive management principles",
+  "Peatlands"
  ]
 }

@@ -1,64 +1,64 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "lessons": [
   {
-   "id": "7e3c7410f7",
-   "date": "2026-11-17",
-   "term": "Resilience in socioecological systems",
-   "area": "Socioecological systems",
-   "kind": "concept",
-   "definition": "Resilience in socioecological systems is the capacity of linked human and nature systems to absorb shocks and adapt while keeping core functions.",
-   "plain": "Cities and nature are closely linked. Resilience means how well this combined system handles stress, like heatwaves or rapid urban growth, without collapsing. Instead of just bouncing back to how things were, a resilient system adapts and learns to survive future challenges.",
-   "example": "In Kabul, integrating hillside green spaces helps a neighborhood absorb heavy rainfall and reduce flood risks while coping with rapid informal housing growth.",
-   "connects": "It connects to ecosystem service supply, nature's contributions to people, and planning for climate adaptation in data-scarce cities.",
-   "why_phd": "Vital for your defense because it helps explain how Kabul's informal settlements and green spaces can adapt to rapid land-cover change and stress.",
+   "id": "3406b56c0b",
+   "date": "2026-11-18",
+   "term": "Adaptive management principles",
+   "area": "Natural resource management",
+   "kind": "framework",
+   "definition": "Adaptive management is a structured process of learning from the outcomes of implemented environmental plans to improve future management.",
+   "plain": "Adaptive management is like learning by doing. Because cities like Kabul change fast and data is scarce, planners set up policies like experiments, watch what happens, and change their approach based on the results.",
+   "example": "In a peri-urban greening project in Kabul, planners test different tree species, monitor survival rates, and adjust planting choices yearly.",
+   "connects": "It connects scenario comparison and uncertainty assessment to real-world environmental planning and governance.",
+   "why_phd": "It helps you frame planning recommendations for data-scarce, conflict-affected cities as flexible, learning-based policies rather than rigid rules.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does resilience mean for a socioecological system?",
-     "a": "The capacity of linked human and nature systems to absorb shocks and adapt while keeping core functions."
+     "q": "What is the core idea of adaptive management in environmental planning?",
+     "a": "Learning from the results of implemented actions to continuously improve future management strategies."
     },
     {
-     "q": "Why is resilience important for Kabul's environmental planning?",
-     "a": "It helps the city adapt to rapid development, climate stress, and land-cover changes without system collapse."
+     "q": "Why is adaptive management useful in settings like Kabul?",
+     "a": "It helps deal with uncertainty, rapid land-cover change, and data scarcity by treating policies as flexible experiments."
     }
    ],
-   "search": "socioecological resilience urban Global South"
+   "search": "adaptive management urban planning"
   },
   {
-   "id": "5ec20b4874",
-   "date": "2026-11-17",
-   "term": "ecosystem services",
+   "id": "2c6c2723e2",
+   "date": "2026-11-18",
+   "term": "Peatlands",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Urban ecosystem services are the benefits that city environments and nature provide to human well-being.",
-   "plain": "Think of nature in cities as a working system that cools hot neighborhoods, manages stormwater, and gives people places to relax. In places like Kabul, studying these benefits helps us see how changing land use affects everyday human life.",
-   "example": "In a dry city like Kabul, trees and green spaces cool down crowded neighborhoods during hot summers and help soak up heavy rain.",
-   "connects": "It links ecological functions to human benefits, forming the basis for analyzing service supply, demand, and environmental justice.",
-   "why_phd": "Essential for your thesis to separate modeled nature supply from actual human benefits across formal and informal neighborhoods.",
+   "definition": "Peatlands are wetland ecosystems with thick layers of organic soil that store vast amounts of carbon and water.",
+   "plain": "Peatlands are soaked lands made of partly decayed plant matter over thousands of years. They act like giant sponges that hold water and trap carbon. When built over or dried out, they release stored carbon and lose their water benefits.",
+   "example": "In a Global South city, draining a peri-urban peatland for new housing removes natural flood barriers and releases heavy carbon emissions.",
+   "connects": "Links to stormwater runoff retention, water yield, and land-cover change in urban environments.",
+   "why_phd": "Vital for studying how losing wetland cover affects urban water flows, climate cooling, and environmental planning in dry settings.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is the difference between ecosystem service supply and demand?",
-     "a": "Supply is what nature provides, while demand is what human populations actually need and use."
+     "q": "What main role do peatlands play in water management?",
+     "a": "They act like sponges that retain stormwater runoff and regulate water availability."
     },
     {
-     "q": "Why is separating modeled supply from actual delivery important?",
-     "a": "It ensures that the benefits measured actually reach people, especially in unequal or informal areas."
+     "q": "What happens when urban growth dries out peatlands?",
+     "a": "They lose ecological functions and release large amounts of stored carbon."
     }
    ],
-   "search": "urban ecosystem services supply demand"
+   "search": "urban peatlands wetland ecosystem services"
   }
  ],
- "total_learned": 40,
+ "total_learned": 42,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Adaptive management principles",
    "Revealed preference valuation methods",
    "Resource tenure and property rights",
    "Spatial econometric land models",
-   "Capabilities approach to well-being"
+   "Capabilities approach to well-being",
+   "Additionality and leakage in PES"
   ],
   "stages": [
    "Foundation: understand concepts",

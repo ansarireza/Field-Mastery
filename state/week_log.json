@@ -1,29 +1,4 @@
 {
- "2026-11-03": {
-  "papers": [
-   "Undeveloped land matches urban footprint in arid cities",
-   "Mapped agroforestry in Africa using tree spatial patterns",
-   "Radar and optical data map delta farmland",
-   "Groundwater quality linked to geology in Sokoto Basin",
-   "Salinity drives antibiotic resistance gene patterns in lakes",
-   "Rainfall drivers of floods in India's Godavari basin",
-   "Combined shading devices reduce heat and cooling demand"
-  ],
-  "radar": [
-   "ANK-Projekt des Monats: Neue Lebensräume an Burg Vischering",
-   "Climate change affects Modesto’s poorest areas the most",
-   "Maternal mental health liveability shaped by environmental profiles",
-   "For COPs to Deliver: National Ambition Met with Local Action",
-   "Developing green spaces for a livable capital city in Vietnam"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Global South development paradigms",
-   "compound dry-hot hydroclimatic stress"
-  ]
- },
  "2026-11-04": {
   "papers": [
    "Tourism drives land change and adaptation in peri-urban Batu",
@@ -367,6 +342,33 @@
   "lessons": [
    "Resilience in socioecological systems",
    "ecosystem services"
+  ]
+ },
+ "2026-11-18": {
+  "papers": [
+   "Optimizing ecosystem service trade-offs in urban fringes",
+   "A new spatial ecosystem capacity index is created",
+   "Forest legacies drive biodiversity and service trade-offs",
+   "Syntropic infrastructure cools cities and links nature",
+   "Climate and housing vulnerability near a Delhi landfill",
+   "Community sovereignty improves One Health in the Global South",
+   "Power for women does not mean rightful legitimacy",
+   "Mosquito species expands into northern Italy",
+   "Desert scorpion communities show seasonal variation"
+  ],
+  "radar": [
+   "Urban Biodiversity Plans Systematically Exclude Marginalized Populations",
+   "COP31: Brazil proposes public solutions to lead climate action in Global South",
+   "COP31: Leaders Put Resilient Cities on the Table. Will the Money Follow?",
+   "Interconnected Water Risks Amplify Infectious Disease in Informal Settlements",
+   "Ho Chi Minh City Approves 2025–2050 Master Plan"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Adaptive management principles",
+   "Peatlands"
   ]
  }
 }

@@ -1,30 +1,29 @@
 {
  "enabled": true,
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "basis": "Configured study themes and methods; no unpublished findings or full thesis supplied",
  "today": {
-  "id": "e6afca7ade",
+  "id": "0d2d3fdf57",
   "scope": "Land-cover change and settlement expansion",
-  "q": "How do you distinguish modeled supply potential from actual service delivery in settlement expansion analysis?",
-  "type": "theory",
+  "q": "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?",
+  "type": "methods",
   "outline": [
-   "Define modeled supply potential using InVEST",
-   "Clarify demand and service flow concepts",
-   "Explain how actual delivery differs from biophysical potential"
+   "Outline land-cover and land-change accuracy assessments",
+   "Describe sensitivity and uncertainty assessment procedures",
+   "Explain how errors propagate into spatial models"
   ],
-  "pitfall": "Treating InVEST model outputs as direct measurements of human benefits or actual use.",
-  "follow_up": "How does access to urban nature factor into the gap between supply and human benefits?",
-  "bring": "Conceptual diagram separating supply, demand, flows, and actual benefits.",
+  "pitfall": "Overstating accuracy of land-change validation without uncertainty bounds.",
+  "follow_up": "How do baseline conditions and spatial scale affect your uncertainty assessment?",
+  "bring": "Flowchart showing error propagation from land-cover validation to InVEST outputs.",
   "self_check": [
-   "Clearly separates supply from delivery",
-   "References ecosystem service cascade",
-   "Acknowledges model limitations"
+   "Mentions validation accuracy",
+   "Addresses uncertainty assessment",
+   "Recognizes model estimates"
   ]
  },
  "bank_total": 24,
- "asked": 20,
+ "asked": 21,
  "upcoming": [
-  "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?",
   "How do you rule out alternative explanations for differences in ecological functions between settlement types?",
   "What are the limitations of interpreting habitat quality as biodiversity and runoff retention as flood risk?",
   "How does watershed-scale interpretation change annual water yield findings in semi-arid mountainous settings?"

@@ -1,205 +1,551 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "summary": [
-  "Studies investigate urban ecosystem services, seasonal shifts, and land-cover changes across different regions.",
-  "Research examines environmental planning, agroecological management, and climate impacts on local sustainability.",
-  "Projects explore urban heat concepts, park use, and governance issues related to marine plastics and resources."
+  "Studies explore ecosystem services, trade-offs, and urban fringes with a focus on capacity indices.",
+  "Research examines climate vulnerability, community sovereignty, and environmental planning in regions.",
+  "Papers investigate biodiversity, forest legacies, and infrastructure cooling urban and natural areas."
  ],
  "items": [
   {
-   "id": "W7225880602",
-   "title": "Monthly Multi-Source Remote Sensing Reveals Seasonal Pulses, Bundle Transitions, and Differentiated Management of Ecosystem Services in the Yongding River Basin",
-   "headline": "Monthly data reveals seasonal shifts in ecosystem services",
+   "id": "W7233713477",
+   "title": "Ecosystem-Service Trade-Off Optimization Potential, Nonlinear Responses, and Spatial Prioritization in Urban Fringe Areas Using Multi-Source Geospatial Data",
+   "headline": "Optimizing ecosystem service trade-offs in urban fringes",
    "bullets": [
-    "Used monthly remote sensing and data to model four ecosystem services in 18 subbasins.",
-    "Found that over a third of monthly service groupings differed from annual averages.",
-    "Shows why seasonal tracking is vital for targeted environmental basin management."
+    "Integrated multi-source geospatial data to assess ecosystem service trade-off potential.",
+    "Found grain production and water yield had the strongest negative association.",
+    "Connects trade-off assessment and spatial prioritization for ecosystem management."
    ],
    "plain": {
-    "question": "How do nature benefits change across different months rather than just yearly averages?",
-    "method": "Used monthly satellite data, weather, and soil info to track four nature benefits over three years.",
-    "finding": "Yearly summaries hide important monthly changes, showing distinct seasonal patterns and differences.",
-    "why": "This helps planners manage natural resources better by knowing exact times when services peak."
+    "question": "How can we balance competing land uses like farming and water in growing city edges?",
+    "method": "They combined satellite maps, weather, soil, and human data using a computer distance model.",
+    "finding": "Socioeconomic growth and fragmented landscapes heavily drive trade-offs between services.",
+    "why": "It helps planners figure out where to protect nature versus where to allow development."
    },
    "full": {
-    "explainer": "When studying how nature helps people, scientists often look at yearly averages. However, this new paper shows that yearly summaries can hide important seasonal changes. By using monthly satellite, weather, and soil data, the researchers tracked four key environmental benefits—carbon fixation, water conservation, soil retention, and wind erosion prevention—across 18 subbasins of the Yongding River Basin during three different years. They found that over a third of monthly service groupings did not match what the yearly average suggested. For instance, carbon, water, and soil benefits often peaked in summer, while wind erosion prevention peaked in April in specific western areas. Some subbasins followed shared summer pathways, while others behaved differently. This monthly approach reveals specific windows of time for seasonal assessment and highlights unique local priorities that yearly data completely misses, helping planners manage land and water more precisely throughout the year.",
+    "explainer": "Urban fringe areas are fast-changing transition zones where rapid land use changes create conflicts between food production, water regulation, and other ecological functions. This study looked at the urban fringe areas of Henan Province, China, under 2022 baseline conditions. The researchers integrated remote-sensing products with meteorological, soil, terrain, and socioeconomic data to assess ecosystem service trade-off optimization potential, known as TOP. They used a specific framework to measure TOP as the shortest distance to a fitted Pareto frontier in standardized ecosystem service space, looking at pairwise combinations of grain production, carbon storage, soil retention, and water yield. They found that grain production and water yield had the strongest negative association and the largest regional distance. Using machine learning and advanced interpretation tools, they identified key predictors like gross domestic product and patch density, showing how socioeconomic intensity and landscape fragmentation influence these trade-offs. Finally, they used these insights to identify candidate priority zones for differentiated ecosystem management.",
     "caveats": [
-     "The study focuses on the Yongding River Basin, so findings may differ in urban, arid, or conflict-affected settings like Kabul.",
-     "Only four specific ecosystem services were estimated.",
-     "Not stated how social-ecological systems or human settlement types interact with these monthly service bundles."
+     "Attainable gains in service supply and specific management intervention benefits require separate assessment.",
+     "Not stated whether these findings apply directly to the Global South or Kabul."
     ],
     "jargon": [
      {
-      "term": "Ecosystem services",
-      "definition": "The benefits that people freely gain from a healthy natural environment."
+      "term": "Ecosystem-Service Trade-Off",
+      "definition": "A situation where the increase in one ecosystem service causes the decrease of another."
      },
      {
-      "term": "Carbon fixation",
-      "definition": "The process where plants capture and store carbon dioxide from the atmosphere."
+      "term": "Production Possibility Frontier",
+      "definition": "A curve showing the maximum possible output combinations for two competing services."
      },
      {
-      "term": "Self-organizing map",
-      "definition": "A type of machine learning tool used to group and visualize complex data patterns."
+      "term": "XGBoost",
+      "definition": "A machine learning method used here to predict trade-off potentials from data predictors."
      },
      {
-      "term": "Ecosystem service bundles",
-      "definition": "Sets of multiple ecosystem services that repeatedly appear together across space or time."
+      "term": "Shapley Additive Explanations",
+      "definition": "A tool used to explain the output of machine learning models by showing predictor importance."
      }
     ],
-    "fit": "Demonstrates the importance of monthly temporal resolution over annual summaries, showing how service bundles shift across time."
+    "fit": "Provides methods for assessing ecosystem service trade-offs, spatial prioritization, and modeling variables relevant to urban planning."
    },
    "thesis": {
-    "why": "It shows how annual summaries obscure temporal dynamics, which challenges simple static assessments of ecosystem service supply.",
-    "action": "Check if your own modeled supply metrics rely on annual averages that might hide critical seasonal pulses.",
-    "relationship": "challenges"
+    "why": "It models ecosystem service trade-offs and spatial priorities using geospatial data, which mirrors the student's spatial modeling and scenario comparison goals.",
+    "action": "Check how they handled spatial validation and uncertainty for the trade-off model.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "How do you know these monthly model estimates reflect actual service delivery rather than modeling artifacts?",
-    "evidence": "The abstract relies entirely on modeled estimates from integrated remote sensing, meteorological, soil, and terrain data without mentioning ground-truth observations.",
-    "limit": "The abstract does not establish the causal drivers behind the observed monthly bundle transitions or their direct impacts on human wellbeing.",
-    "check": "Verify how the authors validated their monthly remote sensing models against ground measurements."
+    "question": "Does this distance-based trade-off metric prove actual ecological improvement if applied?",
+    "evidence": "The abstract states that attainable gains in service supply and management intervention benefits require separate assessment.",
+    "limit": "The study does not establish whether the geometric distance metric causes better real-world ecological functions.",
+    "check": "Verify how the study distinguishes modeled trade-off potential from actual on-the-ground ecosystem delivery."
    },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
+   "relevance": 4,
+   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
    "source": {
-    "url": "https://doi.org/10.3390/rs18223899",
-    "doi": "https://doi.org/10.3390/rs18223899",
+    "url": "https://doi.org/10.3390/rs18223918",
+    "doi": "https://doi.org/10.3390/rs18223918",
     "venue": "Remote Sensing",
-    "date": "2026-11-12",
+    "date": "2026-11-14",
     "authors": [
-     "Mengdong Huang",
-     "Xin Chi",
-     "Yiping Geng",
-     "Zhao WeiHua",
-     "Zhuoran Sun",
-     "Zechen Song"
+     "Pu Jia",
+     "范钦栋",
+     "Liu Baoguo",
+     "Yanfang Hu",
+     "Geng Ma"
     ],
-    "n_authors": 8,
+    "n_authors": 5,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7233549913",
-   "title": "Perceived agroecological management and household livelihood outcomes: evidence from smallholder clove farmers in Pemba Island, Zanzibar",
-   "headline": "Perceived agroecological management and household livelihoods",
+   "id": "W7234135339",
+   "title": "A spatial ecosystem capacity index integrating ecosystem condition and ecosystem service under the SEEA-EA framework",
+   "headline": "A new spatial ecosystem capacity index is created",
    "bullets": [
-    "Studied smallholder clove farmers in Pemba Island, Zanzibar",
-    "Linked perceived agroecological management to household livelihoods",
-    "Shows how farm management relates to smallholder farmer outcomes"
+    "Integrated ecosystem condition and ecosystem service under the SEEA-EA framework.",
+    "Developed a spatial ecosystem capacity index for evaluation.",
+    "Provides a new way to measure and map ecosystem capacity."
    ],
    "plain": {
-    "question": "How does perceived agroecological management affect household livelihoods for smallholder farmers?",
-    "method": "Studied smallholder clove farmers in Pemba Island, Zanzibar to gather evidence.",
-    "finding": "Found links between perceived agroecological management and household livelihood outcomes.",
-    "why": "It helps us understand how farm management practices affect the lives and well-being of smallholder farmers."
+    "question": "How can we better measure the capacity of ecosystems using condition and services?",
+    "method": "Created a spatial ecosystem capacity index using the SEEA-EA framework.",
+    "finding": "Developed a new index integrating ecosystem condition and ecosystem service.",
+    "why": "It helps improve how we evaluate and plan for nature's benefits."
    },
    "full": {
-    "explainer": "This paper looks at how smallholder clove farmers on Pemba Island in Zanzibar manage their land and how this relates to their household livelihoods. The study investigates perceived agroecological management and what it means for the people farming the land. By examining evidence from these farmers, the research sheds light on the connection between farming practices and livelihood outcomes. For a researcher studying human benefits and environmental planning, this study provides empirical insights into how local land management links to human well-being in a specific regional context.",
+    "explainer": "This paper presents a way to look at how nature works and helps us by introducing a spatial ecosystem capacity index. The authors build this index under the SEEA-EA framework, which is a standard approach for linking nature and the economy. By combining ecosystem condition with ecosystem services, the index gives a clearer picture of what environments can provide. For a student studying urban ecosystem services, this work offers a fresh methodological perspective on how to spatially map and evaluate ecological functions. Although the abstract is brief and does not mention specific case studies or urban locations, the underlying framework and index creation offer useful ideas for spatial modeling and environmental planning.",
     "caveats": [
-     "Not stated",
-     "Not stated"
+     "not stated",
+     "not stated"
     ],
     "jargon": [
      {
-      "term": "Agroecological management",
-      "definition": "Farming practices that apply ecological concepts to agricultural systems."
+      "term": "SEEA-EA framework",
+      "definition": "A system for integrating environmental and economic data to account for ecosystem health and services."
      },
      {
-      "term": "Smallholder",
-      "definition": "A farmer operating on a small scale with limited land and resources."
+      "term": "ecosystem condition",
+      "definition": "The overall quality and health of an ecosystem's physical, chemical, and biological characteristics."
      }
     ],
-    "fit": "It explores household livelihood outcomes from land management in the Global South, offering context on human benefits from ecosystems."
+    "fit": "Offers a spatial index framework combining condition and services, relevant to spatial modeling and ecosystem service assessment."
    },
    "thesis": {
-    "why": "It touches on land management and human outcomes in the Global South, offering a parallel to understanding human benefits from ecosystem services.",
-    "action": "Check how the study measures livelihood outcomes to see if similar social metrics apply to urban-rural fringes.",
-    "relationship": "context"
+    "why": "It introduces a spatial index framework that links ecosystem conditions and services, which relates to measuring supply potential and spatial evaluation.",
+    "action": "Check the full paper to see if the index can be applied to urban settings or semi-arid data-scarce regions.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "How can subjective perceptions of management be reliably linked to objective livelihood outcomes?",
-    "evidence": "The abstract mentions perceived agroecological management and household livelihood outcomes without detailing the measurement framework.",
-    "limit": "We cannot determine the specific metrics used or whether the relationship is causal from the abstract alone.",
-    "check": "Verify the exact survey methods and indicators used to measure both perceptions and livelihood outcomes."
+    "question": "How does this index perform in data-scarce urban environments?",
+    "evidence": "The abstract introduces a spatial ecosystem capacity index under SEEA-EA but gives no details on data requirements.",
+    "limit": "We cannot establish whether this index works in cities, data-scarce zones, or informal settlements from this abstract.",
+    "check": "Verify what input data types and scales are required to compute the proposed capacity index."
    },
-   "relevance": 2,
+   "relevance": 3,
    "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
    "source": {
-    "url": "https://doi.org/10.1007/s10457-026-01736-9",
-    "doi": "https://doi.org/10.1007/s10457-026-01736-9",
-    "venue": "Agroforestry Systems",
-    "date": "2026-11-15",
+    "url": "https://doi.org/10.1016/j.ecolind.2026.115863",
+    "doi": "https://doi.org/10.1016/j.ecolind.2026.115863",
+    "venue": "Ecological Indicators",
+    "date": "2026-11-16",
     "authors": [
-     "Sixbert Joachim Msambichaka"
+     "Ariadna Álvarez-Ripado",
+     "Adrián G. Bruzón",
+     "Fátima Arrogante‐Funes",
+     "Patricia Arrogante‐Funes"
     ],
-    "n_authors": 1,
-    "open_access": false,
+    "n_authors": 4,
+    "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7225693689",
-   "title": "Subpixel Low-Intensity Fire Detection in Wide-Swath Remote Sensing: Dual-Scale Thermal Background Adaptation and Spatiotemporal Semantic Constraints",
-   "headline": "New method detects small fires in satellite images",
+   "id": "W7233976929",
+   "title": "Quantifying biodiversity and ecosystem service trade-offs to inform forest landscape management under changing conditions",
+   "headline": "Forest legacies drive biodiversity and service trade-offs",
    "bullets": [
-    "Used dual-scale thermal thresholds and spatial constraints to spot weak fires.",
-    "Found fresh burn marks at 10 of 12 surveyed candidate sites.",
-    "Helps screen low-intensity fires and reduces false alarms from industrial sites."
+    "Simulated long-term interactions between biodiversity and ecosystem services over 120 years.",
+    "Found that forest structure and past management heavily outweigh future changes.",
+    "Shows landscape management needs long-term structural strategies over short-term fixes."
    ],
    "plain": {
-    "question": "How can we spot small, weak fires using satellite pictures without being tricked by factories or solar panels?",
-    "method": "We tested a new computer method that looks at local heat backgrounds and long-term heat history.",
-    "finding": "The method successfully filtered out false alarms and found real burn marks in fields.",
-    "why": "It helps scientists reliably screen for weak fires and check them in the field."
+    "question": "How do forest management and climate change affect biodiversity and nature benefits over time?",
+    "method": "Used long-term computer simulations of forest growth with many different management and climate scenarios.",
+    "finding": "Past forest management and age structure control biodiversity and service outcomes more than future changes.",
+    "why": "To show that improving nature benefits requires long-term structural strategies instead of quick fixes."
    },
    "full": {
-    "explainer": "Finding small, low-intensity fires in wide satellite images is tricky because mixed pixels weaken the heat signals. Also, things like factories and solar panels can cause false alarms. To fix this, researchers created a new method using dual-scale thermal background adaptation and spatiotemporal semantic constraints. They tested it by detecting crop straw burning in China. The technique combines a wide look at thermal states with local neighborhood stats to adjust thresholds and catch weak fire candidates. It then uses historical heat data and proximity checks to filter out non-target heat sources while keeping real detections. Tests using satellite scenes and field surveys showed that fresh burn marks were present at 10 out of 12 checked sites. Furthermore, a transfer experiment reduced false detections near industrial facilities compared to official products. Overall, this framework helps screen for low-intensity fires and supports targeted field checks.",
+    "explainer": "Forests provide many benefits and support biodiversity, but intensive management and climate change threaten them. This study looked at how biodiversity and multiple ecosystem services interact over a long time at the landscape scale. Researchers used a computer simulation model to test how different management choices, ownership types, disturbances, and climate changes affect a large temperate mountain region in Central Europe over a 120-year period. They found that differences in biodiversity and service levels were mainly caused by existing forest structure and past management legacies, such as the age of the trees and past zoning rules. Future shifts in management and climate disturbances had a smaller impact in this timeframe. The study discovered clear trade-offs between biodiversity and wood production, as well as between biodiversity and soil and water regulation or recreation. Opportunities to improve everything at once were rare. The main takeaway is that landscape multifunctionality is limited by long-term structural history, meaning real improvements require long-term structural plans.",
     "caveats": [
-     "The 83.3% survey success rate applies only to the surveyed candidate set and does not represent overall accuracy.",
-     "Not stated: broader global performance outside of the tested regions in China."
+     "Simulations are based on a specific temperate mountain region in Central Europe.",
+     "Future changes in management and climate only contributed marginally within the analyzed time horizon."
     ],
     "jargon": [
      {
-      "term": "Subpixel",
-      "definition": "Refers to targets or events smaller than a single pixel in a satellite image."
+      "term": "Ecosystem services",
+      "definition": "The many useful benefits that healthy natural environments provide to people."
      },
      {
-      "term": "Wide-Swath",
-      "definition": "Describes satellite instruments that capture a very wide strip of Earth's surface at once."
+      "term": "Pareto frontiers",
+      "definition": "A set of choices that helps show the best possible trade-offs between competing goals."
      },
      {
-      "term": "Thermal Background",
-      "definition": "The normal or baseline heat of an area surrounding a potential heat source."
+      "term": "Multifunctionality",
+      "definition": "The capacity of a landscape to provide multiple different benefits and services at once."
+     },
+     {
+      "term": "Legacies",
+      "definition": "Long-lasting impacts from past conditions, events, or management choices on current systems."
      }
     ],
-    "fit": "This paper offers remote sensing methods and error reduction techniques that relate to land-cover change and spatial data accuracy."
+    "fit": "Connects via landscape-scale trade-off analysis, long-term planning constraints, and evaluating multiple ecosystem services under scenarios."
    },
    "thesis": {
-    "why": "The student focuses on urban ecosystem services and land-cover change using remote sensing, but this paper deals with fire detection rather than urban services.",
-    "action": "Check if the spatial filtering or remote sensing error reduction techniques can apply to land-cover change mapping.",
+    "why": "It shows how historical structures constrain future ecosystem service trade-offs, helping evaluate long-term planning scenarios and spatial modeling limitations.",
+    "action": "Check how their multicriteria optimization framework and Pareto frontiers relate to your scenario comparison methods.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Can findings from a temperate European forest region be transferred to semi-arid urbanizing settings like Kabul?",
+    "evidence": "The study evaluates a temperate mountain region in Central Europe using forest growth simulators and ownership structures over 120 years.",
+    "limit": "The abstract does not provide data on urban settings, arid climates, informal settlements, or the Global South.",
+    "check": "Verify if the spatial modeling approaches or trade-off evaluation tools can be adapted for urban green-blue infrastructure."
+   },
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+   "source": {
+    "url": "https://doi.org/10.1371/journal.pone.0359884",
+    "doi": "https://doi.org/10.1371/journal.pone.0359884",
+    "venue": "PLoS ONE",
+    "date": "2026-11-16",
+    "authors": [
+     "Róbert Sedmák",
+     "Yvonne Brodrechtová",
+     "Ján BahýÍ",
+     "Ján Tuček"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7218938989",
+   "title": "Syntropic infrastructure for regenerative urban metabolic reorganization in an Atlantic island city",
+   "headline": "Syntropic infrastructure cools cities and links nature",
+   "bullets": [
+    "Used GIS to map connectivity, land surface temperature, soil carbon, and runoff in Tenerife.",
+    "Found severe ecological fragmentation, thermal hotspots, and a strong link between soil and heat.",
+    "Shows how integrated planning can improve ecological connectivity and urban resilience."
+   ],
+   "plain": {
+    "question": "How can we fix urban heat, water disruption, and habitat loss in crowded cities?",
+    "method": "The researchers mapped heat, soil carbon, water runoff, and nature links in a coastal city using computer software.",
+    "finding": "Areas with less soil carbon were much hotter, and urban zones showed severe nature fragmentation.",
+    "why": "This helps cities use connected natural systems to stay cool, handle water, and protect life."
+   },
+   "full": {
+    "explainer": "Cities often suffer from heat, poor water handling, and broken natural spaces. This paper suggests a new idea called syntropic infrastructure to fix these problems by reconnecting nature across the city. The researchers studied Santa Cruz de Tenerife to see how different environmental factors interact. They used computer mapping tools to look at nature links, surface temperatures, soil carbon, water runoff, and human access to nature, all set in a uniform grid. Their results showed that built-up areas have severe breaks in nature, and surface temperatures were much higher than in nearby vegetated areas. They found that places with more soil carbon had lower temperatures, while areas covered in hard surfaces were much hotter. The study suggests that planning with connected natural systems can help cool cities, manage water better, and make coastal and island areas more resilient to climate problems.",
+    "caveats": [
+     "The study focuses on a specific coastal and island metropolitan system, Santa Cruz de Tenerife.",
+     "Not stated whether these exact results apply directly to semi-arid or conflict-affected inland cities."
+    ],
+    "jargon": [
+     {
+      "term": "Syntropic infrastructure",
+      "definition": "A regenerative planning framework designed to reorganize ecological and thermal processes."
+     },
+     {
+      "term": "Land Surface Temperature (LST)",
+      "definition": "A measure of how hot the surface of the land is, detected via remote sensing."
+     },
+     {
+      "term": "Soil Organic Carbon (SOC)",
+      "definition": "The carbon component of soil organic matter that helps regulate temperature and ecosystem health."
+     },
+     {
+      "term": "Spatial autocorrelation",
+      "definition": "A statistical measure showing whether similar values cluster together across geographic space."
+     }
+    ],
+    "fit": "Connects spatial assessment, landscape metrics, and thermal analysis to urban planning in a transferable way."
+   },
+   "thesis": {
+    "why": "It demonstrates how to combine spatial metrics, temperature, and soil data to evaluate urban ecosystem vulnerabilities and plan nature-based interventions.",
+    "action": "Check how the authors standardized their spatial datasets into a 250 m grid resolution for multi-indicator assessment.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does higher soil organic carbon directly cause lower surface temperatures, or are both driven by underlying vegetation cover?",
+    "evidence": "The abstract reports a significant inverse correlation between soil organic carbon and land surface temperature (r = -0.64), but correlation is not causation.",
+    "limit": "The abstract cannot establish whether increasing soil organic carbon alone will sufficiently mitigate urban heat without changing impervious surfaces.",
+    "check": "Verify if the full paper controls for vegetation cover when analyzing the relationship between soil organic carbon and land surface temperature."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1038/s42949-026-00425-x",
+    "doi": "https://doi.org/10.1038/s42949-026-00425-x",
+    "venue": "npj Urban Sustainability",
+    "date": "2026-11-16",
+    "authors": [
+     "Fernando Miñarro-Mena",
+     "Juan Manuel Ros García"
+    ],
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7233933446",
+   "title": "Vocabularies on Climate and Housing Justice from a Landfill in Bhalswa, New Delhi, India",
+   "headline": "Climate and housing vulnerability near a Delhi landfill",
+   "bullets": [
+    "Used a year-long ethnographic study of health histories with 15 waste-worker households.",
+    "Found that residents use specific local words to name climate vulnerability instead of science…",
+    "Shows that housing and climate justice must be addressed together in Global South cities."
+   ],
+   "plain": {
+    "question": "How do we talk about and solve the climate crisis where people already face severe housing inequality in the Global South?",
+    "method": "The researchers spent a year doing interviews and studying the health histories of 15 waste-worker households near a landfill.",
+    "finding": "Residents express climate and housing problems using local words like landfill, work, rent, and enduring, rather than science terms.",
+    "why": "It proves that housing and climate justice cannot be separated, and local vocabularies matter for political recognition."
+   },
+   "full": {
+    "explainer": "Cities in the Global South face intense climate and environmental crises that worsen existing social and economic inequalities. This paper explores how to understand the climate crisis where people live with deep housing inequality. It looks at the case of waste workers living right next to the Bhalswa landfill in Delhi, India. These residents face unstable property rights, poor basic services, and constant dangers like landfill fires and polluted water, while their livelihoods depend on the landfill. The authors spent a year doing an ethnographic study, looking at health histories with 15 waste-worker households. They discovered that residents talk about climate and housing vulnerability using their own everyday vocabulary rather than technical climate science terms. By tracing four recurring Hindi words—referring to the landfill, work, rent, and enduring—the study shows how local terms form a unique register for experiencing climate change. The paper concludes that housing and climate justice must be handled together in the Global South, and respecting local vocabularies is a key form of political recognition.",
+    "caveats": [
+     "The study is based on a small sample of 15 waste-worker households.",
+     "Not stated whether these findings apply outside of Delhi or other landfill communities."
+    ],
+    "jargon": [
+     {
+      "term": "Tenure precarity",
+      "definition": "Insecure or unstable rights to the land or housing where people live."
+     },
+     {
+      "term": "Ethnographic study",
+      "definition": "A research method involving long-term immersion and interviews to understand people's lives."
+     },
+     {
+      "term": "Threat multiplier",
+      "definition": "A factor that worsens existing social, economic, political, and spatial problems."
+     },
+     {
+      "term": "Epistemic recognition",
+      "definition": "Acknowledgment and validation of people's own ways of knowing and understanding the world."
+     }
+    ],
+    "fit": "It connects by examining how marginalized urban communities in the Global South experience environmental hazards and housing inequality."
+   },
+   "thesis": {
+    "why": "It highlights how vulnerable urban residents frame environmental hazards differently than technical science models, informing local planning and justice.",
+    "action": "Check the full paper to see if local vocabularies can be integrated into spatial planning tools.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How do spatial constraints and background thermal adjustments affect accuracy in diverse landscapes?",
-    "evidence": "The abstract highlights dual-scale thermal background adaptation and semantic constraints to separate true fires from industrial false alarms.",
-    "limit": "The abstract does not establish how well this approach translates to urban environments or ecosystem service assessments.",
-    "check": "Verify the transferability of the spatial filtering methods to urban land-cover change mapping."
+    "question": "How can qualitative local vocabularies be integrated into quantitative spatial models of ecosystem services?",
+    "evidence": "The abstract argues that residents articulate vulnerability through local words rather than technical science language, contrasting qualitative lived experience with technical metrics.",
+    "limit": "The abstract does not establish how these local words can be translated into actionable spatial planning parameters or ecosystem service bundles.",
+    "check": "Verify if the full paper bridges qualitative ethnographic findings with spatial or environmental planning frameworks."
    },
-   "relevance": 1,
-   "watch": "Cites your reference doi:10.1016/j.rse.2014.02.015",
+   "relevance": 3,
+   "watch": null,
    "source": {
-    "url": "https://doi.org/10.3390/rs18223863",
-    "doi": "https://doi.org/10.3390/rs18223863",
-    "venue": "Remote Sensing",
-    "date": "2026-11-10",
+    "url": "https://doi.org/10.54825/kbow5607",
+    "doi": "https://doi.org/10.54825/kbow5607",
+    "venue": "Radical Housing Journal",
+    "date": "2026-11-16",
     "authors": [
-     "Zhongzheng Min",
-     "Yong Hu",
-     "Wenbin Tian",
-     "Lan Li",
-     "Qianqian Jiang",
-     "Cailan Gong"
+     "Rashee Mehra",
+     "Ruchika Lall"
+    ],
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7225999348",
+   "title": "Reframing community participation as sovereignty: A comparative synthesis of One Health approaches in the Global South",
+   "headline": "Community sovereignty improves One Health in the Global South",
+   "bullets": [
+    "Compared four community-based participatory projects across the Amazon and Africa",
+    "Found that true community ownership addresses the root causes of ill-health",
+    "Shifts global health toward decolonial frameworks and local self-determination"
+   ],
+   "plain": {
+    "question": "How can community participation improve health programs in the Global South?",
+    "method": "Compared four community-based projects using participatory methods in the Amazon and Africa.",
+    "finding": "True community control helps fix root causes of poor health and leads to better outcomes.",
+    "why": "It builds trust and resilience, transforming how global health programs are designed."
+   },
+   "full": {
+    "explainer": "In many global health programs, communities are treated as mere tools to help carry out top-down plans made by donors. This paper argues that instead of just token participation, communities need true sovereignty—the right to govern and own health projects in their own areas. The authors looked at four projects in the Amazon and Africa that used decolonial research methods. They found that when local and Indigenous knowledge is centered, communities can tackle deep-rooted problems like systemic vulnerability and lack of power, rather than just focusing narrowly on pathogens. This shift led to more trusted and effective results, such as faster detection of disease outbreaks. The study suggests that building health initiatives from the perspective of the Global South requires treating participation as self-determination.",
+    "caveats": [
+     "Not stated: specific quantitative metrics for outbreak detection speed",
+     "Not stated: details of how the comparative synthesis was technically executed"
+    ],
+    "jargon": [
+     {
+      "term": "One Health",
+      "definition": "An approach recognizing that human, animal, and environmental health are closely linked."
+     },
+     {
+      "term": "Sovereignty",
+      "definition": "The right of communities to define, govern, and own health interventions in their territories."
+     },
+     {
+      "term": "Decolonial",
+      "definition": "Approaches that center local and Indigenous knowledge systems to counter top-down colonial models."
+     },
+     {
+      "term": "Epistemic justice",
+      "definition": "Fair treatment of different knowledge systems, ensuring local and Indigenous views are valued."
+     }
+    ],
+    "fit": "Connects to environmental planning, governance, and justice in the Global South, linking community ownership to effective outcomes."
+   },
+   "thesis": {
+    "why": "It touches on governance, justice, and community roles in the Global South, offering insights for planning approaches that respect local knowledge and power.",
+    "action": "Check how governance and community participation frameworks map onto urban green-blue infrastructure planning.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does framing community participation as sovereignty change physical environmental planning outcomes?",
+    "evidence": "The abstract focuses entirely on health interventions, pathogens, and community-led health governance in the Amazon and Africa.",
+    "limit": "It cannot establish how sovereignty-based frameworks translate into spatial modeling or urban ecosystem service delivery.",
+    "check": "Verify if the paper discusses spatial or resource governance that applies to urban planning and ecosystem services."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1016/j.onehlt.2026.101664",
+    "doi": "https://doi.org/10.1016/j.onehlt.2026.101664",
+    "venue": "One Health",
+    "date": "2026-11-13",
+    "authors": [
+     "Fabian Méndez-Paz",
+     "Mercy Haumba",
+     "Monya Konneh",
+     "Stéphanie Maltais",
+     "Frédéric Mertens",
+     "Phiona Katushabe"
+    ],
+    "n_authors": 15,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7233580742",
+   "title": "Mapping agency: feminist geography and resistance of women’s collective action in arid Morocco",
+   "headline": "Power for women does not mean rightful legitimacy",
+   "bullets": [
+    "Studied women's agricultural cooperatives in arid southeastern Morocco.",
+    "Found that power moves across social fields, but legitimacy must be won anew.",
+    "Shows why formal economic tools produce uneven, gender-specific effects."
+   ],
+   "plain": {
+    "question": "How does the power women gain in groups turn into accepted rights?",
+    "method": "Fieldwork tracking women's claims across homes, communities, markets, and the state.",
+    "finding": "Power travels easily, but the legitimacy of claims must be earned in every new space.",
+    "why": "It explains why groups help women gain power, but face uneven acceptance everywhere."
+   },
+   "full": {
+    "explainer": "This paper looks at women's agricultural cooperatives, which are often used to help women improve their income and life. Usually, people judge these groups by looking only at personal changes like money or decision-making power. Instead, this study asks how the power women build together becomes recognized as right and proper across different areas of life, such as the household, local community, market, and government. Based on fieldwork in the dry province of Tata in southeastern Morocco, the researchers tracked individual claims made by women. The central discovery is an imbalance: while the power a woman creates can move between different social settings, the official legitimacy that makes her claims rightful does not move with it. She must win legitimacy fresh in every new setting under that setting's specific rules. This means a woman's claims might be accepted in one place but limited or changed in another. The study expands theories on patriarchal bargains, shows that legitimacy cannot be easily carried from one space to another, links neutral economic systems to gender results, and treats cooperatives as mixed spaces where women's multi-field agency can be clearly observed.",
+    "caveats": [
+     "Findings are based specifically on women in agricultural cooperatives in arid southeastern Morocco.",
+     "Not stated whether these patterns apply outside of arid regions or non-cooperative settings."
+    ],
+    "jargon": [
+     {
+      "term": "Institutional fields",
+      "definition": "Different social spaces or domains like the household, community, market, and state."
+     },
+     {
+      "term": "Legitimated agency",
+      "definition": "Action and power that is recognized as rightful and accepted within a specific setting."
+     },
+     {
+      "term": "Non-portability",
+      "definition": "The inability to carry something, like legitimacy, easily from one setting to another."
+     }
+    ],
+    "fit": "Connects to Global South institutional analysis, though it focuses on gender and social groups rather than urban ecosystem services."
+   },
+   "thesis": {
+    "why": "It shows how institutional context changes the outcomes of collective action, mirroring how spatial contexts alter ecosystem service benefits.",
+    "action": "Check if similar institutional friction applies to accessing urban nature or green spaces.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does this institutional framework apply to urban resource access?",
+    "evidence": "The abstract demonstrates that legitimacy is non-portable across household, community, market, and state fields.",
+    "limit": "The abstract does not test whether this non-portability applies to environmental resource management.",
+    "check": "Verify if the paper discusses environmental resource access alongside economic and social claims."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1007/s10460-026-11005-1",
+    "doi": "https://doi.org/10.1007/s10460-026-11005-1",
+    "venue": "Agriculture and Human Values",
+    "date": "2026-11-15",
+    "authors": [
+     "Khadija Kaffa"
+    ],
+    "n_authors": 1,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7167206507",
+   "title": "Evidence of expanding range and environmental suitability for Culex perexiguus in Northern Italy (Emilia-Romagna, 2025)",
+   "headline": "Mosquito species expands into northern Italy",
+   "bullets": [
+    "Collected 84 specimens of Culex perexiguus across 22 sites in northern Italy using surveillance.",
+    "Found the warm-climate mosquito is expanding north alongside a decrease in another species.",
+    "Matters for public health because this species can carry viruses like West Nile virus."
+   ],
+   "plain": {
+    "question": "Are warm-climate mosquitoes moving into cooler areas in Europe?",
+    "method": "Collected mosquitoes in Italy, checked their DNA, and modeled their ideal environment.",
+    "finding": "A mosquito usually found in hot places was discovered in northern Italy.",
+    "why": "Climate changes can move disease-carrying insects into new regions."
+   },
+   "full": {
+    "explainer": "Researchers studied Culex perexiguus, a mosquito typically found in hot and dry places like North Africa and the Middle East, because it can spread viruses like West Nile virus. In 2025, they collected 84 of these mosquitoes at 22 sites in Emilia-Romagna, northern Italy, and used DNA testing to confirm their identity. Comparing this with older data from 2009 showed that another mosquito species decreased at the same time, hinting at a northward shift in where these species can live. Ecological modeling showed that the mosquito's presence is linked to breeding habitats, and unusual weather in 2025 likely helped it survive there. Finding this warm-weather insect in a temperate area highlights how climate change is altering mosquito ranges, which poses new challenges for public health and disease monitoring.",
+    "caveats": [
+     "The study links meteorological anomalies to the expansion, but does not prove direct causation.",
+     "Not stated whether viral infection was detected in the collected mosquito specimens."
+    ],
+    "jargon": [
+     {
+      "term": "vector capacity",
+      "definition": "The ability of a pest or insect to acquire and transmit a pathogen."
+     },
+     {
+      "term": "DNA barcoding",
+      "definition": "A genetic method using a short DNA sequence to identify species."
+     },
+     {
+      "term": "ecological niche modelling",
+      "definition": "A computer method that predicts where a species can live using environmental data."
+     },
+     {
+      "term": "temperate continental climate",
+      "definition": "A climate with warm summers, cold winters, and moderate rainfall."
+     }
+    ],
+    "fit": "Provides a method for mapping species shifts and environmental suitability that can inform spatial modeling and habitat quality research."
+   },
+   "thesis": {
+    "why": "Demonstrates habitat suitability modeling and shifting species ranges under changing climates, relevant to tracking environmental changes.",
+    "action": "Check how the authors handled presence-only records and validation in their spatial model.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does ecological niche modeling prove that climate change caused the northward shift?",
+    "evidence": "The abstract states that meteorological anomalies likely favoured its presence and links the expansion to broader changes potentially tied to climate change.",
+    "limit": "The abstract cannot establish a direct causal link between long-term climate change and the specific 2025 mosquito observations.",
+    "check": "Verify how the ecological niche model was validated and what climate variables were explicitly tested."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1038/s41598-026-76953-4",
+    "doi": "https://doi.org/10.1038/s41598-026-76953-4",
+    "venue": "Scientific Reports",
+    "date": "2026-11-16",
+    "authors": [
+     "Mattia Calzolari",
+     "Annalisa Grisendi",
+     "Mara Scremin",
+     "Gastone Dalmonte",
+     "Emanuele Callegari",
+     "Anna Beatrice Casano"
     ],
     "n_authors": 10,
     "open_access": true,
@@ -207,403 +553,64 @@
    }
   },
   {
-   "id": "W7227516702",
-   "title": "Impact of perceived crime and safety on park usage: a comparative study of formal and informal settlements in Rawalpindi, Pakistan",
-   "headline": "Crime fear affects park use in Pakistan settlements",
+   "id": "W7164347933",
+   "title": "Hidden in the desert: Community structure and temporal variation of scorpions (Arachnida: Scorpiones) in a protected area of Baja California Sur, Mexico",
+   "headline": "Desert scorpion communities show seasonal variation",
    "bullets": [
-    "Surveyed 360 households across formal and informal areas in Rawalpindi, Pakistan.",
-    "Found that safety, settlement type, and park traits shape crime views and park use.",
-    "Informs city planners and designers about managing parks safely in growing cities."
+    "Sampled scorpion communities bimonthly for a year in a Mexican protected area",
+    "Found low species richness, with two species making up 79.3 percent of specimens",
+    "Provides baseline data for ecological monitoring in arid environments"
    ],
    "plain": {
-    "question": "How do fears of crime affect how people use city parks in planned and unplanned neighborhoods?",
-    "method": "The researchers surveyed 360 households in formal and informal areas of Rawalpindi, Pakistan.",
-    "finding": "Safety fears, park traits, and neighborhood types strongly shape how often people use parks.",
-    "why": "It helps city planners build safer, better-used parks in fast-growing cities."
+    "question": "How do scorpion populations change over time in a desert protected area?",
+    "method": "Collected scorpions every two months for a year in Mexico's desert.",
+    "finding": "Found few species, but many individuals, changing across seasons.",
+    "why": "Helps us understand desert ecology and supports future monitoring."
    },
    "full": {
-    "explainer": "Rapid, unplanned city growth brings many environmental and social challenges. Urban parks are vital for building climate-resilient cities, supporting sustainable development, and improving human well-being. However, these public spaces are sometimes linked to crime, and the fear of crime can stop people from visiting them. To understand this dynamic, this study explores how people's perceptions of crime affect park usage in both formal and informal settlements in Rawalpindi, Pakistan. The researchers looked at two formal areas (Bahria Town Phase 7 and Chaklala Scheme 3) and two informal areas (Ghareebabad and Satellite Town). They surveyed a total of 151 households in the formal settlements and 209 households in the informal settlements. By analyzing socioeconomic factors, park traits, and safety characteristics using regression, chi-square tests, and t-tests, they found that these elements are key determinants of crime perceptions and park usage. The findings help city planners and designers manage parks better.",
+    "explainer": "Researchers studied scorpion communities and population dynamics over one year in a protected desert area in Mexico. They used six bimonthly sampling events to collect data. They recorded four families, seven genera, and seven species, noting that the family Vaejovidae had the most species. Out of 729 collected scorpions, most were females, followed by males and juveniles. Two specific species dominated the total count, making up nearly 80 percent of all specimens collected. The data showed that species richness changed throughout the year, peaking in certain months, while total abundance reached its highest point in October. Diversity and evenness metrics varied by month, with some months showing an uneven distribution of species abundance. Multivariate analyses showed that the community composition shifted over time, likely due to seasonal weather changes and when different species are active. The authors state that these findings give baseline information for understanding scorpion dynamics in dry environments and help support future ecological monitoring.",
     "caveats": [
-     "The study relies on surveyed perceptions of crime rather than recorded crime statistics.",
-     "It is limited to four specific settlements in Rawalpindi, Pakistan.",
-     "Causal effects of settlement status are not distinguished from spatial associations in the abstract."
+     "Study is limited to a single protected area in Baja California Sur, Mexico.",
+     "Only covers one year of bimonthly sampling events.",
+     "Not stated how specific microclimate variables directly caused seasonal changes."
     ],
     "jargon": [
      {
-      "term": "formal settlements",
-      "definition": "Planned urban areas with official legal status, infrastructure, and recognized property rights."
+      "term": "Hill numbers",
+      "definition": "A mathematically unified family of diversity indices used to measure ecological diversity."
      },
      {
-      "term": "informal settlements",
-      "definition": "Unplanned urban areas often lacking formal legal land titles, basic services, and regulation."
+      "term": "Rarefaction",
+      "definition": "A technique to estimate species richness from samples of different sizes."
      },
      {
-      "term": "regression analysis",
-      "definition": "A statistical method used to understand the relationship between a dependent outcome and independent variables."
+      "term": "Multivariate analyses",
+      "definition": "Statistical procedures designed to analyze data involving multiple variables at the same time."
      }
     ],
-    "fit": "Connects to Global South urban planning, informal settlements, access to urban nature, and human benefits of ecosystem services."
+    "fit": "Provides baseline context for arid environment ecology, species monitoring, and seasonal variations in data-scarce dry settings."
    },
    "thesis": {
-    "why": "It evaluates access to urban nature and how informal versus formal settlement status influences human benefits, aligning with the student's focus on the Global South.",
-    "action": "Check how the authors measured access to urban nature and if they address causal effects versus spatial associations.",
+    "why": "It examines baseline community structure and temporal variation in a dry environment, offering methodological insights for arid ecosystem monitoring.",
+    "action": "Check how temporal variation and seasonal sampling methods are handled for arid biodiversity assessments.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How do you separate the causal effect of informal settlement status from socioeconomic factors on park usage?",
-    "evidence": "The study uses regression, chi-square, and t-tests on socioeconomic factors, settlement type, and safety indicators to determine park usage impacts.",
-    "limit": "The abstract does not establish whether informal settlement status causes lower park usage or if poverty and lack of amenities are the true drivers.",
-    "check": "Examine the regression models to see if socioeconomic variables fully explain the differences attributed to settlement types."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1080/13549839.2026.2762343",
-    "doi": "https://doi.org/10.1080/13549839.2026.2762343",
-    "venue": "Local Environment",
-    "date": "2026-11-14",
-    "authors": [
-     "Rida Tariq",
-     "Irfan Ahmad Rana",
-     "Syed Samad Shah"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7225907301",
-   "title": "Vegetation complexity as a multi-dimensional indicator of soil organic carbon storage, but not nitrogen storage, in dryland ecosystems",
-   "headline": "Plant complexity predicts soil carbon in drylands",
-   "bullets": [
-    "Used a multidimensional complexity index and structural equation modeling in West Africa.",
-    "Found vegetation complexity predicts soil carbon stocks, but not total nitrogen.",
-    "Shows promoting vegetation complexity can enhance carbon storage and soil health."
-   ],
-   "plain": {
-    "question": "How does complex plant life affect soil carbon and nitrogen in dry regions?",
-    "method": "Measured plant complexity and soil data using statistical models in West Africa.",
-    "finding": "Higher plant complexity means more soil carbon, but it does not change nitrogen.",
-    "why": "Helps us see how managing plant life can improve dry land health and carbon storage."
-   },
-   "full": {
-    "explainer": "In dryland ecosystems, soil carbon and nitrogen are very important for plant growth and nutrient cycling. However, researchers still do not fully understand how complex plant arrangements shape these soil nutrients. This study looks at how a multi-dimensional vegetation complexity index affects soil organic carbon and total nitrogen across soil depths in West Africa. The authors tested different pathways, including aboveground biomass and plant diversity, while accounting for environmental factors and human disturbances. The results show that soil carbon increases when plant complexity is higher, but nitrogen does not change. These effects happen mainly through plant quantity or biomass, rather than through plant diversity. Additionally, aridity and human disturbance were linked to lower plant complexity and reduced soil nutrient stocks. Ultimately, this work suggests that using a vegetation complexity index can help guide better ecosystem management in dry areas by showing how boosting plant complexity can improve carbon storage and overall soil health.",
-    "caveats": [
-     "Effects of vegetation complexity on soil carbon were statistically supported but modest.",
-     "Reciprocal effects between soil carbon and vegetation complexity changed with soil depth."
-    ],
-    "jargon": [
-     {
-      "term": "Soil organic carbon",
-      "definition": "The carbon component of organic compounds in soil, essential for soil health."
-     },
-     {
-      "term": "Structural equation modeling",
-      "definition": "A statistical technique used to test complex relationships between observed and unobserved variables."
-     },
-     {
-      "term": "Plant-soil feedback",
-      "definition": "The reciprocal interactions between plants and the soil community or properties."
-     },
-     {
-      "term": "Environmental filtering",
-      "definition": "The process by which environmental conditions restrict which species can survive in a habitat."
-     }
-    ],
-    "fit": "Connects to dryland environmental planning, linking vegetation metrics to soil health and carbon storage in water-limited regions."
-   },
-   "thesis": {
-    "why": "It connects vegetation metrics to soil functions in drylands, relevant for understanding ecosystem services like habitat quality and soil health in semi-arid environments.",
-    "action": "Check if the modeling approaches can be applied to semi-arid urban fringes or urban green spaces.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How do these rural dryland findings transfer to urban or semi-arid human-disturbed settings?",
-    "evidence": "The study tests dryland ecosystems in West Africa while noting human disturbance, but does not examine urban morphology.",
-    "limit": "It cannot establish causal effects of urban settlement structures on soil organic carbon.",
-    "check": "Verify how human disturbance was measured and if urban or peri-arid land uses were included."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.ecolind.2026.115819",
-    "doi": "https://doi.org/10.1016/j.ecolind.2026.115819",
-    "venue": "Ecological Indicators",
-    "date": "2026-11-12",
-    "authors": [
-     "Florent Noulèkoun",
-     "Sylvanus Mensah",
-     "Emiru Birhane",
-     "Kolawolé Valère Salako",
-     "Kokou Adambounou Amouzou",
-     "Séverin Biaou"
-    ],
-    "n_authors": 7,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7155516480",
-   "title": "Oasis en Tensión: Transformación Histórica y Cambio Ambiental en un Humedal Protegido del Oeste Argentino desde el Siglo XX",
-   "headline": "Water overuse and climate change degrade an Argentine wetland",
-   "bullets": [
-    "Examined historical society-water changes and regional water balance in an arid wetland",
-    "Found water overexploitation and climate variability compromise system sustainability",
-    "Highlights the urgent need for integrated water management and climate adaptation policies"
-   ],
-   "plain": {
-    "question": "How did human actions and climate change hurt a protected wetland in Argentina?",
-    "method": "Studied the regional water balance, water flows, climate change scenarios, and history.",
-    "finding": "Human water use and climate shifts caused severe imbalances and high water stress.",
-    "why": "It shows why we must protect water flows to keep wetlands healthy."
-   },
-   "full": {
-    "explainer": "This study looks at how human actions and climate change have damaged a protected wetland system in arid Argentina since the twentieth century. The researchers studied the regional water balance, water flows, and climate change scenarios to understand how expanding irrigated areas and reorganizing water resources changed the environment. They analyzed historical contexts, water use dynamics, and human extractions alongside natural water inputs. The findings show that overusing water, combined with changing climate conditions, threatens the system and causes major imbalances in the regional water balance, leading to worse water stress. The study used ideas from the Brisbane Declaration and the IPCC Sixth Assessment Report to stress the importance of protecting water flows to keep wetlands working and providing ecosystem benefits. Ultimately, agricultural, urban, and industrial demands are outstripping natural supplies, making the area more vulnerable and showing an urgent need for integrated water management and climate adaptation policies.",
-    "caveats": [
-     "The abstract does not state specific quantitative measurements for water loss or exact future climate projections.",
-     "Not stated whether specific urban or industrial demands were measured individually."
-    ],
-    "jargon": [
-     {
-      "term": "Ramsar site",
-      "definition": "A wetland site designated of international importance under an international treaty."
-     },
-     {
-      "term": "Environmental flows",
-      "definition": "Water provided within a river, wetland or coastal zone to maintain ecosystems and benefits."
-     },
-     {
-      "term": "Hydrosocial equilibrium",
-      "definition": "A stable balance between human society and water resources in a given region."
-     }
-    ],
-    "fit": "Connects by examining water balance, climate stress, and resource management in an arid setting, relevant to Global South planning."
-   },
-   "thesis": {
-    "why": "It provides context on how water overexploitation and climate change create severe water stress in arid settings, aligning with broader regional environmental planning challenges.",
-    "action": "Check how the study links regional water balance to specific ecosystem services.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How do the authors separate the individual impacts of agricultural demand versus urban demand on the wetland degradation?",
-    "evidence": "The abstract mentions that agricultural, urban, and industrial demand exceeds natural supply, but lumps them together in describing overall vulnerability.",
-    "limit": "The abstract does not provide the specific data or models used to isolate agricultural impacts from urban or industrial ones.",
-    "check": "Verify in the full text whether distinct sectors were quantified separately in the regional water balance."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.32991/2237-2717.2026v16i3.p426-460",
-    "doi": "https://doi.org/10.32991/2237-2717.2026v16i3.p426-460",
-    "venue": "Historia Ambiental Latinoamericana y Caribeña (HALAC) revista de la Solcha",
-    "date": "2026-11-14",
-    "authors": [
-     "Luis Bastidas",
-     "María Cintia Píccolo",
-     "Alberto Ismael Juan Vich"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7226007339",
-   "title": "Testing subsistence in the medieval lower Syr-Darya through an archaeobotanical and stable isotope approach: a pilot study",
-   "headline": "Medieval diet and environment studied in Central Asia",
-   "bullets": [
-    "Used bone isotopes and plant remains to study past diets in Kazakhstan.",
-    "Found evidence challenging past ideas on ancient farming and post-Mongol pastoralism.",
-    "Shows how combining multiple methods helps test models of past human survival."
-   ],
-   "plain": {
-    "question": "What did people eat and how did they live in past Central Asian desert-oasis areas?",
-    "method": "Studied ancient plant remains and chemical isotopes from animal and human bones.",
-    "finding": "Old theories about ancient farming impacts and shifts to animal herding were challenged.",
-    "why": "It helps us better understand how ancient communities survived in dry environments."
-   },
-   "full": {
-    "explainer": "This study looks at how people lived and what they ate along the lower Syr-Darya River in modern-day Kazakhstan from ancient times through the medieval period. The researchers combined the study of ancient plant remains with chemical isotope analyses of animal and human bones, alongside past environmental data. By doing this, they tested and challenged some earlier ideas proposed by scholars. For example, they questioned whether ancient farming caused major water regression in the region long ago, and whether people shifted entirely to animal herding after the Mongol Conquest. The isotope results showed that animal diets mainly relied on certain types of plants, and high nitrogen values in herbivores might be due to dry conditions, salty soil, or specific feeding environments. Human bone data pointed to a diet high in animal protein, though the exact sources remain unclear. Overall, this work provides a new baseline for studying past diets in Central Asia and shows the value of combining different scientific methods to check old historical models.",
-    "caveats": [
-     "The specific dietary sources of human nitrogen enrichment remain uncertain.",
-     "This is a pilot study, so interpretations need testing with larger, systematic datasets."
-    ],
-    "jargon": [
-     {
-      "term": "stable isotope",
-      "definition": "Forms of chemical elements used to trace diets and environments from bones and plants."
-     },
-     {
-      "term": "archaeobotanical",
-      "definition": "The study of remains of plants from archaeological sites."
-     },
-     {
-      "term": "collagen",
-      "definition": "A tough protein found in bones and tissues used for chemical testing."
-     }
-    ],
-    "fit": "Connects via environmental change, landscape history, and desert-oasis contexts, though it focuses on archaeology rather than urban services."
-   },
-   "thesis": {
-    "why": "It shows how environmental and historical data can challenge established assumptions about human-environment interactions in dry settings.",
-    "action": "Check how the authors validate their proxy data against past environmental changes.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How reliable are isotope baselines for separating climate stress from human management?",
-    "evidence": "The text notes that elevated herbivore values may reflect aridity, soil salinization, or foddering.",
-    "limit": "The abstract cannot establish exact dietary sources for human nitrogen enrichment or regional-scale certainty.",
-    "check": "Verify how the study controls for local environmental variations versus direct human feeding choices."
+    "question": "How can seasonal biodiversity baselines be compared across heavily human-modified or urbanized arid zones?",
+    "evidence": "The abstract measures species abundance and temporal variation in a protected area without urban or human pressures.",
+    "limit": "The abstract does not establish how these desert scorpion patterns apply to urbanized or transformed arid land-covers.",
+    "check": "Verify if the full paper discusses how human disturbance or land-cover change affects these specific scorpion communities."
    },
    "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.3389/fearc.2026.2003673",
-    "doi": "https://doi.org/10.3389/fearc.2026.2003673",
-    "venue": "Frontiers in Environmental Archaeology",
-    "date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.jaridenv.2026.105781",
+    "doi": "https://doi.org/10.1016/j.jaridenv.2026.105781",
+    "venue": "Journal of Arid Environments",
+    "date": "2026-11-16",
     "authors": [
-     "Basira Mir-Makhamad",
-     "Yslam S. Kurmaniyazov",
-     "Akan Onggaruly",
-     "Yekaterina Dubyagina",
-     "Zhanbolat Utubaev",
-     "Asemgul Kasenova"
-    ],
-    "n_authors": 20,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7233595848",
-   "title": "Instant urban climate modelling with AI: An interactive LEGO®-based workshop for public engagement with urban heat islands",
-   "headline": "LEGO AI workshop teaches urban heat concepts",
-   "bullets": [
-    "Built an interactive workshop using LEGO and AI temperature simulations for the public.",
-    "Found that over 85 percent of participants correctly identified urban heat and green cooling.",
-    "Shows how rapid data-driven models can improve public engagement with urban climate."
-   ],
-   "plain": {
-    "question": "How can we help people understand how cities trap heat?",
-    "method": "Children built mini cities with LEGO bricks, which AI scanned to instantly show heat maps.",
-    "finding": "Most children correctly saw that built areas are warmest and green areas are coolest.",
-    "why": "It proves fast tech tools can easily teach people about urban climate and cooling."
-   },
-   "full": {
-    "explainer": "Urban heat islands are well studied, but their physical causes can be hard for non-experts to grasp. To bridge this gap, researchers created an interactive workshop that acts like a serious game. Participants use LEGO bricks to build miniature city layouts. These layouts are scanned and turned into land-cover maps, which feed into an artificial intelligence model to instantly simulate spatial temperatures during warm, low-wind nights. Run at public science events in Brussels from 2023 to 2025, the workshops mostly targeted children aged 7 to 12. Researchers gathered 400 post-workshop questionnaires across four editions in 2024 and 2025 to check learning and awareness. High percentages of participants gave correct answers: 86.2 percent knew built-up areas are warmest, 92.5 percent knew green areas are coolest, and 90.5 percent chose greener urban designs for cooling. Also, 77.1 percent said they learned something new. Statistical tests showed consistent results across different events.",
-    "caveats": [
-     "Subgroup analyses by age, gender, living environment, and prior participation are purely descriptive.",
-     "Data relies on self-reported perceived learning from questionnaire responses.",
-     "The study setting is Brussels, Belgium, targeting mainly children aged 7-12."
-    ],
-    "jargon": [
-     {
-      "term": "Urban heat island",
-      "definition": "An urban area that is significantly warmer than surrounding rural areas due to human activities."
-     },
-     {
-      "term": "Serious game",
-      "definition": "A game designed for a primary purpose other than pure entertainment, such as education or outreach."
-     },
-     {
-      "term": "Land-cover",
-      "definition": "The physical material at the surface of the earth, such as trees, grass, or buildings."
-     }
-    ],
-    "fit": "Connects via urban cooling and heat mitigation methods, public engagement, and translating complex spatial models for lay audiences."
-   },
-   "thesis": {
-    "why": "It shows a method for communicating urban cooling and temperature simulations to people, which relates to urban ecosystem services like heat mitigation.",
-    "action": "Check how the AI model translates LEGO layouts into land-cover and temperature patterns.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "Can this rapid AI simulation approach be transferred to data-scarce, developing urban contexts?",
-    "evidence": "The workshop was tested in Brussels, Belgium, targeting children, using custom LEGO scans and rapid AI tools.",
-    "limit": "The abstract does not state whether this tool works in data-scarce settings, informal areas, or with adult planners.",
-    "check": "Verify if the AI modelling technique relies on rich local datasets unavailable in cities like Kabul."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.uclim.2026.103206",
-    "doi": "https://doi.org/10.1016/j.uclim.2026.103206",
-    "venue": "Urban Climate",
-    "date": "2026-11-15",
-    "authors": [
-     "Andrei Covaci",
-     "Firass Kooli",
-     "Jef Grupping",
-     "Jorre Verelst",
-     "Hannes Coenen",
-     "Sara M. Top"
-    ],
-    "n_authors": 9,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7226023674",
-   "title": "Governance in Strategic Ecosystems: Preliminary Report of a Case Study in Tumaco, Colombia (2023–2025)",
-   "headline": "Fragile governance of marine plastics in Tumaco, Colombia",
-   "bullets": [
-    "Used qualitative fieldwork and agent-based modeling to study marine plastic governance.",
-    "Found a fragmented system dependent on civil society leadership and an academic catalyst.",
-    "Shows fragile regions may lack polycentricity preconditions; building foundations is vital."
-   ],
-   "plain": {
-    "question": "How do different groups work together to govern marine plastic pollution in a fragile region?",
-    "method": "Used interviews, field research, and computer simulations of human behavior over time.",
-    "finding": "The system is broken and weak, relying heavily on active citizens and external academics.",
-    "why": "It shows we must build strong collaborative foundations before expecting complex governance systems to work."
-   },
-   "full": {
-    "explainer": "This paper looks at how people and organizations try to manage marine plastic pollution in Tumaco, Colombia, a fragile region. Between September 2023 and May 2025, researchers studied how government, civil society, private companies, and universities interacted. They used qualitative fieldwork and computer simulations to test how the network worked. Their early findings show a broken and weak system that is not a well-balanced, multi-centered network as some might hope. Instead, it struggles with inconsistent government involvement. It relies too much on brave citizens, emotional ties, and external academic help to get people working together. The computer simulations showed that if key people leave, the network falls apart, and helpful opportunities can accidentally make power too centralized. This is important for the Global South because it proves that in fragile places, the basic building blocks for sharing power may not even exist yet. Instead of pretending a strong management network already exists, groups need to focus on making local actors legitimate and institutionalizing teamwork from the ground up.",
-    "caveats": [
-     "Findings are preliminary based on a report running from September 2023 to May 2025.",
-     "Specific details about agent-based modeling parameters are not stated."
-    ],
-    "jargon": [
-     {
-      "term": "polycentric network",
-      "definition": "A governance system with many independent centers of decision-making interacting with each other."
-     },
-     {
-      "term": "agent-based modeling",
-      "definition": "A computer simulation method that models the simultaneous actions of autonomous individuals to see system effects."
-     },
-     {
-      "term": "institutional ecology of games",
-      "definition": "A framework analyzing how multiple actors pursue different goals within overlapping institutional rules."
-     }
-    ],
-    "fit": "Connects to Global South environmental governance, institutional fragility, and collaborative processes relevant to urban planning contexts."
-   },
-   "thesis": {
-    "why": "It connects to institutional governance challenges in the Global South, offering insights into how fragile networks affect environmental management.",
-    "action": "Check the full paper for details on how agent-based modeling was structured.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How can agent-based models reliably simulate complex human governance dynamics without oversimplifying local realities?",
-    "evidence": "The study relies on agent-based simulations to indicate that network cohesion is vulnerable to the departure of key individuals.",
-    "limit": "The abstract does not state the specific rules, parameters, or validation methods used in the computer simulations.",
-    "check": "Verify the exact modeling parameters and data inputs used for the agent-based simulations in the full paper."
-   },
-   "relevance": 2,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1111/lamp.70079",
-    "doi": "https://doi.org/10.1111/lamp.70079",
-    "venue": "Latin American Policy",
-    "date": "2026-11-13",
-    "authors": [
-     "Juan-Antonio Zornoza Bonilla",
-     "Norman Simón Rodríguez Cano"
+     "Alejandro Valdez‐Mondragón",
+     "Carlos Palacios-Cardiel"
     ],
     "n_authors": 2,
     "open_access": true,
@@ -611,24 +618,5 @@
    }
   }
  ],
- "more": [
-  {
-   "title": "Optimising the entrepreneurial ecosystem: analysis of factors influencing students’ choice of coworking…",
-   "url": "https://doi.org/10.1108/jcre-01-2026-0001",
-   "venue": "Journal of Corporate Real Estate",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "Peri-urban environmental degradation and the urbanisation of the Bamako District, Mali: the case of the…",
-   "url": "https://doi.org/10.47772/ijriss.2026.101000635",
-   "venue": "International Journal of Research and Innovation in Social Science",
-   "date": "2026-11-13"
-  },
-  {
-   "title": "Household-Reported Climate Variability and Food Security among Pastoral and Agro-Pastoral Households in…",
-   "url": "https://doi.org/10.68050/jams.2026.874",
-   "venue": "",
-   "date": "2026-11-12"
-  }
- ]
+ "more": []
 }
