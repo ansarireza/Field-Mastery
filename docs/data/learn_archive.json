@@ -1002,5 +1002,53 @@
    }
   ],
   "search": "urban peatlands wetland ecosystem services"
+ },
+ {
+  "id": "f4b68a5739",
+  "date": "2026-11-19",
+  "term": "Revealed preference valuation methods",
+  "area": "Ecosystem services valuation",
+  "kind": "method",
+  "definition": "Revealed preference valuation estimates economic values of ecosystem services using actual consumer behavior in related markets.",
+  "plain": "Imagine people do not pay directly for clean park air or city cooling, but they pay more to live near green spaces. By looking at real estate prices or travel costs, we can figure out how much people value these nature benefits.",
+  "example": "In a growing city of the Global South, researchers compare housing prices near green spaces versus distant areas to value urban nature.",
+  "connects": "It links ecosystem service demand and human benefits to economic metrics, supporting cost-benefit environmental planning.",
+  "why_phd": "It provides empirical monetary values for urban ecosystem services, crucial for defending planning interventions in data-scarce cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do revealed preference methods rely on to value ecosystem services?",
+    "a": "Actual consumer behavior in related markets, such as housing or travel choices."
+   },
+   {
+    "q": "Why is this method useful in data-scarce urban settings?",
+    "a": "It uses existing market data like real estate prices to infer the value of non-market nature benefits."
+   }
+  ],
+  "search": "revealed preference urban ecosystem services"
+ },
+ {
+  "id": "677b0e9e85",
+  "date": "2026-11-19",
+  "term": "Co-creation",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Co-creation is the collaborative process where researchers and local stakeholders jointly design and produce knowledge.",
+  "plain": "Instead of researchers studying a city alone, co-creation brings local people, planners, and communities together to design the research and plan solutions. This helps ensure that the findings actually fit local needs and real-world conditions.",
+  "example": "In a Global South city, researchers and neighborhood residents work together to map where extreme heat hurts people most and decide where to plant trees.",
+  "connects": "It links stakeholder values and governance with practical environmental planning.",
+  "why_phd": "It helps bridge the gap between academic models and real community needs in data-scarce settings like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is co-creation in urban environmental planning?",
+    "a": "Joint knowledge production by researchers and local stakeholders."
+   },
+   {
+    "q": "Why is co-creation useful in data-scarce settings?",
+    "a": "It incorporates local insights and ensures practical relevance."
+   }
+  ],
+  "search": "co-creation urban environmental planning"
  }
 ]

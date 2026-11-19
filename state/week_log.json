@@ -1,31 +1,4 @@
 {
- "2026-11-04": {
-  "papers": [
-   "Tourism drives land change and adaptation in peri-urban Batu",
-   "Climate change threatens Amazon mammals and functions",
-   "Urban blind spots in migrant precarity governance",
-   "Urban growth causes land loss in South Africa",
-   "Przewalski's horse habitat quality remained stable",
-   "Aerosol cuts temporarily boost extreme heat risks",
-   "GIS-TOPSIS maps sunflower land suitability in dry Algeria",
-   "Review of Paulownia biomass under drought and salinity",
-   "Aridity drives genomic divergence in a southern African rodent"
-  ],
-  "radar": [
-   "EBRD and GCF scale up support for greener cities",
-   "Six paradigm shifts for Global South cities sustainability",
-   "Nature-based solutions for flood protection in Europe",
-   "UN report: Rich countries fall short on adaptation funding",
-   "UNEP warns adaptation is too slow amid 1.5°C overshoot"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Nature contributions to people framework",
-   "renewal dynamics"
-  ]
- },
  "2026-11-06": {
   "papers": [
    "Land-use optimization in arid northern Tianshan slopes",
@@ -369,6 +342,33 @@
   "lessons": [
    "Adaptive management principles",
    "Peatlands"
+  ]
+ },
+ "2026-11-19": {
+  "papers": [
+   "Poland's soil-based ecosystem services are mostly low",
+   "Ecological networks link specific plant and bird species to NCP",
+   "Public view of Beijing wetland services via multi-scale survey",
+   "Surface heat waves grew significantly in Brazil's semiarid",
+   "Water risks drive health crises in informal areas",
+   "Drought devastates farmers' livelihoods in Badghis",
+   "Animals change behavior to beat heat and rain",
+   "Climate change shifts Egyptian Nile grass rat suitability",
+   "Nitrogen and plant invasion reduce root fungi"
+  ],
+  "radar": [
+   "Parvat Manthan Conclave calls for climate-resilient planning",
+   "Türkiye looks beyond reconstruction to build disaster-ready cities",
+   "Germany opens funding for municipal biodiversity strategies",
+   "Strategy for Brazilian cities proposes expanding nature-based solutions",
+   "IUCN operational framework for nature-based solutions"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Revealed preference valuation methods",
+   "Co-creation"
   ]
  }
 }

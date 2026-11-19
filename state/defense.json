@@ -479,26 +479,27 @@
   "5077704898",
   "e2872f0900",
   "e6afca7ade",
-  "0d2d3fdf57"
+  "0d2d3fdf57",
+  "e8a4f3baca"
  ],
  "today": {
-  "id": "0d2d3fdf57",
+  "id": "e8a4f3baca",
   "scope": "Land-cover change and settlement expansion",
-  "q": "Given that model estimates are not observations, how do you handle validation and uncertainty in land-change?",
-  "type": "methods",
+  "q": "How do you rule out alternative explanations for differences in ecological functions between settlement types?",
+  "type": "alternative explanations",
   "outline": [
-   "Outline land-cover and land-change accuracy assessments",
-   "Describe sensitivity and uncertainty assessment procedures",
-   "Explain how errors propagate into spatial models"
+   "Differentiate spatial associations from causal effects",
+   "Compare formal, informal flatland, and hillside morphology",
+   "Control for baseline and scale confounding factors"
   ],
-  "pitfall": "Overstating accuracy of land-change validation without uncertainty bounds.",
-  "follow_up": "How do baseline conditions and spatial scale affect your uncertainty assessment?",
-  "bring": "Flowchart showing error propagation from land-cover validation to InVEST outputs.",
+  "pitfall": "Attributing ecological function differences strictly to settlement status without causality proof.",
+  "follow_up": "What spatial statistical methods test whether morphology rather than baseline causes the shift?",
+  "bring": "Analytical matrix separating spatial correlation from causal settlement drivers.",
   "self_check": [
-   "Mentions validation accuracy",
-   "Addresses uncertainty assessment",
-   "Recognizes model estimates"
+   "Distinguishes spatial association from causation",
+   "Addresses formal versus informal settings",
+   "Considers baseline confounding"
   ]
  },
- "today_date": "2026-11-18"
+ "today_date": "2026-11-19"
 }

@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Revealed preference valuation methods",
-   "area": "Ecosystem services valuation",
-   "kind": "method"
-  },
-  {
    "term": "Resource tenure and property rights",
    "area": "Environmental governance",
    "kind": "concept"
@@ -143,6 +138,8 @@
   "Resilience in socioecological systems",
   "ecosystem services",
   "Adaptive management principles",
-  "Peatlands"
+  "Peatlands",
+  "Revealed preference valuation methods",
+  "Co-creation"
  ]
 }
