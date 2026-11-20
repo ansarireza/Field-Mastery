@@ -1,10 +1,5 @@
 {
- "date": "2026-11-19",
- "successful": 14,
- "failed": [
-  {
-   "url": "https://news.google.com/rss/search?q=urban%20environmental%20planning%20regulations%20when%3A7d&hl=en&gl=US&ceid=US:en",
-   "error": "RuntimeError"
-  }
- ]
+ "date": "2026-11-20",
+ "successful": 15,
+ "failed": []
 }

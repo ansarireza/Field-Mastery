@@ -1,6 +1,22 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "items": [
+  {
+   "name": "qgis/QGIS",
+   "version": "final-3_44_16",
+   "date": "2026-11-20",
+   "url": "https://github.com/qgis/QGIS/releases/tag/final-3_44_16",
+   "summary": "",
+   "matters": ""
+  },
+  {
+   "name": "natcap/invest",
+   "version": "3.21.0",
+   "date": "2026-11-19",
+   "url": "https://github.com/natcap/invest/releases/tag/3.21.0",
+   "summary": "",
+   "matters": ""
+  },
   {
    "name": "qgis/QGIS",
    "version": "final-3_44_15",

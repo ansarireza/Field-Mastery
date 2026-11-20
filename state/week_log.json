@@ -370,5 +370,34 @@
    "Revealed preference valuation methods",
    "Co-creation"
   ]
+ },
+ "2026-11-20": {
+  "papers": [
+   "Two decades of environmental accounting in Guatemala",
+   "Not stated",
+   "Monocultures threaten Chapada do Araripe's ecosystem",
+   "Urbanization alters ecosystem service supply and demand",
+   "Multi-indicator assessment of post-conflict green recovery",
+   "Larger street trees link to cooler evening city air",
+   "Visualizing alternative urban futures for Cape Town's river",
+   "CBDCs and monetary sovereignty in the Global South",
+   "Swiss visas block Global South artists"
+  ],
+  "radar": [
+   "German Environment Agency Study on LULUCF Goals",
+   "Who Maintains Green Infrastructure in Mexico's Housing?",
+   "Türkiye looks beyond reconstruction to build disaster-ready cities",
+   "Sub-Saharan Africa's Urban Awakening: Six Takeaways",
+   "WWF States COP31 Will Fail Without Developed Country Adaptation"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_16",
+   "natcap/invest 3.21.0",
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Resource tenure and property rights",
+   "Soil organic carbon"
+  ]
  }
 }

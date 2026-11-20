@@ -1050,5 +1050,53 @@
    }
   ],
   "search": "co-creation urban environmental planning"
+ },
+ {
+  "id": "811585bffd",
+  "date": "2026-11-20",
+  "term": "Resource tenure and property rights",
+  "area": "Environmental governance",
+  "kind": "concept",
+  "definition": "Resource tenure and property rights define who holds legal or customary claims to land, water, and natural resources.",
+  "plain": "Property rights decide who is allowed to use, change, or protect land and nature. In cities, unclear or missing rights make it hard to plan green spaces or protect the environment because people do not know who is responsible or who will benefit.",
+  "example": "In informal hillside settlements in Kabul, residents lack formal land titles, which restricts long-term investments in green-blue infrastructure.",
+  "connects": "It shapes environmental governance, access to urban nature, and equity in ecosystem service benefits.",
+  "why_phd": "Crucial for understanding why urban greening projects succeed or fail when land ownership is contested or informal.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "Why do property rights matter for urban ecosystem services?",
+    "a": "They determine who has the security and power to manage, alter, or benefit from urban natural resources."
+   },
+   {
+    "q": "How does tenure security affect informal settlements?",
+    "a": "Lack of secure tenure often prevents long-term investments in local environmental improvements."
+   }
+  ],
+  "search": "property rights urban environmental governance"
+ },
+ {
+  "id": "db83aec2f1",
+  "date": "2026-11-20",
+  "term": "Soil organic carbon",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Soil organic carbon is the carbon stored in soil from decomposed organic matter, vital for soil health and ecological functions.",
+  "plain": "Soil organic carbon is the carbon left in the ground when plants and animals break down. It makes soil rich and helps it hold water and support plant life, which is very important for urban green spaces and agriculture.",
+  "example": "In urban gardens or peri-urban farms in cities like Kabul, good soil organic carbon helps crops grow and helps the ground soak up rainwater.",
+  "connects": "It links to habitat quality, water retention, and how land-cover changes affect ecosystem service supply.",
+  "why_phd": "It helps you measure how urban growth and land changes alter soil health and ecological functions in places like Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is soil organic carbon?",
+    "a": "It is carbon stored in the soil from decomposed organic matter that supports soil health."
+   },
+   {
+    "q": "Why does it matter for urban planning?",
+    "a": "It supports ecosystem services like water retention and plant growth in urban and peri-urban areas."
+   }
+  ],
+  "search": "soil organic carbon urban ecosystem"
  }
 ]

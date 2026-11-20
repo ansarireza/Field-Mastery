@@ -480,26 +480,27 @@
   "e2872f0900",
   "e6afca7ade",
   "0d2d3fdf57",
-  "e8a4f3baca"
+  "e8a4f3baca",
+  "5d47b83412"
  ],
  "today": {
-  "id": "e8a4f3baca",
+  "id": "5d47b83412",
   "scope": "Land-cover change and settlement expansion",
-  "q": "How do you rule out alternative explanations for differences in ecological functions between settlement types?",
-  "type": "alternative explanations",
+  "q": "What are the limitations of interpreting habitat quality as biodiversity and runoff retention as flood risk?",
+  "type": "limitations",
   "outline": [
-   "Differentiate spatial associations from causal effects",
-   "Compare formal, informal flatland, and hillside morphology",
-   "Control for baseline and scale confounding factors"
+   "Explicitly state that habitat quality is not measured biodiversity",
+   "Clarify that runoff retention is not flood depth or risk",
+   "Discuss implications for environmental planning"
   ],
-  "pitfall": "Attributing ecological function differences strictly to settlement status without causality proof.",
-  "follow_up": "What spatial statistical methods test whether morphology rather than baseline causes the shift?",
-  "bring": "Analytical matrix separating spatial correlation from causal settlement drivers.",
+  "pitfall": "Using InVEST metric names interchangeably with direct on-the-ground ecological observations.",
+  "follow_up": "How can scenario comparisons still inform planning despite these metric boundaries?",
+  "bring": "List of core InVEST metrics alongside their exact definitions and model boundaries.",
   "self_check": [
-   "Distinguishes spatial association from causation",
-   "Addresses formal versus informal settings",
-   "Considers baseline confounding"
+   "Corrects proxy misinterpretation",
+   "Defines runoff retention limits",
+   "Maintains planning relevance"
   ]
  },
- "today_date": "2026-11-19"
+ "today_date": "2026-11-20"
 }

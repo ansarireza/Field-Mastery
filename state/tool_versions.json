@@ -1,6 +1,6 @@
 {
- "natcap/invest": "3.20.2",
- "qgis/QGIS": "final-3_44_15",
+ "natcap/invest": "3.21.0",
+ "qgis/QGIS": "final-3_44_16",
  "rspatial/terra": "CRAN",
  "r-spatial/sf": "v0.6-3"
 }

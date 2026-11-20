@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Resource tenure and property rights",
-   "area": "Environmental governance",
-   "kind": "concept"
-  },
-  {
    "term": "Spatial econometric land models",
    "area": "Land use change",
    "kind": "method"
@@ -140,6 +135,8 @@
   "Adaptive management principles",
   "Peatlands",
   "Revealed preference valuation methods",
-  "Co-creation"
+  "Co-creation",
+  "Resource tenure and property rights",
+  "Soil organic carbon"
  ]
 }
