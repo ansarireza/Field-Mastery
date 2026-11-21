@@ -481,26 +481,27 @@
   "e6afca7ade",
   "0d2d3fdf57",
   "e8a4f3baca",
-  "5d47b83412"
+  "5d47b83412",
+  "4e17899ba1"
  ],
  "today": {
-  "id": "5d47b83412",
+  "id": "4e17899ba1",
   "scope": "Land-cover change and settlement expansion",
-  "q": "What are the limitations of interpreting habitat quality as biodiversity and runoff retention as flood risk?",
-  "type": "limitations",
+  "q": "How does watershed-scale interpretation change annual water yield findings in semi-arid mountainous settings?",
+  "type": "practical relevance",
   "outline": [
-   "Explicitly state that habitat quality is not measured biodiversity",
-   "Clarify that runoff retention is not flood depth or risk",
-   "Discuss implications for environmental planning"
+   "Explain the necessity of watershed-scale interpretation",
+   "Integrate semi-arid and mountainous constraints",
+   "Connect findings to environmental planning utility"
   ],
-  "pitfall": "Using InVEST metric names interchangeably with direct on-the-ground ecological observations.",
-  "follow_up": "How can scenario comparisons still inform planning despite these metric boundaries?",
-  "bring": "List of core InVEST metrics alongside their exact definitions and model boundaries.",
+  "pitfall": "Applying annual water yield metrics at fine urban scales without watershed aggregation.",
+  "follow_up": "How do data-scarce conditions impact the calibration of watershed water yield models?",
+  "bring": "Watershed-level spatial dataset integration scheme for water yield.",
   "self_check": [
-   "Corrects proxy misinterpretation",
-   "Defines runoff retention limits",
-   "Maintains planning relevance"
+   "Applies watershed scale correctly",
+   "Considers semi-arid constraints",
+   "Links to practical planning"
   ]
  },
- "today_date": "2026-11-20"
+ "today_date": "2026-11-21"
 }

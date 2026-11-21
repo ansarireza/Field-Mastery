@@ -1098,5 +1098,53 @@
    }
   ],
   "search": "soil organic carbon urban ecosystem"
+ },
+ {
+  "id": "260b66fa5f",
+  "date": "2026-11-21",
+  "term": "Spatial econometric land models",
+  "area": "Land use change",
+  "kind": "method",
+  "definition": "Spatial econometric land models are mathematical tools used to simulate and predict future land-cover changes while accounting for geographic dependencies.",
+  "plain": "These models help researchers look at how land changes over time, like how cities grow. They include spatial statistics to account for the fact that what happens in one neighborhood often depends on what is happening right next door.",
+  "example": "Simulating how informal hillside settlements in Kabul might expand over the next decade based on nearby roads and steepness.",
+  "connects": "It links land-cover change with scenario comparison and helps predict future ecosystem service supplies.",
+  "why_phd": "Vital for projecting how future urban growth in Kabul will impact environmental planning and ecosystem services.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do spatial econometric land models account for that standard models might miss?",
+    "a": "Geographic dependencies and spatial interactions between neighboring locations."
+   },
+   {
+    "q": "How does this method help environmental planning?",
+    "a": "By simulating future land-cover changes to evaluate impacts on things like urban cooling."
+   }
+  ],
+  "search": "spatial econometric land change models"
+ },
+ {
+  "id": "de1e1504a9",
+  "date": "2026-11-21",
+  "term": "ecosystem condition",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Ecosystem condition refers to the physical, biological, and chemical state of an ecosystem and its capacity to provide services.",
+  "plain": "Ecosystem condition looks at how healthy and intact a natural area is. Think of it as a check-up for nature. In cities, a healthy park cools the air better than a degraded, dry patch of land because its plants and soil are in better condition to function.",
+  "example": "In a dry city like Kabul, a riverside park with dense, well-watered trees has a high ecosystem condition, cooling the local neighborhood effectively.",
+  "connects": "It links ecosystem capacity to the actual supply of benefits like urban cooling or stormwater retention.",
+  "why_phd": "You must distinguish between just having green space and its actual condition when measuring how well it provides benefits.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does ecosystem condition measure?",
+    "a": "The physical, biological, and chemical state of an ecosystem and its capacity to function."
+   },
+   {
+    "q": "Why does condition matter for urban cooling?",
+    "a": "Healthy, well-maintained green spaces cool the surrounding air much better than degraded land."
+   }
+  ],
+  "search": "urban ecosystem condition assessment"
  }
 ]

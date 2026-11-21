@@ -1,31 +1,4 @@
 {
- "2026-11-06": {
-  "papers": [
-   "Land-use optimization in arid northern Tianshan slopes",
-   "Forest structure alters water and ecosystem services",
-   "Review on valuing water ecosystem services",
-   "Land use and vegetation shape ecosystem resilience in China",
-   "Sea-level rise causes unequal global ecosystem losses",
-   "Heatwaves disproportionately harm disabled people",
-   "Submarine station creates carbon and biodiversity",
-   "Energy supply chains trade ecosystem services globally",
-   "Programs improve rural livelihoods in developing countries"
-  ],
-  "radar": [
-   "Fully Funded Workshop Scholarship in Germany 2026",
-   "Researchers Ground Urban DNA Framework in Evolutionary Theories",
-   "Philanthropy Funding for Cities' Climate Finance Prep Work",
-   "Landscape Architects to Push for Local Climate Adaptation at COP31",
-   "Exploring Opposition to Urban Climate Action ('Urban Greenlash')"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Conservation policy instruments",
-   "urban sewage recycling system"
-  ]
- },
  "2026-11-07": {
   "papers": [
    "3D Eco-Geological Framework Evaluates Alpine Regions",
@@ -398,6 +371,35 @@
   "lessons": [
    "Resource tenure and property rights",
    "Soil organic carbon"
+  ]
+ },
+ "2026-11-21": {
+  "papers": [
+   "Mapping trade-offs in Canadian prairie multifunctional land",
+   "Mountain land-use scenarios shift ecosystem services",
+   "A new step-by-step participatory biodiversity method",
+   "Assessing just access to urban ecosystem services in Dhaka",
+   "Urban expansion isolates ecological networks in Chengdu",
+   "Criteria choice shifts who benefits from PES",
+   "Deforestation and afforestation impacts on Ecuador's biomes",
+   "Water yield rises while carbon storage shifts with climate",
+   "Forests provide vital services without market prices"
+  ],
+  "radar": [
+   "Mid-November 2026 Funding Opportunities",
+   "Extreme rainfalls flood Sri Lanka’s coastal city",
+   "COP31 draft drops fossil fuel phase-out, gender pledges",
+   "Multi-Scale Framework Balances Grassland Resilience Trade-Offs",
+   "EU bans plastic waste exports to non-OECD countries"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_16",
+   "natcap/invest 3.21.0",
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Spatial econometric land models",
+   "ecosystem condition"
   ]
  }
 }

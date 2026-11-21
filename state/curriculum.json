@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Spatial econometric land models",
-   "area": "Land use change",
-   "kind": "method"
-  },
-  {
    "term": "Capabilities approach to well-being",
    "area": "Human well-being",
    "kind": "framework"
@@ -137,6 +132,8 @@
   "Revealed preference valuation methods",
   "Co-creation",
   "Resource tenure and property rights",
-  "Soil organic carbon"
+  "Soil organic carbon",
+  "Spatial econometric land models",
+  "ecosystem condition"
  ]
 }

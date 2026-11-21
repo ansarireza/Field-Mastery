@@ -1,64 +1,64 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "lessons": [
   {
-   "id": "811585bffd",
-   "date": "2026-11-20",
-   "term": "Resource tenure and property rights",
-   "area": "Environmental governance",
-   "kind": "concept",
-   "definition": "Resource tenure and property rights define who holds legal or customary claims to land, water, and natural resources.",
-   "plain": "Property rights decide who is allowed to use, change, or protect land and nature. In cities, unclear or missing rights make it hard to plan green spaces or protect the environment because people do not know who is responsible or who will benefit.",
-   "example": "In informal hillside settlements in Kabul, residents lack formal land titles, which restricts long-term investments in green-blue infrastructure.",
-   "connects": "It shapes environmental governance, access to urban nature, and equity in ecosystem service benefits.",
-   "why_phd": "Crucial for understanding why urban greening projects succeed or fail when land ownership is contested or informal.",
+   "id": "260b66fa5f",
+   "date": "2026-11-21",
+   "term": "Spatial econometric land models",
+   "area": "Land use change",
+   "kind": "method",
+   "definition": "Spatial econometric land models are mathematical tools used to simulate and predict future land-cover changes while accounting for geographic dependencies.",
+   "plain": "These models help researchers look at how land changes over time, like how cities grow. They include spatial statistics to account for the fact that what happens in one neighborhood often depends on what is happening right next door.",
+   "example": "Simulating how informal hillside settlements in Kabul might expand over the next decade based on nearby roads and steepness.",
+   "connects": "It links land-cover change with scenario comparison and helps predict future ecosystem service supplies.",
+   "why_phd": "Vital for projecting how future urban growth in Kabul will impact environmental planning and ecosystem services.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "Why do property rights matter for urban ecosystem services?",
-     "a": "They determine who has the security and power to manage, alter, or benefit from urban natural resources."
+     "q": "What do spatial econometric land models account for that standard models might miss?",
+     "a": "Geographic dependencies and spatial interactions between neighboring locations."
     },
     {
-     "q": "How does tenure security affect informal settlements?",
-     "a": "Lack of secure tenure often prevents long-term investments in local environmental improvements."
+     "q": "How does this method help environmental planning?",
+     "a": "By simulating future land-cover changes to evaluate impacts on things like urban cooling."
     }
    ],
-   "search": "property rights urban environmental governance"
+   "search": "spatial econometric land change models"
   },
   {
-   "id": "db83aec2f1",
-   "date": "2026-11-20",
-   "term": "Soil organic carbon",
+   "id": "de1e1504a9",
+   "date": "2026-11-21",
+   "term": "ecosystem condition",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Soil organic carbon is the carbon stored in soil from decomposed organic matter, vital for soil health and ecological functions.",
-   "plain": "Soil organic carbon is the carbon left in the ground when plants and animals break down. It makes soil rich and helps it hold water and support plant life, which is very important for urban green spaces and agriculture.",
-   "example": "In urban gardens or peri-urban farms in cities like Kabul, good soil organic carbon helps crops grow and helps the ground soak up rainwater.",
-   "connects": "It links to habitat quality, water retention, and how land-cover changes affect ecosystem service supply.",
-   "why_phd": "It helps you measure how urban growth and land changes alter soil health and ecological functions in places like Kabul.",
+   "definition": "Ecosystem condition refers to the physical, biological, and chemical state of an ecosystem and its capacity to provide services.",
+   "plain": "Ecosystem condition looks at how healthy and intact a natural area is. Think of it as a check-up for nature. In cities, a healthy park cools the air better than a degraded, dry patch of land because its plants and soil are in better condition to function.",
+   "example": "In a dry city like Kabul, a riverside park with dense, well-watered trees has a high ecosystem condition, cooling the local neighborhood effectively.",
+   "connects": "It links ecosystem capacity to the actual supply of benefits like urban cooling or stormwater retention.",
+   "why_phd": "You must distinguish between just having green space and its actual condition when measuring how well it provides benefits.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is soil organic carbon?",
-     "a": "It is carbon stored in the soil from decomposed organic matter that supports soil health."
+     "q": "What does ecosystem condition measure?",
+     "a": "The physical, biological, and chemical state of an ecosystem and its capacity to function."
     },
     {
-     "q": "Why does it matter for urban planning?",
-     "a": "It supports ecosystem services like water retention and plant growth in urban and peri-urban areas."
+     "q": "Why does condition matter for urban cooling?",
+     "a": "Healthy, well-maintained green spaces cool the surrounding air much better than degraded land."
     }
    ],
-   "search": "soil organic carbon urban ecosystem"
+   "search": "urban ecosystem condition assessment"
   }
  ],
- "total_learned": 46,
+ "total_learned": 48,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Spatial econometric land models",
    "Capabilities approach to well-being",
    "Additionality and leakage in PES",
    "Extractivism and agrarian change",
-   "Relational values of nature"
+   "Relational values of nature",
+   "Mainstreaming biodiversity in policy"
   ],
   "stages": [
    "Foundation: understand concepts",
