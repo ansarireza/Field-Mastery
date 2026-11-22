@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Capabilities approach to well-being",
-   "area": "Human well-being",
-   "kind": "framework"
-  },
-  {
    "term": "Additionality and leakage in PES",
    "area": "Payments for ecosystem services",
    "kind": "concept"
@@ -134,6 +129,8 @@
   "Resource tenure and property rights",
   "Soil organic carbon",
   "Spatial econometric land models",
-  "ecosystem condition"
+  "ecosystem condition",
+  "Capabilities approach to well-being",
+  "Institutional fields"
  ]
 }

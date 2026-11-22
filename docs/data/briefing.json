@@ -1,94 +1,67 @@
 {
- "week": "2026-W46",
- "date": "2026-11-15",
+ "week": "2026-W47",
+ "date": "2026-11-22",
  "world": [
   {
-   "region": "Ho Chi Minh City",
-   "what": "Ho Chi Minh City Master Plan 2025–2050 outlines five growth zones for future urban development.",
-   "why": "Informs research on how formal master planning shapes land-cover change and urban growth dynamics.",
-   "action": "Examine the five growth zones in the master plan.",
+   "region": "Sri Lanka",
+   "what": "Extreme rainfall flooded a Sri Lankan coastal city as local wetlands and drains vanished due to development.",
+   "why": "Demonstrates the impact of land-cover change on urban stormwater retention and flooding risks.",
+   "action": "Examine local wetland loss mechanisms.",
    "source": {
-    "title": "Ho Chi Minh City Master Plan 2025–2050",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMklraXlHNkhkbVhCVjFlcVNRTlVVTVhJZUU4TkcwcGRVOHdPLTJYQTdTZDFxajFka2xLY3NHN2lzNngxcUNtZlZ3b1ZoNVR1VHZLREhMX0p0MXlreXBIcWUyc1pPc0o4NlZpYkRHbl9GTGFLcDkweFppd1RjTWxUVWNjX0NOejhBUmlwaFhBWkotZndnNWV1MlJfRVZ4S1VUcFl5MllKVUNyaG15S2czWm1OOXFGNVl0Znc?oc=5",
-    "date": "2026-11-13",
+    "title": "Extreme rainfalls flood Sri Lanka’s coastal city",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkxRdGhtbVBCM3hYT29vQ0stSTQxaktCTGNIUkNmZ1JaWkdydVhDaTY3RVgzeDAzc3BULTNrN2ppbkpfLWNvZ2ozNXk2OVFBRDJGT0tWanZhaUtTWnBQa3FlRnN4NUJvcmw4MTVnYjFBZzNUWjZxTkFOSVFzZldPWUd5V245NDFuVGV1SVhDdDRMUXFOTGJuQlh2RDBOVlBySXpvZWxJbDZzMFhV0gGyAUFVX3lxTE41bk5nSEhCdE5yYnZGLTNZUFQ0OTB3Qlh2aGJKQnJ4M1dVbG4wQ3NMME1qTnpvekVxYVZmdXRCZmxkSE1oRlZ1OEZ3WDlnVGtGVk5PZnJ2YW00dWdod2ktWjgtZ3NZQnFFNXdlY1N1QTBldDRrRzhwbzZxclFpZGUtZWZFbk82UXNzMXZUUEJoY1JYbHg0dkN2XzhsNnZ0OTJSaURkbVNqdTVPT1c4YU9sU1E?oc=5",
+    "date": "2026-11-21",
     "basis": "news headline and feed excerpt"
    }
   },
   {
-   "region": "Nairobi",
-   "what": "A plan to build a crematorium at City Park in Nairobi has generated intense public controversy.",
-   "why": "Highlights public conflict over green space loss and access to urban nature in Global South cities.",
-   "action": "Review public opposition arguments regarding the park.",
+   "region": "World",
+   "what": "A municipal park fee increase restricts public access to urban green spaces in Hyderabad.",
+   "why": "Highlights how socio-economic barriers limit real public access to urban nature despite physical supply.",
+   "action": "Review access equity metrics.",
    "source": {
-    "title": "Crematorium Plan at Nairobi City Park Draws Public Opposition",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1JkQ0RGSVhXZmRkd0N4RVAxbjBPLWlGd1VXWHpPeTBuUlFZMGNQR3JMY0h2cnRVYkc2SlZjaGRLb2tVMnBrLXh3QllkZ2pEZWJ4N2VBS2dRQnJIcjJMaVVhTFlrZEFhWDRFV0JWZGhhNlN6UTBrMUhsZWFUcHc5QnZZbERkNEh0emZ3Y1BnS1ZtV1BXODQwV0xmdlU0SzVteVJ1OTZPMms3UmtfZ1FaWHJDOTZOV1k?oc=5",
-    "date": "2026-11-13",
+    "title": "GHMC park fee hike puts Hyderabad’s green spaces out of reach",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeG9JWjJrczdGYVdSbnROUkFpNEtYblI4MUhrcnU4MkJvTm56amRLcmE3SXdsaFdSRHprTUZaRmk1X1FtN1VDYThFdERGX0RjUlVUNVpfY25hRGhhU05FNmVPTkhJbzFlQW5Pc3dXb1BvZXJucFRQdzRpTzZXZmI1ajF6eVdpdVdnd0VkTElVRkFpMzVLYzltN9IBngFBVV95cUxONGxoT0RCdTlvYktfWXo2Qm16Q2VYM2JlRjl5LWpSZ3RCT3FjbWcxZ0tJYUh6V0t1XzNjLXF1a3lQWFRpNXR3cFdaYkZCX2RBVlVOWTduYWFwS0lEamVlRzFfUFZlbzA4aFZyekFNUlRTdmJFcDJSR1R2d0tBMXJEVkEyTjhDM1NTbk9LZ0p2eU9OQk1MMzRqSGwwVS03UQ?oc=5",
+    "date": "2026-11-21",
     "basis": "news headline and feed excerpt"
    }
   },
   {
-   "region": "Karachi",
-   "what": "Karachi launched its first sponge park aimed at saving rainwater and cutting urban flooding risks.",
-   "why": "Provides a practical example of green-blue infrastructure addressing stormwater runoff in the Global South.",
-   "action": "Look into the design and placement of the sponge park.",
+   "region": "World",
+   "what": "An analysis explores the maintenance challenges surrounding green infrastructure within housing developments in Mexico.",
+   "why": "Connects to the long-term delivery and sustainability of green-blue infrastructure in housing.",
+   "action": "Read maintenance cost findings.",
    "source": {
-    "title": "Karachi introduces country's first sponge park to cut flood risk",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WS2F0S3B4d2hKM3BnbTJHcnExMDhLRW1ENFQ4SFNFdV9vX09wUHBPMllWcXJfdTFEQUZWUG5rdUw4OWJBTy12Rw?oc=5",
-    "date": "2026-11-14",
-    "basis": "news headline and feed excerpt"
-   }
-  },
-  {
-   "region": "Saudi Arabia",
-   "what": "Saudi Arabia planted over a million trees to cool the capital city through urban forestry.",
-   "why": "Directly relates to urban cooling, heat mitigation, and green-blue infrastructure in a semi-arid setting.",
-   "action": "Assess the species used and spatial distribution.",
-   "source": {
-    "title": "Saudi Arabia plants over million trees to cool capital city",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1pKanU1TlZqWEtVRmJJWlZRMnZMaDRBWUN0cUh4cVFRYkRzbUxWaXFBYnZIWHJhWHdQTndsbnhudWxGSklvamw3YlpNT054T2tDV0VFbktaUlNtVHdxNVN0cGJBQi1aaHB6SHliU3d0eXEwSk9YZFJIZ2xTdFZKRk8xNlVwVWJlUmxrRDBiYnlEeHY1Vl9xcEd5dlNwbXQ5R1V4Zjh3TXZRVTQ?oc=5",
-    "date": "2026-11-13",
-    "basis": "news headline and feed excerpt"
-   }
-  },
-  {
-   "region": "South Denpasar",
-   "what": "A study examined Balinese architectural principles within the urban spatial planning of South Denpasar.",
-   "why": "Connects settlement morphology and local cultural principles with urban spatial planning approaches.",
-   "action": "Read the study on architectural principles.",
-   "source": {
-    "title": "Study analyzes Balinese architectural principles in South Denpasar",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkNIU0pQTWZOSDNFSlZKSHFWeFFjRFBSUTQ3S010NlJvdGJLbnBfZFlIQW15S0phaUpySDNuOTJNVm1EbWtlYXJ4WDRaWk9TaVdDdUZ6ZDhncGJKaEd2akVSVkl0VmZ5SmRibmhNUzc0OVpCMkpucTdUSVowMVllLW9nMGlESHRyRTNvNDd0QWZqenFENjJqaVZFME12VG1WXzllM0ctbU1aQzR2dzRJR1ZBVTE?oc=5",
-    "date": "2026-11-14",
+    "title": "Who Maintains Green Infrastructure in Mexico's Housing?",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU0tSmFRd19VTXdnenRhMVJqdXBrZ0k4Z3BMZklDd05qeVlUUHBwMnJZbTZrX1djczdDTkNLbTUtVUw5cktXUjFBcV91aDN5VUdvN3FLVm1OaUlUYkI0TTJjWUM3TWI5ZThFQm9wT0w4cGZqcXFib1lwWlFxWmsxRUp1bmkyV3dRb3BadU5ETXpDNHVmOHpKdlJ5Ym9PYlE?oc=5",
+    "date": "2026-11-19",
     "basis": "news headline and feed excerpt"
    }
   }
  ],
  "reading": {
-  "id": "W7225872578",
-  "title": "Land Use Change from 1984 To 2026 and Its Impact on Biodiversity Loss: A Case Study of Port Harcourt Metropolis: Green Cover Decline from 47.9% (1984) to 21.04% (2026)",
+  "id": "W7236582397",
+  "title": "Assessing just access to urban ecosystem services through spatial multi-criteria decision modeling: Evidence from a Global South city, Dhaka",
   "source": {
-   "url": "https://doi.org/10.54117/pqwe8p69",
-   "doi": "https://doi.org/10.54117/pqwe8p69",
-   "venue": "",
-   "date": "2026-11-12",
+   "url": "https://doi.org/10.1016/j.cities.2026.107653",
+   "doi": "https://doi.org/10.1016/j.cities.2026.107653",
+   "venue": "Cities",
+   "date": "2026-11-19",
    "authors": [
-    "Efe-Michael Agbragu",
-    "Sunny O. Asomaku",
-    "Augustine O. Wokocha",
-    "Victoria O. Emelu",
-    "Imiete Godspower"
+    "Md. Nazmul Haque",
+    "Ayyoob Sharifi"
    ],
-   "n_authors": 5,
+   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   },
-  "why": "It demonstrates how rapid, unplanned urban expansion in the Global South drives severe green cover loss and habitat fragmentation, matching your focus on land-cover change.",
+  "why": "It links urban ecosystem service supply and spatial accessibility with social justice indicators in a Global South city.",
   "questions": [
-   "How were the five epochs selected for mapping?",
-   "What specific classification accuracy was achieved?",
-   "How were the biodiversity metrics measured?"
+   "How did the authors model 15-minute walking access?",
+   "What weight did social vulnerability receive in the index?",
+   "Does the justice framework account for informal areas?"
   ],
-  "check": "You cannot establish the precise statistical correlation or causality between specific land-cover changes and individual wildlife population shifts from the abstract alone."
+  "check": "The abstract does not detail the exact mathematical weighting used to combine these disparate indicators."
  },
- "coverage": "Collected evidence is limited and omits direct news from Kabul, Afghanistan. Relevant international research and Global South contexts are represented via news items and the selected paper."
+ "coverage": "Evidence is limited to recent news headlines and a single case study on Dhaka. There is no explicit coverage of Kabul, and informal settlement applicability is noted as missing in the paper."
 }

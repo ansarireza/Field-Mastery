@@ -1,409 +1,73 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "summary": [
-  "Studies explore ecosystem services, land-cover changes, and trade-offs in various regions.",
-  "Research covers urban access injustices, ecological isolation, and conservation impacts."
+  "Studies show urban growth causes green loss, tree shortages, and rising temperatures.",
+  "Research highlights land-cover change, carbon credit gaps, and ecosystem limits."
  ],
  "items": [
   {
-   "id": "W7236807066",
-   "title": "Navigating spatial dynamics in multifunctional landscapes: understanding tradeoffs in conservation, agricultural production, and climate resilience in the Canadian Prairies",
-   "headline": "Mapping trade-offs in Canadian prairie multifunctional land",
+   "id": "W7236003766",
+   "title": "Spatiotemporal dynamics, driving mechanisms, and threshold identification of ecosystem services in a karst plateau-mountain region: A case study of Guizhou Province, Southwest China",
+   "headline": "Ecosystem services and thresholds in a karst region",
    "bullets": [
-    "Used landscape data and multivariate clustering to evaluate ecosystem service trade-offs.",
-    "Found 27% of the region has trade-offs where high farming harms conservation and climate.",
-    "Informs spatial prioritization to maximize multiple land management benefits."
+    "Quantified five ecosystem services in Guizhou from 2000 to 2020 using models.",
+    "Found spatial heterogeneity, nonlinear responses, and specific environmental limits.",
+    "Provides quantitative insights for ecosystem management in fragile landscapes."
    ],
    "plain": {
-    "question": "How do farming, nature protection, and climate goals conflict or work together in the Canadian Prairies?",
-    "method": "We used landscape data and grouped areas to study how different land goals mix together.",
-    "finding": "Over a quarter of the region has high farming output but low nature and climate scores.",
-    "why": "This helps leaders find priority spots to improve both farming and nature protection."
+    "question": "How do nature's benefits change over time in fragile mountain areas with fast city growth?",
+    "method": "Used maps, computer models, and data tools to measure five nature benefits from 2000 to 2020.",
+    "finding": "Nature benefits varied across space, and human pressures caused negative effects over time.",
+    "why": "This helps people manage and restore fragile environments better using clear evidence."
    },
    "full": {
-    "explainer": "To meet global goals for nature and climate, we must balance competing demands in landscapes that serve many functions, like farming areas. This paper looks at the prairies of Canada to study how conservation, food production, and climate resilience interact. By using landscape data and grouping similar areas together, the authors found five distinct types of landscapes. Some areas show sharp conflicts, where heavy farming lowers nature and climate health. In fact, over a quarter of the region faces these trade-offs. Other areas show better alignment, where high farming and climate resilience exist alongside moderate conservation scores. These findings help identify specific regions where land managers can target actions to improve multiple benefits at once, fitting local needs and practical limits.",
+    "explainer": "This paper looks at how nature's benefits change over time in a fragile mountain area in China called Guizhou Province between 2000 and 200, a time of fast city growth and human pressure. The researchers measured five specific benefits that nature provides, including habitat quality, carbon storage, water yield, soil conservation, and plant growth, using computer models and map data. They analyzed how these benefits trade off with each other or work together. They also used special statistical tools to find out what drives these changes and whether there are tipping points where nature suddenly changes for the worse. Their results showed that benefits were higher in forested areas and lower in urban or degraded places. Plant cover had the biggest positive effect on overall benefits, while human footprint, population, and money grew more harmful over time. The study also found clear tipping points where human pressures cross safe limits, offering useful evidence for ecological restoration.",
     "caveats": [
-     "The abstract does not state specific causal mechanisms linking farming practices directly to ecosystem service changes.",
-     "Not stated whether these findings apply outside the Canadian Prairies."
-    ],
-    "jargon": [
-     {
-      "term": "multifunctional landscapes",
-      "definition": "Landscapes that provide multiple benefits at once, such as food, nature habitats, and climate support."
-     },
-     {
-      "term": "ecosystem services",
-      "definition": "The benefits that people freely gain from the natural environment and healthy ecosystems."
-     },
-     {
-      "term": "multivariate clustering",
-      "definition": "A statistical method used to group areas with similar traits across multiple variables."
-     }
-    ],
-    "fit": "Provides a transferable spatial clustering and trade-off framework applicable to analyzing competing urban and ecological land uses."
-   },
-   "thesis": {
-    "why": "It demonstrates how multivariate clustering can identify regional trade-offs and synergies, offering a transferable methodological approach for spatial planning.",
-    "action": "Check the full paper for details on the spatial multi-criteria framework used for clustering.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "Does this spatial clustering method establish direct causes for the observed trade-offs?",
-    "evidence": "The abstract states they evaluated ecosystem service provisioning and identified clusters showing trade-offs, but does not mention causal tests.",
-    "limit": "It cannot be established whether specific human activities directly caused the declines in conservation and climate resilience.",
-    "check": "Verify how the study accounts for uncertainty and spatial independence in its clustering steps."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-   "source": {
-    "url": "https://doi.org/10.1016/j.jclepro.2026.149926",
-    "doi": "https://doi.org/10.1016/j.jclepro.2026.149926",
-    "venue": "Journal of Cleaner Production",
-    "date": "2026-11-19",
-    "authors": [
-     "Ehsan Pashanejad",
-     "Matthew G. E. Mitchell",
-     "Brian E. Robinson",
-     "Lael Parrott"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7236822899",
-   "title": "Ecosystem service relationships and bundle reorganization across alternative land-use scenarios in the Luoxiao Mountains: implications for spatial management",
-   "headline": "Mountain land-use scenarios shift ecosystem services",
-   "bullets": [
-    "Simulated future land use and assessed four ecosystem services in the Luoxiao Mountains.",
-    "Found carbon, habitat, and soil declined historically and in future scenarios while water rose.",
-    "Provides spatial zones for management based on ecosystem service bundles and trade-offs."
-   ],
-   "plain": {
-    "question": "How do future land use changes affect nature's benefits in mountain regions?",
-    "method": "Simulated future land uses and evaluated four ecological services and their groups.",
-    "finding": "Carbon, habitat, and soil values dropped over time, while water yield increased.",
-    "why": "Helps planners use service groupings and trade-offs to guide mountain management."
-   },
-   "full": {
-    "explainer": "This paper looks at how changing land use affects mountain ecosystems to help planners make better decisions. Researchers studied the Luoxiao Mountains, a region dominated by forests. They looked at the past from 2000 to 2020 and simulated future scenarios for the year 2035. They focused on four main natural benefits: carbon storage, habitat quality, soil conservation, and water yield. Between 2000 and 2020, all four benefits decreased. Looking ahead to 2035 under different planning scenarios, carbon storage, habitat quality, and soil conservation continued to drop, but water yield increased. Protecting the ecology helped maintain forests and carbon storage best, while prioritizing cropland caused the biggest losses in carbon and habitat. The researchers grouped different benefits together into service bundles. Most areas kept the same bundle type over time, but local shifts showed changes in how functions combine. By looking at these patterns, trade-offs, and bundle changes, they created six management zones to help planners manage mountain ecosystems better.",
-    "caveats": [
-     "The study focuses specifically on a forest-dominated mountain region, so results may differ elsewhere.",
-     "Only four specific ecosystem services were analyzed."
+     "The study focuses on a specific karst plateau-mountain region in China, so findings may need adaptation for other settings.",
+     "Not stated whether these exact thresholds apply to semi-arid or conflict-affected urban areas like Kabul."
     ],
     "jargon": [
      {
       "term": "Ecosystem services",
-      "definition": "The benefits that people freely gain from healthy natural environments."
+      "definition": "The benefits that people get from nature, like clean water and plant growth."
      },
      {
-      "term": "Trade-offs",
-      "definition": "Situations where gaining one benefit causes the loss or reduction of another."
+      "term": "Spatial heterogeneity",
+      "definition": "How things differ and are unevenly arranged across geographic space."
      },
      {
-      "term": "Ecosystem service bundles",
-      "definition": "Groups of multiple ecological benefits that repeatedly appear together across a landscape."
+      "term": "Nonlinear responses",
+      "definition": "Changes in nature that do not happen at a steady, constant rate when pressures increase."
+     },
+     {
+      "term": "Constraint line analysis",
+      "definition": "A method used to find the limits or boundaries placed on ecological responses by drivers."
      }
     ],
-    "fit": "Demonstrates scenario comparison and ecosystem service bundles, aligning with methods for environmental planning and spatial modeling."
+    "fit": "Demonstrates spatial modeling, driver analysis, and threshold identification applicable to fragile landscapes and environmental planning."
    },
    "thesis": {
-    "why": "It uses scenario comparisons and ecosystem service bundles, which match the student's methodological interests in spatial modeling and planning.",
-    "action": "Check how they modeled the land-use scenarios to see if intPLUS is useful for your work.",
+    "why": "It shows advanced methods for analyzing spatial dynamics, trade-offs, and thresholds, which are useful for studying urban ecosystem services and planning.",
+    "action": "Check how the hybrid framework of Geodetector and XGBoost-SHAP could be tested on your own spatial datasets.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How robust are the simulated future scenarios given that past trends showed continuous declines?",
-    "evidence": "Historical declines from 2000 to 2020 across all four services were followed by divergent trends in 2035, like rising water yield.",
-    "limit": "The abstract does not state the exact validation metrics or uncertainties of the land-use simulation model.",
-    "check": "Examine how the intPLUS simulation model was validated and what assumptions drove the water yield increase."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
-   "source": {
-    "url": "https://doi.org/10.3389/ffgc.2026.1976927",
-    "doi": "https://doi.org/10.3389/ffgc.2026.1976927",
-    "venue": "Frontiers in Forests and Global Change",
-    "date": "2026-11-19",
-    "authors": [
-     "Jixi Hu",
-     "Xianwen Le",
-     "Aiping Deng",
-     "Tian Li"
-    ],
-    "n_authors": 4,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7233802502",
-   "title": "A method for moving biodiversity assessment out of pure research and into decision-making",
-   "headline": "A new step-by-step participatory biodiversity method",
-   "bullets": [
-    "Created a protocol to map how different groups understand biodiversity and its benefits.",
-    "Tested the approach in three regions to capture place-based understandings.",
-    "Helps conservation practitioners improve collective decision-making and management."
-   ],
-   "plain": {
-    "question": "How can we include diverse views of nature in conservation planning?",
-    "method": "We used interviews and group modeling with different stakeholders.",
-    "finding": "We made a practical way to map local ideas about biodiversity.",
-    "why": "It helps groups make better, shared decisions for nature management."
-   },
-   "full": {
-    "explainer": "Biodiversity means different things to different people depending on ecology, culture, and money. However, conservation planning often struggles to capture these diverse views from various groups. This paper introduces a practical, step-by-step protocol using participatory modeling. The method brings together scientists, managers, Tribal representatives, resource users, and other community stakeholders. The workflow combines semi-structured interviews, participatory modeling, qualitative coding, comparison, and synthesis. The authors show how this approach works by using examples from Puget Sound, Mobile Bay, and Chesapeake Bay. Their method captures local understandings of biodiversity, its benefits, and local stressors. This helps support ecosystem management, fisheries, and coastal planning. Ultimately, the workflow gives practitioners a repeatable way to include local ecological experts and community members in decisions.",
-    "caveats": [
-     "Tested in specific US bays and sounds; applicability elsewhere is not stated.",
-     "Specific quantitative metrics of biodiversity change are not stated."
-    ],
-    "jargon": [
-     {
-      "term": "Participatory modeling",
-      "definition": "A collaborative method involving stakeholders to build models of a system."
-     },
-     {
-      "term": "Qualitative coding",
-      "definition": "The process of labeling and organizing text data to identify themes."
-     },
-     {
-      "term": "Ecosystem-based management",
-      "definition": "An environmental management approach that considers the entire ecosystem."
-     }
-    ],
-    "fit": "Connects to stakeholder engagement, plural values, and decision-making for urban ecosystem services and planning."
-   },
-   "thesis": {
-    "why": "It offers a practical participatory protocol for integrating diverse stakeholder values, which aligns with learning goals on plural values and environmental governance.",
-    "action": "Check if the participatory method can be adapted for data-scarce or conflict-affected urban settings.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How transferable is this participatory method to data-scarce or conflict-affected cities in the Global South?",
-    "evidence": "The abstract demonstrates the workflow using applications in Puget Sound, Mobile Bay, and Chesapeake Bay.",
-    "limit": "The abstract does not state how the protocol performs in fast-growing, informal, or conflict-affected urban settings like Kabul.",
-    "check": "Verify if the full paper discusses adapting the protocol for resource-limited or data-poor regions."
-   },
-   "relevance": 3,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
-   "source": {
-    "url": "https://doi.org/10.1093/biosci/biag156",
-    "doi": "https://doi.org/10.1093/biosci/biag156",
-    "venue": "BioScience",
-    "date": "2026-11-16",
-    "authors": [
-     "Steven Gray",
-     "Kelsi Furman",
-     "Gabrielle Canonico",
-     "Sarah L. Gibbs",
-     "C B Knox",
-     "Steven Scyphers"
-    ],
-    "n_authors": 10,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7236582397",
-   "title": "Assessing just access to urban ecosystem services through spatial multi-criteria decision modeling: Evidence from a Global South city, Dhaka",
-   "headline": "Assessing just access to urban ecosystem services in Dhaka",
-   "bullets": [
-    "Used InVEST and spatial modeling to evaluate just access to four urban ecosystem services.",
-    "Found severe access injustices, with Dhaka South lagging behind Dhaka North.",
-    "Shows that access depends on spatial configuration, social vulnerability, and barriers."
-   ],
-   "plain": {
-    "question": "How fair is public access to nature and environmental benefits across different neighborhoods in Dhaka?",
-    "method": "Computer models to map nature benefits, walking access, and social justice scores into a single index.",
-    "finding": "Most areas face unfair access, especially cultural and supporting services, with Dhaka South lagging behind.",
-    "why": "Helps planners find neglected neighborhoods and make cities fairer for everyone."
-   },
-   "full": {
-    "explainer": "Recent urban growth in Dhaka has created unfairness in how people reach and benefit from nature, which affects health and well-being. This paper looks at fairness in accessing four types of nature-provided benefits: recreation, cooling, habitat quality, and water yield. The researchers used a computer tool called the InVEST model alongside a method to measure 15-minute walking access. They also used a justice framework and a fuzzy overlay technique to build a combined Justice in Access to Urban Ecosystem Services Index. The results show major unfairness across the city. More than half of the areas had very low scores for cultural services, and nearly half lacked supporting services. A clear gap showed Dhaka South performing worse than Dhaka North. While a few spots near Hatirjheel scored high, most of the city remains underserved. The authors conclude that fair access relies on the mix of space layout, social vulnerability, and physical barriers, meaning planners must focus on equity to help marginalized neighborhoods.",
-    "caveats": [
-     "Results focus specifically on Dhaka and may need adaptation for other cities.",
-     "Not stated whether findings apply equally to informal settlements."
-    ],
-    "jargon": [
-     {
-      "term": "Urban Ecosystem Services",
-      "definition": "The useful benefits that natural environments provide to people living in cities."
-     },
-     {
-      "term": "InVEST model",
-      "definition": "A computer software tool used to map and value the benefits from nature."
-     },
-     {
-      "term": "Fuzzy overlay",
-      "definition": "A spatial analysis method that combines different map layers representing degrees of truth or conditions."
-     }
-    ],
-    "fit": "Connects to Global South urban ecosystem services, spatial modeling, and environmental planning for fair access."
-   },
-   "thesis": {
-    "why": "It links urban ecosystem service supply and spatial accessibility with social justice indicators in a Global South city.",
-    "action": "Check how they combined InVEST outputs with social vulnerability and the fuzzy overlay method.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How did the authors separate the pure physical supply of ecosystem services from the social barriers in their index?",
-    "evidence": "The abstract mentions constructing a composite JAU Index by integrating supply, accessibility, and justice indicators through a fuzzy overlay.",
-    "limit": "The abstract does not detail the exact mathematical weighting used to combine these disparate indicators.",
-    "check": "Review the full paper to see how the fuzzy overlay weights social vulnerability versus physical supply."
-   },
-   "relevance": 5,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.cities.2026.107653",
-    "doi": "https://doi.org/10.1016/j.cities.2026.107653",
-    "venue": "Cities",
-    "date": "2026-11-19",
-    "authors": [
-     "Md. Nazmul Haque",
-     "Ayyoob Sharifi"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7236633354",
-   "title": "Ecosystem Service–Driven Assessment of Ecological Network Stability Under Urban Expansion: A Case Study in Chengdu",
-   "headline": "Urban expansion isolates ecological networks in Chengdu",
-   "bullets": [
-    "Used InVEST, MSPA, and circuit theory to assess ecological networks and service flows.",
-    "Found built-up areas grew 86.2% while urban isolation indices rose significantly by 269%.",
-    "Highlights how urban growth fragments networks and threatens regional ecosystem stability."
-   ],
-   "plain": {
-    "question": "How does growing cities damage nature's connections and flow of benefits?",
-    "method": "Used computer models and satellite data to map nature areas and how benefits move over time.",
-    "finding": "Cities grew a lot and broke up natural areas, making the network weaker and easily disrupted.",
-    "why": "Helps planners see where urban growth hurts nature so they can protect vital ecological connections."
-   },
-   "full": {
-    "explainer": "This paper looks at how rapid city growth affects the connections between natural areas, which are needed to provide environmental benefits like clean water and air. Focusing on a fast-growing area in China called Chengdu from 2000 to 2020, the researchers used computer models and satellite maps to track changes in nature and urban spaces. They studied how natural areas supply benefits and how those benefits move to areas where people need them. They found that while some vegetation recovered in the mountains, expanding cities ate into farmland and broke natural areas into smaller, more isolated pieces. To measure this, they created special indexes to track how urban growth blocks natural paths and flows. Their tests showed that even if some overall natural area numbers looked fine, the network became much more fragile. If just a few key natural spots were damaged, the whole network could collapse. Finally, they tested future scenarios for 2035, showing that strict environmental protection helps keep natural corridors connected better than business-as-usual growth.",
-    "caveats": [
-     "The study focuses on Chengdu, so findings may differ in semi-arid, conflict-affected, or data-scarce settings like Kabul.",
-     "The abstract does not state specific uncertainties or error ranges for the model-based spatial predictions."
-    ],
-    "jargon": [
-     {
-      "term": "Ecological Networks",
-      "definition": "A system of natural areas and corridors that allows species to move and ecological processes to function."
-     },
-     {
-      "term": "Ecosystem Service Flow",
-      "definition": "The spatial movement of ecological benefits from the areas that produce them to the areas that use them."
-     },
-     {
-      "term": "Minimum Cumulative Resistance",
-      "definition": "A spatial model used to find the easiest paths for species or ecological flows to move across a landscape."
-     },
-     {
-      "term": "Morphological Spatial Pattern Analysis",
-      "definition": "A method using spatial data to categorize pixel-based images into different structural landscape elements."
-     }
-    ],
-    "fit": "Demonstrates methods like InVEST and spatial network modeling to link urban expansion with ecological service flows and landscape fragmentation."
-   },
-   "thesis": {
-    "why": "It models how urban expansion fragments ecological networks and disrupts service flows, aligning with methods for assessing land-cover change impacts.",
-    "action": "Check how they modeled service flows between providing and benefiting areas for your own spatial analysis.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "Does removing key nodes in an attack simulation mean actual species or service collapse in reality?",
-    "evidence": "The abstract notes that network stability depended on key nodes, and removing the top 5% caused a sharp decline in robustness based on attack simulations.",
-    "limit": "The abstract cannot prove whether simulated topological collapses translate directly into real-world ecological extinctions.",
-    "check": "Verify the exact mathematical rules used for the complex network attack simulations in the full paper."
+    "question": "How do you know if these identified thresholds and driver relationships apply to semi-arid urbanizing settings like Kabul?",
+    "evidence": "The abstract demonstrates threshold effects and driver mechanisms in a humid karst plateau-mountain region of Southwest China.",
+    "limit": "The abstract does not show whether these exact numerical thresholds or nonlinear models transfer to arid, data-scarce, or conflict-affected cities.",
+    "check": "Verify if the hybrid driver framework requires environmental data densities that are unavailable in your study area."
    },
    "relevance": 4,
-   "watch": null,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
    "source": {
-    "url": "https://doi.org/10.1002/ldr.70919",
-    "doi": "https://doi.org/10.1002/ldr.70919",
-    "venue": "Land Degradation and Development",
+    "url": "https://doi.org/10.1016/j.ecolind.2026.115867",
+    "doi": "https://doi.org/10.1016/j.ecolind.2026.115867",
+    "venue": "Ecological Indicators",
     "date": "2026-11-18",
     "authors": [
-     "Yang Zhao",
-     "Li He",
-     "Xinyi Liu",
-     "Zhengwei He",
-     "Yun Wei",
-     "Wenqian Bai"
-    ],
-    "n_authors": 7,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W4416397504",
-   "title": "Bridging gaps in targeting criteria for a payment for ecosystem services program in southern Chile",
-   "headline": "Criteria choice shifts who benefits from PES",
-   "bullets": [
-    "Combined expert surveys and spatial multicriteria decision analysis for PES targeting.",
-    "Ecological weights prioritized large forest properties; social weights favored small farms.",
-    "Helps design equitable payment schemes in heterogeneous socio-ecological settings."
-   ],
-   "plain": {
-    "question": "How can we fairly choose properties for a payment program for nature benefits?",
-    "method": "We asked experts for criteria and mapped high-priority areas using spatial analysis.",
-    "finding": "Focusing on ecology helps large forest owners, while social factors help small farms.",
-    "why": "This shows how program rules change who gets money and affects fairness."
-   },
-   "full": {
-    "explainer": "As Chile gets ready for a national payment program for nature benefits, it is important to figure out who should receive funds. This study looks at how to choose properties fairly in southern Chile. The researchers used a web survey to ask experts what ecological, social, and economic factors matter most. Then, they mapped high-priority areas using a spatial decision tool. The results show that when experts put more weight on pure ecology, large and medium properties with forests and rivers are chosen. But when social and ecological factors are balanced together, the priority shifts heavily toward much smaller farms and pastures in other areas. This means that changing the rules of who qualifies will completely change which landowners benefit. This research offers useful ideas for designing fair payment programs in similar places.",
-    "caveats": [
-     "Not stated whether this was tested in urban settings.",
-     "Not stated how actual ecological improvements were measured."
-    ],
-    "jargon": [
-     {
-      "term": "Payment for Ecosystem Services (PES)",
-      "definition": "A program where landowners get paid for managing their land to provide benefits like clean water."
-     },
-     {
-      "term": "Spatial multicriteria decision analysis",
-      "definition": "A mapping method that combines multiple rules and factors to find the best locations for a goal."
-     },
-     {
-      "term": "Expert elicitation",
-      "definition": "A structured method to gather knowledge and judgments from specialists using surveys or interviews."
-     },
-     {
-      "term": "Distributive equity",
-      "definition": "Fairness in how the costs and benefits of a program are shared among different people."
-     }
-    ],
-    "fit": "Connects via spatial multicriteria analysis and balancing environmental outcomes with social equity in land-use planning."
-   },
-   "thesis": {
-    "why": "It models spatial planning trade-offs between environmental goals and social equity, aiding scenario comparison and environmental justice goals.",
-    "action": "Check how they handled weighting uncertainties in their spatial analysis.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How do we know if prioritizing small farms actually improves ecological outcomes compared to protecting large forest remnants?",
-    "evidence": "The abstract shows a clear spatial and size trade-off when shifting weights from ecological to social-ecological criteria, but does not prove ecological results.",
-    "limit": "The abstract does not establish the actual environmental effectiveness or long-term ecological impact of choosing one property type over another.",
-    "check": "Verify how the study validates the ecological benefits expected from the socially weighted small properties versus large forests."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1016/j.ecoser.2026.101937",
-    "doi": "https://doi.org/10.1016/j.ecoser.2026.101937",
-    "venue": "Ecosystem Services",
-    "date": "2026-11-19",
-    "authors": [
-     "Katharina Kuhls",
-     "Felipe Benra",
-     "María José Martinez‐Harms"
+     "Bo Xie",
+     "Bingshun Meng",
+     "Mingming Zhang"
     ],
     "n_authors": 3,
     "open_access": true,
@@ -411,260 +75,321 @@
    }
   },
   {
-   "id": "W7236698769",
-   "title": "Biodiversity and ecosystem services in changing landscapes: a biome level scenario assessment for continental Ecuador",
-   "headline": "Deforestation and afforestation impacts on Ecuador's biomes",
+   "id": "W7233781856",
+   "title": "Forest Carbon Credits Under Fragmented Ownership in Japan: Registration Patterns and the Layering of Forest-Related Value",
+   "headline": "Private forests trail public ones in carbon credit adoption",
    "bullets": [
-    "Combined spatial modeling and expert surveys to assess future land scenarios",
-    "Found Amazon suffered biodiversity and service losses from deforestation",
-    "Demonstrates how future landscape scenarios impact regional ecosystems"
+    "Analyzed Japanese registry data, purchase records, and five respondent interviews.",
+    "Found private forest registration is much lower than public and corporate forests.",
+    "Shows how businesses layer extra values like water onto carbon credits."
    ],
    "plain": {
-    "question": "How do future forest changes affect nature and benefits in Ecuador?",
-    "method": "Used computer maps and expert workshops to test future scenarios.",
-    "finding": "Clearing forests harmed Amazon nature benefits; planting trees traded food for other benefits.",
-    "why": "Helps planners see how future land use changes affect the environment."
+    "question": "How do forest carbon projects differ by owner, and how are extra values added to credits?",
+    "method": "Studied registry data, purchase records, and interviews with five people.",
+    "finding": "Private forests registered far less than public ones, while buyers mainly sought offsetting.",
+    "why": "It shows how private businesses help connect forest functions to the real economy."
    },
    "full": {
-    "explainer": "This paper looks at how future changes in land use, specifically cutting down trees or planting new ones, affect nature and the benefits it provides to people across different regions of Ecuador, such as the Coast, the Andes, and the Amazon. Since a complete study of these distinct regions was missing, the researchers tested a new approach that mixes computer mapping with local expert workshops. Experts helped pick important nature benefits like food, clean water, and soil protection, and helped build future scenarios. Then, the computer maps showed how these benefits might change. The results show that cutting down forests in the Amazon causes major losses in most benefits. Meanwhile, planting trees in the Andes creates trade-offs, reducing food production while boosting other benefits. The maps also showed that areas with high nature benefits shrank when forests were lost and grew when trees were planted. The experts agreed this method is useful for guiding future land management and shaping better policies.",
+    "explainer": "This paper looks at forest carbon credits in Japan, which let buyers pay for managed forests. The study asks two main questions: how the timing and scale of registering these projects differ depending on who owns and manages the forest, and how additional values, like water and biodiversity, are added to what companies buy and sell. The authors looked at official registry data, purchase records, and responses from five people. By fiscal 2025, registered project areas reached over half for forestry public corporations, nearly a quarter for public forests, but only two percent for private forests. The study found that developers are adding extra environmental values to carbon credits. Buyers mostly purchased credits for the functional goal of carbon offsetting, while some also found emotional value in supporting forests. Overall, private businesses are leading this trend, helping integrate forest benefits into the economy.",
     "caveats": [
-     "Results are based on simulated future scenarios, not current observations",
-     "Trade-offs and capacities are modeled at the biome level"
+     "Data relies on only five respondents for qualitative insights.",
+     "Results focus specifically on Japan's institutional and registry context."
     ],
     "jargon": [
      {
-      "term": "Biome",
-      "definition": "A large community of plants and animals occupying a major habitat, like the Amazon or Andes."
+      "term": "J-Credit",
+      "definition": "A scheme where the Japanese government certifies amount of greenhouse gas emissions reduced."
      },
      {
-      "term": "Afforestation",
-      "definition": "The establishment of a forest in an area where there was previously no tree cover."
-     },
-     {
-      "term": "Cellular Automaton",
-      "definition": "A computer modeling method used to simulate how land cover changes over time across a grid."
+      "term": "Diffusion curves",
+      "definition": "Mathematical curves showing how an innovation spreads through a population over time."
      }
     ],
-    "fit": "Shows how scenario modeling and expert input assess land change impacts on ecosystem services, relevant to spatial planning methods."
+    "fit": "Connects to ecosystem service bundles, plural values, and private-sector involvement in environmental planning, though focused on Japan."
    },
    "thesis": {
-    "why": "It demonstrates scenario comparison and spatial modeling methods, aligning with the student's focus on land-cover change and environmental planning tools.",
-    "action": "Check how they integrated expert input with spatial modeling to inform scenario comparison.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How were expert-driven simulation rules validated against historical land-cover changes?",
-    "evidence": "The abstract mentions experts were involved in developing simulation conditions for scenarios applied in spatial modeling, but does not state validation steps.",
-    "limit": "The abstract does not state how accurately the simulation models predicted past land changes before forecasting future scenarios.",
-    "check": "Verify the land-change validation techniques and accuracy assessment used in the full paper."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1007/s10980-026-02483-z",
-    "doi": "https://doi.org/10.1007/s10980-026-02483-z",
-    "venue": "Landscape Ecology",
-    "date": "2026-11-19",
-    "authors": [
-     "Hongmi Koo",
-     "Janina Kleemann",
-     "Pablo Cuenca",
-     "Jin Kyoung Noh",
-     "Christine Fürst"
-    ],
-    "n_authors": 5,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7236777605",
-   "title": "Future dynamics of water-related ecosystem services and their vegetation relationship under climate and land-use changes in the Poyang Lake Basin",
-   "headline": "Water yield rises while carbon storage shifts with climate",
-   "bullets": [
-    "Used PLUS and InVEST models to project water and carbon services under future scenarios.",
-    "Found water yield increases driven by climate, while carbon storage depends on emission levels.",
-    "Highlights need for coordinated land and water management under climate change."
-   ],
-   "plain": {
-    "question": "How will future climate and land changes affect water and carbon in a major basin?",
-    "method": "Used computer models to simulate future conditions under different emission scenarios.",
-    "finding": "Water yield increases mostly due to rain, while carbon storage goes up or down based on emissions.",
-    "why": "Shows we need smart land and water planning to protect nature benefits."
-   },
-   "full": {
-    "explainer": "This paper looks at how water-related benefits and carbon storage might change in the future within the Poyang Lake Basin due to shifts in climate and land use. The researchers used computer models to project these changes under different future scenarios. They found that water yield is expected to increase significantly, driven mostly by changes in precipitation and climate factors. Meanwhile, carbon storage behaves differently depending on the emission scenario, rising under a low-emission pathway but dropping under a high-emission one. The study also examined how different types of vegetation relate to water yield and greenness. For example, forests generally showed high vegetation greenness but low water yield, while shrublands and grasslands often combined high greenness with high water yield. However, under high-emissions, some vegetation showed signs of stress. The authors stress that land-use change drives spatial differences in these benefits, meaning managers need coordinated strategies to protect ecosystem services.",
-    "caveats": [
-     "NDVI and carbon density were derived from land-use-specific parametrizations, showing descriptive associations.",
-     "Not stated whether field observations were used to validate all future model projections."
-    ],
-    "jargon": [
-     {
-      "term": "Ecosystem services",
-      "definition": "Benefits that humans freely gain from the natural environment and properly functioning ecosystems."
-     },
-     {
-      "term": "NDVI",
-      "definition": "A simple numerical indicator used to analyze remote sensing measurements to assess live green vegetation."
-     }
-    ],
-    "fit": "Connects via scenario comparison, land-cover change modeling, and analyzing vegetation relationships with water-related ecosystem services."
-   },
-   "thesis": {
-    "why": "It demonstrates scenario comparison and spatial modeling methods relevant to evaluating how land-cover and climate changes alter ecosystem service supplies.",
-    "action": "Check how they handled land-change validation and uncertainty assessment in their modeling approach.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How were spatial associations between vegetation and water yield distinguished from causal effects?",
-    "evidence": "The abstract notes that patterns are presented as descriptive land-use associations rather than statistically inferred trade-offs.",
-    "limit": "The abstract does not establish direct causal links between specific land-use changes and the observed hydrological variations.",
-    "check": "Verify the exact statistical or spatial methods used to link vegetation indices with water yield estimates."
-   },
-   "relevance": 3,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1038/s41598-026-76535-4",
-    "doi": "https://doi.org/10.1038/s41598-026-76535-4",
-    "venue": "Scientific Reports",
-    "date": "2026-11-19",
-    "authors": [
-     "Kindeneh Bekele Emiru",
-     "Xuejing Wu",
-     "Yin Ren",
-     "Shudi Zuo",
-     "Ghulam Raza Khan"
-    ],
-    "n_authors": 5,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7166468536",
-   "title": "Forests and ecosystem services: Nature's invisible economy",
-   "headline": "Forests provide vital services without market prices",
-   "bullets": [
-    "Examined forests as natural capital and the invisible economy of ecosystem services",
-    "Found that forest loss causes delayed harms like floods, droughts, and heat stress",
-    "Argues that protecting forests is economically necessary rather than a luxury"
-   ],
-   "plain": {
-    "question": "Why are forests economically important beyond wood and fruits?",
-    "method": "The article elaborates on forest functions and presents supporting data.",
-    "finding": "Forests provide clean water, food, and disaster reduction without price tags.",
-    "why": "Losing forests slowly causes floods, droughts, heat stress, and public costs."
-   },
-   "full": {
-    "explainer": "Forests are usually valued for things we can see and pull out of them, like wood, fuelwood, fruits, and how nice they look. However, their most important contributions happen quietly without any price tags or market trades. These invisible benefits are called ecosystem services. They act as an invisible economy that supplies clean water and food, lowers disaster risks, and supports human well-being. If we cut down forests, this economy does not vanish instantly. Instead, the negative effects take time to show up. Eventually, people face problems like floods, droughts, lower crop yields, heat stress, and higher public costs. This article explains how forests work as natural capital, looks at data that supports their ecosystem services, and argues that saving forests is an economic necessity rather than just an environmental luxury.",
-    "caveats": [
-     "Specific data details are not stated in the abstract",
-     "Exact study locations and methods are not stated"
-    ],
-    "jargon": [
-     {
-      "term": "Ecosystem services",
-      "definition": "Benefits that nature provides to people without market prices."
-     },
-     {
-      "term": "Natural capital",
-      "definition": "The world's stock of natural assets, including geology, soil, air, water and all living things."
-     }
-    ],
-    "fit": "It connects by examining ecosystem services and the economic risks of losing natural cover, which links to urban nature access."
-   },
-   "thesis": {
-    "why": "It connects broadly to ecosystem services and the delayed costs of losing natural cover, which relates to evaluating urban nature and environmental planning.",
-    "action": "Check the full text for specific data types used to support forest ecosystem service valuations.",
+    "why": "It examines how multiple ecosystem values like water and carbon are bundled and marketed by private actors, relevant to ecosystem service delivery.",
+    "action": "Check how the study defines and measures non-carbon values like water alongside carbon credits.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How are invisible ecosystem services measured quantitatively without market prices?",
-    "evidence": "The abstract mentions data supporting ecosystem services and natural capital, but does not explain the metrics used.",
-    "limit": "We cannot establish the specific data sources, geographic scope, or valuation methods used in the study.",
-    "check": "Verify how the authors quantify the invisible economy and delayed environmental impacts."
+    "question": "How can five respondents adequately represent national trends in buyer motives and value layering?",
+    "evidence": "The abstract states the qualitative analysis relied on responses from just five respondents alongside registry data.",
+    "limit": "It is not established how the five respondents were chosen or if they represent the broader market.",
+    "check": "Review the full paper to see how the qualitative interview data is weighted against quantitative records."
    },
    "relevance": 2,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+   "source": {
+    "url": "https://doi.org/10.3390/f17111365",
+    "doi": "https://doi.org/10.3390/f17111365",
+    "venue": "Forests",
+    "date": "2026-11-15",
+    "authors": [
+     "Naoki Ohira",
+     "Ryuzo Takahashi",
+     "Shunichi Koshimura",
+     "Youji Kohda",
+     "Asami Shikida",
+     "Hideomi Gokon"
+    ],
+    "n_authors": 6,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7237195463",
+   "title": "Conservation Values and the Value of Conservation",
+   "headline": "Conservation values and value of conservation analysis",
+   "bullets": [
+    "Examined conservation values and the value of conservation",
+    "Not stated in the provided abstract text",
+    "Helps understand conservation priorities and valuation"
+   ],
+   "plain": {
+    "question": "What is the text about regarding conservation values?",
+    "method": "Not stated in the provided abstract text.",
+    "finding": "Not stated in the provided abstract text.",
+    "why": "It helps us understand how we value nature and conservation."
+   },
+   "full": {
+    "explainer": "This book chapter or book from Elsevier focuses on the topic of conservation values and the value of conservation. Because the abstract text provided contains only the title and no descriptive summary or findings, specific details about the methods used, the exact study locations, or the concrete conclusions reached are not available. In general, studies on this topic explore why people care about nature, how different groups assign worth to natural areas, and how these values guide environmental protection and planning decisions. For a researcher studying urban ecosystems or environmental planning, looking at conservation values is important for understanding how decisions about land use and nature are made. However, since the text provided is extremely brief, you would need to read the full chapter or book to see which specific theories, frameworks, or case studies are discussed by the authors.",
+    "caveats": [
+     "Not stated",
+     "Not stated"
+    ],
+    "jargon": [],
+    "fit": "Connects to environmental planning and values in urban ecosystem services research, though the exact focus is limited by the abstract."
+   },
+   "thesis": {
+    "why": "It relates to environmental planning and valuing nature, which connects broadly to understanding human benefits and plural values in urban ecosystem services.",
+    "action": "Check the full table of contents to see if it covers urban contexts or the Global South.",
+    "relationship": "unclear"
+   },
+   "critical": {
+    "question": "How do these conservation values apply to data-scarce urban settings in the Global South?",
+    "evidence": "The abstract title mentions conservation values, but provides zero details on geography, urban areas, or specific settings.",
+    "limit": "The abstract lacks any information on study sites, methods, or empirical findings.",
+    "check": "Verify whether the full text discusses urban environments, cities, or developing regions."
+   },
+   "relevance": 1,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
+   "source": {
+    "url": "https://doi.org/10.1016/b978-0-443-41773-3.00100-1",
+    "doi": "https://doi.org/10.1016/b978-0-443-41773-3.00100-1",
+    "venue": "Elsevier eBooks",
+    "date": "2026-11-20",
+    "authors": [
+     "Karen E. Allen",
+     "Makayla Carnahan"
+    ],
+    "n_authors": 2,
+    "open_access": false,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7203453096",
+   "title": "A decadal analysis of land surface temperature dynamics in response to urban expansion and vegetation loss in Faridpur",
+   "headline": "Urban growth and green loss caused surface warming in Faridpur",
+   "bullets": [
+    "Used satellite data from 2014 and 2024 to track land cover, plant health, and surface temperature.",
+    "Found built-up areas grew, vegetation shrank, and overall regional temperatures went up…",
+    "Shows an urgent need to conserve green spaces and add urban greenery to counter warming effects."
+   ],
+   "plain": {
+    "question": "How did changes in land and plants affect surface temperatures in Faridpur over ten years?",
+    "method": "The researchers used satellite images from 2014 and 2024 to map land types, plant health, and surface heat.",
+    "finding": "Built-up land doubled while vegetation dropped, and maximum temperatures rose by nearly three degrees.",
+    "why": "It shows that losing plants to city growth makes local areas hotter, so we must protect green spaces."
+   },
+   "full": {
+    "explainer": "This study looks at how land changes affect temperatures in the Faridpur District of Bangladesh. Using satellite images from 2014 and 2024, the researchers tracked shifts in landscape types—like vegetation, bare soil, built-up areas, and water—alongside plant health and land surface temperature. Over the decade, they found that city areas expanded rapidly from about 21 percent to over 45 percent of the land, while green vegetation dropped sharply from 41 percent down to about 25 percent. At the same time, the region got much hotter: the maximum temperature rose from 42.69 degrees Celsius to 45.33 degrees Celsius, and the minimum temperature also went up. Water bodies and green patches managed to keep cooler microclimates, whereas buildings and bare soil were the hottest spots. The authors conclude that protecting existing plants and adding small green areas in growing towns is essential to fight off these rising urban temperatures.",
+    "caveats": [
+     "Not stated whether other climate factors besides land cover influenced the temperature changes.",
+     "Not stated how local socioeconomic conditions affect these thermal patterns."
+    ],
+    "jargon": [
+     {
+      "term": "Land Surface Temperature",
+      "definition": "How hot the surface of the ground feels when measured from space."
+     },
+     {
+      "term": "Normalized Difference Vegetation Index",
+      "definition": "A satellite-based measure used to estimate the health and amount of green plants."
+     },
+     {
+      "term": "Supervised Classification",
+      "definition": "A computer method where a user trains software to categorize different types of land cover."
+     }
+    ],
+    "fit": "It connects to urban land-cover change, microclimates, and planning responses in the Global South, aiding urban cooling research."
+   },
+   "thesis": {
+    "why": "It evaluates urban expansion, land-cover change, and surface temperature dynamics, directly relating to urban cooling and environmental planning in the Global South.",
+    "action": "Check how the authors mapped land cover categories and validated their satellite image classification accuracy.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does the abstract prove that urban expansion directly caused the temperature rise, or is it just a correlation?",
+    "evidence": "The abstract notes widespread surface warming alongside increased built-up areas and reduced vegetation, but does not test other variables.",
+    "limit": "It cannot establish a definitive causal mechanism between building growth and temperature without controlling for external weather factors.",
+    "check": "Verify if the full paper tests for statistical causality or only presents spatial correlations between land cover and temperature."
+   },
+   "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.37446/corbio/ra/4.1.2026.1-9",
-    "doi": "https://doi.org/10.37446/corbio/ra/4.1.2026.1-9",
-    "venue": "Cornous Biology",
-    "date": "2026-12-31",
+    "url": "https://doi.org/10.30493/das.2026.011408",
+    "doi": "https://doi.org/10.30493/das.2026.011408",
+    "venue": "DYSONA – Applied Science",
+    "date": "2027-01-01",
     "authors": [
-     "Karuppaiah Ravichandran Dharshini",
-     "Govindaraj Kamalam Dinesh",
-     "Chandrasekaran Nivaethaa",
-     "Archana Anokhe",
-     "Nath Karthika",
-     "Poomalai Vasanth"
+     "Saikat Dey Munna",
+     "Sajjad Hussain"
     ],
-    "n_authors": 13,
+    "n_authors": 2,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7236520801",
+   "title": "Terrain-Conditioned Industrial Expansion and Environmental Trade-offs in a Peri-Urban Corridor: A Two-Decade Geospatial Assessment of the Vasanthanarasapura Industrial Area, Karnataka",
+   "headline": "Flat fertile land lost to industrial growth",
+   "bullets": [
+    "Mapped land-use changes over twenty years using satellite data.",
+    "Found built-up areas grew while croplands sharply declined.",
+    "Shows why protecting prime farmland from flat-land industry is vital."
+   ],
+   "plain": {
+    "question": "Where did new factories get built and what land did they replace?",
+    "method": "Used satellite images and maps to track land changes over twenty years.",
+    "finding": "Factories were built on flat, fertile farmland, causing farms to shrink.",
+    "why": "Helps planners protect good farmland from being taken over by industry."
+   },
+   "full": {
+    "explainer": "This study looks at how industrial growth changes the landscape around towns in India. The researchers examined a specific industrial area and its surrounding buffer zone across three different years: 2004, 2014, and 2024. They used satellite images to map how the land was being used, checking their map accuracy with careful random sampling points. By looking at soil, height, slope, and drainage, they figured out the physical layout of the land where changes happened. Over the two decades, they found that built-up land and plantations grew, while crop fields decreased significantly. The new factories mostly appeared on flat and gently sloping land that happened to be the district's best farmland. Because builders prefer flat land, fertile farms were lost. The authors suggest that future planning should direct factories toward sloped fringe lands instead, while protecting water sources and prime crops. This gives other growing towns a useful way to manage their land development.",
+    "caveats": [
+     "Study is limited to the Vasanthanarasapura Industrial Area and its 5 km buffer in Karnataka.",
+     "Not stated how biodiversity or specific ecosystem services besides land cover were impacted.",
+     "Not stated how socioeconomic factors drove the changes beyond physical terrain properties."
+    ],
+    "jargon": [
+     {
+      "term": "LULC",
+      "definition": "Land-Use and Land-Cover, describing how human activities and natural elements use the land surface."
+     },
+     {
+      "term": "Confusion matrix",
+      "definition": "A table used to evaluate how accurately a classification map matches reality."
+     },
+     {
+      "term": "Kappa coefficient",
+      "definition": "A statistical measure of map classification accuracy that accounts for chance agreement."
+     },
+     {
+      "term": "Peri-urban corridor",
+      "definition": "An area transitioning from rural to urban use along a major transport route."
+     }
+    ],
+    "fit": "Connects land-cover change detection and suitability-guided governance to environmental planning in Global South peri-urban areas."
+   },
+   "thesis": {
+    "why": "It models land-cover change and spatial patterns using remote sensing and GIS, which matches methods and planning goals relevant to urban ecosystem research.",
+    "action": "Check how the study validates its land-change accuracy using the confusion matrix.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "How do we know the industrial expansion caused the cropland loss rather than other local farming shifts?",
+    "evidence": "The abstract states cropland declined by 41.5% and built-up land increased, and notes they coincided geographically on flat terrain, but does not detail a causal test.",
+    "limit": "It is not possible to establish direct causal effects between settlement status and specific ecological service changes from this abstract.",
+    "check": "Verify whether the full paper evaluates actual ecosystem services or only land-cover area conversions."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://jchr.org/index.php/JCHR/article/view/17876",
+    "doi": null,
+    "venue": "Journal of chemical health risks",
+    "date": "2026-11-16",
+    "authors": [
+     "Hemanjali A. M.",
+     "Vinod G.",
+     "B. C. Nagaraja"
+    ],
+    "n_authors": 3,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7236825682",
+   "title": "Diagnóstico y priorización del arbolado urbano en una ciudad semiárida con Sentinel-2 y Random Forest",
+   "headline": "Satellite data reveals severe urban tree shortages",
+   "bullets": [
+    "Used satellite images and machine learning to map urban green spaces in a semi-arid city.",
+    "Found official registries overreported vegetation, with only 3 percent functional cover.",
+    "Helps improve municipal tree inventories and climate adaptation planning."
+   ],
+   "plain": {
+    "question": "How can we accurately find and prioritize areas that lack urban trees in a dry city?",
+    "method": "We used satellite pictures and a computer program to check plant cover and ground temperatures.",
+    "finding": "Official city lists greatly exaggerated how many trees and green spaces actually exist.",
+    "why": "Accurate maps help cities plant trees where they are most needed to fight extreme heat."
+   },
+   "full": {
+    "explainer": "In dry cities, a lack of trees makes climate change worse, but official city tree lists are often inaccurate. This study looked at Delicias, Mexico, to find and prioritize areas needing tree management. The researchers used satellite images from Sentinel-2 and a machine learning method called Random Forest, checking their work against the official city inventory. They also used a priority index based on vegetation cover deficits and land surface temperatures during summer and winter. The full model reached an accuracy of nearly eighty-nine percent, with summer vegetation levels being the most important factor. The results showed that only three percent of the urban area had functional vegetation, providing just over seven square meters per person. Furthermore, less than a quarter of the registered green areas actually had detectable plant cover, proving the official registry overestimates green spaces. The new priority index flagged one hundred ten areas needing urgent help due to low cover and severe heat. This shows that satellite monitoring is a practical way to audit urban green spaces in medium-sized, dry cities.",
+    "caveats": [
+     "Study is limited to registered green spaces in one specific semi-arid city, Delicias, Mexico.",
+     "Not stated whether these remote sensing methods apply equally to dense informal settlements or mountainous terrains."
+    ],
+    "jargon": [
+     {
+      "term": "Random Forest",
+      "definition": "A computer learning method that uses many decision trees to classify satellite data accurately."
+     },
+     {
+      "term": "GLCM texture",
+      "definition": "A mathematical method used to measure patterns and spatial variations of pixel brightness in images."
+     },
+     {
+      "term": "NDVI",
+      "definition": "A common index calculated from satellite bands to measure the health and amount of green vegetation."
+     }
+    ],
+    "fit": "Matches semi-arid urban contexts, remote sensing methods, green infrastructure, and cooling service delivery."
+   },
+   "thesis": {
+    "why": "It demonstrates how remote sensing and land-cover validation can expose discrepancies in official data, directly aiding spatial modeling of urban cooling and green space deficits.",
+    "action": "Check how they handled validation against ground data to improve accuracy assessments in your own study.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Can a model relying on surface temperature and cover deficit alone reliably identify true ecosystem service delivery?",
+    "evidence": "The priority index relies heavily on cover deficit and land surface temperature to target areas needing urgent intervention.",
+    "limit": "The abstract does not establish whether the prioritized areas actually provide sufficient cooling benefits to human populations on the ground.",
+    "check": "Verify how well the priority index correlates with actual microclimate cooling benefits experienced by residents."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.29298/rmcf.v17i98.1678",
+    "doi": "https://doi.org/10.29298/rmcf.v17i98.1678",
+    "venue": "Revista mexicana de ciencias forestales",
+    "date": "2026-11-18",
+    "authors": [
+     "Samuel Alberto García García",
+     "Solís Ana Marissa de la Fuente",
+     "Joel Rascón-Solano",
+     "Luisa Patricia Uranga Valencia",
+     "Rufino Sandoval-García"
+    ],
+    "n_authors": 5,
     "open_access": true,
     "basis": "abstract"
    }
   }
  ],
- "more": [
-  {
-   "title": "Urban-gradient variation in soil Cd and its uptake, translocation, and organ allocation in Ulmus pumila L",
-   "url": "https://doi.org/10.21203/rs.3.rs-11178811/v1",
-   "venue": "Research Square",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Construction of multi-level source-sink landscape network to mitigate the thermal environment of…",
-   "url": "https://doi.org/10.1016/j.ecolind.2026.115874",
-   "venue": "Ecological Indicators",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Comparative Analysis of Smart Cities in Global South Countries: Vitória (Brazil) and Kigali (Rwanda)",
-   "url": "https://doi.org/10.20944/preprints202611.1904.v1",
-   "venue": "Preprints.org",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Exploring the institutionalization of social-ecological systems research in the Global South: insights from…",
-   "url": "https://doi.org/10.1080/15487733.2026.2736713",
-   "venue": "Sustainability Science Practice and Policy",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "The Huxley Trap: Why Consent Fails Digital Consumers in the Global South",
-   "url": "https://doi.org/10.63108/ijlmh.13298",
-   "venue": "International Journal of Law Management & Humanities",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Aligning ESG Initiatives with Sustainable Development Goals in the Oil and Gas Industry: Policy Perspectives…",
-   "url": "https://doi.org/10.47772/ijriss.2026.101000797",
-   "venue": "International Journal of Research and Innovation in Social Science",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Enablers and Barriers of the Circular Bioeconomy Transition in the Global South: An Empirical Analysis in…",
-   "url": "https://doi.org/10.55845/sdg6wb95",
-   "venue": "Circular Economy",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "WRF assessment of local climate zone dependent cooling effects of cool and green roofs during a Riyadh…",
-   "url": "https://doi.org/10.3389/fenvs.2026.1976329",
-   "venue": "Frontiers in Environmental Science",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Remote-Sensing and Microclimate Simulation of Surface Heat and Pedestrian Thermal Conditions in Transformed…",
-   "url": "https://doi.org/10.3390/architecture6040219",
-   "venue": "Architecture",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Networks, cooperatives and the milk market: evidence on outlet choice from urban and peri-urban dairy farms…",
-   "url": "https://doi.org/10.21203/rs.3.rs-11798301/v1",
-   "venue": "Research Square",
-   "date": "2026-11-20"
-  }
- ]
+ "more": []
 }

@@ -1,31 +1,4 @@
 {
- "2026-11-07": {
-  "papers": [
-   "3D Eco-Geological Framework Evaluates Alpine Regions",
-   "Night lights erode cultural ecosystem services at scale",
-   "Social-ecological factors shape human-nature links in Brazil",
-   "People view small songbirds as helpful and large gulls as bad",
-   "Public support for mangrove restoration and perceptions",
-   "Review of forest ecosystem services in sustainability tools",
-   "Tree rings reveal past climate signals in the Andes",
-   "Green marketing boosts business, but faces challenges.",
-   "Leopards and hyenas coexist in arid Namibia"
-  ],
-  "radar": [
-   "Urban greenspace exposure and inequality link to mortality",
-   "Brazilian Cities Accelerate Urban Climate Action from COP30",
-   "Gujarat Urban Greening Policy Sets 20% Green Cover Target",
-   "Climate Adaptation Funding Is Falling Behind",
-   "CREAF Research on Urban Trees at Smart City Expo 2026"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Socioecological systems thinking",
-   "Compositional closure"
-  ]
- },
  "2026-11-08": {
   "papers": [
    "Animal biodiversity and its role in human benefits",
@@ -400,6 +373,32 @@
   "lessons": [
    "Spatial econometric land models",
    "ecosystem condition"
+  ]
+ },
+ "2026-11-22": {
+  "papers": [
+   "Ecosystem services and thresholds in a karst region",
+   "Private forests trail public ones in carbon credit adoption",
+   "Conservation values and value of conservation analysis",
+   "Urban growth and green loss caused surface warming in Faridpur",
+   "Flat fertile land lost to industrial growth",
+   "Satellite data reveals severe urban tree shortages"
+  ],
+  "radar": [
+   "COP31 Climate Finance Gap Puts Urban Action at Risk",
+   "GHMC park fee hike puts Hyderabad’s green spaces out of reach",
+   "COP31 draft cover decision flags weakened forest protection",
+   "Second structured dialogue on Great Cormorant conflicts",
+   "Britain’s data center ambitions may reach London’s “green belt”"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_16",
+   "natcap/invest 3.21.0",
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Capabilities approach to well-being",
+   "Institutional fields"
   ]
  }
 }

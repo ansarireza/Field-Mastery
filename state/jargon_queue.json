@@ -1,12 +1,4 @@
 [
- "Ecosystem services",
- "Pareto frontiers",
- "Syntropic infrastructure",
- "Land Surface Temperature (LST)",
- "Tenure precarity",
- "Ethnographic study",
- "Sovereignty",
- "Institutional fields",
  "Legitimated agency",
  "vector capacity",
  "DNA barcoding",
@@ -57,5 +49,13 @@
  "Spatial multicriteria decision analysis",
  "Biome",
  "Afforestation",
- "NDVI"
+ "NDVI",
+ "Spatial heterogeneity",
+ "J-Credit",
+ "Diffusion curves",
+ "Normalized Difference Vegetation Index",
+ "LULC",
+ "Confusion matrix",
+ "Random Forest",
+ "GLCM texture"
 ]

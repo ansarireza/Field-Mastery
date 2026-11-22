@@ -1,64 +1,64 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "lessons": [
   {
-   "id": "260b66fa5f",
-   "date": "2026-11-21",
-   "term": "Spatial econometric land models",
-   "area": "Land use change",
-   "kind": "method",
-   "definition": "Spatial econometric land models are mathematical tools used to simulate and predict future land-cover changes while accounting for geographic dependencies.",
-   "plain": "These models help researchers look at how land changes over time, like how cities grow. They include spatial statistics to account for the fact that what happens in one neighborhood often depends on what is happening right next door.",
-   "example": "Simulating how informal hillside settlements in Kabul might expand over the next decade based on nearby roads and steepness.",
-   "connects": "It links land-cover change with scenario comparison and helps predict future ecosystem service supplies.",
-   "why_phd": "Vital for projecting how future urban growth in Kabul will impact environmental planning and ecosystem services.",
+   "id": "2ed056f0ec",
+   "date": "2026-11-22",
+   "term": "Capabilities approach to well-being",
+   "area": "Human well-being",
+   "kind": "framework",
+   "definition": "The capabilities approach evaluates human well-being based on people's freedom to achieve valuable functionings.",
+   "plain": "Instead of just measuring income, this framework asks what people are actually able to do and be. In cities, it looks at whether residents can genuinely access benefits like green spaces, cool areas, and clean water to live a good life.",
+   "example": "In Kabul, assessing well-being means checking if families in informal settlements can physically and socially access nearby green spaces for health and relief from summer heat.",
+   "connects": "It links ecosystem service benefits directly to environmental justice and human well-being.",
+   "why_phd": "It helps you move beyond measuring ecological supply to prove how nature genuinely improves human lives in unequal cities.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What do spatial econometric land models account for that standard models might miss?",
-     "a": "Geographic dependencies and spatial interactions between neighboring locations."
+     "q": "What does the capabilities approach focus on?",
+     "a": "What people are actually able to do and be, rather than just material resources."
     },
     {
-     "q": "How does this method help environmental planning?",
-     "a": "By simulating future land-cover changes to evaluate impacts on things like urban cooling."
+     "q": "How does it apply to urban ecosystem services?",
+     "a": "It evaluates whether people can genuinely access and benefit from services like urban nature."
     }
    ],
-   "search": "spatial econometric land change models"
+   "search": "capabilities approach urban well-being"
   },
   {
-   "id": "de1e1504a9",
-   "date": "2026-11-21",
-   "term": "ecosystem condition",
+   "id": "d5ee94b8ec",
+   "date": "2026-11-22",
+   "term": "Institutional fields",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Ecosystem condition refers to the physical, biological, and chemical state of an ecosystem and its capacity to provide services.",
-   "plain": "Ecosystem condition looks at how healthy and intact a natural area is. Think of it as a check-up for nature. In cities, a healthy park cools the air better than a degraded, dry patch of land because its plants and soil are in better condition to function.",
-   "example": "In a dry city like Kabul, a riverside park with dense, well-watered trees has a high ecosystem condition, cooling the local neighborhood effectively.",
-   "connects": "It links ecosystem capacity to the actual supply of benefits like urban cooling or stormwater retention.",
-   "why_phd": "You must distinguish between just having green space and its actual condition when measuring how well it provides benefits.",
+   "definition": "Institutional fields are shared rule systems, norms, and organizations that shape behavior in a specific social domain.",
+   "plain": "Institutional fields are the unwritten rules, laws, and organizations that guide how people and groups act in a city. In environmental planning, they determine who has the power to manage land, build homes, or protect green spaces.",
+   "example": "In Kabul, formal municipal laws mix with informal community councils to govern land use and hillside building.",
+   "connects": "It links governance and environmental justice to urban development and green space access.",
+   "why_phd": "Crucial for understanding why green-blue infrastructure plans succeed or fail due to competing rules and authorities.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does ecosystem condition measure?",
-     "a": "The physical, biological, and chemical state of an ecosystem and its capacity to function."
+     "q": "What do institutional fields include?",
+     "a": "Shared rules, norms, and organizations shaping behavior."
     },
     {
-     "q": "Why does condition matter for urban cooling?",
-     "a": "Healthy, well-maintained green spaces cool the surrounding air much better than degraded land."
+     "q": "Why matter for Kabul research?",
+     "a": "They explain how formal laws and informal practices shape land use."
     }
    ],
-   "search": "urban ecosystem condition assessment"
+   "search": "institutional fields urban environmental governance"
   }
  ],
- "total_learned": 48,
+ "total_learned": 50,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Capabilities approach to well-being",
    "Additionality and leakage in PES",
    "Extractivism and agrarian change",
    "Relational values of nature",
-   "Mainstreaming biodiversity in policy"
+   "Mainstreaming biodiversity in policy",
+   "Panaceas and institutional diversity"
   ],
   "stages": [
    "Foundation: understand concepts",

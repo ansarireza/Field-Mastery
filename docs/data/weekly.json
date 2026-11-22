@@ -1,21 +1,21 @@
 {
- "week": "2026-W46",
- "date": "2026-11-15",
+ "week": "2026-W47",
+ "date": "2026-11-22",
  "partial": false,
  "themes": [
-  "Discussions on protecting cities and vulnerable communities from climate change featured at COP31.",
-  "Studies examined urban ecosystem services, deficits, and surplus mask effects.",
-  "Research evaluated Kabul water options through an evidence audit.",
-  "Urban expansion, heat risks, and cooling strategies were highlighted in regional studies."
+  "Urban expansion, green loss, and surface warming analyzed in cities like Faridpur.",
+  "Informal green spaces highlighted as key for urban rewilding and biodiversity.",
+  "Ecosystem service trade-offs and urban fringes studied across regions.",
+  "Global climate discussions and COP31 focus heavily on resilient cities and urban action."
  ],
- "learned": "Explored land systems, remote sensing for land cover, and polycentric governance systems.",
+ "learned": "Explored urban ecosystem services, land-cover change, and environmental planning with a focus on urban growth and heat.",
  "next": [
-  "Reassessing Kabul water options via evidence audit",
-  "Regional surplus masks urban ecosystem service deficits",
-  "New framework for urban heat health risks"
+  "Informal green spaces key for urban rewilding",
+  "Larger pocket parks boost bird diversity in dry cities",
+  "Urban growth and green loss caused surface warming in Faridpur"
  ],
  "counts": {
-  "papers": 57,
+  "papers": 60,
   "radar": 35,
   "lessons": 14
  }

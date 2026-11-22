@@ -1146,5 +1146,53 @@
    }
   ],
   "search": "urban ecosystem condition assessment"
+ },
+ {
+  "id": "2ed056f0ec",
+  "date": "2026-11-22",
+  "term": "Capabilities approach to well-being",
+  "area": "Human well-being",
+  "kind": "framework",
+  "definition": "The capabilities approach evaluates human well-being based on people's freedom to achieve valuable functionings.",
+  "plain": "Instead of just measuring income, this framework asks what people are actually able to do and be. In cities, it looks at whether residents can genuinely access benefits like green spaces, cool areas, and clean water to live a good life.",
+  "example": "In Kabul, assessing well-being means checking if families in informal settlements can physically and socially access nearby green spaces for health and relief from summer heat.",
+  "connects": "It links ecosystem service benefits directly to environmental justice and human well-being.",
+  "why_phd": "It helps you move beyond measuring ecological supply to prove how nature genuinely improves human lives in unequal cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does the capabilities approach focus on?",
+    "a": "What people are actually able to do and be, rather than just material resources."
+   },
+   {
+    "q": "How does it apply to urban ecosystem services?",
+    "a": "It evaluates whether people can genuinely access and benefit from services like urban nature."
+   }
+  ],
+  "search": "capabilities approach urban well-being"
+ },
+ {
+  "id": "d5ee94b8ec",
+  "date": "2026-11-22",
+  "term": "Institutional fields",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Institutional fields are shared rule systems, norms, and organizations that shape behavior in a specific social domain.",
+  "plain": "Institutional fields are the unwritten rules, laws, and organizations that guide how people and groups act in a city. In environmental planning, they determine who has the power to manage land, build homes, or protect green spaces.",
+  "example": "In Kabul, formal municipal laws mix with informal community councils to govern land use and hillside building.",
+  "connects": "It links governance and environmental justice to urban development and green space access.",
+  "why_phd": "Crucial for understanding why green-blue infrastructure plans succeed or fail due to competing rules and authorities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What do institutional fields include?",
+    "a": "Shared rules, norms, and organizations shaping behavior."
+   },
+   {
+    "q": "Why matter for Kabul research?",
+    "a": "They explain how formal laws and informal practices shape land use."
+   }
+  ],
+  "search": "institutional fields urban environmental governance"
  }
 ]

@@ -1,5 +1,69 @@
 [
  {
+  "id": "W7203453096",
+  "title": "A decadal analysis of land surface temperature dynamics in response to urban expansion and vegetation loss in Faridpur",
+  "headline": "Urban growth and green loss caused surface warming in Faridpur",
+  "bullets": [
+   "Used satellite data from 2014 and 2024 to track land cover, plant health, and surface temperature.",
+   "Found built-up areas grew, vegetation shrank, and overall regional temperatures went up…",
+   "Shows an urgent need to conserve green spaces and add urban greenery to counter warming effects."
+  ],
+  "plain": {
+   "question": "How did changes in land and plants affect surface temperatures in Faridpur over ten years?",
+   "method": "The researchers used satellite images from 2014 and 2024 to map land types, plant health, and surface heat.",
+   "finding": "Built-up land doubled while vegetation dropped, and maximum temperatures rose by nearly three degrees.",
+   "why": "It shows that losing plants to city growth makes local areas hotter, so we must protect green spaces."
+  },
+  "full": {
+   "explainer": "This study looks at how land changes affect temperatures in the Faridpur District of Bangladesh. Using satellite images from 2014 and 2024, the researchers tracked shifts in landscape types—like vegetation, bare soil, built-up areas, and water—alongside plant health and land surface temperature. Over the decade, they found that city areas expanded rapidly from about 21 percent to over 45 percent of the land, while green vegetation dropped sharply from 41 percent down to about 25 percent. At the same time, the region got much hotter: the maximum temperature rose from 42.69 degrees Celsius to 45.33 degrees Celsius, and the minimum temperature also went up. Water bodies and green patches managed to keep cooler microclimates, whereas buildings and bare soil were the hottest spots. The authors conclude that protecting existing plants and adding small green areas in growing towns is essential to fight off these rising urban temperatures.",
+   "caveats": [
+    "Not stated whether other climate factors besides land cover influenced the temperature changes.",
+    "Not stated how local socioeconomic conditions affect these thermal patterns."
+   ],
+   "jargon": [
+    {
+     "term": "Land Surface Temperature",
+     "definition": "How hot the surface of the ground feels when measured from space."
+    },
+    {
+     "term": "Normalized Difference Vegetation Index",
+     "definition": "A satellite-based measure used to estimate the health and amount of green plants."
+    },
+    {
+     "term": "Supervised Classification",
+     "definition": "A computer method where a user trains software to categorize different types of land cover."
+    }
+   ],
+   "fit": "It connects to urban land-cover change, microclimates, and planning responses in the Global South, aiding urban cooling research."
+  },
+  "thesis": {
+   "why": "It evaluates urban expansion, land-cover change, and surface temperature dynamics, directly relating to urban cooling and environmental planning in the Global South.",
+   "action": "Check how the authors mapped land cover categories and validated their satellite image classification accuracy.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does the abstract prove that urban expansion directly caused the temperature rise, or is it just a correlation?",
+   "evidence": "The abstract notes widespread surface warming alongside increased built-up areas and reduced vegetation, but does not test other variables.",
+   "limit": "It cannot establish a definitive causal mechanism between building growth and temperature without controlling for external weather factors.",
+   "check": "Verify if the full paper tests for statistical causality or only presents spatial correlations between land cover and temperature."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.30493/das.2026.011408",
+   "doi": "https://doi.org/10.30493/das.2026.011408",
+   "venue": "DYSONA – Applied Science",
+   "date": "2027-01-01",
+   "authors": [
+    "Saikat Dey Munna",
+    "Sajjad Hussain"
+   ],
+   "n_authors": 2,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7166468536",
   "title": "Forests and ecosystem services: Nature's invisible economy",
   "headline": "Forests provide vital services without market prices",
@@ -60,6 +124,57 @@
    ],
    "n_authors": 13,
    "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7237195463",
+  "title": "Conservation Values and the Value of Conservation",
+  "headline": "Conservation values and value of conservation analysis",
+  "bullets": [
+   "Examined conservation values and the value of conservation",
+   "Not stated in the provided abstract text",
+   "Helps understand conservation priorities and valuation"
+  ],
+  "plain": {
+   "question": "What is the text about regarding conservation values?",
+   "method": "Not stated in the provided abstract text.",
+   "finding": "Not stated in the provided abstract text.",
+   "why": "It helps us understand how we value nature and conservation."
+  },
+  "full": {
+   "explainer": "This book chapter or book from Elsevier focuses on the topic of conservation values and the value of conservation. Because the abstract text provided contains only the title and no descriptive summary or findings, specific details about the methods used, the exact study locations, or the concrete conclusions reached are not available. In general, studies on this topic explore why people care about nature, how different groups assign worth to natural areas, and how these values guide environmental protection and planning decisions. For a researcher studying urban ecosystems or environmental planning, looking at conservation values is important for understanding how decisions about land use and nature are made. However, since the text provided is extremely brief, you would need to read the full chapter or book to see which specific theories, frameworks, or case studies are discussed by the authors.",
+   "caveats": [
+    "Not stated",
+    "Not stated"
+   ],
+   "jargon": [],
+   "fit": "Connects to environmental planning and values in urban ecosystem services research, though the exact focus is limited by the abstract."
+  },
+  "thesis": {
+   "why": "It relates to environmental planning and valuing nature, which connects broadly to understanding human benefits and plural values in urban ecosystem services.",
+   "action": "Check the full table of contents to see if it covers urban contexts or the Global South.",
+   "relationship": "unclear"
+  },
+  "critical": {
+   "question": "How do these conservation values apply to data-scarce urban settings in the Global South?",
+   "evidence": "The abstract title mentions conservation values, but provides zero details on geography, urban areas, or specific settings.",
+   "limit": "The abstract lacks any information on study sites, methods, or empirical findings.",
+   "check": "Verify whether the full text discusses urban environments, cities, or developing regions."
+  },
+  "relevance": 1,
+  "watch": "Cites your reference doi:10.1126/science.aap8826",
+  "source": {
+   "url": "https://doi.org/10.1016/b978-0-443-41773-3.00100-1",
+   "doi": "https://doi.org/10.1016/b978-0-443-41773-3.00100-1",
+   "venue": "Elsevier eBooks",
+   "date": "2026-11-20",
+   "authors": [
+    "Karen E. Allen",
+    "Makayla Carnahan"
+   ],
+   "n_authors": 2,
+   "open_access": false,
    "basis": "abstract"
   }
  },
@@ -785,6 +900,142 @@
     "Wenqian Bai"
    ],
    "n_authors": 7,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7236003766",
+  "title": "Spatiotemporal dynamics, driving mechanisms, and threshold identification of ecosystem services in a karst plateau-mountain region: A case study of Guizhou Province, Southwest China",
+  "headline": "Ecosystem services and thresholds in a karst region",
+  "bullets": [
+   "Quantified five ecosystem services in Guizhou from 2000 to 2020 using models.",
+   "Found spatial heterogeneity, nonlinear responses, and specific environmental limits.",
+   "Provides quantitative insights for ecosystem management in fragile landscapes."
+  ],
+  "plain": {
+   "question": "How do nature's benefits change over time in fragile mountain areas with fast city growth?",
+   "method": "Used maps, computer models, and data tools to measure five nature benefits from 2000 to 2020.",
+   "finding": "Nature benefits varied across space, and human pressures caused negative effects over time.",
+   "why": "This helps people manage and restore fragile environments better using clear evidence."
+  },
+  "full": {
+   "explainer": "This paper looks at how nature's benefits change over time in a fragile mountain area in China called Guizhou Province between 2000 and 200, a time of fast city growth and human pressure. The researchers measured five specific benefits that nature provides, including habitat quality, carbon storage, water yield, soil conservation, and plant growth, using computer models and map data. They analyzed how these benefits trade off with each other or work together. They also used special statistical tools to find out what drives these changes and whether there are tipping points where nature suddenly changes for the worse. Their results showed that benefits were higher in forested areas and lower in urban or degraded places. Plant cover had the biggest positive effect on overall benefits, while human footprint, population, and money grew more harmful over time. The study also found clear tipping points where human pressures cross safe limits, offering useful evidence for ecological restoration.",
+   "caveats": [
+    "The study focuses on a specific karst plateau-mountain region in China, so findings may need adaptation for other settings.",
+    "Not stated whether these exact thresholds apply to semi-arid or conflict-affected urban areas like Kabul."
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem services",
+     "definition": "The benefits that people get from nature, like clean water and plant growth."
+    },
+    {
+     "term": "Spatial heterogeneity",
+     "definition": "How things differ and are unevenly arranged across geographic space."
+    },
+    {
+     "term": "Nonlinear responses",
+     "definition": "Changes in nature that do not happen at a steady, constant rate when pressures increase."
+    },
+    {
+     "term": "Constraint line analysis",
+     "definition": "A method used to find the limits or boundaries placed on ecological responses by drivers."
+    }
+   ],
+   "fit": "Demonstrates spatial modeling, driver analysis, and threshold identification applicable to fragile landscapes and environmental planning."
+  },
+  "thesis": {
+   "why": "It shows advanced methods for analyzing spatial dynamics, trade-offs, and thresholds, which are useful for studying urban ecosystem services and planning.",
+   "action": "Check how the hybrid framework of Geodetector and XGBoost-SHAP could be tested on your own spatial datasets.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How do you know if these identified thresholds and driver relationships apply to semi-arid urbanizing settings like Kabul?",
+   "evidence": "The abstract demonstrates threshold effects and driver mechanisms in a humid karst plateau-mountain region of Southwest China.",
+   "limit": "The abstract does not show whether these exact numerical thresholds or nonlinear models transfer to arid, data-scarce, or conflict-affected cities.",
+   "check": "Verify if the hybrid driver framework requires environmental data densities that are unavailable in your study area."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115867",
+   "doi": "https://doi.org/10.1016/j.ecolind.2026.115867",
+   "venue": "Ecological Indicators",
+   "date": "2026-11-18",
+   "authors": [
+    "Bo Xie",
+    "Bingshun Meng",
+    "Mingming Zhang"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7236825682",
+  "title": "Diagnóstico y priorización del arbolado urbano en una ciudad semiárida con Sentinel-2 y Random Forest",
+  "headline": "Satellite data reveals severe urban tree shortages",
+  "bullets": [
+   "Used satellite images and machine learning to map urban green spaces in a semi-arid city.",
+   "Found official registries overreported vegetation, with only 3 percent functional cover.",
+   "Helps improve municipal tree inventories and climate adaptation planning."
+  ],
+  "plain": {
+   "question": "How can we accurately find and prioritize areas that lack urban trees in a dry city?",
+   "method": "We used satellite pictures and a computer program to check plant cover and ground temperatures.",
+   "finding": "Official city lists greatly exaggerated how many trees and green spaces actually exist.",
+   "why": "Accurate maps help cities plant trees where they are most needed to fight extreme heat."
+  },
+  "full": {
+   "explainer": "In dry cities, a lack of trees makes climate change worse, but official city tree lists are often inaccurate. This study looked at Delicias, Mexico, to find and prioritize areas needing tree management. The researchers used satellite images from Sentinel-2 and a machine learning method called Random Forest, checking their work against the official city inventory. They also used a priority index based on vegetation cover deficits and land surface temperatures during summer and winter. The full model reached an accuracy of nearly eighty-nine percent, with summer vegetation levels being the most important factor. The results showed that only three percent of the urban area had functional vegetation, providing just over seven square meters per person. Furthermore, less than a quarter of the registered green areas actually had detectable plant cover, proving the official registry overestimates green spaces. The new priority index flagged one hundred ten areas needing urgent help due to low cover and severe heat. This shows that satellite monitoring is a practical way to audit urban green spaces in medium-sized, dry cities.",
+   "caveats": [
+    "Study is limited to registered green spaces in one specific semi-arid city, Delicias, Mexico.",
+    "Not stated whether these remote sensing methods apply equally to dense informal settlements or mountainous terrains."
+   ],
+   "jargon": [
+    {
+     "term": "Random Forest",
+     "definition": "A computer learning method that uses many decision trees to classify satellite data accurately."
+    },
+    {
+     "term": "GLCM texture",
+     "definition": "A mathematical method used to measure patterns and spatial variations of pixel brightness in images."
+    },
+    {
+     "term": "NDVI",
+     "definition": "A common index calculated from satellite bands to measure the health and amount of green vegetation."
+    }
+   ],
+   "fit": "Matches semi-arid urban contexts, remote sensing methods, green infrastructure, and cooling service delivery."
+  },
+  "thesis": {
+   "why": "It demonstrates how remote sensing and land-cover validation can expose discrepancies in official data, directly aiding spatial modeling of urban cooling and green space deficits.",
+   "action": "Check how they handled validation against ground data to improve accuracy assessments in your own study.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can a model relying on surface temperature and cover deficit alone reliably identify true ecosystem service delivery?",
+   "evidence": "The priority index relies heavily on cover deficit and land surface temperature to target areas needing urgent intervention.",
+   "limit": "The abstract does not establish whether the prioritized areas actually provide sufficient cooling benefits to human populations on the ground.",
+   "check": "Verify how well the priority index correlates with actual microclimate cooling benefits experienced by residents."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.29298/rmcf.v17i98.1678",
+   "doi": "https://doi.org/10.29298/rmcf.v17i98.1678",
+   "venue": "Revista mexicana de ciencias forestales",
+   "date": "2026-11-18",
+   "authors": [
+    "Samuel Alberto García García",
+    "Solís Ana Marissa de la Fuente",
+    "Joel Rascón-Solano",
+    "Luisa Patricia Uranga Valencia",
+    "Rufino Sandoval-García"
+   ],
+   "n_authors": 5,
    "open_access": true,
    "basis": "abstract"
   }
@@ -1843,6 +2094,76 @@
   }
  },
  {
+  "id": "W7236520801",
+  "title": "Terrain-Conditioned Industrial Expansion and Environmental Trade-offs in a Peri-Urban Corridor: A Two-Decade Geospatial Assessment of the Vasanthanarasapura Industrial Area, Karnataka",
+  "headline": "Flat fertile land lost to industrial growth",
+  "bullets": [
+   "Mapped land-use changes over twenty years using satellite data.",
+   "Found built-up areas grew while croplands sharply declined.",
+   "Shows why protecting prime farmland from flat-land industry is vital."
+  ],
+  "plain": {
+   "question": "Where did new factories get built and what land did they replace?",
+   "method": "Used satellite images and maps to track land changes over twenty years.",
+   "finding": "Factories were built on flat, fertile farmland, causing farms to shrink.",
+   "why": "Helps planners protect good farmland from being taken over by industry."
+  },
+  "full": {
+   "explainer": "This study looks at how industrial growth changes the landscape around towns in India. The researchers examined a specific industrial area and its surrounding buffer zone across three different years: 2004, 2014, and 2024. They used satellite images to map how the land was being used, checking their map accuracy with careful random sampling points. By looking at soil, height, slope, and drainage, they figured out the physical layout of the land where changes happened. Over the two decades, they found that built-up land and plantations grew, while crop fields decreased significantly. The new factories mostly appeared on flat and gently sloping land that happened to be the district's best farmland. Because builders prefer flat land, fertile farms were lost. The authors suggest that future planning should direct factories toward sloped fringe lands instead, while protecting water sources and prime crops. This gives other growing towns a useful way to manage their land development.",
+   "caveats": [
+    "Study is limited to the Vasanthanarasapura Industrial Area and its 5 km buffer in Karnataka.",
+    "Not stated how biodiversity or specific ecosystem services besides land cover were impacted.",
+    "Not stated how socioeconomic factors drove the changes beyond physical terrain properties."
+   ],
+   "jargon": [
+    {
+     "term": "LULC",
+     "definition": "Land-Use and Land-Cover, describing how human activities and natural elements use the land surface."
+    },
+    {
+     "term": "Confusion matrix",
+     "definition": "A table used to evaluate how accurately a classification map matches reality."
+    },
+    {
+     "term": "Kappa coefficient",
+     "definition": "A statistical measure of map classification accuracy that accounts for chance agreement."
+    },
+    {
+     "term": "Peri-urban corridor",
+     "definition": "An area transitioning from rural to urban use along a major transport route."
+    }
+   ],
+   "fit": "Connects land-cover change detection and suitability-guided governance to environmental planning in Global South peri-urban areas."
+  },
+  "thesis": {
+   "why": "It models land-cover change and spatial patterns using remote sensing and GIS, which matches methods and planning goals relevant to urban ecosystem research.",
+   "action": "Check how the study validates its land-change accuracy using the confusion matrix.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How do we know the industrial expansion caused the cropland loss rather than other local farming shifts?",
+   "evidence": "The abstract states cropland declined by 41.5% and built-up land increased, and notes they coincided geographically on flat terrain, but does not detail a causal test.",
+   "limit": "It is not possible to establish direct causal effects between settlement status and specific ecological service changes from this abstract.",
+   "check": "Verify whether the full paper evaluates actual ecosystem services or only land-cover area conversions."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://jchr.org/index.php/JCHR/article/view/17876",
+   "doi": null,
+   "venue": "Journal of chemical health risks",
+   "date": "2026-11-16",
+   "authors": [
+    "Hemanjali A. M.",
+    "Vinod G.",
+    "B. C. Nagaraja"
+   ],
+   "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7233549913",
   "title": "Perceived agroecological management and household livelihood outcomes: evidence from smallholder clove farmers in Pemba Island, Zanzibar",
   "headline": "Perceived agroecological management and household livelihoods",
@@ -2162,6 +2483,70 @@
     "Ahmad Zahir Firoozkoohi"
    ],
    "n_authors": 3,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7233781856",
+  "title": "Forest Carbon Credits Under Fragmented Ownership in Japan: Registration Patterns and the Layering of Forest-Related Value",
+  "headline": "Private forests trail public ones in carbon credit adoption",
+  "bullets": [
+   "Analyzed Japanese registry data, purchase records, and five respondent interviews.",
+   "Found private forest registration is much lower than public and corporate forests.",
+   "Shows how businesses layer extra values like water onto carbon credits."
+  ],
+  "plain": {
+   "question": "How do forest carbon projects differ by owner, and how are extra values added to credits?",
+   "method": "Studied registry data, purchase records, and interviews with five people.",
+   "finding": "Private forests registered far less than public ones, while buyers mainly sought offsetting.",
+   "why": "It shows how private businesses help connect forest functions to the real economy."
+  },
+  "full": {
+   "explainer": "This paper looks at forest carbon credits in Japan, which let buyers pay for managed forests. The study asks two main questions: how the timing and scale of registering these projects differ depending on who owns and manages the forest, and how additional values, like water and biodiversity, are added to what companies buy and sell. The authors looked at official registry data, purchase records, and responses from five people. By fiscal 2025, registered project areas reached over half for forestry public corporations, nearly a quarter for public forests, but only two percent for private forests. The study found that developers are adding extra environmental values to carbon credits. Buyers mostly purchased credits for the functional goal of carbon offsetting, while some also found emotional value in supporting forests. Overall, private businesses are leading this trend, helping integrate forest benefits into the economy.",
+   "caveats": [
+    "Data relies on only five respondents for qualitative insights.",
+    "Results focus specifically on Japan's institutional and registry context."
+   ],
+   "jargon": [
+    {
+     "term": "J-Credit",
+     "definition": "A scheme where the Japanese government certifies amount of greenhouse gas emissions reduced."
+    },
+    {
+     "term": "Diffusion curves",
+     "definition": "Mathematical curves showing how an innovation spreads through a population over time."
+    }
+   ],
+   "fit": "Connects to ecosystem service bundles, plural values, and private-sector involvement in environmental planning, though focused on Japan."
+  },
+  "thesis": {
+   "why": "It examines how multiple ecosystem values like water and carbon are bundled and marketed by private actors, relevant to ecosystem service delivery.",
+   "action": "Check how the study defines and measures non-carbon values like water alongside carbon credits.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How can five respondents adequately represent national trends in buyer motives and value layering?",
+   "evidence": "The abstract states the qualitative analysis relied on responses from just five respondents alongside registry data.",
+   "limit": "It is not established how the five respondents were chosen or if they represent the broader market.",
+   "check": "Review the full paper to see how the qualitative interview data is weighted against quantitative records."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.3390/f17111365",
+   "doi": "https://doi.org/10.3390/f17111365",
+   "venue": "Forests",
+   "date": "2026-11-15",
+   "authors": [
+    "Naoki Ohira",
+    "Ryuzo Takahashi",
+    "Shunichi Koshimura",
+    "Youji Kohda",
+    "Asami Shikida",
+    "Hideomi Gokon"
+   ],
+   "n_authors": 6,
    "open_access": true,
    "basis": "abstract"
   }
@@ -3564,401 +3949,6 @@
     "Phiona Katushabe"
    ],
    "n_authors": 15,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225995110",
-  "title": "Current and Future Environmental Suitability of the Nile Grass Rat (Arvicanthis niloticus) in Egypt under CMIP6 Climate Change Scenarios",
-  "headline": "Climate change shifts Egyptian Nile grass rat suitability",
-  "bullets": [
-   "Used MaxEnt modeling with climate data to map Nile grass rat habitat suitability.",
-   "Found cold temperatures constrain habitat, covering 56.67% of Egypt currently.",
-   "Helps national rodent control strategies and vector-borne disease surveillance."
-  ],
-  "plain": {
-   "question": "How will future climate change alter where a destructive rodent pest lives in Egypt?",
-   "method": "Used computer models and climate data to map where the rodent can survive.",
-   "finding": "Cold temperatures limit its habitat, which currently covers over half of Egypt.",
-   "why": "This helps Egypt plan better rodent control and track diseases carried by the pests."
-  },
-  "full": {
-   "explainer": "Researchers studied the Nile grass rat, an agricultural pest and disease carrier in Egypt, to see how climate change might alter its habitat. They used a computer tool called a Maximum Entropy model to map where the rat can live based on climate data. The model was built using occurrence records and specific climate factors like temperature and precipitation. They tested the model for accuracy and found that minimum winter temperatures constrain the rat's habitat the most. Currently, over half of Egypt falls within this suitable climate zone, though the rats actually occupy a much smaller area due to their need for irrigated crops and water. The study projects how this suitable area might shift under different future climate scenarios. This information is important for national pest control and disease monitoring strategies.",
-   "caveats": [
-    "Realized occupancy is strictly constrained to 4% to 5% of national territory by water access.",
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "MaxEnt",
-     "definition": "An ecological niche modeling tool that predicts species distributions using presence data."
-    },
-    {
-     "term": "Zoonotic pathogens",
-     "definition": "Diseases that can be transmitted from animals to humans."
-    },
-    {
-     "term": "CMIP6",
-     "definition": "A framework of climate change scenarios used for climate modeling and future projections."
-    }
-   ],
-   "fit": "Demonstrates species distribution modeling methods and climate change scenario planning relevant to environmental management."
-  },
-  "thesis": {
-   "why": "It shows spatial modeling of species distributions under climate scenarios, which relates to environmental planning and spatial modeling methods.",
-   "action": "Check the full paper's handling of climate scenarios and spatial modeling limitations.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How does climatic suitability relate to actual localized presence when water access restricts occupancy?",
-   "evidence": "The abstract notes that ~56.67% of Egypt is climatically suitable, but realized occupancy is restricted to 4-5% by water access.",
-   "limit": "The abstract cuts off before showing the actual projected geographic shifts for the 2050s and 2070s.",
-   "check": "Verify how the model integrates localized water availability rather than climate variables alone."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-10969292/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-10969292/v1",
-   "venue": "Research Square",
-   "date": "2026-11-13",
-   "authors": [
-    "Maha Mostafa",
-    "Mustafa M. Soliman"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225818744",
-  "title": "Mapping and modelling urban gullies across Africa",
-  "headline": "Mapping and modelling urban gullies across Africa",
-  "bullets": [
-   "Mapped and modelled urban gullies across the African continent.",
-   "Not stated in the abstract.",
-   "Helps understand land degradation and environmental planning challenges."
-  ],
-  "plain": {
-   "question": "Where and how are urban gullies mapped and modelled across Africa?",
-   "method": "Mapping and modelling methods.",
-   "finding": "Not stated in the provided abstract.",
-   "why": "This helps address land degradation issues in growing cities."
-  },
-  "full": {
-   "explainer": "This paper focuses on mapping and modelling urban gullies across Africa, published in Global Environmental Change in November 2026. Urban gullies are deep channels or ditches carved by running water, often accelerated by urban development and land-cover changes. Understanding where these gullies form and how to model them is crucial for environmental planning, disaster risk reduction, and protecting urban settlements from severe soil erosion. However, the provided abstract is very short and only gives the title of the study, meaning specific details about the exact methods used, the primary findings, and the implications for particular cities are not mentioned. Readers must consult the full paper to see how the mapping and modelling were executed across different African urban environments and what specific insights emerged from the continental analysis.",
-   "caveats": [
-    "not stated",
-    "not stated",
-    "not stated"
-   ],
-   "jargon": [
-    {
-     "term": "urban gullies",
-     "definition": "Deep channels cut into soil by running water in urban areas."
-    }
-   ],
-   "fit": "Provides continental context on urban land degradation and mapping methods relevant to Global South planning."
-  },
-  "thesis": {
-   "why": "It connects to land-cover change, environmental planning, and spatial modelling in the Global South.",
-   "action": "Check the full text for transferable spatial modelling methods.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How were the urban gullies mapped and modelled across different African contexts?",
-   "evidence": "The title mentions mapping and modelling urban gullies across Africa, but the abstract provides no details.",
-   "limit": "It is impossible to establish the specific methods, data sources, accuracy, or findings from the abstract.",
-   "check": "Read the full paper to examine the spatial modelling techniques and validation steps used."
-  },
-  "relevance": 2,
-  "watch": "Cites your reference doi:10.1016/j.oneear.2020.02.002",
-  "source": {
-   "url": "https://doi.org/10.1016/j.gloenvcha.2026.103246",
-   "doi": "https://doi.org/10.1016/j.gloenvcha.2026.103246",
-   "venue": "Global Environmental Change",
-   "date": "2026-11-12",
-   "authors": [
-    "Elise Dujardin",
-    "Eric Lutete Landu",
-    "Guy Ilombe Mawe",
-    "Fils Makanzu Imwangana",
-    "Jasper van Vliet",
-    "Jean Poesen"
-   ],
-   "n_authors": 8,
-   "open_access": false,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7164193405",
-  "title": "A climate-driven environmental sustainability indicator for assessing future Phlebotomus expansion risk in semi-arid Iran",
-  "headline": "Climate change shifts insect vector risks in semi-arid Iran",
-  "bullets": [
-   "Created an environmental sustainability indicator to map future vector expansion risks.",
-   "Found that suitable habitats will grow significantly, shifting north and higher.",
-   "Provides a transparent framework for multidimensional environmental risk assessment."
-  ],
-  "plain": {
-   "question": "How will climate change affect the future spread of certain disease-carrying insects in dry parts of Iran?",
-   "method": "The researchers used computer models and past records of where these insects live, plus future climate forecasts.",
-   "finding": "Suitable living spaces for the insects will grow by thousands of square kilometers and move north and higher up.",
-   "why": "This helps planners see how climate change creates new environmental risks over large geographic areas."
-  },
-  "full": {
-   "explainer": "Climate change alters where disease-carrying insects, specifically Phlebotomus vectors, can survive in dry regions. Traditional models often miss the broader environmental picture of future expansion. To fix this, researchers created a new tool called the Climate-Driven Environmental Sustainability Indicator (ESI). They used 312 insect location records and environmental factors in a computer modeling program called MaxEnt. They projected future conditions for the years 2041 to 2060 using five climate models under two different greenhouse gas emission scenarios. The ESI combined habitat suitability, climate exposure, expansion potential, and environmental vulnerability. The results showed that suitable habitats will expand by 25,400 to 51,200 square kilometers, moving toward northern and higher-elevation areas while shrinking in very dry southern zones. Areas facing high expansion risk will also grow. Importantly, the authors note that this indicator shows environmental expansion risk, not actual disease transmission probability.",
-   "caveats": [
-    "The indicator does not represent disease transmission probability.",
-    "Not stated whether field validation was performed beyond spatial model metrics."
-   ],
-   "jargon": [
-    {
-     "term": "Phlebotomus",
-     "definition": "A type of insect vector capable of spreading certain diseases."
-    },
-    {
-     "term": "MaxEnt",
-     "definition": "A computer program used for modeling species geographic distributions based on recorded sightings."
-    },
-    {
-     "term": "AUC",
-     "definition": "A statistical measure used to evaluate how well a predictive model performs."
-    }
-   ],
-   "fit": "Demonstrates spatial modeling, uncertainty assessment, and scenario comparison for environmental risk in a semi-arid setting."
-  },
-  "thesis": {
-   "why": "Shows how to build a multidimensional environmental index combining climate exposure and habitat suitability, useful for scenario comparison.",
-   "action": "Check how they integrated different spatial data layers into a single sustainability indicator.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does this environmental sustainability indicator actually measure real-world human health vulnerability?",
-   "evidence": "The abstract states that the ESI integrates habitat suitability, climate exposure, and vulnerability, but explicitly notes it does not represent disease transmission probability.",
-   "limit": "One cannot establish actual disease rates or human health impacts from this environmental indicator alone.",
-   "check": "Verify how the study defines environmental vulnerability and whether human population data was included."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1016/j.indic.2026.101625",
-   "doi": "https://doi.org/10.1016/j.indic.2026.101625",
-   "venue": "Environmental and Sustainability Indicators",
-   "date": "2026-11-12",
-   "authors": [
-    "Ebrahim Abbasi"
-   ],
-   "n_authors": 1,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225872578",
-  "title": "Land Use Change from 1984 To 2026 and Its Impact on Biodiversity Loss: A Case Study of Port Harcourt Metropolis: Green Cover Decline from 47.9% (1984) to 21.04% (2026)",
-  "headline": "Green cover dropped from 47.9% to 21% in Port Harcourt",
-  "bullets": [
-   "Tracked land use changes across five epochs from 1984 to 2026.",
-   "Found green cover dropped by 56% while built-up areas doubled.",
-   "Warns of severe biodiversity loss without stronger urban policies."
-  ],
-  "plain": {
-   "question": "How did city growth change land cover and biodiversity in Port Harcourt over forty years?",
-   "method": "Used maps from different years to measure changes in green areas, buildings, water, and bare land.",
-   "finding": "Green spaces shrank by more than half, while buildings and towns grew to cover most of the land.",
-   "why": "Unplanned city growth destroys nature and harms local wildlife unless better rules are enforced."
-  },
-  "full": {
-   "explainer": "This paper looks at rapid, mostly unplanned city growth in Port Harcourt, Nigeria, from 1984 to 2026. The authors mapped the land across five different time periods using four main categories: green cover, buildings, water bodies, and bare land. They discovered that green cover shrank dramatically, falling from nearly 48 percent of the land area down to about 21 percent. Meanwhile, the area covered by buildings and settlements more than doubled. The loss of green space happened faster in earlier decades as the city center filled up, then expanded outward into nearby farming and natural areas. This shrinking and breaking up of natural habitats matches reported declines in local wildlife, such as birds, reptiles, and swamp forests. The study warns that without stricter enforcement of city master plans and wetland protections, the area faces severe and possibly permanent wildlife loss. To fight this, the authors suggest specific planning, legal, and community actions to protect nature.",
-   "caveats": [
-    "Biodiversity declines are reported based on indicative metrics rather than complete direct counts.",
-    "Not stated whether planning interventions will fully reverse the trend."
-   ],
-   "jargon": [
-    {
-     "term": "LULC",
-     "definition": "Land use and land cover, describing how humans use land and what physical features cover it."
-    },
-    {
-     "term": "Herpetofauna",
-     "definition": "Amphibians and reptiles, such as frogs, snakes, and lizards."
-    },
-    {
-     "term": "Riparian habitat",
-     "definition": "Natural areas located along the banks of rivers, streams, or other water bodies."
-    },
-    {
-     "term": "Multi-temporal",
-     "definition": "Involving multiple points in time to analyze changes over a specific period."
-    }
-   ],
-   "fit": "Shows land-cover change and habitat loss in a Global South city, relevant for studying urban ecosystem services and planning."
-  },
-  "thesis": {
-   "why": "It demonstrates how rapid, unplanned urban expansion in the Global South drives severe green cover loss and habitat fragmentation, matching your focus on land-cover change.",
-   "action": "Check how they validated their land-cover classification accuracy across the five epochs.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How were biodiversity metrics linked directly to land-cover changes?",
-   "evidence": "The abstract states that habitat loss corresponds with reported declines in avian species richness and herpetofauna occurrence, but does not detail the exact linking method.",
-   "limit": "You cannot establish the precise statistical correlation or causality between specific land-cover changes and individual wildlife population shifts from the abstract alone.",
-   "check": "Verify the data sources used for the reported biodiversity declines to see if they are primary field surveys or secondary literature."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.54117/pqwe8p69",
-   "doi": "https://doi.org/10.54117/pqwe8p69",
-   "venue": "",
-   "date": "2026-11-12",
-   "authors": [
-    "Efe-Michael Agbragu",
-    "Sunny O. Asomaku",
-    "Augustine O. Wokocha",
-    "Victoria O. Emelu",
-    "Imiete Godspower"
-   ],
-   "n_authors": 5,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225877078",
-  "title": "Business Incubation and SMME Growth in a Township Economy: Evidence from KwaMashu, South Africa",
-  "headline": "Business incubators aid small business growth conditionally",
-  "bullets": [
-   "Conducted twenty-one semi-structured interviews and a literature review in South Africa.",
-   "Found incubators work conditionally based on skills, alignment, and institutions.",
-   "Explains how small businesses grow in structurally constrained township economies."
-  ],
-  "plain": {
-   "question": "Do business incubators help small businesses grow in township economies?",
-   "method": "A qualitative study using twenty-one interviews and a literature review in one township.",
-   "finding": "They help only if owners have the capacity and conditions are right.",
-   "why": "It shows support programs are not direct drivers of growth on their own."
-  },
-  "full": {
-   "explainer": "Small and medium businesses are often promoted to create jobs in the Global South, but many fail in township economies. This paper studies how business incubators affect the growth of these small businesses in KwaMashu Township, South Africa. The researchers used a qualitative design, which means they interviewed twenty-one small business owners and support workers, and reviewed existing literature. They looked at the results using three theories about resources, human capital, and institutions. The findings show that incubators do not directly drive growth by themselves. Instead, they act as conditional development tools. While they can improve access to resources, skills, and networks, actual business growth depends on whether the owners have the ability to absorb new knowledge, whether the ecosystem is aligned, and whether the institutional conditions are right. This gives us a better, context-aware understanding of how small businesses grow in places with tough structural limits.",
-   "caveats": [
-    "Based on a single-case design in one specific township.",
-    "Relies on twenty-one interviews and literature review.",
-    "Not stated if findings apply to urban environmental planning or ecosystem services."
-   ],
-   "jargon": [
-    {
-     "term": "SMMEs",
-     "definition": "Small, Micro and Medium Enterprises."
-    },
-    {
-     "term": "Business incubation",
-     "definition": "Support interventions designed to help startups and small businesses grow."
-    },
-    {
-     "term": "Absorptive capacity",
-     "definition": "The ability of an entrepreneur to recognize, assimilate, and apply new external knowledge."
-    },
-    {
-     "term": "Qualitative single-case design",
-     "definition": "A research approach that deeply examines one single instance or location using non-numerical data."
-    }
-   ],
-   "fit": "Connects to Global South urban contexts and institutional conditions, though it focuses on business incubation rather than ecosystem services."
-  },
-  "thesis": {
-   "why": "It addresses institutional conditions and context-sensitive development in the Global South, which parallels challenges in data-scarce urban planning settings.",
-   "action": "Check if institutional constraints discussed mirror governance issues in your study areas.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can qualitative findings on business incubators inform spatial and environmental planning?",
-   "evidence": "The abstract examines support mechanisms and institutional conditions in the Global South without addressing spatial planning or ecosystem services.",
-   "limit": "It cannot establish causal links between business support and physical land-cover change or ecosystem service delivery.",
-   "check": "Verify if the full paper discusses any spatial or land-use implications of township business development."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.59857/axr1kt32",
-   "doi": "https://doi.org/10.59857/axr1kt32",
-   "venue": "International Journal of Advanced Business Studies",
-   "date": "2026-11-12",
-   "authors": [
-    "Molefi Lawrence. Matsieli",
-    "Matthew Speelman",
-    "Thembinkosi Gervase Mkhize",
-    "Stephen Mudogo Mutula"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225873456",
-  "title": "Thermal Performance of Glazing vs Insulated Curtain-Wall Panels in Hot-Arid Urban Environments: Implications for Climate-Adaptive Façade Design",
-  "headline": "Insulated panels beat glass for heat control",
-  "bullets": [
-   "Tested heat transfer in two window panel types using computer modeling",
-   "Insulated panels allowed less heat through than double-glazed glass units",
-   "Helps choose better building walls to lower city energy demand in heat"
-  ],
-  "plain": {
-   "question": "Which window design keeps out hot weather better?",
-   "method": "A computer model tested how heat moves through two different wall panel types.",
-   "finding": "Opaque insulated panels let through less heat than double glass windows.",
-   "why": "This helps design buildings that use less energy in very hot cities."
-  },
-  "full": {
-   "explainer": "This study looks at how heat moves through modern building walls in hot weather. In very hot cities, the outside walls of tall buildings are a big reason why indoor spaces get hot, leading to high energy use for air conditioning. The researchers used a computer program to test two different types of window wall sections: one with a solid, insulated panel, and one with a gas-filled double glass window. They ran tests using summer weather conditions from a hot city. The results showed that the solid insulated panel let through less heat than the glass window. The glass window also created a heat leak around its edges where it meets the frame. The study explains that choosing better walls can help reduce overall energy use and make cities more resilient to extreme heat.",
-   "caveats": [
-    "Tested only steady-state heat transfer under one set of summer boundary conditions",
-    "Evaluated only one representative window and curtain-wall-like frame section detail",
-    "Not stated how other environmental factors like sunlight or wind affect the panels"
-   ],
-   "jargon": [
-    {
-     "term": "Thermal transmittance",
-     "definition": "A measure of how easily heat passes through a building material."
-    },
-    {
-     "term": "Finite-element model",
-     "definition": "A computer method that breaks a complex shape into tiny pieces to calculate physical forces."
-    },
-    {
-     "term": "Thermal bridge",
-     "definition": "An area in a building's structure that lets heat pass through much faster than surrounding areas."
-    }
-   ],
-   "fit": "Connects to urban cooling and climate-adaptive building design, influencing district-scale energy demand in hot-arid urban environments."
-  },
-  "thesis": {
-   "why": "It links building-scale heat transfer to district-scale energy demand and urban resilience to extreme heat in hot-arid environments.",
-   "action": "Check if the paper discusses how individual building façades impact urban microclimates and cooling.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does a small change in panel heat transfer meaningfully alter city-wide urban cooling?",
-   "evidence": "The abstract claims that accumulated heat gains at the district scale influence urban energy demand and resilience to extreme heat.",
-   "limit": "The study only models a single window section and does not model actual city-wide microclimate or temperature changes.",
-   "check": "Verify if the full paper provides empirical proof scaling building façade choices up to the entire district level."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-11473323/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-11473323/v1",
-   "venue": "Research Square",
-   "date": "2026-11-12",
-   "authors": [
-    "Muhammad Tayyab Naqash",
-    "Antonio Formisano"
-   ],
-   "n_authors": 2,
    "open_access": true,
    "basis": "abstract"
   }
