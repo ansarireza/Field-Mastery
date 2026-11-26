@@ -1,137 +1,77 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-26",
  "summary": [
-  "Studies show urban growth causes green loss, tree shortages, and rising temperatures.",
-  "Research highlights land-cover change, carbon credit gaps, and ecosystem limits."
+  "Studies investigate land optimization, carbon storage, and sediment export goals.",
+  "Research examines ecosystem service supply and demand mismatches in basins.",
+  "Papers explore environmental risks, urban challenges, and wildlife tracking."
  ],
  "items": [
   {
-   "id": "W7236003766",
-   "title": "Spatiotemporal dynamics, driving mechanisms, and threshold identification of ecosystem services in a karst plateau-mountain region: A case study of Guizhou Province, Southwest China",
-   "headline": "Ecosystem services and thresholds in a karst region",
+   "id": "W7238834214",
+   "title": "Integrated Ecosystem Service Assessment and Land-Use Optimization Using InVEST, NSGA-II and FLUS",
+   "headline": "Balanced land optimization improves carbon and sediment goals",
    "bullets": [
-    "Quantified five ecosystem services in Guizhou from 2000 to 2020 using models.",
-    "Found spatial heterogeneity, nonlinear responses, and specific environmental limits.",
-    "Provides quantitative insights for ecosystem management in fragile landscapes."
+    "Combined InVEST, NSGA-II, and FLUS models to optimize land use for restoration.",
+    "Found balanced scenario achieved highest carbon storage and lowest sediment export.",
+    "Proves demand, allocation, and ecological reassessment must be reported separately."
    ],
    "plain": {
-    "question": "How do nature's benefits change over time in fragile mountain areas with fast city growth?",
-    "method": "Used maps, computer models, and data tools to measure five nature benefits from 2000 to 2020.",
-    "finding": "Nature benefits varied across space, and human pressures caused negative effects over time.",
-    "why": "This helps people manage and restore fragile environments better using clear evidence."
+    "question": "How to improve nature's benefits while limiting changes to the land?",
+    "method": "Used computer models to test different land-use choices and future changes.",
+    "finding": "A balanced plan gave the best carbon storage and lowest sediment loss.",
+    "why": "Helps planners balance ecological goals with land adjustment limits."
    },
    "full": {
-    "explainer": "This paper looks at how nature's benefits change over time in a fragile mountain area in China called Guizhou Province between 2000 and 200, a time of fast city growth and human pressure. The researchers measured five specific benefits that nature provides, including habitat quality, carbon storage, water yield, soil conservation, and plant growth, using computer models and map data. They analyzed how these benefits trade off with each other or work together. They also used special statistical tools to find out what drives these changes and whether there are tipping points where nature suddenly changes for the worse. Their results showed that benefits were higher in forested areas and lower in urban or degraded places. Plant cover had the biggest positive effect on overall benefits, while human footprint, population, and money grew more harmful over time. The study also found clear tipping points where human pressures cross safe limits, offering useful evidence for ecological restoration.",
+    "explainer": "The study looks at how to restore alpine headwater regions while keeping land changes as low as possible. The researchers created a connected framework using InVEST, NSGA-II, and FLUS models for the upper Yellow River in Gannan, China. They checked historical ecosystem services like water yield, sediment export, and carbon storage from 2018 to 2025 using a shared grid. Water yield and carbon storage increased over time, while sediment export went up and then dropped. They tested different paths based on ecology priority, cost priority, and a balanced approach. After allocating these pathways, they reassessed the results with a fixed climate. The natural development choice kept the highest water yield, but the balanced plan achieved the highest carbon storage and lowest sediment export. The results show that optimized totals are not always exactly realized on the map, meaning that demand, spatial allocation, and ecological reassessment need to be reported separately.",
     "caveats": [
-     "The study focuses on a specific karst plateau-mountain region in China, so findings may need adaptation for other settings.",
-     "Not stated whether these exact thresholds apply to semi-arid or conflict-affected urban areas like Kabul."
+     "Optimized class totals were not exactly realized on the final map.",
+     "Results rely on the specified model assumptions and a fixed 2025 climate."
     ],
     "jargon": [
      {
-      "term": "Ecosystem services",
-      "definition": "The benefits that people get from nature, like clean water and plant growth."
+      "term": "InVEST",
+      "definition": "Software models used to map and value the goods and services from nature."
      },
      {
-      "term": "Spatial heterogeneity",
-      "definition": "How things differ and are unevenly arranged across geographic space."
+      "term": "NSGA-II",
+      "definition": "An algorithm used to find solutions for problems with multiple conflicting goals."
      },
      {
-      "term": "Nonlinear responses",
-      "definition": "Changes in nature that do not happen at a steady, constant rate when pressures increase."
+      "term": "FLUS",
+      "definition": "A cellular automaton model used for simulating land-use changes and spatial allocation."
      },
      {
-      "term": "Constraint line analysis",
-      "definition": "A method used to find the limits or boundaries placed on ecological responses by drivers."
+      "term": "Sediment export",
+      "definition": "The amount of soil and eroded material washed out of a watershed."
      }
     ],
-    "fit": "Demonstrates spatial modeling, driver analysis, and threshold identification applicable to fragile landscapes and environmental planning."
+    "fit": "Demonstrates multi-model integration, scenario comparison, and spatial allocation methods useful for environmental planning."
    },
    "thesis": {
-    "why": "It shows advanced methods for analyzing spatial dynamics, trade-offs, and thresholds, which are useful for studying urban ecosystem services and planning.",
-    "action": "Check how the hybrid framework of Geodetector and XGBoost-SHAP could be tested on your own spatial datasets.",
+    "why": "It uses scenario comparison and spatial modelling frameworks that match the student's methodological interests in environmental planning.",
+    "action": "Check how they linked InVEST outputs with NSGA-II and FLUS for optimization.",
     "relationship": "method"
    },
    "critical": {
-    "question": "How do you know if these identified thresholds and driver relationships apply to semi-arid urbanizing settings like Kabul?",
-    "evidence": "The abstract demonstrates threshold effects and driver mechanisms in a humid karst plateau-mountain region of Southwest China.",
-    "limit": "The abstract does not show whether these exact numerical thresholds or nonlinear models transfer to arid, data-scarce, or conflict-affected cities.",
-    "check": "Verify if the hybrid driver framework requires environmental data densities that are unavailable in your study area."
+    "question": "How do we know the optimized land adjustments reflect actual physical changes rather than mathematical artifacts?",
+    "evidence": "The abstract notes that the largest class-demand residual was 247 nominal 1 km cells, showing optimized totals were not exactly realized.",
+    "limit": "The abstract does not state how local stakeholders or on-the-ground constraints affected the actual land adjustments.",
+    "check": "Verify how the FLUS allocation algorithm handled the gap between optimized class totals and realized grid cells."
    },
    "relevance": 4,
    "watch": "Cites your reference doi:10.1073/pnas.0907284107",
    "source": {
-    "url": "https://doi.org/10.1016/j.ecolind.2026.115867",
-    "doi": "https://doi.org/10.1016/j.ecolind.2026.115867",
-    "venue": "Ecological Indicators",
-    "date": "2026-11-18",
+    "url": "https://doi.org/10.3390/su182311865",
+    "doi": "https://doi.org/10.3390/su182311865",
+    "venue": "Sustainability",
+    "date": "2026-11-22",
     "authors": [
-     "Bo Xie",
-     "Bingshun Meng",
-     "Mingming Zhang"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7233781856",
-   "title": "Forest Carbon Credits Under Fragmented Ownership in Japan: Registration Patterns and the Layering of Forest-Related Value",
-   "headline": "Private forests trail public ones in carbon credit adoption",
-   "bullets": [
-    "Analyzed Japanese registry data, purchase records, and five respondent interviews.",
-    "Found private forest registration is much lower than public and corporate forests.",
-    "Shows how businesses layer extra values like water onto carbon credits."
-   ],
-   "plain": {
-    "question": "How do forest carbon projects differ by owner, and how are extra values added to credits?",
-    "method": "Studied registry data, purchase records, and interviews with five people.",
-    "finding": "Private forests registered far less than public ones, while buyers mainly sought offsetting.",
-    "why": "It shows how private businesses help connect forest functions to the real economy."
-   },
-   "full": {
-    "explainer": "This paper looks at forest carbon credits in Japan, which let buyers pay for managed forests. The study asks two main questions: how the timing and scale of registering these projects differ depending on who owns and manages the forest, and how additional values, like water and biodiversity, are added to what companies buy and sell. The authors looked at official registry data, purchase records, and responses from five people. By fiscal 2025, registered project areas reached over half for forestry public corporations, nearly a quarter for public forests, but only two percent for private forests. The study found that developers are adding extra environmental values to carbon credits. Buyers mostly purchased credits for the functional goal of carbon offsetting, while some also found emotional value in supporting forests. Overall, private businesses are leading this trend, helping integrate forest benefits into the economy.",
-    "caveats": [
-     "Data relies on only five respondents for qualitative insights.",
-     "Results focus specifically on Japan's institutional and registry context."
-    ],
-    "jargon": [
-     {
-      "term": "J-Credit",
-      "definition": "A scheme where the Japanese government certifies amount of greenhouse gas emissions reduced."
-     },
-     {
-      "term": "Diffusion curves",
-      "definition": "Mathematical curves showing how an innovation spreads through a population over time."
-     }
-    ],
-    "fit": "Connects to ecosystem service bundles, plural values, and private-sector involvement in environmental planning, though focused on Japan."
-   },
-   "thesis": {
-    "why": "It examines how multiple ecosystem values like water and carbon are bundled and marketed by private actors, relevant to ecosystem service delivery.",
-    "action": "Check how the study defines and measures non-carbon values like water alongside carbon credits.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How can five respondents adequately represent national trends in buyer motives and value layering?",
-    "evidence": "The abstract states the qualitative analysis relied on responses from just five respondents alongside registry data.",
-    "limit": "It is not established how the five respondents were chosen or if they represent the broader market.",
-    "check": "Review the full paper to see how the qualitative interview data is weighted against quantitative records."
-   },
-   "relevance": 2,
-   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
-   "source": {
-    "url": "https://doi.org/10.3390/f17111365",
-    "doi": "https://doi.org/10.3390/f17111365",
-    "venue": "Forests",
-    "date": "2026-11-15",
-    "authors": [
-     "Naoki Ohira",
-     "Ryuzo Takahashi",
-     "Shunichi Koshimura",
-     "Youji Kohda",
-     "Asami Shikida",
-     "Hideomi Gokon"
+     "Peng Wang",
+     "Wendong Li",
+     "Yannan Kang",
+     "Xingping Zhao",
+     "Mingyuan Geng",
+     "Yanan JIANG"
     ],
     "n_authors": 6,
     "open_access": true,
@@ -139,257 +79,594 @@
    }
   },
   {
-   "id": "W7237195463",
-   "title": "Conservation Values and the Value of Conservation",
-   "headline": "Conservation values and value of conservation analysis",
+   "id": "W7239408431",
+   "title": "Toward ecosystem service supply–demand coordination: Spatial mismatch diagnosis and driving mechanisms in the Dadu River basin",
+   "headline": "Ecosystem supply and demand mismatches in a mountain basin",
    "bullets": [
-    "Examined conservation values and the value of conservation",
-    "Not stated in the provided abstract text",
-    "Helps understand conservation priorities and valuation"
+    "Used an integrated framework to assess ecosystem service supply, demand, and spatial matching.",
+    "Found that high-supply areas were in high mountains, while high-demand centers were in valleys.",
+    "Shows that improving supply alone fails to fix spatial mismatches between nature and people."
    ],
    "plain": {
-    "question": "What is the text about regarding conservation values?",
-    "method": "Not stated in the provided abstract text.",
-    "finding": "Not stated in the provided abstract text.",
-    "why": "It helps us understand how we value nature and conservation."
+    "question": "How do nature's benefits match what people need in a complex mountain area?",
+    "method": "They measured nature's supply and human demand, spatial matching, and machine learning to find key drivers.",
+    "finding": "Nature supply grew from 2000 to 2020 while demand stayed steady, but mismatched areas were common.",
+    "why": "It helps plan better ecological management by showing where nature supply and human needs do not align."
    },
    "full": {
-    "explainer": "This book chapter or book from Elsevier focuses on the topic of conservation values and the value of conservation. Because the abstract text provided contains only the title and no descriptive summary or findings, specific details about the methods used, the exact study locations, or the concrete conclusions reached are not available. In general, studies on this topic explore why people care about nature, how different groups assign worth to natural areas, and how these values guide environmental protection and planning decisions. For a researcher studying urban ecosystems or environmental planning, looking at conservation values is important for understanding how decisions about land use and nature are made. However, since the text provided is extremely brief, you would need to read the full chapter or book to see which specific theories, frameworks, or case studies are discussed by the authors.",
+    "explainer": "Researchers looked at how nature's benefits—called ecosystem services—supply and demand match up in the Dadu River Basin, a mountainous area with complex human and natural interactions. They created an integrated framework combining supply and demand assessments, spatial matching, scale optimization, and machine learning to see how things changed between 2000 and 2020. They found that nature's supply increased over time, while human demand stayed mostly stable. Spatially, areas that provided high supplies of nature's benefits were mostly found in high-elevation mountains with healthy ecosystems, whereas places with high human demand clustered in valley zones. Even though the basin overall had more supply than demand, areas with low supply and high demand—or high supply and low demand—covered most of the region. The study also discovered that land use, vegetation greenness, economic output, and temperature heavily influence these patterns. Crucially, just increasing vegetation did not always improve coordination because supply regions and demand hotspots remain spatially separated.",
     "caveats": [
-     "Not stated",
-     "Not stated"
+     "The abstract does not state specific future climate scenarios tested.",
+     "Not stated whether findings directly apply to urbanized lowland settings."
     ],
-    "jargon": [],
-    "fit": "Connects to environmental planning and values in urban ecosystem services research, though the exact focus is limited by the abstract."
+    "jargon": [
+     {
+      "term": "Ecosystem service supply-demand",
+      "definition": "The balance between what nature provides and what humans use or require."
+     },
+     {
+      "term": "Spatial mismatch",
+      "definition": "When areas producing nature's benefits do not align geographically with where people need them."
+     },
+     {
+      "term": "Coupling coordination degree",
+      "definition": "A measure of how well interacting systems, like nature and human demand, work together."
+     }
+    ],
+    "fit": "Provides methods for spatial matching, scale optimization, and driving mechanisms relevant to analyzing ecosystem service mismatches."
    },
    "thesis": {
-    "why": "It relates to environmental planning and valuing nature, which connects broadly to understanding human benefits and plural values in urban ecosystem services.",
-    "action": "Check the full table of contents to see if it covers urban contexts or the Global South.",
-    "relationship": "unclear"
+    "why": "It demonstrates a framework for diagnosing spatial mismatches between ecosystem service supply and demand, informing spatial modeling and planning.",
+    "action": "Check their machine learning approach and scale optimization methods for potential use in spatial analysis.",
+    "relationship": "method"
    },
    "critical": {
-    "question": "How do these conservation values apply to data-scarce urban settings in the Global South?",
-    "evidence": "The abstract title mentions conservation values, but provides zero details on geography, urban areas, or specific settings.",
-    "limit": "The abstract lacks any information on study sites, methods, or empirical findings.",
-    "check": "Verify whether the full text discusses urban environments, cities, or developing regions."
+    "question": "Can findings from a mountainous river basin be reliably transferred to data-scarce urban or semi-arid environments?",
+    "evidence": "The study focuses specifically on a mountainous watershed with strong environmental gradients like the Dadu River Basin.",
+    "limit": "The abstract does not provide evidence of how these mountainous framework dynamics translate to urban or conflict-affected settings.",
+    "check": "Verify if the scale optimization and machine learning variables used are adaptable to urban land-cover change studies."
    },
-   "relevance": 1,
-   "watch": "Cites your reference doi:10.1126/science.aap8826",
+   "relevance": 3,
+   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
    "source": {
-    "url": "https://doi.org/10.1016/b978-0-443-41773-3.00100-1",
-    "doi": "https://doi.org/10.1016/b978-0-443-41773-3.00100-1",
-    "venue": "Elsevier eBooks",
-    "date": "2026-11-20",
+    "url": "https://doi.org/10.1016/j.ecolind.2026.115907",
+    "doi": "https://doi.org/10.1016/j.ecolind.2026.115907",
+    "venue": "Ecological Indicators",
+    "date": "2026-11-24",
     "authors": [
-     "Karen E. Allen",
-     "Makayla Carnahan"
+     "Ziqin Wang",
+     "李景吉 LI Jingji",
+     "Yanguo Liu",
+     "Binni Xu",
+     "Zhiyuan Fu",
+     "张廷斌 ZHANG Tingbin"
     ],
-    "n_authors": 2,
-    "open_access": false,
+    "n_authors": 6,
+    "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7203453096",
-   "title": "A decadal analysis of land surface temperature dynamics in response to urban expansion and vegetation loss in Faridpur",
-   "headline": "Urban growth and green loss caused surface warming in Faridpur",
+   "id": "W7239748249",
+   "title": "Ranging Behavior of Resident Egyptian Vultures (Neophron percnopterus) in Relation to Anthropogenic Waste Disposal Sites and Territoriality",
+   "headline": "GPS tracking shows Egyptian vultures rely on a landfill",
    "bullets": [
-    "Used satellite data from 2014 and 2024 to track land cover, plant health, and surface temperature.",
-    "Found built-up areas grew, vegetation shrank, and overall regional temperatures went up…",
-    "Shows an urgent need to conserve green spaces and add urban greenery to counter warming effects."
+    "Tracked 16 resident Egyptian vultures with GPS in northern Oman.",
+    "Found that a single landfill serves as the main feeding core for all tracked birds.",
+    "Highlights the need to manage predictable food sources for species conservation."
    ],
    "plain": {
-    "question": "How did changes in land and plants affect surface temperatures in Faridpur over ten years?",
-    "method": "The researchers used satellite images from 2014 and 2024 to map land types, plant health, and surface heat.",
-    "finding": "Built-up land doubled while vegetation dropped, and maximum temperatures rose by nearly three degrees.",
-    "why": "It shows that losing plants to city growth makes local areas hotter, so we must protect green spaces."
+    "question": "How do resident scavenging birds use space in heavily human-altered landscapes?",
+    "method": "We tracked the movement patterns and landfill use of 16 individual vultures using GPS data.",
+    "finding": "Territorial adults had smaller home ranges, and a specific landfill was the main feeding core for all birds.",
+    "why": "It shows that predictable food sources shape bird movements, which helps plan their conservation."
    },
    "full": {
-    "explainer": "This study looks at how land changes affect temperatures in the Faridpur District of Bangladesh. Using satellite images from 2014 and 2024, the researchers tracked shifts in landscape types—like vegetation, bare soil, built-up areas, and water—alongside plant health and land surface temperature. Over the decade, they found that city areas expanded rapidly from about 21 percent to over 45 percent of the land, while green vegetation dropped sharply from 41 percent down to about 25 percent. At the same time, the region got much hotter: the maximum temperature rose from 42.69 degrees Celsius to 45.33 degrees Celsius, and the minimum temperature also went up. Water bodies and green patches managed to keep cooler microclimates, whereas buildings and bare soil were the hottest spots. The authors conclude that protecting existing plants and adding small green areas in growing towns is essential to fight off these rising urban temperatures.",
+    "explainer": "Understanding how wide-ranging scavengers use space in human-modified landscapes is vital for keeping them safe. While many studies look at migrating populations, detailed information on resident populations is scarce. Researchers used GPS tracking to study the movement patterns and landfill use of 16 Egyptian vultures in northern Oman. The tagged birds traveled widely across the landscape. Territorial adults showed smaller home ranges and more winding movements than non-territorial birds, with clear seasonal changes. For all tracked birds, a specific site called the Al-Multaqa landfill was the main feeding core. Territorial adults visited this landfill on more than half of the days they were tracked. Visits were more frequent and lasted longer during the non-breeding season, and decreased the further the birds were from their breeding territories. Overall, resident Egyptian vultures varied their space use and foraging depending on territoriality, breeding duties, and predictable food sources.",
     "caveats": [
-     "Not stated whether other climate factors besides land cover influenced the temperature changes.",
-     "Not stated how local socioeconomic conditions affect these thermal patterns."
+     "Study is limited to resident Egyptian vultures in northern Oman.",
+     "Only 16 individuals were tracked using GPS data."
     ],
     "jargon": [
      {
-      "term": "Land Surface Temperature",
-      "definition": "How hot the surface of the ground feels when measured from space."
+      "term": "area de campeo",
+      "definition": "Home range; the geographic area an animal uses to find food, mates, and shelter."
      },
      {
-      "term": "Normalized Difference Vegetation Index",
-      "definition": "A satellite-based measure used to estimate the health and amount of green plants."
-     },
-     {
-      "term": "Supervised Classification",
-      "definition": "A computer method where a user trains software to categorize different types of land cover."
+      "term": "Neophron percnopterus",
+      "definition": "The scientific name for the Egyptian vulture, a globally threatened scavenging bird."
      }
     ],
-    "fit": "It connects to urban land-cover change, microclimates, and planning responses in the Global South, aiding urban cooling research."
+    "fit": "Connects to habitat quality and human-altered landscapes, though it focuses on wildlife rather than Kabul's urban ecosystem services."
    },
    "thesis": {
-    "why": "It evaluates urban expansion, land-cover change, and surface temperature dynamics, directly relating to urban cooling and environmental planning in the Global South.",
-    "action": "Check how the authors mapped land cover categories and validated their satellite image classification accuracy.",
+    "why": "It touches on human-altered landscapes and habitat quality, but focuses on animal behavior rather than urban ecosystem services or planning in Kabul.",
+    "action": "Check if the full paper's spatial tracking methods can be adapted for urban habitat quality assessments.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does the abstract prove that urban expansion directly caused the temperature rise, or is it just a correlation?",
-    "evidence": "The abstract notes widespread surface warming alongside increased built-up areas and reduced vegetation, but does not test other variables.",
-    "limit": "It cannot establish a definitive causal mechanism between building growth and temperature without controlling for external weather factors.",
-    "check": "Verify if the full paper tests for statistical causality or only presents spatial correlations between land cover and temperature."
+    "question": "How does reliance on a single anthropogenic waste site affect long-term population viability?",
+    "evidence": "The abstract notes that the Al-Multaqa landfill constituted the principal feeding core for all individuals followed and was visited frequently.",
+    "limit": "The abstract does not establish the overall health impacts or population-level survival rates linked to landfill consumption.",
+    "check": "Verify if the full paper discusses health risks or disease transmission from relying on anthropogenic waste sites."
    },
-   "relevance": 4,
-   "watch": null,
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
    "source": {
-    "url": "https://doi.org/10.30493/das.2026.011408",
-    "doi": "https://doi.org/10.30493/das.2026.011408",
-    "venue": "DYSONA – Applied Science",
-    "date": "2027-01-01",
+    "url": "https://doi.org/10.3356/jrr26035",
+    "doi": "https://doi.org/10.3356/jrr26035",
+    "venue": "Journal of Raptor Research",
+    "date": "2026-11-25",
     "authors": [
-     "Saikat Dey Munna",
-     "Sajjad Hussain"
-    ],
-    "n_authors": 2,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7236520801",
-   "title": "Terrain-Conditioned Industrial Expansion and Environmental Trade-offs in a Peri-Urban Corridor: A Two-Decade Geospatial Assessment of the Vasanthanarasapura Industrial Area, Karnataka",
-   "headline": "Flat fertile land lost to industrial growth",
-   "bullets": [
-    "Mapped land-use changes over twenty years using satellite data.",
-    "Found built-up areas grew while croplands sharply declined.",
-    "Shows why protecting prime farmland from flat-land industry is vital."
-   ],
-   "plain": {
-    "question": "Where did new factories get built and what land did they replace?",
-    "method": "Used satellite images and maps to track land changes over twenty years.",
-    "finding": "Factories were built on flat, fertile farmland, causing farms to shrink.",
-    "why": "Helps planners protect good farmland from being taken over by industry."
-   },
-   "full": {
-    "explainer": "This study looks at how industrial growth changes the landscape around towns in India. The researchers examined a specific industrial area and its surrounding buffer zone across three different years: 2004, 2014, and 2024. They used satellite images to map how the land was being used, checking their map accuracy with careful random sampling points. By looking at soil, height, slope, and drainage, they figured out the physical layout of the land where changes happened. Over the two decades, they found that built-up land and plantations grew, while crop fields decreased significantly. The new factories mostly appeared on flat and gently sloping land that happened to be the district's best farmland. Because builders prefer flat land, fertile farms were lost. The authors suggest that future planning should direct factories toward sloped fringe lands instead, while protecting water sources and prime crops. This gives other growing towns a useful way to manage their land development.",
-    "caveats": [
-     "Study is limited to the Vasanthanarasapura Industrial Area and its 5 km buffer in Karnataka.",
-     "Not stated how biodiversity or specific ecosystem services besides land cover were impacted.",
-     "Not stated how socioeconomic factors drove the changes beyond physical terrain properties."
-    ],
-    "jargon": [
-     {
-      "term": "LULC",
-      "definition": "Land-Use and Land-Cover, describing how human activities and natural elements use the land surface."
-     },
-     {
-      "term": "Confusion matrix",
-      "definition": "A table used to evaluate how accurately a classification map matches reality."
-     },
-     {
-      "term": "Kappa coefficient",
-      "definition": "A statistical measure of map classification accuracy that accounts for chance agreement."
-     },
-     {
-      "term": "Peri-urban corridor",
-      "definition": "An area transitioning from rural to urban use along a major transport route."
-     }
-    ],
-    "fit": "Connects land-cover change detection and suitability-guided governance to environmental planning in Global South peri-urban areas."
-   },
-   "thesis": {
-    "why": "It models land-cover change and spatial patterns using remote sensing and GIS, which matches methods and planning goals relevant to urban ecosystem research.",
-    "action": "Check how the study validates its land-change accuracy using the confusion matrix.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How do we know the industrial expansion caused the cropland loss rather than other local farming shifts?",
-    "evidence": "The abstract states cropland declined by 41.5% and built-up land increased, and notes they coincided geographically on flat terrain, but does not detail a causal test.",
-    "limit": "It is not possible to establish direct causal effects between settlement status and specific ecological service changes from this abstract.",
-    "check": "Verify whether the full paper evaluates actual ecosystem services or only land-cover area conversions."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://jchr.org/index.php/JCHR/article/view/17876",
-    "doi": null,
-    "venue": "Journal of chemical health risks",
-    "date": "2026-11-16",
-    "authors": [
-     "Hemanjali A. M.",
-     "Vinod G.",
-     "B. C. Nagaraja"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7236825682",
-   "title": "Diagnóstico y priorización del arbolado urbano en una ciudad semiárida con Sentinel-2 y Random Forest",
-   "headline": "Satellite data reveals severe urban tree shortages",
-   "bullets": [
-    "Used satellite images and machine learning to map urban green spaces in a semi-arid city.",
-    "Found official registries overreported vegetation, with only 3 percent functional cover.",
-    "Helps improve municipal tree inventories and climate adaptation planning."
-   ],
-   "plain": {
-    "question": "How can we accurately find and prioritize areas that lack urban trees in a dry city?",
-    "method": "We used satellite pictures and a computer program to check plant cover and ground temperatures.",
-    "finding": "Official city lists greatly exaggerated how many trees and green spaces actually exist.",
-    "why": "Accurate maps help cities plant trees where they are most needed to fight extreme heat."
-   },
-   "full": {
-    "explainer": "In dry cities, a lack of trees makes climate change worse, but official city tree lists are often inaccurate. This study looked at Delicias, Mexico, to find and prioritize areas needing tree management. The researchers used satellite images from Sentinel-2 and a machine learning method called Random Forest, checking their work against the official city inventory. They also used a priority index based on vegetation cover deficits and land surface temperatures during summer and winter. The full model reached an accuracy of nearly eighty-nine percent, with summer vegetation levels being the most important factor. The results showed that only three percent of the urban area had functional vegetation, providing just over seven square meters per person. Furthermore, less than a quarter of the registered green areas actually had detectable plant cover, proving the official registry overestimates green spaces. The new priority index flagged one hundred ten areas needing urgent help due to low cover and severe heat. This shows that satellite monitoring is a practical way to audit urban green spaces in medium-sized, dry cities.",
-    "caveats": [
-     "Study is limited to registered green spaces in one specific semi-arid city, Delicias, Mexico.",
-     "Not stated whether these remote sensing methods apply equally to dense informal settlements or mountainous terrains."
-    ],
-    "jargon": [
-     {
-      "term": "Random Forest",
-      "definition": "A computer learning method that uses many decision trees to classify satellite data accurately."
-     },
-     {
-      "term": "GLCM texture",
-      "definition": "A mathematical method used to measure patterns and spatial variations of pixel brightness in images."
-     },
-     {
-      "term": "NDVI",
-      "definition": "A common index calculated from satellite bands to measure the health and amount of green vegetation."
-     }
-    ],
-    "fit": "Matches semi-arid urban contexts, remote sensing methods, green infrastructure, and cooling service delivery."
-   },
-   "thesis": {
-    "why": "It demonstrates how remote sensing and land-cover validation can expose discrepancies in official data, directly aiding spatial modeling of urban cooling and green space deficits.",
-    "action": "Check how they handled validation against ground data to improve accuracy assessments in your own study.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "Can a model relying on surface temperature and cover deficit alone reliably identify true ecosystem service delivery?",
-    "evidence": "The priority index relies heavily on cover deficit and land surface temperature to target areas needing urgent intervention.",
-    "limit": "The abstract does not establish whether the prioritized areas actually provide sufficient cooling benefits to human populations on the ground.",
-    "check": "Verify how well the priority index correlates with actual microclimate cooling benefits experienced by residents."
-   },
-   "relevance": 4,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.29298/rmcf.v17i98.1678",
-    "doi": "https://doi.org/10.29298/rmcf.v17i98.1678",
-    "venue": "Revista mexicana de ciencias forestales",
-    "date": "2026-11-18",
-    "authors": [
-     "Samuel Alberto García García",
-     "Solís Ana Marissa de la Fuente",
-     "Joel Rascón-Solano",
-     "Luisa Patricia Uranga Valencia",
-     "Rufino Sandoval-García"
+     "Michael McGrady",
+     "Volen S. Arkumarev",
+     "Zahran Abdulsalaam",
+     "Waheed Abdullah Al-Fazari",
+     "Bernd‐Ulrich Meyburg"
     ],
     "n_authors": 5,
     "open_access": true,
     "basis": "abstract"
    }
+  },
+  {
+   "id": "W7239389563",
+   "title": "Adaptive green infrastructure planning under arid flash-flood regimes: Evidence from Riyadh, Saudi Arabia",
+   "headline": "Green infrastructure impacts in arid Riyadh flash floods",
+   "bullets": [
+    "Used Hydro-XAI workflow in four Riyadh watersheds for floods",
+    "Terrain features dominated, and vegetation altered water flow",
+    "Informs watershed-scale green infrastructure planning"
+   ],
+   "plain": {
+    "question": "How does green infrastructure perform in dry cities facing intense flash floods?",
+    "method": "Built a computer model combining flood simulation and machine learning for four watersheds in Riyadh.",
+    "finding": "Terrain matters most, and vegetation changes how water moves and stores in floods.",
+    "why": "Helps planners choose the right green solutions for managing stormwater in dry, flood-prone cities."
+   },
+   "full": {
+    "explainer": "This paper looks at how green infrastructure performs in dry cities that experience short and intense flash floods. The researchers created a computer workflow that combines flood simulations with machine learning to study four urban watersheds in Riyadh, Saudi Arabia. They checked their flood models using news reports and tested how well the models worked across different watersheds. Their results show that terrain features like low ground and closeness to natural water channels are the most important signals for predicting flood risks. Vegetation changes water flow by affecting depth, speed, and storage, though all tested green surfaces still produced runoff after initial heavy rain. Based on these findings, the authors suggest specific planning strategies for different parts of the watershed, such as preserving water paths, creating flood detention areas, and using retrofitted green-gray infrastructure.",
+    "caveats": [
+     "Performance boundaries remain poorly specified in arid cities.",
+     "All tested green surfaces generated modeled runoff after initial abstraction."
+    ],
+    "jargon": [
+     {
+      "term": "Hydro-XAI",
+      "definition": "A workflow combining flood physics simulations with explainable machine learning."
+     },
+     {
+      "term": "Shapley additive explanations",
+      "definition": "A method to explain the output of machine learning models by showing feature importance."
+     },
+     {
+      "term": "Initial abstraction",
+      "definition": "Loss of water before surface runoff begins, such as through depression storage or infiltration."
+     }
+    ],
+    "fit": "Provides methodological insights on stormwater runoff retention and scenario planning for semi-arid environments."
+   },
+   "thesis": {
+    "why": "It connects stormwater runoff retention, scenario comparison, and spatial modeling in an arid urban setting, linking to the student's focus on semi-arid environmental planning.",
+    "action": "Check how they performed cross-watershed transferability and spatial block validation for method ideas.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does connected green space genuinely increase flood susceptibility, or is it just co-located with low-lying terrain?",
+    "evidence": "The abstract states that in W3, connected green space was associated with higher susceptibility mainly where it coincided with low terrain and wadi proximity.",
+    "limit": "It cannot be established whether the green space caused the higher susceptibility or if it was merely situated in naturally prone low areas.",
+    "check": "Verify how the study separates the causal effect of vegetation placement from underlying topographic flood susceptibility."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1016/j.landurbplan.2026.105844",
+    "doi": "https://doi.org/10.1016/j.landurbplan.2026.105844",
+    "venue": "Landscape and Urban Planning",
+    "date": "2026-11-24",
+    "authors": [
+     "Zheng Cong",
+     "Mirza Waleed",
+     "Furqan Tahir",
+     "Sami G. Al‐Ghamdi"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7238790326",
+   "title": "Extreme heat and informal urban workers’ health – lessons for Latin America and the Caribbean from South Asia",
+   "headline": "Lessons on extreme heat and informal workers from South Asia",
+   "bullets": [
+    "Reviewed literature on urban heat responses in Latin America, the Caribbean, and South Asia.",
+    "Found that resource-constrained cities can manage heat, but often miss informal workers.",
+    "Highlights that protecting informal workers requires explicit planning and worker participation."
+   ],
+   "plain": {
+    "question": "How can Latin America protect informal city workers from extreme heat using lessons from South Asia?",
+    "method": "An exploratory review of academic and other reports on urban heat responses in two regions.",
+    "finding": "Heat responses often miss informal workers unless specially designed to include them from the start.",
+    "why": "Informal workers face high heat risks due to poverty and precarious jobs, needing targeted policies."
+   },
+   "full": {
+    "explainer": "Extreme heat is becoming more frequent and dangerous, especially for people living in cities. In Latin America and the Caribbean, most people live in urban areas and over half of all workers are informally employed, meaning they lack formal job protections. To figure out how to protect these vulnerable workers, researchers looked at academic and background reports on urban heat responses in Latin America and the Caribbean compared to South Asia, which has a lot of documented experience with this issue. The review found that responses generally fall into four areas: mapping tools to see where workers are, heat action plans with early warnings, better governance to assign responsibility, and interventions to reduce heat exposure at home, on transit, and at work. The main takeaway is that even resource-constrained cities can tackle heat effectively, but policies will fail informal workers unless they are explicitly designed for them from the beginning. This needs strong political commitment, coordination across different sectors, and letting informal workers help design the solutions.",
+    "caveats": [
+     "The review relies on existing academic and grey literature without primary data collection."
+    ],
+    "jargon": [
+     {
+      "term": "informal employment",
+      "definition": "Jobs that lack formal contracts, legal protections, social security, or employee benefits."
+     },
+     {
+      "term": "grey literature",
+      "definition": "Information produced outside of traditional academic publishing, like reports or policy briefs."
+     }
+    ],
+    "fit": "Connects to Global South urban planning, heat exposure, informal settlements, and policy design for vulnerable urban populations."
+   },
+   "thesis": {
+    "why": "It links urban heat risks to informal work and governance in the Global South, directly touching on equity and planning challenges relevant to Kabul's informal areas.",
+    "action": "Check the four policy domains discussed to see if they apply to urban cooling and heat mitigation strategies.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How transferable are South Asian heat responses to other Global South contexts with different cultural or geographic constraints?",
+    "evidence": "The paper draws lessons for Latin America and the Caribbean directly from South Asia based on shared challenges of informality and poverty.",
+    "limit": "The abstract does not provide specific empirical data or a comparative quantitative evaluation of the success rates of the interventions.",
+    "check": "Verify whether the specific South Asian policies cited can be successfully adapted to semi-arid or conflict-affected cities."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.3389/phrs.2026.1610226",
+    "doi": "https://doi.org/10.3389/phrs.2026.1610226",
+    "venue": "Public health reviews",
+    "date": "2026-11-23",
+    "authors": [
+     "María Sol Saliva",
+     "Juan Manuel Menéndez",
+     "Flávia Guerra",
+     "Simone Sandholz",
+     "Antonella Risso"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7238780901",
+   "title": "Spatiotemporal evolution and driving mechanisms of ecological risks in arid zones from the perspective of ecosystem service deficits: a case study of Xinjiang, China",
+   "headline": "Ecological risks in arid Xinjiang dropped from 2000 to 2020",
+   "bullets": [
+    "Used a new risk index, machine learning, and spatial clustering in Xinjiang",
+    "Found overall risk fell, but water-grain trade-offs and risks intensified",
+    "Informs spatial risk identification and management in arid zones"
+   ],
+   "plain": {
+    "question": "How do nature benefits supply and demand imbalances drive ecological risks in dry areas?",
+    "method": "Built a new risk index using spatial grouping, computer learning, and statistical modeling.",
+    "finding": "Overall risk decreased over time, but soil and habitat risks stayed high and changed roles.",
+    "why": "Helps planners understand how land use changes and nature imbalances create environmental risks."
+   },
+   "full": {
+    "explainer": "This paper looks at how imbalances between the supply and demand of nature's benefits cause ecological risks in dry regions, using Xinjiang, China as a case study. The researchers created a new index based on these ecosystem service deficits. They combined spatial grouping, computer learning, and structural equation modeling to study risk changes from 2000 to 2020. They found that overall ecological risk slightly declined, but risks related to soil retention and habitat quality remained the biggest issues. The study also discovered trade-offs between water retention and grain production, which varied across locations. Over time, the drivers of risk changed; for example, farm land shifted from helping reduce risks to making them worse, while plant cover and water processes became more crucial. These results show how land use changes and imbalances in nature benefits affect environmental safety, offering a spatial framework for better management in dry areas.",
+    "caveats": [
+     "Study area is limited to Xinjiang, China",
+     "Focuses specifically on arid zones",
+     "Not stated: specific local urban dynamics or Kabul context"
+    ],
+    "jargon": [
+     {
+      "term": "Ecosystem services",
+      "definition": "The benefits that humans freely gain from a healthy natural environment."
+     },
+     {
+      "term": "Partial least squares structural equation modelling",
+      "definition": "A statistical method used to test complex cause-and-effect relationships among variables."
+     }
+    ],
+    "fit": "Provides a framework for assessing ecological risks, trade-offs, and land-use drivers in arid, data-scarce zones."
+   },
+   "thesis": {
+    "why": "It models ecosystem service trade-offs and drivers of ecological risk, aligning with methods for assessing spatial dynamics in dry or data-scarce environments.",
+    "action": "Check how their new risk index compares to standard InVEST outputs.",
+    "relationship": "method"
+   },
+   "critical": {
+    "question": "Does this index truly capture causal human impacts or just spatial correlations?",
+    "evidence": "The abstract mentions using partial least squares structural equation modelling and machine learning to investigate driving mechanisms.",
+    "limit": "The abstract does not detail how specific causal versus associative effects were separated for land-use drivers.",
+    "check": "Verify how the structural equation model accounted for confounding variables in land-cover change."
+   },
+   "relevance": 3,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1080/19475705.2026.2768699",
+    "doi": "https://doi.org/10.1080/19475705.2026.2768699",
+    "venue": "Geomatics Natural Hazards and Risk",
+    "date": "2026-11-23",
+    "authors": [
+     "Fanghong Han",
+     "Bin Wu",
+     "Fan Gao",
+     "Kun Liu",
+     "Zhipeng Li",
+     "Bing He"
+    ],
+    "n_authors": 7,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7239439379",
+   "title": "Community-Led Responses to Peri-Urban Customary Land Dispossession in Chipinge, Zimbabwe",
+   "headline": "Community responses to land grabs in Chipinge, Zimbabwe",
+   "bullets": [
+    "Examined community-led responses to peri-urban customary land dispossession in Chipinge.",
+    "Found that responses are sequential: formal talks, direct confrontation, and supernatural means.",
+    "Highlights the role of African cosmologies and spiritual practices in land contestations."
+   ],
+   "plain": {
+    "question": "How do communities respond when urban expansion takes away their customary land?",
+    "method": "The study used qualitative data to look at community actions in Chipinge District, Zimbabwe.",
+    "finding": "Communities use sequential steps: formal talks, direct confrontation, and spiritual practices.",
+    "why": "It shows how local people fight land grabs using unique cultural and spiritual methods."
+   },
+   "full": {
+    "explainer": "This paper looks at how local communities react when urban growth leads to the taking of customary land, focusing on the Chipinge District in eastern Zimbabwe. While land grabs are common in the global South, there is not much research on how communities respond to urban expansion taking their land in Zimbabwe. Using qualitative data, the study shows that people use a series of steps depending on what happens. First, they try formal engagement. If that fails, they move to direct confrontation. Finally, they use supernatural means. The paper highlights the strategies of the Ndau people, particularly their spiritual ChiNdau practices. The authors argue that these spiritual practices expand on known ideas like 'weapons of the weak' and 'occult economies,' showing how African cosmologies play a vital role in land disputes caused by urban growth.",
+    "caveats": [
+     "not stated"
+    ],
+    "jargon": [
+     {
+      "term": "Customary land grabs",
+      "definition": "The taking of land traditionally owned or used by local communities under customary rules."
+     },
+     {
+      "term": "ChiNdau practices",
+      "definition": "Ethnically rooted spiritual practices of the Ndau people in Chipinge."
+     },
+     {
+      "term": "Occult economies",
+      "definition": "A concept by Comaroff and Comaroff examining magical or spiritual means tied to economic struggles."
+     }
+    ],
+    "fit": "Connects to Global South urban contexts and social-ecological land contestations, though it lacks ecosystem services data."
+   },
+   "thesis": {
+    "why": "It offers insight into Global South urban expansion conflicts and community agency, which relates to social-ecological dynamics and environmental justice.",
+    "action": "Check the full paper to see if land-cover change or specific ecosystem impacts are discussed alongside social responses.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does this study link community responses to actual changes in land-cover or ecosystem service access?",
+    "evidence": "The abstract discusses the nature and outcomes of community-led responses and spiritual practices regarding land dispossession from qualitative data.",
+    "limit": "It cannot be established whether these spiritual and community-led strategies successfully altered land-cover change or protected ecosystem services.",
+    "check": "Verify if the full paper connects social responses to physical land-use outcomes or environmental planning."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1177/09562478261470671",
+    "doi": "https://doi.org/10.1177/09562478261470671",
+    "venue": "Environment and Urbanization",
+    "date": "2026-11-23",
+    "authors": [
+     "Patience Chadambuka",
+     "Tawanda Ray Bvirindi",
+     "Claris Madhuku",
+     "Gaynor Makura-Paradza",
+     "Allanviny Murozvi"
+    ],
+    "n_authors": 5,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7238483168",
+   "title": "Indigenous environment-driven rural community development for the Global South: A systematic literature review",
+   "headline": "Indigenous environment-driven rural development review",
+   "bullets": [
+    "Reviewed 11 studies using PRISMA guidelines on Indigenous rural development in the Global South.",
+    "Found that ecological conditions shape livelihoods, governance, and adaptive practices.",
+    "Advances a relational, decolonial framework as an alternative to modernisation models."
+   ],
+   "plain": {
+    "question": "How do Indigenous communities in the Global South drive development based on their environment?",
+    "method": "A systematic review screening 502 records down to 11 peer-reviewed studies using thematic analysis.",
+    "finding": "Local nature and climate shape community practices, leading to distinct environmental pathways.",
+    "why": "It offers alternatives to standard modernization approaches that often exclude local people."
+   },
+   "full": {
+    "explainer": "This paper looks at how Indigenous communities in the Global South pursue community development that relies on their local environment, challenging typical top-down modernization models. Using a structured search method called PRISMA, the authors screened hundreds of records and closely analyzed 11 peer-reviewed studies. They found that natural factors like climate, land, forests, and water heavily shape how rural communities build their livelihoods, create rules, and adapt to changes. The research organizes these ideas into three main themes: daily social-environmental experiences, environment-shaped practices, and emancipatory pathways. Ultimately, the study suggests that looking at human-environment relationships and local knowledge can offer better, more grounded alternatives to standard, universal development models in the Global South.",
+    "caveats": [
+     "Only 11 peer-reviewed studies were ultimately analyzed.",
+     "Focuses strictly on rural community development.",
+     "Not stated how specific urban or Kabul contexts are affected."
+    ],
+    "jargon": [
+     {
+      "term": "PRISMA",
+      "definition": "An evidence-based minimum set of items for reporting in systematic reviews and meta-analyses."
+     },
+     {
+      "term": "Reflexive thematic analysis",
+      "definition": "A qualitative method for identifying, analyzing, and interpreting patterns of meaning within data."
+     },
+     {
+      "term": "Decolonial",
+      "definition": "An approach that actively untangles or challenges dominant Western or colonial ways of thinking."
+     }
+    ],
+    "fit": "Connects to Global South planning contexts by exploring non-modernisation-oriented frameworks and human-environment relationships."
+   },
+   "thesis": {
+    "why": "It explores alternative development frameworks in the Global South, offering context-specific insights that contrast with universalized models.",
+    "action": "Check if the paper discusses any spatial or land-cover changes linked to Indigenous practices.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How applicable are rural Indigenous development pathways to urban or peri-urban environments?",
+    "evidence": "The abstract explicitly focuses on rural community development and does not mention urban settings or urban ecosystem services.",
+    "limit": "The abstract does not establish how these rural frameworks translate to urban planning or data-scarce cities like Kabul.",
+    "check": "Verify if the full text discusses any overlapping lessons for peri-urban or fringe areas."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1007/s13280-026-02519-3",
+    "doi": "https://doi.org/10.1007/s13280-026-02519-3",
+    "venue": "AMBIO",
+    "date": "2026-11-22",
+    "authors": [
+     "Cornelius Dudzai",
+     "Jacob Rugare Mugumbate",
+     "Lynne Keevers",
+     "Noel Garikai Muridzo"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7239388567",
+   "title": "Quantifying the filtration ecosystem services of an invasive bivalve, Arcuatula senhousia, in an anthropogenically modified estuary",
+   "headline": "Invasive mussel filters water less than native species",
+   "bullets": [
+    "Measured feeding behaviours of invasive and native mussels using experiments",
+    "Found the invasive mussel had consistently lower filtration rates",
+    "Shows invasive species may not fully replace lost natural water filtering"
+   ],
+   "plain": {
+    "question": "Can an invasive mussel replace native mussels in cleaning polluted estuarine waters?",
+    "method": "The researchers ran feeding experiments using natural water collected during incoming and outgoing tides.",
+    "finding": "The invasive mussel filtered water at much lower rates than the native mussel species.",
+    "why": "This means invasive species might not fix water pollution problems as well as hoped."
+   },
+   "full": {
+    "explainer": "Estuaries are very rich in life, but human changes and nutrient pollution threaten them. Filter-feeding bivalves, like mussels, help clean the water by removing particles and improving water quality. However, many native mussels are dying off due to human pressures and warming waters. Sometimes, invasive species move in and take their place. Scientists wanted to know if an invasive mussel, Arcuatula senhousia, could provide the same water-filtering services as a native mussel, Mytilus galloprovincialis, living on man-made structures in a modified estuary in Western Australia. The team measured how the mussels feed using water collected during different tides. They found that the invasive mussel had much lower feeding rates across all tests. Tidal phase also changed how they fed. Because the invasive mussel filters less, it cannot control algae or reduce pollution as well as the native species. The authors suggest that management must focus on stopping nutrient pollution at the source rather than relying on invasive mussels to clean the water.",
+    "caveats": [
+     "Study was limited to a specific anthropogenically modified estuary in Western Australia",
+     "Only examined artificial hard structures",
+     "Population-level assessments across the wider estuarine system are not stated as completed"
+    ],
+    "jargon": [
+     {
+      "term": "Ecosystem services",
+      "definition": "The benefits that humans freely gain from a healthy natural environment."
+     },
+     {
+      "term": "Seston",
+      "definition": "Living and non-living particles floating in the water column."
+     },
+     {
+      "term": "Eutrophication",
+      "definition": "Excessive nutrients in water causing dense plant growth and oxygen depletion."
+     },
+     {
+      "term": "Nitrification-denitrification",
+      "definition": "Microbial processes that convert nitrogen compounds in aquatic systems."
+     }
+    ],
+    "fit": "Explores ecosystem service supply by native versus invasive species in modified waters, relevant for urban aquatic ecosystem health."
+   },
+   "thesis": {
+    "why": "It tests how biological service delivery varies between species in modified habitats, which relates to evaluating ecosystem service supply.",
+    "action": "Check how the study measures service delivery versus potential.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does lower physiological feeding rate definitively prove lower ecosystem service delivery at the ecosystem scale?",
+    "evidence": "The abstract concludes that lower rates in experiments mean the species does not provide services to the same extent and limits eutrophication mitigation.",
+    "limit": "We cannot establish broader population-level impacts or whole-system water quality changes from these small-scale feeding experiments alone.",
+    "check": "Verify if the full paper scales up these individual feeding rates to the whole estuarine population."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.32582/aa.67.2.9",
+    "doi": "https://doi.org/10.32582/aa.67.2.9",
+    "venue": "Acta Adriatica",
+    "date": "2026-11-24",
+    "authors": [
+     "Lily Bilson",
+     "Eve Galimany",
+     "Montague Salt-Cowell",
+     "Alan Cottingham"
+    ],
+    "n_authors": 4,
+    "open_access": true,
+    "basis": "abstract"
+   }
   }
  ],
- "more": []
+ "more": [
+  {
+   "title": "Deforestation in the Legal Amazon and the Tocantins-Araguaia River Basin and the Loss of Ecosystem Services:…",
+   "url": "https://doi.org/10.65150/ep-jsshrs/v2e11/2026-24",
+   "venue": "Journal of Social Science and Human Research Studies",
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Urban climate dynamics in informal settlements: Spatiotemporal rainfall and temperature variability in…",
+   "url": "https://doi.org/10.1371/journal.pclm.0000871",
+   "venue": "PLOS Climate",
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Fighting Poverty in Informal Settlement Through Community Radio: Acase of Koch FM Korogocho Nairobi, Kenya",
+   "url": "https://doi.org/10.38124/ijisrt/26nov614",
+   "venue": "International Journal of Innovative Science and Research Technology (IJISRT)",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Vegetation Structural Configuration and Cultural Ecosystem Services in linpan Rural Green Spaces",
+   "url": "https://doi.org/10.59440/ceer/241652",
+   "venue": "Civil And Environmental Engineering Reports",
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Screening for Bird Conservation Priorities Under Climate and Land-Cover Change in the Yangtze River Basin",
+   "url": "https://doi.org/10.3390/d18110720",
+   "venue": "Diversity",
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Vector on the move: climate and infrastructure drive the spread of Anopheles stephensi in Kenya",
+   "url": "https://doi.org/10.3389/fmala.2026.1864261",
+   "venue": "Frontiers in Malaria",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "From Urban Greening to Ecological Accountability: A Critical Review of Biodiversity-Sensitive Urban Design",
+   "url": "https://doi.org/10.47772/ijriss.2026.101100136",
+   "venue": "International Journal of Research and Innovation in Social Science",
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Resilience assessment and differentiated management of a heat-cold island network for heat risk mitigation…",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115908",
+   "venue": "Ecological Indicators",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Developing a sustainable framework for improving service delivery in selected peri-urban areas of Zimbabwe",
+   "url": "https://doi.org/10.1007/s44327-026-00432-8",
+   "venue": "Discover Cities",
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Redefining smart citizen engagement: an integrative framework for citizen-centric urban governance",
+   "url": "https://doi.org/10.1108/rae-09-2026-0449",
+   "venue": "Revista de Administração de Empresas",
+   "date": "2026-11-25"
+  }
+ ]
 }

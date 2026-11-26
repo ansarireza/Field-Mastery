@@ -1,47 +1,41 @@
 {
- "week": "2026-W47",
+ "week": "2026-W48",
  "current": {
-  "name": "Christopher J L Murray",
+  "name": "Ashkan Afshin",
   "institution": "University of Washington, Institute for Health Metrics and Evaluation",
-  "headline": "Christopher J L Murray studies global health, epidemiology, and disease burdens.",
+  "headline": "Ashkan Afshin at University of Washington studies global health, diseases, and nutrition.",
   "known_for": [
-   "Research in global health and epidemiology",
-   "Analyzing mortality, demography, and risk management",
-   "Studying healthcare systems, public health, and disease burdens"
+   "Global health and epidemiology research",
+   "Cardiovascular health and risk factors studies",
+   "Nutritional studies and diet systems"
   ],
-  "why_follow": "Follow to understand large-scale systematic analysis of global diseases, injuries, and mortality trends across many countries.",
+  "why_follow": "Follow to understand global disease burdens, health trends, and nutritional impacts across many countries and territories.",
   "stats": {
-   "works": 910,
-   "citations": 624254,
-   "h_index": 273
+   "works": 151,
+   "citations": 192744,
+   "h_index": 77
   },
   "read_first": [
    {
     "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic…",
     "year": "2020",
-    "citations": 21756,
+    "citations": 23687,
     "url": "https://doi.org/10.1016/s0140-6736(20)30925-9",
-    "why": "It analyzes the global burden of 369 diseases and injuries across 204 countries from 1990 to 2019."
+    "why": "It is a systematic analysis of the global burden of 369 diseases and injuries."
    },
    {
-    "title": "Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis",
-    "year": "2022",
-    "citations": 18388,
-    "url": "https://doi.org/10.1016/s0140-6736(21)02724-0",
-    "why": "It provides a systematic analysis of the global burden of bacterial antimicrobial resistance in…"
-   },
-   {
-    "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and…",
-    "year": "2018",
-    "citations": 15034,
-    "url": "https://doi.org/10.1016/s0140-6736(18)32279-7",
-    "why": "It examines global, regional, and national incidence, prevalence, and disability for 354 diseases."
+    "title": "Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems",
+    "year": "2019",
+    "citations": 13920,
+    "url": "https://doi.org/10.1016/s0140-6736(18)31788-4",
+    "why": "It discusses healthy diets from sustainable food systems in the Anthropocene."
    }
   ],
-  "profile_url": "https://openalex.org/A5102733391",
+  "profile_url": "https://openalex.org/A5028948429",
   "basis": "OpenAlex data"
  },
  "featured": [
+  "A5028948429",
   "A5038584174",
   "A5061188268",
   "A5064887876",

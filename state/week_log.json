@@ -1,109 +1,4 @@
 {
- "2026-11-08": {
-  "papers": [
-   "Animal biodiversity and its role in human benefits",
-   "Mapping hunting types in South American forests over time",
-   "Biodiversity aids specific food security measures",
-   "Urban growth near Bogotá wetlands from 1998 to 2024",
-   "Conflict drives forest loss and drops ecosystem value",
-   "Tall buildings affect microclimate and open space livability",
-   "Groundwater fauna boost carbon degradation",
-   "Parasitic plants face shifts under climate change",
-   "Digital food apps reproduce urban inequality in Mexico City"
-  ],
-  "radar": [
-   "International Climate Conference COP31 Begins",
-   "Integrating Adaptation Pathways and Global Scenarios for Water Scarcity",
-   "HC seeks robust policy to deter garbage dumping in Mumbai’s slum areas",
-   "Climate Finance and Trade on COP31 Agenda",
-   "Climate Finance and Justice Take Center Stage at COP31 Antalya Summit"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Community-based natural resource management",
-   "Supervised classification"
-  ]
- },
- "2026-11-09": {
-  "papers": [
-   "Regional surplus masks urban ecosystem service deficits",
-   "A risk framework for nature's harmful contributions",
-   "Socioeconomic dimensions of sediment quality",
-   "Open defecation degrades cultural services in Ghana's forest",
-   "Urban sprawl replaces open spaces in Agroha Town",
-   "Emigrant investments reshape urban landscapes in Pakistan",
-   "News reports reveal human dimensions of water scarcity"
-  ],
-  "radar": [
-   "COP31 Climate Summit Opens in Türkiye",
-   "EU Water Sector Digitalisation Action Plan",
-   "33 Cities Commit to Climate Urban Planning Model",
-   "Draft National Restoration Plan in EU",
-   "City of Kamloops Climate Action Grants"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Total economic value framework",
-   "Isolation by distance"
-  ]
- },
- "2026-11-10": {
-  "papers": [
-   "Community fragmentation breaks climate intervention continuity",
-   "Residents in a Cape Town informal settlement read fire risks",
-   "Opportunity costs of transboundary conservation",
-   "Beijing's green spaces became net carbon positive by 2012",
-   "Co-creation turns travel experiences into planning priorities",
-   "Mixed-mode cooling cuts energy while managing heat stress",
-   "Advanced fraud detection lowers mobile money fraud in Somalia",
-   "Renewable resilience in import-dependent economies"
-  ],
-  "radar": [
-   "COP31 opens in Türkiye with focus on implementation",
-   "TU/e researchers help cities use AI for resilient climate",
-   "UNFCCC COP31: Zero waste and resilient cities for Bangladesh",
-   "Urban Green Infrastructure Requires Strategic Pathways",
-   "Cities seek to build back better after climate shocks"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Polycentric governance systems",
-   "Ecologically deficit countries"
-  ]
- },
- "2026-11-11": {
-  "papers": [
-   "Novel urban ecosystems store carbon",
-   "New framework for urban heat health risks",
-   "RiverScan helps university students improve local water governance",
-   "Urban expansion drives heat in Senegal",
-   "Reassessing Kabul water options via evidence audit",
-   "Climate extremes and growth in mountain settlements",
-   "Review of agroforestry for climate and sustainability",
-   "Policy gaps in urban greening and wellbeing",
-   "Rural and foreign capital drives urban gentrification"
-  ],
-  "radar": [
-   "Call for Applications: Global EbA Fund For MSMEs (Up to $500,000)",
-   "Youth climate fund: Tauranga among 300 cities chosen for funding",
-   "Costa Mesa Leaders Approve City’s First Climate Action Plan",
-   "COP31 opens in Türkiye with push to turn climate pledges into action",
-   "Let’s Grow partnership to create green links in Perth and Peel"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Remote sensing for land cover",
-   "land systems"
-  ]
- },
  "2026-11-12": {
   "papers": [
    "Cooling informal settlements in Chennai through nature",
@@ -399,6 +294,35 @@
   "lessons": [
    "Capabilities approach to well-being",
    "Institutional fields"
+  ]
+ },
+ "2026-11-26": {
+  "papers": [
+   "Balanced land optimization improves carbon and sediment goals",
+   "Ecosystem supply and demand mismatches in a mountain basin",
+   "GPS tracking shows Egyptian vultures rely on a landfill",
+   "Green infrastructure impacts in arid Riyadh flash floods",
+   "Lessons on extreme heat and informal workers from South Asia",
+   "Ecological risks in arid Xinjiang dropped from 2000 to 2020",
+   "Community responses to land grabs in Chipinge, Zimbabwe",
+   "Indigenous environment-driven rural development review",
+   "Invasive mussel filters water less than native species"
+  ],
+  "radar": [
+   "Governing the Southern Urban Century",
+   "C40 Cities turn yearly climate pledges into real action",
+   "EU extends waste document transition",
+   "Accessibility challenges in Chennai's parks",
+   "Pollution and policy gaps linked to cancer in Global South"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_16",
+   "natcap/invest 3.21.0",
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Additionality and leakage in PES",
+   "Alpine ibex"
   ]
  }
 }

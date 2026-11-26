@@ -1194,5 +1194,53 @@
    }
   ],
   "search": "institutional fields urban environmental governance"
+ },
+ {
+  "id": "35357fd20c",
+  "date": "2026-11-26",
+  "term": "Additionality and leakage in PES",
+  "area": "Payments for ecosystem services",
+  "kind": "concept",
+  "definition": "Additionality means payments fund new conservation that would not have happened otherwise, while leakage is the unintended displacement of environmental harm.",
+  "plain": "Additionality checks if a green project actually creates extra benefits instead of paying for things that were already going to happen. Leakage happens when protecting one area just pushes harmful building or farming into a different neighborhood or nearby hillsides.",
+  "example": "If Kabul pays to protect a hillside park, but developers simply clear a nearby peri-urban agricultural field instead, that is leakage.",
+  "connects": "It connects to governance, effectiveness of green infrastructure, and how we measure real ecological benefits versus on-paper plans.",
+  "why_phd": "Essential for your thesis to prove your proposed environmental planning interventions actually change outcomes instead of just shifting problems elsewhere.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What does additionality mean in payments for ecosystem services?",
+    "a": "It means the conservation benefits would not have occurred without the payment program."
+   },
+   {
+    "q": "How is leakage defined in this context?",
+    "a": "It is the unintended shifting of environmental harm or land-use change to another location."
+   }
+  ],
+  "search": "additionality and leakage in urban PES"
+ },
+ {
+  "id": "51b0cd5471",
+  "date": "2026-11-26",
+  "term": "Alpine ibex",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "The alpine ibex is a wild mountain goat species adapted to steep, high-altitude rocky terrain.",
+  "plain": "The topic of alpine ibex is ambiguous and not mentioned in the provided research context, which focuses on urban ecosystem services, land-cover change, and environmental planning in places like Kabul.",
+  "example": "Not stated in the context materials.",
+  "connects": "Not stated as it falls outside the core urban ecosystem services and planning framework.",
+  "why_phd": "It is not relevant to your specific research on urban environments, ecosystem services, and Kabul.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "Is the alpine ibex mentioned in the research context?",
+    "a": "No, it is not mentioned or relevant to the core urban planning context."
+   },
+   {
+    "q": "What is the alpine ibex?",
+    "a": "A wild mountain goat species adapted to steep, high-altitude terrain."
+   }
+  ],
+  "search": "alpine ibex mountain ecology"
  }
 ]

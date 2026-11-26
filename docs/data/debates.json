@@ -1,69 +1,69 @@
 {
- "week": "2026-W47",
- "index": 3,
+ "week": "2026-W48",
+ "index": 4,
  "current": {
-  "title": "Do green-blue infrastructure interventions in conflict-affected regions exacerbate environmental injustices?",
-  "question": "Do green-blue infrastructure interventions exacerbate environmental injustices?",
+  "title": "Are landscape metrics effective proxies for ecological functions in rapidly expanding informal urban areas?",
+  "question": "Are landscape metrics effective proxies for ecological functions in informal urban areas?",
   "side_a": {
-   "claim": "Not stated in the provided papers",
-   "argument": "The provided papers do not cover green-blue infrastructure interventions or environmental injustices in conflict-affected regions or Kabul.",
+   "claim": "Landscape metrics are not covered by the provided papers",
+   "argument": "not stated",
    "cites": []
   },
   "side_b": {
-   "claim": "Not stated in the provided papers",
-   "argument": "The provided literature does not contain evidence addressing whether green-blue infrastructure interventions exacerbate environmental injustices.",
+   "claim": "Landscape metrics are not covered by the provided papers",
+   "argument": "not stated",
    "cites": []
   },
-  "middle": "The provided papers do not cover this topic, so the texts offer no common ground regarding green-blue infrastructure or environmental injustices.",
-  "committee": "How can you research Kabul without relevant papers?",
+  "middle": "The provided papers do not cover landscape metrics, urban ecosystem services, or Kabul, so this debate side is not stated.",
+  "committee": "How can you debate a topic when the provided literature contains no evidence or discussion on it?",
   "sources": [
    {
     "n": 0,
-    "title": "Habitat fragmentation and its lasting impact on Earth’s ecosystems",
-    "year": "2015",
-    "url": "https://doi.org/10.1126/sciadv.1500052"
+    "title": "Local Indicators of Spatial Association—LISA",
+    "year": "1995",
+    "url": "https://doi.org/10.1111/j.1538-4632.1995.tb00338.x"
    },
    {
     "n": 1,
-    "title": "An Integrative Framework for Collaborative Governance",
-    "year": "2011",
-    "url": "https://doi.org/10.1093/jopart/mur011"
+    "title": "The Shuttle Radar Topography Mission",
+    "year": "2007",
+    "url": "https://doi.org/10.1029/2005rg000183"
    },
    {
     "n": 2,
-    "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
-    "year": "2020",
-    "url": "https://doi.org/10.1038/s41467-019-14108-y"
+    "title": "Epidemic processes in complex networks",
+    "year": "2015",
+    "url": "https://doi.org/10.1103/revmodphys.87.925"
    },
    {
     "n": 3,
-    "title": "Putting the S back in corporate social responsibility: A multilevel theory of social change in organizations",
-    "year": "2007",
-    "url": "https://doi.org/10.5465/amr.2007.25275678"
+    "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+    "year": "2019",
+    "url": "https://doi.org/10.1257/jep.33.2.3"
    },
    {
     "n": 4,
-    "title": "International Statistical Classification of Diseases and Related Health Problems",
-    "year": "2014",
-    "url": "https://doi.org/10.1215/23289252-2399740"
+    "title": "Spin Hall effects",
+    "year": "2015",
+    "url": "https://doi.org/10.1103/revmodphys.87.1213"
    },
    {
     "n": 5,
-    "title": "Trajectories of the Earth System in the Anthropocene",
-    "year": "2018",
-    "url": "https://doi.org/10.1073/pnas.1810141115"
+    "title": "The Soil and Water Assessment Tool: Historical Development, Applications, and Future Research Directions",
+    "year": "2007",
+    "url": "https://doi.org/10.13031/2013.23637"
    },
    {
     "n": 6,
-    "title": "Life’s Essential 8: Updating and Enhancing the American Heart Association’s Construct of Cardiovascular…",
-    "year": "2022",
-    "url": "https://doi.org/10.1161/cir.0000000000001078"
+    "title": "Pan-cancer analysis of whole genomes",
+    "year": "2020",
+    "url": "https://doi.org/10.1038/s41586-020-1969-6"
    },
    {
     "n": 7,
-    "title": "The IPBES Conceptual Framework — connecting nature and people",
-    "year": "2014",
-    "url": "https://doi.org/10.1016/j.cosust.2014.11.002"
+    "title": "Science and technology roadmap for graphene, related two-dimensional crystals, and hybrid systems",
+    "year": "2015",
+    "url": "https://doi.org/10.1039/c4nr01600a"
    }
   ]
  }

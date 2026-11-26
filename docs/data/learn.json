@@ -1,64 +1,64 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-26",
  "lessons": [
   {
-   "id": "2ed056f0ec",
-   "date": "2026-11-22",
-   "term": "Capabilities approach to well-being",
-   "area": "Human well-being",
-   "kind": "framework",
-   "definition": "The capabilities approach evaluates human well-being based on people's freedom to achieve valuable functionings.",
-   "plain": "Instead of just measuring income, this framework asks what people are actually able to do and be. In cities, it looks at whether residents can genuinely access benefits like green spaces, cool areas, and clean water to live a good life.",
-   "example": "In Kabul, assessing well-being means checking if families in informal settlements can physically and socially access nearby green spaces for health and relief from summer heat.",
-   "connects": "It links ecosystem service benefits directly to environmental justice and human well-being.",
-   "why_phd": "It helps you move beyond measuring ecological supply to prove how nature genuinely improves human lives in unequal cities.",
+   "id": "35357fd20c",
+   "date": "2026-11-26",
+   "term": "Additionality and leakage in PES",
+   "area": "Payments for ecosystem services",
+   "kind": "concept",
+   "definition": "Additionality means payments fund new conservation that would not have happened otherwise, while leakage is the unintended displacement of environmental harm.",
+   "plain": "Additionality checks if a green project actually creates extra benefits instead of paying for things that were already going to happen. Leakage happens when protecting one area just pushes harmful building or farming into a different neighborhood or nearby hillsides.",
+   "example": "If Kabul pays to protect a hillside park, but developers simply clear a nearby peri-urban agricultural field instead, that is leakage.",
+   "connects": "It connects to governance, effectiveness of green infrastructure, and how we measure real ecological benefits versus on-paper plans.",
+   "why_phd": "Essential for your thesis to prove your proposed environmental planning interventions actually change outcomes instead of just shifting problems elsewhere.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does the capabilities approach focus on?",
-     "a": "What people are actually able to do and be, rather than just material resources."
+     "q": "What does additionality mean in payments for ecosystem services?",
+     "a": "It means the conservation benefits would not have occurred without the payment program."
     },
     {
-     "q": "How does it apply to urban ecosystem services?",
-     "a": "It evaluates whether people can genuinely access and benefit from services like urban nature."
+     "q": "How is leakage defined in this context?",
+     "a": "It is the unintended shifting of environmental harm or land-use change to another location."
     }
    ],
-   "search": "capabilities approach urban well-being"
+   "search": "additionality and leakage in urban PES"
   },
   {
-   "id": "d5ee94b8ec",
-   "date": "2026-11-22",
-   "term": "Institutional fields",
+   "id": "51b0cd5471",
+   "date": "2026-11-26",
+   "term": "Alpine ibex",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Institutional fields are shared rule systems, norms, and organizations that shape behavior in a specific social domain.",
-   "plain": "Institutional fields are the unwritten rules, laws, and organizations that guide how people and groups act in a city. In environmental planning, they determine who has the power to manage land, build homes, or protect green spaces.",
-   "example": "In Kabul, formal municipal laws mix with informal community councils to govern land use and hillside building.",
-   "connects": "It links governance and environmental justice to urban development and green space access.",
-   "why_phd": "Crucial for understanding why green-blue infrastructure plans succeed or fail due to competing rules and authorities.",
+   "definition": "The alpine ibex is a wild mountain goat species adapted to steep, high-altitude rocky terrain.",
+   "plain": "The topic of alpine ibex is ambiguous and not mentioned in the provided research context, which focuses on urban ecosystem services, land-cover change, and environmental planning in places like Kabul.",
+   "example": "Not stated in the context materials.",
+   "connects": "Not stated as it falls outside the core urban ecosystem services and planning framework.",
+   "why_phd": "It is not relevant to your specific research on urban environments, ecosystem services, and Kabul.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What do institutional fields include?",
-     "a": "Shared rules, norms, and organizations shaping behavior."
+     "q": "Is the alpine ibex mentioned in the research context?",
+     "a": "No, it is not mentioned or relevant to the core urban planning context."
     },
     {
-     "q": "Why matter for Kabul research?",
-     "a": "They explain how formal laws and informal practices shape land use."
+     "q": "What is the alpine ibex?",
+     "a": "A wild mountain goat species adapted to steep, high-altitude terrain."
     }
    ],
-   "search": "institutional fields urban environmental governance"
+   "search": "alpine ibex mountain ecology"
   }
  ],
- "total_learned": 50,
+ "total_learned": 52,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Additionality and leakage in PES",
    "Extractivism and agrarian change",
    "Relational values of nature",
    "Mainstreaming biodiversity in policy",
-   "Panaceas and institutional diversity"
+   "Panaceas and institutional diversity",
+   "Common pool resource management"
   ],
   "stages": [
    "Foundation: understand concepts",

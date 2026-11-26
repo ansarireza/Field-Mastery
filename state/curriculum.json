@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Additionality and leakage in PES",
-   "area": "Payments for ecosystem services",
-   "kind": "concept"
-  },
-  {
    "term": "Extractivism and agrarian change",
    "area": "Global South development",
    "kind": "classic_idea"
@@ -131,6 +126,8 @@
   "Spatial econometric land models",
   "ecosystem condition",
   "Capabilities approach to well-being",
-  "Institutional fields"
+  "Institutional fields",
+  "Additionality and leakage in PES",
+  "Alpine ibex"
  ]
 }

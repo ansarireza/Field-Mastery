@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22",
+ "generated_at": "2026-11-26",
  "field": "Investigating urban ecosystem services, land-cover change, and environmental planning in the Global South with a focus on Kabul.",
  "sample": false,
  "errors": {},
@@ -7,37 +7,37 @@
  "status": {
   "today": {
    "state": "ready",
-   "date": "2026-11-22",
+   "date": "2026-11-26",
    "error": null
   },
   "radar": {
    "state": "ready",
-   "date": "2026-11-22",
+   "date": "2026-11-26",
    "error": null
   },
   "tools": {
    "state": "ready",
-   "date": "2026-11-22",
+   "date": "2026-11-26",
    "error": null
   },
   "learn": {
    "state": "ready",
-   "date": "2026-11-22",
+   "date": "2026-11-26",
    "error": null
   },
   "people": {
    "state": "ready",
-   "date": "2026-W47",
+   "date": "2026-W48",
    "error": null
   },
   "debates": {
    "state": "ready",
-   "date": "2026-W47",
+   "date": "2026-W48",
    "error": null
   },
   "defense": {
    "state": "ready",
-   "date": "2026-11-22",
+   "date": "2026-11-26",
    "error": null
   },
   "weekly": {
@@ -52,7 +52,7 @@
   },
   "map": {
    "state": "ready",
-   "date": "2026-11-22",
+   "date": "2026-11-26",
    "error": null
   }
  },

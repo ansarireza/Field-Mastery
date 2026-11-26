@@ -128,6 +128,606 @@
   }
  },
  {
+  "id": "W7239748249",
+  "title": "Ranging Behavior of Resident Egyptian Vultures (Neophron percnopterus) in Relation to Anthropogenic Waste Disposal Sites and Territoriality",
+  "headline": "GPS tracking shows Egyptian vultures rely on a landfill",
+  "bullets": [
+   "Tracked 16 resident Egyptian vultures with GPS in northern Oman.",
+   "Found that a single landfill serves as the main feeding core for all tracked birds.",
+   "Highlights the need to manage predictable food sources for species conservation."
+  ],
+  "plain": {
+   "question": "How do resident scavenging birds use space in heavily human-altered landscapes?",
+   "method": "We tracked the movement patterns and landfill use of 16 individual vultures using GPS data.",
+   "finding": "Territorial adults had smaller home ranges, and a specific landfill was the main feeding core for all birds.",
+   "why": "It shows that predictable food sources shape bird movements, which helps plan their conservation."
+  },
+  "full": {
+   "explainer": "Understanding how wide-ranging scavengers use space in human-modified landscapes is vital for keeping them safe. While many studies look at migrating populations, detailed information on resident populations is scarce. Researchers used GPS tracking to study the movement patterns and landfill use of 16 Egyptian vultures in northern Oman. The tagged birds traveled widely across the landscape. Territorial adults showed smaller home ranges and more winding movements than non-territorial birds, with clear seasonal changes. For all tracked birds, a specific site called the Al-Multaqa landfill was the main feeding core. Territorial adults visited this landfill on more than half of the days they were tracked. Visits were more frequent and lasted longer during the non-breeding season, and decreased the further the birds were from their breeding territories. Overall, resident Egyptian vultures varied their space use and foraging depending on territoriality, breeding duties, and predictable food sources.",
+   "caveats": [
+    "Study is limited to resident Egyptian vultures in northern Oman.",
+    "Only 16 individuals were tracked using GPS data."
+   ],
+   "jargon": [
+    {
+     "term": "area de campeo",
+     "definition": "Home range; the geographic area an animal uses to find food, mates, and shelter."
+    },
+    {
+     "term": "Neophron percnopterus",
+     "definition": "The scientific name for the Egyptian vulture, a globally threatened scavenging bird."
+    }
+   ],
+   "fit": "Connects to habitat quality and human-altered landscapes, though it focuses on wildlife rather than Kabul's urban ecosystem services."
+  },
+  "thesis": {
+   "why": "It touches on human-altered landscapes and habitat quality, but focuses on animal behavior rather than urban ecosystem services or planning in Kabul.",
+   "action": "Check if the full paper's spatial tracking methods can be adapted for urban habitat quality assessments.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How does reliance on a single anthropogenic waste site affect long-term population viability?",
+   "evidence": "The abstract notes that the Al-Multaqa landfill constituted the principal feeding core for all individuals followed and was visited frequently.",
+   "limit": "The abstract does not establish the overall health impacts or population-level survival rates linked to landfill consumption.",
+   "check": "Verify if the full paper discusses health risks or disease transmission from relying on anthropogenic waste sites."
+  },
+  "relevance": 2,
+  "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
+  "source": {
+   "url": "https://doi.org/10.3356/jrr26035",
+   "doi": "https://doi.org/10.3356/jrr26035",
+   "venue": "Journal of Raptor Research",
+   "date": "2026-11-25",
+   "authors": [
+    "Michael McGrady",
+    "Volen S. Arkumarev",
+    "Zahran Abdulsalaam",
+    "Waheed Abdullah Al-Fazari",
+    "Bernd‐Ulrich Meyburg"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7239408431",
+  "title": "Toward ecosystem service supply–demand coordination: Spatial mismatch diagnosis and driving mechanisms in the Dadu River basin",
+  "headline": "Ecosystem supply and demand mismatches in a mountain basin",
+  "bullets": [
+   "Used an integrated framework to assess ecosystem service supply, demand, and spatial matching.",
+   "Found that high-supply areas were in high mountains, while high-demand centers were in valleys.",
+   "Shows that improving supply alone fails to fix spatial mismatches between nature and people."
+  ],
+  "plain": {
+   "question": "How do nature's benefits match what people need in a complex mountain area?",
+   "method": "They measured nature's supply and human demand, spatial matching, and machine learning to find key drivers.",
+   "finding": "Nature supply grew from 2000 to 2020 while demand stayed steady, but mismatched areas were common.",
+   "why": "It helps plan better ecological management by showing where nature supply and human needs do not align."
+  },
+  "full": {
+   "explainer": "Researchers looked at how nature's benefits—called ecosystem services—supply and demand match up in the Dadu River Basin, a mountainous area with complex human and natural interactions. They created an integrated framework combining supply and demand assessments, spatial matching, scale optimization, and machine learning to see how things changed between 2000 and 2020. They found that nature's supply increased over time, while human demand stayed mostly stable. Spatially, areas that provided high supplies of nature's benefits were mostly found in high-elevation mountains with healthy ecosystems, whereas places with high human demand clustered in valley zones. Even though the basin overall had more supply than demand, areas with low supply and high demand—or high supply and low demand—covered most of the region. The study also discovered that land use, vegetation greenness, economic output, and temperature heavily influence these patterns. Crucially, just increasing vegetation did not always improve coordination because supply regions and demand hotspots remain spatially separated.",
+   "caveats": [
+    "The abstract does not state specific future climate scenarios tested.",
+    "Not stated whether findings directly apply to urbanized lowland settings."
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem service supply-demand",
+     "definition": "The balance between what nature provides and what humans use or require."
+    },
+    {
+     "term": "Spatial mismatch",
+     "definition": "When areas producing nature's benefits do not align geographically with where people need them."
+    },
+    {
+     "term": "Coupling coordination degree",
+     "definition": "A measure of how well interacting systems, like nature and human demand, work together."
+    }
+   ],
+   "fit": "Provides methods for spatial matching, scale optimization, and driving mechanisms relevant to analyzing ecosystem service mismatches."
+  },
+  "thesis": {
+   "why": "It demonstrates a framework for diagnosing spatial mismatches between ecosystem service supply and demand, informing spatial modeling and planning.",
+   "action": "Check their machine learning approach and scale optimization methods for potential use in spatial analysis.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Can findings from a mountainous river basin be reliably transferred to data-scarce urban or semi-arid environments?",
+   "evidence": "The study focuses specifically on a mountainous watershed with strong environmental gradients like the Dadu River Basin.",
+   "limit": "The abstract does not provide evidence of how these mountainous framework dynamics translate to urban or conflict-affected settings.",
+   "check": "Verify if the scale optimization and machine learning variables used are adaptable to urban land-cover change studies."
+  },
+  "relevance": 3,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115907",
+   "doi": "https://doi.org/10.1016/j.ecolind.2026.115907",
+   "venue": "Ecological Indicators",
+   "date": "2026-11-24",
+   "authors": [
+    "Ziqin Wang",
+    "李景吉 LI Jingji",
+    "Yanguo Liu",
+    "Binni Xu",
+    "Zhiyuan Fu",
+    "张廷斌 ZHANG Tingbin"
+   ],
+   "n_authors": 6,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7239389563",
+  "title": "Adaptive green infrastructure planning under arid flash-flood regimes: Evidence from Riyadh, Saudi Arabia",
+  "headline": "Green infrastructure impacts in arid Riyadh flash floods",
+  "bullets": [
+   "Used Hydro-XAI workflow in four Riyadh watersheds for floods",
+   "Terrain features dominated, and vegetation altered water flow",
+   "Informs watershed-scale green infrastructure planning"
+  ],
+  "plain": {
+   "question": "How does green infrastructure perform in dry cities facing intense flash floods?",
+   "method": "Built a computer model combining flood simulation and machine learning for four watersheds in Riyadh.",
+   "finding": "Terrain matters most, and vegetation changes how water moves and stores in floods.",
+   "why": "Helps planners choose the right green solutions for managing stormwater in dry, flood-prone cities."
+  },
+  "full": {
+   "explainer": "This paper looks at how green infrastructure performs in dry cities that experience short and intense flash floods. The researchers created a computer workflow that combines flood simulations with machine learning to study four urban watersheds in Riyadh, Saudi Arabia. They checked their flood models using news reports and tested how well the models worked across different watersheds. Their results show that terrain features like low ground and closeness to natural water channels are the most important signals for predicting flood risks. Vegetation changes water flow by affecting depth, speed, and storage, though all tested green surfaces still produced runoff after initial heavy rain. Based on these findings, the authors suggest specific planning strategies for different parts of the watershed, such as preserving water paths, creating flood detention areas, and using retrofitted green-gray infrastructure.",
+   "caveats": [
+    "Performance boundaries remain poorly specified in arid cities.",
+    "All tested green surfaces generated modeled runoff after initial abstraction."
+   ],
+   "jargon": [
+    {
+     "term": "Hydro-XAI",
+     "definition": "A workflow combining flood physics simulations with explainable machine learning."
+    },
+    {
+     "term": "Shapley additive explanations",
+     "definition": "A method to explain the output of machine learning models by showing feature importance."
+    },
+    {
+     "term": "Initial abstraction",
+     "definition": "Loss of water before surface runoff begins, such as through depression storage or infiltration."
+    }
+   ],
+   "fit": "Provides methodological insights on stormwater runoff retention and scenario planning for semi-arid environments."
+  },
+  "thesis": {
+   "why": "It connects stormwater runoff retention, scenario comparison, and spatial modeling in an arid urban setting, linking to the student's focus on semi-arid environmental planning.",
+   "action": "Check how they performed cross-watershed transferability and spatial block validation for method ideas.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does connected green space genuinely increase flood susceptibility, or is it just co-located with low-lying terrain?",
+   "evidence": "The abstract states that in W3, connected green space was associated with higher susceptibility mainly where it coincided with low terrain and wadi proximity.",
+   "limit": "It cannot be established whether the green space caused the higher susceptibility or if it was merely situated in naturally prone low areas.",
+   "check": "Verify how the study separates the causal effect of vegetation placement from underlying topographic flood susceptibility."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1016/j.landurbplan.2026.105844",
+   "doi": "https://doi.org/10.1016/j.landurbplan.2026.105844",
+   "venue": "Landscape and Urban Planning",
+   "date": "2026-11-24",
+   "authors": [
+    "Zheng Cong",
+    "Mirza Waleed",
+    "Furqan Tahir",
+    "Sami G. Al‐Ghamdi"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7239388567",
+  "title": "Quantifying the filtration ecosystem services of an invasive bivalve, Arcuatula senhousia, in an anthropogenically modified estuary",
+  "headline": "Invasive mussel filters water less than native species",
+  "bullets": [
+   "Measured feeding behaviours of invasive and native mussels using experiments",
+   "Found the invasive mussel had consistently lower filtration rates",
+   "Shows invasive species may not fully replace lost natural water filtering"
+  ],
+  "plain": {
+   "question": "Can an invasive mussel replace native mussels in cleaning polluted estuarine waters?",
+   "method": "The researchers ran feeding experiments using natural water collected during incoming and outgoing tides.",
+   "finding": "The invasive mussel filtered water at much lower rates than the native mussel species.",
+   "why": "This means invasive species might not fix water pollution problems as well as hoped."
+  },
+  "full": {
+   "explainer": "Estuaries are very rich in life, but human changes and nutrient pollution threaten them. Filter-feeding bivalves, like mussels, help clean the water by removing particles and improving water quality. However, many native mussels are dying off due to human pressures and warming waters. Sometimes, invasive species move in and take their place. Scientists wanted to know if an invasive mussel, Arcuatula senhousia, could provide the same water-filtering services as a native mussel, Mytilus galloprovincialis, living on man-made structures in a modified estuary in Western Australia. The team measured how the mussels feed using water collected during different tides. They found that the invasive mussel had much lower feeding rates across all tests. Tidal phase also changed how they fed. Because the invasive mussel filters less, it cannot control algae or reduce pollution as well as the native species. The authors suggest that management must focus on stopping nutrient pollution at the source rather than relying on invasive mussels to clean the water.",
+   "caveats": [
+    "Study was limited to a specific anthropogenically modified estuary in Western Australia",
+    "Only examined artificial hard structures",
+    "Population-level assessments across the wider estuarine system are not stated as completed"
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem services",
+     "definition": "The benefits that humans freely gain from a healthy natural environment."
+    },
+    {
+     "term": "Seston",
+     "definition": "Living and non-living particles floating in the water column."
+    },
+    {
+     "term": "Eutrophication",
+     "definition": "Excessive nutrients in water causing dense plant growth and oxygen depletion."
+    },
+    {
+     "term": "Nitrification-denitrification",
+     "definition": "Microbial processes that convert nitrogen compounds in aquatic systems."
+    }
+   ],
+   "fit": "Explores ecosystem service supply by native versus invasive species in modified waters, relevant for urban aquatic ecosystem health."
+  },
+  "thesis": {
+   "why": "It tests how biological service delivery varies between species in modified habitats, which relates to evaluating ecosystem service supply.",
+   "action": "Check how the study measures service delivery versus potential.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does lower physiological feeding rate definitively prove lower ecosystem service delivery at the ecosystem scale?",
+   "evidence": "The abstract concludes that lower rates in experiments mean the species does not provide services to the same extent and limits eutrophication mitigation.",
+   "limit": "We cannot establish broader population-level impacts or whole-system water quality changes from these small-scale feeding experiments alone.",
+   "check": "Verify if the full paper scales up these individual feeding rates to the whole estuarine population."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.32582/aa.67.2.9",
+   "doi": "https://doi.org/10.32582/aa.67.2.9",
+   "venue": "Acta Adriatica",
+   "date": "2026-11-24",
+   "authors": [
+    "Lily Bilson",
+    "Eve Galimany",
+    "Montague Salt-Cowell",
+    "Alan Cottingham"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7238790326",
+  "title": "Extreme heat and informal urban workers’ health – lessons for Latin America and the Caribbean from South Asia",
+  "headline": "Lessons on extreme heat and informal workers from South Asia",
+  "bullets": [
+   "Reviewed literature on urban heat responses in Latin America, the Caribbean, and South Asia.",
+   "Found that resource-constrained cities can manage heat, but often miss informal workers.",
+   "Highlights that protecting informal workers requires explicit planning and worker participation."
+  ],
+  "plain": {
+   "question": "How can Latin America protect informal city workers from extreme heat using lessons from South Asia?",
+   "method": "An exploratory review of academic and other reports on urban heat responses in two regions.",
+   "finding": "Heat responses often miss informal workers unless specially designed to include them from the start.",
+   "why": "Informal workers face high heat risks due to poverty and precarious jobs, needing targeted policies."
+  },
+  "full": {
+   "explainer": "Extreme heat is becoming more frequent and dangerous, especially for people living in cities. In Latin America and the Caribbean, most people live in urban areas and over half of all workers are informally employed, meaning they lack formal job protections. To figure out how to protect these vulnerable workers, researchers looked at academic and background reports on urban heat responses in Latin America and the Caribbean compared to South Asia, which has a lot of documented experience with this issue. The review found that responses generally fall into four areas: mapping tools to see where workers are, heat action plans with early warnings, better governance to assign responsibility, and interventions to reduce heat exposure at home, on transit, and at work. The main takeaway is that even resource-constrained cities can tackle heat effectively, but policies will fail informal workers unless they are explicitly designed for them from the beginning. This needs strong political commitment, coordination across different sectors, and letting informal workers help design the solutions.",
+   "caveats": [
+    "The review relies on existing academic and grey literature without primary data collection."
+   ],
+   "jargon": [
+    {
+     "term": "informal employment",
+     "definition": "Jobs that lack formal contracts, legal protections, social security, or employee benefits."
+    },
+    {
+     "term": "grey literature",
+     "definition": "Information produced outside of traditional academic publishing, like reports or policy briefs."
+    }
+   ],
+   "fit": "Connects to Global South urban planning, heat exposure, informal settlements, and policy design for vulnerable urban populations."
+  },
+  "thesis": {
+   "why": "It links urban heat risks to informal work and governance in the Global South, directly touching on equity and planning challenges relevant to Kabul's informal areas.",
+   "action": "Check the four policy domains discussed to see if they apply to urban cooling and heat mitigation strategies.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How transferable are South Asian heat responses to other Global South contexts with different cultural or geographic constraints?",
+   "evidence": "The paper draws lessons for Latin America and the Caribbean directly from South Asia based on shared challenges of informality and poverty.",
+   "limit": "The abstract does not provide specific empirical data or a comparative quantitative evaluation of the success rates of the interventions.",
+   "check": "Verify whether the specific South Asian policies cited can be successfully adapted to semi-arid or conflict-affected cities."
+  },
+  "relevance": 4,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.3389/phrs.2026.1610226",
+   "doi": "https://doi.org/10.3389/phrs.2026.1610226",
+   "venue": "Public health reviews",
+   "date": "2026-11-23",
+   "authors": [
+    "María Sol Saliva",
+    "Juan Manuel Menéndez",
+    "Flávia Guerra",
+    "Simone Sandholz",
+    "Antonella Risso"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7238780901",
+  "title": "Spatiotemporal evolution and driving mechanisms of ecological risks in arid zones from the perspective of ecosystem service deficits: a case study of Xinjiang, China",
+  "headline": "Ecological risks in arid Xinjiang dropped from 2000 to 2020",
+  "bullets": [
+   "Used a new risk index, machine learning, and spatial clustering in Xinjiang",
+   "Found overall risk fell, but water-grain trade-offs and risks intensified",
+   "Informs spatial risk identification and management in arid zones"
+  ],
+  "plain": {
+   "question": "How do nature benefits supply and demand imbalances drive ecological risks in dry areas?",
+   "method": "Built a new risk index using spatial grouping, computer learning, and statistical modeling.",
+   "finding": "Overall risk decreased over time, but soil and habitat risks stayed high and changed roles.",
+   "why": "Helps planners understand how land use changes and nature imbalances create environmental risks."
+  },
+  "full": {
+   "explainer": "This paper looks at how imbalances between the supply and demand of nature's benefits cause ecological risks in dry regions, using Xinjiang, China as a case study. The researchers created a new index based on these ecosystem service deficits. They combined spatial grouping, computer learning, and structural equation modeling to study risk changes from 2000 to 2020. They found that overall ecological risk slightly declined, but risks related to soil retention and habitat quality remained the biggest issues. The study also discovered trade-offs between water retention and grain production, which varied across locations. Over time, the drivers of risk changed; for example, farm land shifted from helping reduce risks to making them worse, while plant cover and water processes became more crucial. These results show how land use changes and imbalances in nature benefits affect environmental safety, offering a spatial framework for better management in dry areas.",
+   "caveats": [
+    "Study area is limited to Xinjiang, China",
+    "Focuses specifically on arid zones",
+    "Not stated: specific local urban dynamics or Kabul context"
+   ],
+   "jargon": [
+    {
+     "term": "Ecosystem services",
+     "definition": "The benefits that humans freely gain from a healthy natural environment."
+    },
+    {
+     "term": "Partial least squares structural equation modelling",
+     "definition": "A statistical method used to test complex cause-and-effect relationships among variables."
+    }
+   ],
+   "fit": "Provides a framework for assessing ecological risks, trade-offs, and land-use drivers in arid, data-scarce zones."
+  },
+  "thesis": {
+   "why": "It models ecosystem service trade-offs and drivers of ecological risk, aligning with methods for assessing spatial dynamics in dry or data-scarce environments.",
+   "action": "Check how their new risk index compares to standard InVEST outputs.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "Does this index truly capture causal human impacts or just spatial correlations?",
+   "evidence": "The abstract mentions using partial least squares structural equation modelling and machine learning to investigate driving mechanisms.",
+   "limit": "The abstract does not detail how specific causal versus associative effects were separated for land-use drivers.",
+   "check": "Verify how the structural equation model accounted for confounding variables in land-cover change."
+  },
+  "relevance": 3,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1080/19475705.2026.2768699",
+   "doi": "https://doi.org/10.1080/19475705.2026.2768699",
+   "venue": "Geomatics Natural Hazards and Risk",
+   "date": "2026-11-23",
+   "authors": [
+    "Fanghong Han",
+    "Bin Wu",
+    "Fan Gao",
+    "Kun Liu",
+    "Zhipeng Li",
+    "Bing He"
+   ],
+   "n_authors": 7,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7239439379",
+  "title": "Community-Led Responses to Peri-Urban Customary Land Dispossession in Chipinge, Zimbabwe",
+  "headline": "Community responses to land grabs in Chipinge, Zimbabwe",
+  "bullets": [
+   "Examined community-led responses to peri-urban customary land dispossession in Chipinge.",
+   "Found that responses are sequential: formal talks, direct confrontation, and supernatural means.",
+   "Highlights the role of African cosmologies and spiritual practices in land contestations."
+  ],
+  "plain": {
+   "question": "How do communities respond when urban expansion takes away their customary land?",
+   "method": "The study used qualitative data to look at community actions in Chipinge District, Zimbabwe.",
+   "finding": "Communities use sequential steps: formal talks, direct confrontation, and spiritual practices.",
+   "why": "It shows how local people fight land grabs using unique cultural and spiritual methods."
+  },
+  "full": {
+   "explainer": "This paper looks at how local communities react when urban growth leads to the taking of customary land, focusing on the Chipinge District in eastern Zimbabwe. While land grabs are common in the global South, there is not much research on how communities respond to urban expansion taking their land in Zimbabwe. Using qualitative data, the study shows that people use a series of steps depending on what happens. First, they try formal engagement. If that fails, they move to direct confrontation. Finally, they use supernatural means. The paper highlights the strategies of the Ndau people, particularly their spiritual ChiNdau practices. The authors argue that these spiritual practices expand on known ideas like 'weapons of the weak' and 'occult economies,' showing how African cosmologies play a vital role in land disputes caused by urban growth.",
+   "caveats": [
+    "not stated"
+   ],
+   "jargon": [
+    {
+     "term": "Customary land grabs",
+     "definition": "The taking of land traditionally owned or used by local communities under customary rules."
+    },
+    {
+     "term": "ChiNdau practices",
+     "definition": "Ethnically rooted spiritual practices of the Ndau people in Chipinge."
+    },
+    {
+     "term": "Occult economies",
+     "definition": "A concept by Comaroff and Comaroff examining magical or spiritual means tied to economic struggles."
+    }
+   ],
+   "fit": "Connects to Global South urban contexts and social-ecological land contestations, though it lacks ecosystem services data."
+  },
+  "thesis": {
+   "why": "It offers insight into Global South urban expansion conflicts and community agency, which relates to social-ecological dynamics and environmental justice.",
+   "action": "Check the full paper to see if land-cover change or specific ecosystem impacts are discussed alongside social responses.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "Does this study link community responses to actual changes in land-cover or ecosystem service access?",
+   "evidence": "The abstract discusses the nature and outcomes of community-led responses and spiritual practices regarding land dispossession from qualitative data.",
+   "limit": "It cannot be established whether these spiritual and community-led strategies successfully altered land-cover change or protected ecosystem services.",
+   "check": "Verify if the full paper connects social responses to physical land-use outcomes or environmental planning."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1177/09562478261470671",
+   "doi": "https://doi.org/10.1177/09562478261470671",
+   "venue": "Environment and Urbanization",
+   "date": "2026-11-23",
+   "authors": [
+    "Patience Chadambuka",
+    "Tawanda Ray Bvirindi",
+    "Claris Madhuku",
+    "Gaynor Makura-Paradza",
+    "Allanviny Murozvi"
+   ],
+   "n_authors": 5,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7238834214",
+  "title": "Integrated Ecosystem Service Assessment and Land-Use Optimization Using InVEST, NSGA-II and FLUS",
+  "headline": "Balanced land optimization improves carbon and sediment goals",
+  "bullets": [
+   "Combined InVEST, NSGA-II, and FLUS models to optimize land use for restoration.",
+   "Found balanced scenario achieved highest carbon storage and lowest sediment export.",
+   "Proves demand, allocation, and ecological reassessment must be reported separately."
+  ],
+  "plain": {
+   "question": "How to improve nature's benefits while limiting changes to the land?",
+   "method": "Used computer models to test different land-use choices and future changes.",
+   "finding": "A balanced plan gave the best carbon storage and lowest sediment loss.",
+   "why": "Helps planners balance ecological goals with land adjustment limits."
+  },
+  "full": {
+   "explainer": "The study looks at how to restore alpine headwater regions while keeping land changes as low as possible. The researchers created a connected framework using InVEST, NSGA-II, and FLUS models for the upper Yellow River in Gannan, China. They checked historical ecosystem services like water yield, sediment export, and carbon storage from 2018 to 2025 using a shared grid. Water yield and carbon storage increased over time, while sediment export went up and then dropped. They tested different paths based on ecology priority, cost priority, and a balanced approach. After allocating these pathways, they reassessed the results with a fixed climate. The natural development choice kept the highest water yield, but the balanced plan achieved the highest carbon storage and lowest sediment export. The results show that optimized totals are not always exactly realized on the map, meaning that demand, spatial allocation, and ecological reassessment need to be reported separately.",
+   "caveats": [
+    "Optimized class totals were not exactly realized on the final map.",
+    "Results rely on the specified model assumptions and a fixed 2025 climate."
+   ],
+   "jargon": [
+    {
+     "term": "InVEST",
+     "definition": "Software models used to map and value the goods and services from nature."
+    },
+    {
+     "term": "NSGA-II",
+     "definition": "An algorithm used to find solutions for problems with multiple conflicting goals."
+    },
+    {
+     "term": "FLUS",
+     "definition": "A cellular automaton model used for simulating land-use changes and spatial allocation."
+    },
+    {
+     "term": "Sediment export",
+     "definition": "The amount of soil and eroded material washed out of a watershed."
+    }
+   ],
+   "fit": "Demonstrates multi-model integration, scenario comparison, and spatial allocation methods useful for environmental planning."
+  },
+  "thesis": {
+   "why": "It uses scenario comparison and spatial modelling frameworks that match the student's methodological interests in environmental planning.",
+   "action": "Check how they linked InVEST outputs with NSGA-II and FLUS for optimization.",
+   "relationship": "method"
+  },
+  "critical": {
+   "question": "How do we know the optimized land adjustments reflect actual physical changes rather than mathematical artifacts?",
+   "evidence": "The abstract notes that the largest class-demand residual was 247 nominal 1 km cells, showing optimized totals were not exactly realized.",
+   "limit": "The abstract does not state how local stakeholders or on-the-ground constraints affected the actual land adjustments.",
+   "check": "Verify how the FLUS allocation algorithm handled the gap between optimized class totals and realized grid cells."
+  },
+  "relevance": 4,
+  "watch": "Cites your reference doi:10.1073/pnas.0907284107",
+  "source": {
+   "url": "https://doi.org/10.3390/su182311865",
+   "doi": "https://doi.org/10.3390/su182311865",
+   "venue": "Sustainability",
+   "date": "2026-11-22",
+   "authors": [
+    "Peng Wang",
+    "Wendong Li",
+    "Yannan Kang",
+    "Xingping Zhao",
+    "Mingyuan Geng",
+    "Yanan JIANG"
+   ],
+   "n_authors": 6,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
+  "id": "W7238483168",
+  "title": "Indigenous environment-driven rural community development for the Global South: A systematic literature review",
+  "headline": "Indigenous environment-driven rural development review",
+  "bullets": [
+   "Reviewed 11 studies using PRISMA guidelines on Indigenous rural development in the Global South.",
+   "Found that ecological conditions shape livelihoods, governance, and adaptive practices.",
+   "Advances a relational, decolonial framework as an alternative to modernisation models."
+  ],
+  "plain": {
+   "question": "How do Indigenous communities in the Global South drive development based on their environment?",
+   "method": "A systematic review screening 502 records down to 11 peer-reviewed studies using thematic analysis.",
+   "finding": "Local nature and climate shape community practices, leading to distinct environmental pathways.",
+   "why": "It offers alternatives to standard modernization approaches that often exclude local people."
+  },
+  "full": {
+   "explainer": "This paper looks at how Indigenous communities in the Global South pursue community development that relies on their local environment, challenging typical top-down modernization models. Using a structured search method called PRISMA, the authors screened hundreds of records and closely analyzed 11 peer-reviewed studies. They found that natural factors like climate, land, forests, and water heavily shape how rural communities build their livelihoods, create rules, and adapt to changes. The research organizes these ideas into three main themes: daily social-environmental experiences, environment-shaped practices, and emancipatory pathways. Ultimately, the study suggests that looking at human-environment relationships and local knowledge can offer better, more grounded alternatives to standard, universal development models in the Global South.",
+   "caveats": [
+    "Only 11 peer-reviewed studies were ultimately analyzed.",
+    "Focuses strictly on rural community development.",
+    "Not stated how specific urban or Kabul contexts are affected."
+   ],
+   "jargon": [
+    {
+     "term": "PRISMA",
+     "definition": "An evidence-based minimum set of items for reporting in systematic reviews and meta-analyses."
+    },
+    {
+     "term": "Reflexive thematic analysis",
+     "definition": "A qualitative method for identifying, analyzing, and interpreting patterns of meaning within data."
+    },
+    {
+     "term": "Decolonial",
+     "definition": "An approach that actively untangles or challenges dominant Western or colonial ways of thinking."
+    }
+   ],
+   "fit": "Connects to Global South planning contexts by exploring non-modernisation-oriented frameworks and human-environment relationships."
+  },
+  "thesis": {
+   "why": "It explores alternative development frameworks in the Global South, offering context-specific insights that contrast with universalized models.",
+   "action": "Check if the paper discusses any spatial or land-cover changes linked to Indigenous practices.",
+   "relationship": "context"
+  },
+  "critical": {
+   "question": "How applicable are rural Indigenous development pathways to urban or peri-urban environments?",
+   "evidence": "The abstract explicitly focuses on rural community development and does not mention urban settings or urban ecosystem services.",
+   "limit": "The abstract does not establish how these rural frameworks translate to urban planning or data-scarce cities like Kabul.",
+   "check": "Verify if the full text discusses any overlapping lessons for peri-urban or fringe areas."
+  },
+  "relevance": 2,
+  "watch": null,
+  "source": {
+   "url": "https://doi.org/10.1007/s13280-026-02519-3",
+   "doi": "https://doi.org/10.1007/s13280-026-02519-3",
+   "venue": "AMBIO",
+   "date": "2026-11-22",
+   "authors": [
+    "Cornelius Dudzai",
+    "Jacob Rugare Mugumbate",
+    "Lynne Keevers",
+    "Noel Garikai Muridzo"
+   ],
+   "n_authors": 4,
+   "open_access": true,
+   "basis": "abstract"
+  }
+ },
+ {
   "id": "W7237195463",
   "title": "Conservation Values and the Value of Conservation",
   "headline": "Conservation values and value of conservation analysis",
@@ -3346,609 +3946,6 @@
     "Hajime Matsushima"
    ],
    "n_authors": 3,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7226018382",
-  "title": "Population Diversity of Tecomella undulata across South Asia: Diversity identification Markers, Possible Causes, and Potential for Conservation",
-  "headline": "Plant diversity, markers, and conservation in South Asia",
-  "bullets": [
-   "Reviewed diversity markers for Tecomella undulata across South Asia.",
-   "Found genetic diversity within populations and stress-induced shifts.",
-   "Argues for combining data types to guide conservation planning."
-  ],
-  "plain": {
-   "question": "How can we measure and protect the diversity of a vital desert tree?",
-   "method": "A literature review of molecular, anatomical, and chemical markers.",
-   "finding": "Populations show genetic diversity and physical shifts due to stress.",
-   "why": "This helps conservationists save valuable plant populations from decline."
-  },
-  "full": {
-   "explainer": "This paper looks at Tecomella undulata, an important tree found in the dry regions of South Asia that helps stabilize deserts and is used in traditional medicine. Because threats like habitat destruction, over-harvesting, and climate change are pushing the tree toward endangerment, the authors review how scientists identify population differences. They look at molecular markers, physical structures, and chemical profiles. Published work shows that these trees retain good genetic diversity even when separated geographically. Meanwhile, physical and chemical surveys show adaptations to dry conditions and stress responses linked to local soils. The authors argue that combining these different types of data is crucial for conservation planners across South Asia. It helps them prioritize which populations to protect, collect, or restore before they disappear completely.",
-   "caveats": [
-    "Anatomical and phytochemical surveys are comparatively sparse.",
-    "Other approaches like common garden experiments may be needed."
-   ],
-   "jargon": [
-    {
-     "term": "Keystone tree",
-     "definition": "A species that has a disproportionately large effect on its natural environment."
-    },
-    {
-     "term": "Xeromorphic adaptations",
-     "definition": "Structural traits that allow a plant to survive in dry conditions."
-    },
-    {
-     "term": "Phytochemical profile",
-     "definition": "The chemical compounds produced by plants, often used for medicinal properties."
-    },
-    {
-     "term": "Germplasm",
-     "definition": "Living genetic resources such as seeds or tissues maintained for breeding or conservation."
-    }
-   ],
-   "fit": "It relates to arid ecosystem conservation and plant diversity, though it is not focused on urban settings or Kabul."
-  },
-  "thesis": {
-   "why": "It addresses arid ecosystem conservation and stress adaptations, which parallel environmental planning in semi-arid settings, though it is not urban.",
-   "action": "Check if the review discusses landscape fragmentation metrics useful for habitat quality analysis.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does this plant review provide transferable methods for assessing habitat quality in urbanizing drylands?",
-   "evidence": "The abstract discusses molecular and physical markers for assessing ecological stress and population decline in a semi-arid South Asian context.",
-   "limit": "The abstract does not provide empirical data or urban ecosystem service models for Kabul or cities.",
-   "check": "Verify if the review methods can be adapted for urban green space or habitat quality assessments."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.38211/joarps.2026.07.379",
-   "doi": "https://doi.org/10.38211/joarps.2026.07.379",
-   "venue": "Journal of Applied Research in Plant Sciences",
-   "date": "2026-11-13",
-   "authors": [
-    "Samina Awan",
-    "Samreena Sanjrani",
-    "Naematullah Shah",
-    "Saeed Akhtar Abro"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225996004",
-  "title": "How fit between nature-based solutions and local contexts can be enhanced: Four water-related cases from Global South",
-  "headline": "Seven ways to match water nature solutions to local needs",
-  "bullets": [
-   "Analyzed four water nature-based solution cases across the Global South using fit",
-   "Identified seven core recommendations to achieve fit between projects and contexts",
-   "Helps improve long-term project success and fair water governance"
-  ],
-  "plain": {
-   "question": "How can nature projects for water fit better with local settings?",
-   "method": "Studied four water project cases in different Global South places.",
-   "finding": "Created seven recommendations to make projects match local contexts well.",
-   "why": "This helps water projects last longer and work better for society."
-  },
-  "full": {
-   "explainer": "Nature-based solutions are tools used worldwide to handle water problems. Experts know that working together with local people helps these projects last longer. However, wider societal and environmental settings also matter. This paper uses the concept of \"fit\" to see how well these environmental and governance interventions match the local places where they happen. The authors look at four water-related cases in the Global South: a river ecosystem in Brazil, rainwater harvesting ponds in the Pakistan-administrated region of Jammu and Kashmir, watershed restoration in Peru, and the rehabilitation of ponds and forests on Carriacou Island in Grenada. By comparing these four cases, the researchers found seven key recommendations to achieve a good fit between projects and local contexts. The paper suggests future studies should build deeper theories about fit, create better evaluation tools, and explore how these projects can support sustainable water governance.",
-   "caveats": [
-    "Not stated"
-   ],
-   "jargon": [
-    {
-     "term": "Nature-based solutions",
-     "definition": "Tools using natural processes to tackle environmental and social issues."
-    },
-    {
-     "term": "Co-creation",
-     "definition": "Creating projects together with local people and stakeholders."
-    },
-    {
-     "term": "Adaptive co-management",
-     "definition": "Joint management of ecosystems that adjusts based on learning and monitoring."
-    }
-   ],
-   "fit": "Connects to Global South environmental planning, governance, and green-blue infrastructure contexts."
-  },
-  "thesis": {
-   "why": "It offers cross-case insights on governance and local context fit for water-related environmental planning in the Global South.",
-   "action": "Check the seven specific recommendations for applicability to watershed or green-blue infrastructure planning.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How were the seven recommendations generalized from only four diverse cases?",
-   "evidence": "The study builds on an inductive cross-case analysis of four water-related cases in the Global South.",
-   "limit": "The abstract does not list the specific seven recommendations or the exact criteria used to select the cases.",
-   "check": "Review the full paper to examine the qualitative coding or comparative logic used to derive the seven points."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-11404416/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-11404416/v1",
-   "venue": "Research Square",
-   "date": "2026-11-13",
-   "authors": [
-    "Naveed Imran",
-    "Simo Sarkki",
-    "Michael Kull",
-    "Liza M. S. Andrade",
-    "Beatriz Caitana Silva",
-    "Luis J. Castillo Mena"
-   ],
-   "n_authors": 9,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225985240",
-  "title": "Informal green spaces as a strategic opportunity for urban rewilding in densely built environments",
-  "headline": "Informal green spaces key for urban rewilding",
-  "bullets": [
-   "Mapped rewilding opportunities using a GIS-based index and field surveys in Beijing.",
-   "Found a mismatch: dense urban areas have many informal green spaces despite low index scores.",
-   "Shows informal green spaces are activation-ready resources for making cities wilder."
-  ],
-  "plain": {
-   "question": "Can unplanned or neglected green areas help bring nature back into crowded cities?",
-   "method": "The researchers mapped rewilding chances in Beijing and surveyed 35 plots in dense areas.",
-   "finding": "Crowded parts of the city actually contain the most informal green spaces, despite low scores.",
-   "why": "These neglected green spots can be easily used to make dense cities greener and wilder."
-  },
-  "full": {
-   "explainer": "Urban rewilding helps build resilience and biodiversity, but it is rarely studied in crowded, densely built environments where land is scarce and social conflicts are high. This paper explores whether spontaneous, low-maintenance informal green spaces can be used as strategic rewilding opportunities. Using Haidian District in Beijing as a case study, the authors created a GIS-based Urban Rewilding Opportunity Index to map spaces and conducted field surveys across 35 plots. Interestingly, they found a spatial mismatch: while high index values appeared mostly in mountainous areas and large parks, the actual highest abundance of informal green spaces was in the dense urban core. These spaces made up most of the area and patch counts, largely dominated by vacant lots. Vegetation analysis revealed a low shrub cover, while structure-associated spaces showed high vine coverage, and most patches were fully accessible. The findings show that these informal spaces are not just leftover land, but activation-ready resources that can help support urban regeneration and make cities more livable.",
-   "caveats": [
-    "The study focuses on a single case study in Haidian District, Beijing.",
-    "Field surveys were limited to 35 plots in the dense built-up area within the Fifth Ring Road."
-   ],
-   "jargon": [
-    {
-     "term": "urban rewilding",
-     "definition": "A strategy for increasing urban resilience and biodiversity by letting nature recover."
-    },
-    {
-     "term": "Informal Green Spaces (IGS)",
-     "definition": "Spontaneous, low-maintenance, and often unplanned green areas in cities."
-    },
-    {
-     "term": "spatial mismatch",
-     "definition": "A difference or disconnect between where an index predicts something should be and where it is actually found."
-    }
-   ],
-   "fit": "Connects via urban ecosystem services, mapping methods, and spatial distribution patterns in dense urban environments."
-  },
-  "thesis": {
-   "why": "It evaluates spatial planning and ecosystem opportunities in a dense setting, offering transferable GIS methods for analyzing neglected urban green spaces.",
-   "action": "Check how the study validates its GIS-based opportunity index against actual ecological functions.",
-   "relationship": "method"
-  },
-  "critical": {
-   "question": "Does a high abundance of informal green spaces truly translate to meaningful ecological benefits?",
-   "evidence": "The abstract highlights high area coverage and accessibility of informal green spaces but also notes a mid-layer vegetation deficiency like low shrub cover.",
-   "limit": "The abstract does not establish whether these informal green spaces actually improve specific ecosystem services like cooling or biodiversity.",
-   "check": "Verify how vegetation quality and biodiversity outcomes were measured beyond simple area coverage and vine or shrub percentages."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-11440823/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-11440823/v1",
-   "venue": "Research Square",
-   "date": "2026-11-13",
-   "authors": [
-    "Linying Tan",
-    "Mengyixin Li"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7226034229",
-  "title": "Not too small to matter: park area, bird diversity, and nestedness in pocket parks of an arid city",
-  "headline": "Larger pocket parks boost bird diversity in dry cities",
-  "bullets": [
-   "Studied 15 pocket parks in La Serena, Chile, testing park size and noise effects on bird diversity.",
-   "Found that species richness, taxonomic diversity, and functional richness rose with park area.",
-   "Highlights the need to protect larger green spaces and tree abundance for urban bird conservation."
-  ],
-  "plain": {
-   "question": "How do park size and human noise affect bird types in small city parks?",
-   "method": "We looked at bird species and traits across 15 tiny parks in a dry city.",
-   "finding": "Big parks held more diverse bird types, while small parks had common city birds.",
-   "why": "This helps us learn how to design better city parks to protect nature."
-  },
-  "full": {
-   "explainer": "Urban growth causes animals to lose their homes, making city green spaces vital for protecting wildlife. In dry cities, water shortages mean big parks are hard to build, so scientists must look at small spaces called pocket parks. This study looked at 15 pocket parks in La Serena, Chile, to see how park size and human noise affect bird types and traits. The researchers recorded 29 bird species. They found that species richness and diversity increased when parks were larger, while noise only had a small negative effect. Larger parks supported more diverse bird types, whereas smaller parks mostly held common birds that easily adapt to cities. Furthermore, bird types in smaller parks were basically subsets of those found in larger parks. The results show that keeping larger green spaces and planting plenty of trees is very important for protecting bird life in dry cities.",
-   "caveats": [
-    "Studied only 15 pocket parks in a single dry city (La Serena, Chile).",
-    "Noise effects on birds were found to be weak.",
-    "Passive sampling did not explain the area-richness relationship."
-   ],
-   "jargon": [
-    {
-     "term": "nestedness",
-     "definition": "A pattern where smaller areas contain subsets of the species found in larger areas."
-    },
-    {
-     "term": "functional richness",
-     "definition": "The amount of functional trait space filled by species in a community."
-    },
-    {
-     "term": "taxonomic diversity",
-     "definition": "A measure of the different types of biological organisms present in an area."
-    }
-   ],
-   "fit": "Connects to habitat quality and urban nature access in arid cities, showing how park size shapes urban biodiversity patterns."
-  },
-  "thesis": {
-   "why": "It links urban park attributes to habitat quality and biodiversity in a dryland city, offering parallels for evaluating urban nature access.",
-   "action": "Check how they measured functional richness and whether habitat quality metrics overlap with InVEST.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does park size truly drive bird diversity, or do surrounding urban land-cover factors play a larger role?",
-   "evidence": "The abstract notes that species richness increased with park area and tree abundance, while nestedness matched species occurrence frequencies.",
-   "limit": "The abstract does not state the wider landscape context or surrounding land-cover types around the 15 pocket parks.",
-   "check": "Verify if the full paper controls for surrounding matrix land-cover or if park isolation affects bird presence."
-  },
-  "relevance": 4,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.21203/rs.3.rs-11526355/v1",
-   "doi": "https://doi.org/10.21203/rs.3.rs-11526355/v1",
-   "venue": "Research Square",
-   "date": "2026-11-13",
-   "authors": [
-    "María José Peralta-Scholz",
-    "Rodrigo S. Ríos",
-    "Marco Garrido-Salinas",
-    "Andrea P. Loayza"
-   ],
-   "n_authors": 4,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225996678",
-  "title": "Power-sensitive partnerships for just nature-based solutions in urban informal settlements",
-  "headline": "Power-sensitive partnerships for just nature solutions",
-  "bullets": [
-   "Argued for power-sensitive partnerships in urban informal settlements",
-   "Highlighted the need to redistribute benefits and reduce climate risks",
-   "Stressed a deep commitment to pluralism in values and ways of knowing"
-  ],
-  "plain": {
-   "question": "How can nature projects help vulnerable groups in informal areas?",
-   "method": "The authors make an argument and propose a framework for partnerships.",
-   "finding": "Projects need power-sensitive partnerships and pluralism in values.",
-   "why": "This helps share benefits fairly and lower climate risks for the poor."
-  },
-  "full": {
-   "explainer": "This paper looks at how nature-based solutions, which are projects that use nature to tackle environmental challenges, can better help vulnerable people living in urban informal settlements. These are areas where housing is often unplanned or built outside formal rules. The authors argue that current projects must do a better job of sharing benefits fairly and reducing climate risks for these groups. To make this happen, the study suggests using power-sensitive partnerships. This means paying close attention to who holds power in decision-making. The authors also call for a deep commitment to pluralism. This means respecting and including many different values, ways of knowing, and understandings of what nature means to different communities, rather than imposing a single top-down view. Overall, the work focuses on the social and political side of planning green projects in informal urban areas.",
-   "caveats": [
-    "not stated"
-   ],
-   "jargon": [
-    {
-     "term": "nature-based solutions",
-     "definition": "Actions that use nature to address environmental and societal challenges."
-    },
-    {
-     "term": "informal settlements",
-     "definition": "Residential areas where housing is built outside official planning and legal frameworks."
-    },
-    {
-     "term": "pluralism",
-     "definition": "The acceptance and inclusion of multiple different values, beliefs, and knowledge systems."
-    }
-   ],
-   "fit": "Connects to environmental planning, informal settlements, and the fair distribution of benefits in the Global South."
-  },
-  "thesis": {
-   "why": "It connects to the study of informal settlements, environmental justice, and plural values in urban environmental planning across the Global South.",
-   "action": "Check how the paper defines power-sensitive partnerships for informal areas.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How are power-sensitive partnerships practically measured and implemented in data-scarce informal settlements?",
-   "evidence": "The abstract argues for power-sensitive partnerships and pluralism without detailing a specific empirical testing method.",
-   "limit": "We cannot establish what specific methods, data, or case studies were used to test these partnerships.",
-   "check": "Verify whether the paper presents empirical case studies or purely conceptual arguments."
-  },
-  "relevance": 3,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1038/s41467-026-79301-2",
-   "doi": "https://doi.org/10.1038/s41467-026-79301-2",
-   "venue": "Nature Communications",
-   "date": "2026-11-13",
-   "authors": [
-    "Petra B. Holden",
-    "Gina Ziervogel"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225983488",
-  "title": "Greenwashing in green bonds: a systematic literature review",
-  "headline": "Review on greenwashing in green bond markets",
-  "bullets": [
-   "Reviewed 46 academic articles on greenwashing using PRISMA.",
-   "Found drivers like weak oversight and relabeling old projects.",
-   "Matters because it erodes trust and increases financing costs."
-  ],
-  "plain": {
-   "question": "How does greenwashing happen and affect green bond markets?",
-   "method": "Searched and reviewed 46 research papers using thematic analysis.",
-   "finding": "Weak rules and incentives cause greenwashing, which hurts trust.",
-   "why": "It helps us see how financial markets fail to protect environmental goals."
-  },
-  "full": {
-   "explainer": "This paper looks at greenwashing in green bond markets. Green bonds are financial tools meant to fund eco-friendly projects. The authors wanted to understand why greenwashing happens, how it persists, and how it hurts market credibility. Instead of treating it as just misleading talk, they looked at how money, rules, and information problems interact. They searched databases for peer-reviewed studies and analyzed 46 articles. They found that greenwashing is driven by the desire for cheaper money, weak government rules, and the practice of renaming old projects as green. It shows up as selective information sharing, weak proof that projects are actually new or helpful, and symbolic certifications. These actions break investor trust, harm the reputation of issuers, and raise financing costs. The study is limited because the existing research focuses heavily on China and misses some real-world regulatory actions. Future work should look at emerging markets and the Global South.",
-   "caveats": [
-    "Geographical concentration of the literature with a strong focus on the Chinese green bond market.",
-    "Reliance on published academic research, which may underrepresent enforcement actions and emerging regulatory developments."
-   ],
-   "jargon": [
-    {
-     "term": "greenwashing",
-     "definition": "Misleading people into believing a product or company is more environmentally friendly than it is."
-    },
-    {
-     "term": "systematic literature review",
-     "definition": "A structured way of finding, selecting, and analyzing all available studies on a specific topic."
-    },
-    {
-     "term": "green bonds",
-     "definition": "Debt instruments specifically issued to raise money for climate or environmental projects."
-    },
-    {
-     "term": "information asymmetries",
-     "definition": "A situation where one party in a transaction has more or better information than the other."
-    }
-   ],
-   "fit": "Connects to environmental governance, institutional arrangements, and the need for empirical work in emerging markets and the Global South."
-  },
-  "thesis": {
-   "why": "It explores governance and institutional challenges in environmental financing, which parallels tracking human benefits and planning integrity.",
-   "action": "Check how institutional arrangements and governance failures apply to local environmental planning.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does financial greenwashing theory apply to physical urban ecosystem service planning?",
-   "evidence": "The paper focuses on financial instruments and debt markets, not urban land-cover change or ecosystem service delivery.",
-   "limit": "The abstract does not provide empirical data on urban planning or ecosystem service supply in cities like Kabul.",
-   "check": "Verify whether the governance framework transfers from financial markets to urban environmental planning."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1108/rae-09-2026-0426",
-   "doi": "https://doi.org/10.1108/rae-09-2026-0426",
-   "venue": "Revista de Administração de Empresas",
-   "date": "2026-11-13",
-   "authors": [
-    "Nikolas Christian Keppe",
-    "Tania Pereira Christopoulos"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7226007339",
-  "title": "Testing subsistence in the medieval lower Syr-Darya through an archaeobotanical and stable isotope approach: a pilot study",
-  "headline": "Medieval diet and environment studied in Central Asia",
-  "bullets": [
-   "Used bone isotopes and plant remains to study past diets in Kazakhstan.",
-   "Found evidence challenging past ideas on ancient farming and post-Mongol pastoralism.",
-   "Shows how combining multiple methods helps test models of past human survival."
-  ],
-  "plain": {
-   "question": "What did people eat and how did they live in past Central Asian desert-oasis areas?",
-   "method": "Studied ancient plant remains and chemical isotopes from animal and human bones.",
-   "finding": "Old theories about ancient farming impacts and shifts to animal herding were challenged.",
-   "why": "It helps us better understand how ancient communities survived in dry environments."
-  },
-  "full": {
-   "explainer": "This study looks at how people lived and what they ate along the lower Syr-Darya River in modern-day Kazakhstan from ancient times through the medieval period. The researchers combined the study of ancient plant remains with chemical isotope analyses of animal and human bones, alongside past environmental data. By doing this, they tested and challenged some earlier ideas proposed by scholars. For example, they questioned whether ancient farming caused major water regression in the region long ago, and whether people shifted entirely to animal herding after the Mongol Conquest. The isotope results showed that animal diets mainly relied on certain types of plants, and high nitrogen values in herbivores might be due to dry conditions, salty soil, or specific feeding environments. Human bone data pointed to a diet high in animal protein, though the exact sources remain unclear. Overall, this work provides a new baseline for studying past diets in Central Asia and shows the value of combining different scientific methods to check old historical models.",
-   "caveats": [
-    "The specific dietary sources of human nitrogen enrichment remain uncertain.",
-    "This is a pilot study, so interpretations need testing with larger, systematic datasets."
-   ],
-   "jargon": [
-    {
-     "term": "stable isotope",
-     "definition": "Forms of chemical elements used to trace diets and environments from bones and plants."
-    },
-    {
-     "term": "archaeobotanical",
-     "definition": "The study of remains of plants from archaeological sites."
-    },
-    {
-     "term": "collagen",
-     "definition": "A tough protein found in bones and tissues used for chemical testing."
-    }
-   ],
-   "fit": "Connects via environmental change, landscape history, and desert-oasis contexts, though it focuses on archaeology rather than urban services."
-  },
-  "thesis": {
-   "why": "It shows how environmental and historical data can challenge established assumptions about human-environment interactions in dry settings.",
-   "action": "Check how the authors validate their proxy data against past environmental changes.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How reliable are isotope baselines for separating climate stress from human management?",
-   "evidence": "The text notes that elevated herbivore values may reflect aridity, soil salinization, or foddering.",
-   "limit": "The abstract cannot establish exact dietary sources for human nitrogen enrichment or regional-scale certainty.",
-   "check": "Verify how the study controls for local environmental variations versus direct human feeding choices."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.3389/fearc.2026.2003673",
-   "doi": "https://doi.org/10.3389/fearc.2026.2003673",
-   "venue": "Frontiers in Environmental Archaeology",
-   "date": "2026-11-13",
-   "authors": [
-    "Basira Mir-Makhamad",
-    "Yslam S. Kurmaniyazov",
-    "Akan Onggaruly",
-    "Yekaterina Dubyagina",
-    "Zhanbolat Utubaev",
-    "Asemgul Kasenova"
-   ],
-   "n_authors": 20,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7226023674",
-  "title": "Governance in Strategic Ecosystems: Preliminary Report of a Case Study in Tumaco, Colombia (2023–2025)",
-  "headline": "Fragile governance of marine plastics in Tumaco, Colombia",
-  "bullets": [
-   "Used qualitative fieldwork and agent-based modeling to study marine plastic governance.",
-   "Found a fragmented system dependent on civil society leadership and an academic catalyst.",
-   "Shows fragile regions may lack polycentricity preconditions; building foundations is vital."
-  ],
-  "plain": {
-   "question": "How do different groups work together to govern marine plastic pollution in a fragile region?",
-   "method": "Used interviews, field research, and computer simulations of human behavior over time.",
-   "finding": "The system is broken and weak, relying heavily on active citizens and external academics.",
-   "why": "It shows we must build strong collaborative foundations before expecting complex governance systems to work."
-  },
-  "full": {
-   "explainer": "This paper looks at how people and organizations try to manage marine plastic pollution in Tumaco, Colombia, a fragile region. Between September 2023 and May 2025, researchers studied how government, civil society, private companies, and universities interacted. They used qualitative fieldwork and computer simulations to test how the network worked. Their early findings show a broken and weak system that is not a well-balanced, multi-centered network as some might hope. Instead, it struggles with inconsistent government involvement. It relies too much on brave citizens, emotional ties, and external academic help to get people working together. The computer simulations showed that if key people leave, the network falls apart, and helpful opportunities can accidentally make power too centralized. This is important for the Global South because it proves that in fragile places, the basic building blocks for sharing power may not even exist yet. Instead of pretending a strong management network already exists, groups need to focus on making local actors legitimate and institutionalizing teamwork from the ground up.",
-   "caveats": [
-    "Findings are preliminary based on a report running from September 2023 to May 2025.",
-    "Specific details about agent-based modeling parameters are not stated."
-   ],
-   "jargon": [
-    {
-     "term": "polycentric network",
-     "definition": "A governance system with many independent centers of decision-making interacting with each other."
-    },
-    {
-     "term": "agent-based modeling",
-     "definition": "A computer simulation method that models the simultaneous actions of autonomous individuals to see system effects."
-    },
-    {
-     "term": "institutional ecology of games",
-     "definition": "A framework analyzing how multiple actors pursue different goals within overlapping institutional rules."
-    }
-   ],
-   "fit": "Connects to Global South environmental governance, institutional fragility, and collaborative processes relevant to urban planning contexts."
-  },
-  "thesis": {
-   "why": "It connects to institutional governance challenges in the Global South, offering insights into how fragile networks affect environmental management.",
-   "action": "Check the full paper for details on how agent-based modeling was structured.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "How can agent-based models reliably simulate complex human governance dynamics without oversimplifying local realities?",
-   "evidence": "The study relies on agent-based simulations to indicate that network cohesion is vulnerable to the departure of key individuals.",
-   "limit": "The abstract does not state the specific rules, parameters, or validation methods used in the computer simulations.",
-   "check": "Verify the exact modeling parameters and data inputs used for the agent-based simulations in the full paper."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1111/lamp.70079",
-   "doi": "https://doi.org/10.1111/lamp.70079",
-   "venue": "Latin American Policy",
-   "date": "2026-11-13",
-   "authors": [
-    "Juan-Antonio Zornoza Bonilla",
-    "Norman Simón Rodríguez Cano"
-   ],
-   "n_authors": 2,
-   "open_access": true,
-   "basis": "abstract"
-  }
- },
- {
-  "id": "W7225999348",
-  "title": "Reframing community participation as sovereignty: A comparative synthesis of One Health approaches in the Global South",
-  "headline": "Community sovereignty improves One Health in the Global South",
-  "bullets": [
-   "Compared four community-based participatory projects across the Amazon and Africa",
-   "Found that true community ownership addresses the root causes of ill-health",
-   "Shifts global health toward decolonial frameworks and local self-determination"
-  ],
-  "plain": {
-   "question": "How can community participation improve health programs in the Global South?",
-   "method": "Compared four community-based projects using participatory methods in the Amazon and Africa.",
-   "finding": "True community control helps fix root causes of poor health and leads to better outcomes.",
-   "why": "It builds trust and resilience, transforming how global health programs are designed."
-  },
-  "full": {
-   "explainer": "In many global health programs, communities are treated as mere tools to help carry out top-down plans made by donors. This paper argues that instead of just token participation, communities need true sovereignty—the right to govern and own health projects in their own areas. The authors looked at four projects in the Amazon and Africa that used decolonial research methods. They found that when local and Indigenous knowledge is centered, communities can tackle deep-rooted problems like systemic vulnerability and lack of power, rather than just focusing narrowly on pathogens. This shift led to more trusted and effective results, such as faster detection of disease outbreaks. The study suggests that building health initiatives from the perspective of the Global South requires treating participation as self-determination.",
-   "caveats": [
-    "Not stated: specific quantitative metrics for outbreak detection speed",
-    "Not stated: details of how the comparative synthesis was technically executed"
-   ],
-   "jargon": [
-    {
-     "term": "One Health",
-     "definition": "An approach recognizing that human, animal, and environmental health are closely linked."
-    },
-    {
-     "term": "Sovereignty",
-     "definition": "The right of communities to define, govern, and own health interventions in their territories."
-    },
-    {
-     "term": "Decolonial",
-     "definition": "Approaches that center local and Indigenous knowledge systems to counter top-down colonial models."
-    },
-    {
-     "term": "Epistemic justice",
-     "definition": "Fair treatment of different knowledge systems, ensuring local and Indigenous views are valued."
-    }
-   ],
-   "fit": "Connects to environmental planning, governance, and justice in the Global South, linking community ownership to effective outcomes."
-  },
-  "thesis": {
-   "why": "It touches on governance, justice, and community roles in the Global South, offering insights for planning approaches that respect local knowledge and power.",
-   "action": "Check how governance and community participation frameworks map onto urban green-blue infrastructure planning.",
-   "relationship": "context"
-  },
-  "critical": {
-   "question": "Does framing community participation as sovereignty change physical environmental planning outcomes?",
-   "evidence": "The abstract focuses entirely on health interventions, pathogens, and community-led health governance in the Amazon and Africa.",
-   "limit": "It cannot establish how sovereignty-based frameworks translate into spatial modeling or urban ecosystem service delivery.",
-   "check": "Verify if the paper discusses spatial or resource governance that applies to urban planning and ecosystem services."
-  },
-  "relevance": 2,
-  "watch": null,
-  "source": {
-   "url": "https://doi.org/10.1016/j.onehlt.2026.101664",
-   "doi": "https://doi.org/10.1016/j.onehlt.2026.101664",
-   "venue": "One Health",
-   "date": "2026-11-13",
-   "authors": [
-    "Fabian Méndez-Paz",
-    "Mercy Haumba",
-    "Monya Konneh",
-    "Stéphanie Maltais",
-    "Frédéric Mertens",
-    "Phiona Katushabe"
-   ],
-   "n_authors": 15,
    "open_access": true,
    "basis": "abstract"
   }
