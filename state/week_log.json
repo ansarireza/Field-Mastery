@@ -1,31 +1,4 @@
 {
- "2026-11-12": {
-  "papers": [
-   "Cooling informal settlements in Chennai through nature",
-   "Tree cover loss and gain balance in Colombia",
-   "Evaluating eight cropland maps for agricultural monitoring",
-   "Combined infrastructure creates extra water benefits",
-   "Wild shrub patterns linked to environment",
-   "Fossil and green energy paths evolve together in Namibia",
-   "Cash transfers boost household climate resilience.",
-   "Climate and soil drive grassland resource efficiency",
-   "Dairy camel farms near Nouakchott generate profit"
-  ],
-  "radar": [
-   "EIB targets €30 billion in climate adaptation finance under COP31",
-   "Dubai reveals landmark law on urban planning and construction",
-   "Wonju City caused indiscriminate development, audit finds",
-   "Five Decades of Global Peri-Urban Research Reveal Major Shifts",
-   "China’s climate-resilient city pilots linked to higher grain output"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Multidimensional poverty and well-being",
-   "Sediment management"
-  ]
- },
  "2026-11-13": {
   "papers": [
    "Local knowledge as a living infrastructure",
@@ -323,6 +296,35 @@
   "lessons": [
    "Additionality and leakage in PES",
    "Alpine ibex"
+  ]
+ },
+ "2026-11-27": {
+  "papers": [
+   "Spatial functions evolved in two stages in Shandong",
+   "Trade-offs between food production and nature in China",
+   "Not stated",
+   "Urban liminal spaces provide valuable ecosystem services",
+   "Bare soil and heat drive Delhi's ecological decline",
+   "Ecosystem valuation supports new protected area in Brazil",
+   "Global urban agrobiodiversity research is growing rapidly",
+   "Local plant knowledge in peri-urban Pakistan",
+   "Mosquito breeding and disease risk in Bouaké, Côte d'Ivoire"
+  ],
+  "radar": [
+   "Researchers Urge Closer Study of Green Space Benefits",
+   "Funding for Heat Mitigation in Indian Cities",
+   "Workshop on Effective Management of MIDAs",
+   "Draft Nature Restoration Plan and €20m Fund",
+   "Climate Adaptation Grants for Locally Led Pilots"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_16",
+   "natcap/invest 3.21.0",
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Extractivism and agrarian change",
+   "Diameter at breast height"
   ]
  }
 }

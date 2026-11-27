@@ -1,64 +1,64 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "lessons": [
   {
-   "id": "35357fd20c",
-   "date": "2026-11-26",
-   "term": "Additionality and leakage in PES",
-   "area": "Payments for ecosystem services",
-   "kind": "concept",
-   "definition": "Additionality means payments fund new conservation that would not have happened otherwise, while leakage is the unintended displacement of environmental harm.",
-   "plain": "Additionality checks if a green project actually creates extra benefits instead of paying for things that were already going to happen. Leakage happens when protecting one area just pushes harmful building or farming into a different neighborhood or nearby hillsides.",
-   "example": "If Kabul pays to protect a hillside park, but developers simply clear a nearby peri-urban agricultural field instead, that is leakage.",
-   "connects": "It connects to governance, effectiveness of green infrastructure, and how we measure real ecological benefits versus on-paper plans.",
-   "why_phd": "Essential for your thesis to prove your proposed environmental planning interventions actually change outcomes instead of just shifting problems elsewhere.",
+   "id": "786fbe1f8f",
+   "date": "2026-11-27",
+   "term": "Extractivism and agrarian change",
+   "area": "Global South development",
+   "kind": "classic_idea",
+   "definition": "Extractivism is the large-scale removal of natural resources for export, driving deep shifts in farming and land use.",
+   "plain": "Extractivism means pulling raw resources out of the earth for outside markets. This changes local farming and land use. In the Global South, it often pushes small farmers off their lands or alters water and soil, disrupting traditional rural and peri-urban life.",
+   "example": "Large-scale mining or intensive commercial farming in a developing region draws water away from local agriculture, changing rural landscapes.",
+   "connects": "It links to land-cover change, peri-urban agriculture, and how natural resources are managed.",
+   "why_phd": "It helps explain the root causes of rural land shifts and peri-urban pressures impacting Kabul's environment.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What does additionality mean in payments for ecosystem services?",
-     "a": "It means the conservation benefits would not have occurred without the payment program."
+     "q": "What is extractivism?",
+     "a": "The large-scale removal of natural resources, mostly for export."
     },
     {
-     "q": "How is leakage defined in this context?",
-     "a": "It is the unintended shifting of environmental harm or land-use change to another location."
+     "q": "How does it affect agrarian change?",
+     "a": "It alters traditional farming, land use, and local water or soil conditions."
     }
    ],
-   "search": "additionality and leakage in urban PES"
+   "search": "extractivism and agrarian change Global South"
   },
   {
-   "id": "51b0cd5471",
-   "date": "2026-11-26",
-   "term": "Alpine ibex",
+   "id": "4655d25c08",
+   "date": "2026-11-27",
+   "term": "Diameter at breast height",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "The alpine ibex is a wild mountain goat species adapted to steep, high-altitude rocky terrain.",
-   "plain": "The topic of alpine ibex is ambiguous and not mentioned in the provided research context, which focuses on urban ecosystem services, land-cover change, and environmental planning in places like Kabul.",
-   "example": "Not stated in the context materials.",
-   "connects": "Not stated as it falls outside the core urban ecosystem services and planning framework.",
-   "why_phd": "It is not relevant to your specific research on urban environments, ecosystem services, and Kabul.",
+   "definition": "Diameter at breast height is the standard measure of a tree's stem diameter, typically taken at 1.3 meters above the ground.",
+   "plain": "Imagine wrapping a measuring tape around a tree trunk at chest height. That measurement is diameter at breast height. Researchers use it to quickly estimate a tree's size, age, and overall health without needing to cut it down.",
+   "example": "In a Kabul urban park project, researchers measure the diameter at breast height of mature street trees to calculate how much shade and cooling they provide.",
+   "connects": "It connects to estimating urban carbon storage, cooling capacity, and habitat quality in green infrastructure assessments.",
+   "why_phd": "It provides the essential baseline data needed to model tree growth, urban cooling benefits, and habitat quality in data-scarce cities.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "Is the alpine ibex mentioned in the research context?",
-     "a": "No, it is not mentioned or relevant to the core urban planning context."
+     "q": "At what standard height above the ground is the tree stem measured?",
+     "a": "1.3 meters above the ground."
     },
     {
-     "q": "What is the alpine ibex?",
-     "a": "A wild mountain goat species adapted to steep, high-altitude terrain."
+     "q": "Why is this measurement useful for urban ecosystem studies?",
+     "a": "It helps estimate tree size, age, and ecological benefits like cooling without cutting the tree."
     }
    ],
-   "search": "alpine ibex mountain ecology"
+   "search": "tree diameter breast height urban forestry"
   }
  ],
- "total_learned": 52,
+ "total_learned": 54,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Extractivism and agrarian change",
    "Relational values of nature",
    "Mainstreaming biodiversity in policy",
    "Panaceas and institutional diversity",
-   "Common pool resource management"
+   "Common pool resource management",
+   "Stated preference valuation techniques"
   ],
   "stages": [
    "Foundation: understand concepts",

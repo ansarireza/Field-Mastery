@@ -1242,5 +1242,53 @@
    }
   ],
   "search": "alpine ibex mountain ecology"
+ },
+ {
+  "id": "786fbe1f8f",
+  "date": "2026-11-27",
+  "term": "Extractivism and agrarian change",
+  "area": "Global South development",
+  "kind": "classic_idea",
+  "definition": "Extractivism is the large-scale removal of natural resources for export, driving deep shifts in farming and land use.",
+  "plain": "Extractivism means pulling raw resources out of the earth for outside markets. This changes local farming and land use. In the Global South, it often pushes small farmers off their lands or alters water and soil, disrupting traditional rural and peri-urban life.",
+  "example": "Large-scale mining or intensive commercial farming in a developing region draws water away from local agriculture, changing rural landscapes.",
+  "connects": "It links to land-cover change, peri-urban agriculture, and how natural resources are managed.",
+  "why_phd": "It helps explain the root causes of rural land shifts and peri-urban pressures impacting Kabul's environment.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What is extractivism?",
+    "a": "The large-scale removal of natural resources, mostly for export."
+   },
+   {
+    "q": "How does it affect agrarian change?",
+    "a": "It alters traditional farming, land use, and local water or soil conditions."
+   }
+  ],
+  "search": "extractivism and agrarian change Global South"
+ },
+ {
+  "id": "4655d25c08",
+  "date": "2026-11-27",
+  "term": "Diameter at breast height",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Diameter at breast height is the standard measure of a tree's stem diameter, typically taken at 1.3 meters above the ground.",
+  "plain": "Imagine wrapping a measuring tape around a tree trunk at chest height. That measurement is diameter at breast height. Researchers use it to quickly estimate a tree's size, age, and overall health without needing to cut it down.",
+  "example": "In a Kabul urban park project, researchers measure the diameter at breast height of mature street trees to calculate how much shade and cooling they provide.",
+  "connects": "It connects to estimating urban carbon storage, cooling capacity, and habitat quality in green infrastructure assessments.",
+  "why_phd": "It provides the essential baseline data needed to model tree growth, urban cooling benefits, and habitat quality in data-scarce cities.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "At what standard height above the ground is the tree stem measured?",
+    "a": "1.3 meters above the ground."
+   },
+   {
+    "q": "Why is this measurement useful for urban ecosystem studies?",
+    "a": "It helps estimate tree size, age, and ecological benefits like cooling without cutting the tree."
+   }
+  ],
+  "search": "tree diameter breast height urban forestry"
  }
 ]

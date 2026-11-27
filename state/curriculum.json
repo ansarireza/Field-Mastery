@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Extractivism and agrarian change",
-   "area": "Global South development",
-   "kind": "classic_idea"
-  },
-  {
    "term": "Relational values of nature",
    "area": "Nature contributions to people",
    "kind": "concept"
@@ -128,6 +123,8 @@
   "Capabilities approach to well-being",
   "Institutional fields",
   "Additionality and leakage in PES",
-  "Alpine ibex"
+  "Alpine ibex",
+  "Extractivism and agrarian change",
+  "Diameter at breast height"
  ]
 }
