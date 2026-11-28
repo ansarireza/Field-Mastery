@@ -1,11 +1,6 @@
 {
  "queue": [
   {
-   "term": "Relational values of nature",
-   "area": "Nature contributions to people",
-   "kind": "concept"
-  },
-  {
    "term": "Mainstreaming biodiversity in policy",
    "area": "Conservation policy",
    "kind": "policy"
@@ -125,6 +120,8 @@
   "Additionality and leakage in PES",
   "Alpine ibex",
   "Extractivism and agrarian change",
-  "Diameter at breast height"
+  "Diameter at breast height",
+  "Relational values of nature",
+  "Spatial multicriteria decision analysis"
  ]
 }

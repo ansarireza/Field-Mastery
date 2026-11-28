@@ -1290,5 +1290,53 @@
    }
   ],
   "search": "tree diameter breast height urban forestry"
+ },
+ {
+  "id": "fb1da06f22",
+  "date": "2026-11-28",
+  "term": "Relational values of nature",
+  "area": "Nature contributions to people",
+  "kind": "concept",
+  "definition": "Relational values are the meaningful bonds and responsibilities that people have with nature, beyond mere usefulness or monetary worth.",
+  "plain": "Instead of just looking at nature as a resource that provides goods, or something with an intrinsic right to exist, relational values focus on the cultural identity, shared meaning, and deep connections people form with their local environment.",
+  "example": "In an urban neighborhood of Kabul, residents may deeply value a local garden not just for cooling the air, but as a sacred space for community gatherings and family history.",
+  "connects": "It connects plural valuation and environmental justice to how different communities experience and benefit from urban nature.",
+  "why_phd": "It helps explain why formal urban plans often fail if they ignore local cultural attachments and community bonds to the land.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What are relational values of nature?",
+    "a": "The meaningful bonds, cultural identity, and responsibilities people share with nature."
+   },
+   {
+    "q": "How do they differ from material benefits?",
+    "a": "They focus on relationships and cultural meaning rather than physical goods or money."
+   }
+  ],
+  "search": "relational values urban nature"
+ },
+ {
+  "id": "0a7d3861d6",
+  "date": "2026-11-28",
+  "term": "Spatial multicriteria decision analysis",
+  "area": "From today's papers",
+  "kind": "concept",
+  "definition": "Spatial multicriteria decision analysis combines geographic data with values to rank land-use options for planning.",
+  "plain": "Imagine you have a map and several competing ideas for a city, like building parks or houses. Spatial multicriteria decision analysis helps planners combine different types of data—like environmental needs and social values—to score and rank which areas are best suited for each use.",
+  "example": "In a dry Global South city, planners use this method to rank where new green spaces should go to cool the city and protect water.",
+  "connects": "It connects scenario comparison, environmental planning, and mapping urban ecosystem service supply and demand.",
+  "why_phd": "It helps you turn complex environmental and social trade-offs into clear, transparent spatial options for decision-makers.",
+  "basis": "AI teaching explanation; verify using the linked source search",
+  "quiz": [
+   {
+    "q": "What two main elements does this spatial analysis combine?",
+    "a": "Geographic data and stakeholder values or criteria."
+   },
+   {
+    "q": "Why is this method useful in environmental planning?",
+    "a": "It helps rank and choose the best land-use options when facing competing demands."
+   }
+  ],
+  "search": "spatial multicriteria decision analysis urban planning"
  }
 ]

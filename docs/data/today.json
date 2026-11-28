@@ -1,398 +1,206 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "summary": [
-  "Today's papers study ecosystem services, land-cover change, and environmental planning.",
-  "Research covers carbon storage, food production trade-offs, and ecological decline."
+  "Studies examine ecosystem services, land-cover changes, and environmental planning in various global regions.",
+  "Research covers topics like carbon sequestration, urban expansion destroying farmland, and waste services."
  ],
  "items": [
   {
-   "id": "W7240041252",
-   "title": "Two-Stage Evolution and Associated Factors of the Coupling Coordination of Production–Living–Ecological Functions in Northern Shandong Counties, China, 2000–2020",
-   "headline": "Spatial functions evolved in two stages in Shandong",
+   "id": "W7238780452",
+   "title": "Persistent Bundle Transitions and Nonlinear Environmental Associations of Ecosystem Services in the Zhangjiakou–Chengde Region, China",
+   "headline": "Ecosystem services and shifts in China from 2001 to 2024",
    "bullets": [
-    "Evaluated production, living, and ecological functions across 31 counties using land-use data.",
-    "Found a two-stage shift from expansion-driven loss to ecological recovery during 2000-2020.",
-    "Demonstrates how spatial functions coordinate regionally to guide sustainable development."
+    "Analyzed trends and bundles of water yield, NEP, sand fixation, and soil conservation.",
+    "Found most areas fell into a carbon sequestration and soil conservation bundle.",
+    "Helps target environmental monitoring and management using spatial machine learning."
    ],
    "plain": {
-    "question": "How do different land functions change and coordinate over time in a region?",
-    "method": "Used land-use data and models to measure function coordination across counties.",
-    "finding": "Land functions shifted from early expansion to later ecological recovery.",
-    "why": "Helps planners understand how land-use changes affect regional balance and sustainability."
+    "question": "How did nature's benefits change over time and what drove those patterns in this region?",
+    "method": "Used computer models, maps, and statistical tools to track changes from 2001 to 2024.",
+    "finding": "Water, carbon, and soil benefits mostly went up, while sand fixation stayed flat regionally.",
+    "why": "It shows how environmental benefits shift, helping managers protect ecosystems better."
    },
    "full": {
-    "explainer": "This paper looks at how land can be divided into three main functions: production, living, and ecological. Researchers studied 31 counties in Northern Shandong, China, from 2000 to 2020 using land-use data. They wanted to see how these functions interact and coordinate over time. They found that land went through a two-stage change. First, between 2000 and 2010, production spaces grew while ecological spaces shrank as land was reclaimed. Then, from 2010 to 2020, this reversed, and ecological spaces largely recovered while living spaces continued to expand. The study also measured how well these functions worked together, called the coupling coordination degree. While overall coordination scores improved, sensitivity checks showed that some apparent improvements depended heavily on how the data was normalized. Finally, the researchers looked at factors linked to these spatial patterns, noting that water, vegetation, and population factors shifted in importance over time, though these links show statistical association rather than direct cause.",
+    "explainer": "This paper looks at how different benefits provided by nature—such as water yield, net ecosystem productivity, sand fixation, and soil conservation—changed between 2001 and 2024 in the Zhangjiakou-Chengde region of China. The researchers used trend analysis, grouping methods, and advanced spatial machine learning to see how these benefits group together into bundles. They found that most of the area was dominated by carbon sequestration and soil conservation bundles. Over the study period, modeled water yield, productivity, soil conservation, and an overall ecosystem service index increased significantly, while sand fixation showed no major regional trend. The study also tested which environmental factors mattered most, finding that annual precipitation, temperature, and slope played top roles for different services. By testing alternative data inputs and checking model behavior, the authors showed how specific environmental thresholds, like vegetation greenness and soil density, relate to predicted nature benefits.",
     "caveats": [
-     "The 2010-2020 increase in coordination was sensitive to normalization and not a demonstrated absolute improvement.",
-     "Geodetector q statistics measure statistical association rather than causation.",
-     "Factor rankings were partly sensitive to the chosen quantile discretization scheme."
+     "Sand fixation showed no significant regional trend overall.",
+     "Persistent transitions covered only 3.29% of the common valid area under the rule.",
+     "Certain models lacked calculation-related predictors to test predictive skill."
     ],
     "jargon": [
      {
-      "term": "Coupling coordination degree model",
-      "definition": "A mathematical tool used to measure how well different systems or spatial functions work together."
+      "term": "Net ecosystem productivity",
+      "definition": "The total amount of carbon dioxide taken up by plants minus what is released back."
      },
      {
-      "term": "Geodetector",
-      "definition": "A statistical method used to detect spatial differentiation and find factors linked to it."
+      "term": "Ecosystem service bundles",
+      "definition": "Sets of multiple benefits from nature that repeatedly appear together across space."
      },
      {
-      "term": "Bonferroni correction",
-      "definition": "A statistical test adjustment used to lower the chance of getting false positive results."
+      "term": "SHAP",
+      "definition": "A method to explain machine learning model predictions by showing how much each factor contributes."
      },
      {
-      "term": "Quantile discretization",
-      "definition": "Dividing data into groups that each contain an equal number of data points."
+      "term": "ALE",
+      "definition": "A tool that shows how a single input variable affects a machine learning model's predictions."
      }
     ],
-    "fit": "Provides a regional spatial evaluation and modeling framework that informs multi-functional land-use planning and scenario analysis."
+    "fit": "Demonstrates spatial modeling, bundling, and driver analysis for ecosystem services, useful for scenario and planning work."
    },
    "thesis": {
-    "why": "Demonstrates multi-functional spatial evaluation and regional coordination modeling, relevant to assessing trade-offs in urbanizing and transforming landscapes.",
-    "action": "Check how the study handles normalization choices when evaluating changes over time.",
+    "why": "It offers spatial statistical methods and machine learning approaches like XGBoost, SHAP, and ALE to evaluate environmental services and service bundles over time.",
+    "action": "Check how they handled spatial validation and machine learning interpretations to see if they apply to urban or semi-arid data.",
     "relationship": "method"
    },
    "critical": {
-    "question": "Does the normalization choice invalidate the reported improvement in coordination?",
-    "evidence": "A sensitivity analysis with a pooled reference reproduced the 2000-2010 increase but not the 2010-2020 increase.",
-    "limit": "It cannot be established from the abstract whether absolute coordination truly improved between 2010 and 2020.",
-    "check": "Examine the full paper's sensitivity analysis to see how robust the coordination trends actually are."
+    "question": "Can machine learning algorithms like XGBoost reliably isolate the true environmental drivers of ecosystem services without overfitting spatial data?",
+    "evidence": "The study used spatially validated XGBoost with SHAP and ALE to rank drivers and show non-linear associations like the decline in water yield at high NDVI.",
+    "limit": "The abstract does not establish whether the modeled outputs reflect actual field observations or direct measurements of biodiversity.",
+    "check": "Verify how spatial autocorrelation was handled during cross-validation to ensure the machine learning models did not overfit."
    },
    "relevance": 3,
-   "watch": "Cites your reference doi:10.1073/pnas.0907284107",
-   "source": {
-    "url": "https://doi.org/10.3390/su182312053",
-    "doi": "https://doi.org/10.3390/su182312053",
-    "venue": "Sustainability",
-    "date": "2026-11-26",
-    "authors": [
-     "Qian Lei",
-     "Kexin Wang",
-     "Azmat Gyrat"
-    ],
-    "n_authors": 3,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7239867691",
-   "title": "Ecosystem Service Trade-Offs, Synergies and Environmental Associations in the Agricultural Landscape of the Sanjiang Plain, China",
-   "headline": "Trade-offs between food production and nature in China",
-   "bullets": [
-    "Assessed food, water, soil, carbon and habitat using remote sensing and stats from 2001 to 2024.",
-    "Food production rose sharply while carbon storage and habitat quality declined over time.",
-    "Informs local landscape management balancing food production and environmental conservation."
-   ],
-   "plain": {
-    "question": "How do food production and nature benefits interact in a major farming region over time?",
-    "method": "Used satellite data, maps, and statistical tools to track five key environmental factors from 2001 to 2024.",
-    "finding": "Farming went up greatly, but carbon storage and habitat quality went down, showing clear trade-offs.",
-    "why": "This helps leaders plan local land use to balance growing food needs with nature protection."
-   },
-   "full": {
-    "explainer": "Researchers looked at an agricultural area in China called the Sanjiang Plain to see how farming affects nature. Between 2001 and 2024, they used satellite and environmental data to track five important factors: food production, water yield, soil conservation, carbon storage, and habitat quality. They found that food production increased by a large amount, while carbon storage and habitat quality both dropped. When they looked at how these factors relate to each other, food production consistently worked against soil conservation, carbon storage, and habitat quality. Meanwhile, those three nature benefits tended to stay positive together. The team also studied which environmental factors drove these patterns, finding that things like elevation, water balance, and baseline irrigation played major roles. Because different areas showed varying results, the authors suggest that land management needs to be tailored to specific counties to successfully balance farming with environmental protection.",
-    "caveats": [
-     "Regional-to-county differences show factor rankings change depending on the scale.",
-     "Correlations involving water yield varied more across years than other metrics."
-    ],
-    "jargon": [
-     {
-      "term": "Ecosystem service trade-offs",
-      "definition": "Situations where the increase of one nature benefit causes the reduction or loss of another."
-     },
-     {
-      "term": "Fuzzy geographical detector",
-      "definition": "A statistical method used to find how much certain environmental factors explain spatial patterns."
-     },
-     {
-      "term": "Habitat quality",
-      "definition": "An estimate of an area's ability to provide conditions suitable for species persistence."
-     }
-    ],
-    "fit": "Demonstrates methods for tracking long-term land-cover change and service trade-offs, relevant to broader landscape planning frameworks."
-   },
-   "thesis": {
-    "why": "It shows how remote sensing can track long-term land-cover changes and ecosystem service trade-offs, mirroring methods the student plans to use.",
-    "action": "Check how they handled land-cover classification accuracy and spatial statistical modeling across years.",
-    "relationship": "method"
-   },
-   "critical": {
-    "question": "How do we know if the observed trade-offs are driven by land-cover change rather than climate variations?",
-    "evidence": "The study evaluates trends from 2001 to 2024 using remote sensing, environmental, and statistical data, but does not isolate socio-economic drivers.",
-    "limit": "Causal links between specific human activities and service changes cannot be fully established from spatial correlations alone.",
-    "check": "Verify how the fuzzy geographical detector isolates individual environmental factor weights from overlapping regional drivers."
-   },
-   "relevance": 2,
    "watch": "Cites your reference doi:10.1016/j.gloenvcha.2017.08.004",
    "source": {
-    "url": "https://doi.org/10.3390/rs18234046",
-    "doi": "https://doi.org/10.3390/rs18234046",
-    "venue": "Remote Sensing",
-    "date": "2026-11-25",
+    "url": "https://doi.org/10.3390/su182311911",
+    "doi": "https://doi.org/10.3390/su182311911",
+    "venue": "Sustainability",
+    "date": "2026-11-23",
     "authors": [
-     "Guanhang Sui",
-     "Geng Niu",
-     "Yaxue Yang",
-     "Yanzi Li",
-     "Siyang Cai",
-     "Pinyi Li"
-    ],
-    "n_authors": 7,
-    "open_access": true,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7239792737",
-   "title": "Unveiling spatial patterns and underlying drivers of ecosystem service coordination in coastal blue carbon ecosystems using interpretable machine learning",
-   "headline": "Not stated",
-   "bullets": [
-    "Not stated",
-    "Not stated",
-    "Not stated"
-   ],
-   "plain": {
-    "question": "Not stated",
-    "method": "Not stated",
-    "finding": "Not stated",
-    "why": "Not stated"
-   },
-   "full": {
-    "explainer": "Not stated",
-    "caveats": [
-     "Not stated"
-    ],
-    "jargon": [],
-    "fit": "Not stated"
-   },
-   "thesis": {
-    "why": "Not stated",
-    "action": "Not stated",
-    "relationship": "unclear"
-   },
-   "critical": {
-    "question": "Not stated",
-    "evidence": "Not stated",
-    "limit": "Not stated",
-    "check": "Not stated"
-   },
-   "relevance": 1,
-   "watch": "Cites your reference doi:10.1111/j.1461-0248.2009.01387.x",
-   "source": {
-    "url": "https://doi.org/10.1016/j.eiar.2026.108851",
-    "doi": "https://doi.org/10.1016/j.eiar.2026.108851",
-    "venue": "Environmental Impact Assessment Review",
-    "date": "2026-11-25",
-    "authors": [
-     "Shuhao Liu",
-     "Shuai He",
-     "Shang Chen",
-     "Christian Lindemann",
-     "Olivia Raquel Rendon",
-     "Kasper Hancke"
+     "Kexin Tang",
+     "Runping Wang",
+     "Mingxuan Yi",
+     "Dongming Zhang",
+     "建功 尤",
+     "Liwei Zhou"
     ],
     "n_authors": 8,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7240050497",
-   "title": "Reconceptualizing Urban Liminal Spaces: Ecosystem Services and the Politics of Urban Transformation along the Adyar River, Chennai, India",
-   "headline": "Urban liminal spaces provide valuable ecosystem services",
-   "bullets": [
-    "Quantified ecosystem services along a 6-km river stretch using mixed methods.",
-    "Found substantial carbon storage, runoff reduction, and ₹2,209,488 in benefits.",
-    "Proves overlooked value can help integrate transitional spaces into planning."
-   ],
-   "plain": {
-    "question": "How do transitional urban spaces affect nature benefits and city planning?",
-    "method": "Used interviews, satellite maps, computer models, and economic surveys.",
-    "finding": "These spaces store carbon and stop runoff, worth millions in yearly value.",
-    "why": "It shows cities should include these neglected areas in future plans."
-   },
-   "full": {
-    "explainer": "In fast-growing cities of the Global South, transitional areas between formal and informal zones often appear along riverbanks and coastlines. These places are called urban liminal spaces. They provide important nature benefits, like climate regulation and flood control, but are usually ignored by city planners because their value is not measured. This study looked at a six-kilometer river stretch in Chennai, India. The researchers used several tools, including interviews, vegetation mapping, computer modeling, and economic surveys. They discovered that these spaces store carbon, reduce stormwater runoff, and offer recreational and economic benefits worth over two million rupees per year. Furthermore, economic surveys showed people are willing to pay for these benefits. Spatial analysis also revealed that nature benefits vary across space and cluster in areas with higher land values. Ultimately, this research provides hard numbers showing that overlooked transitional spaces offer massive benefits. This gives city planners the evidence they need to include these areas in public policies to improve urban resilience and fairness.",
-    "caveats": [
-     "Limited empirical evidence previously excluded these spaces from planning and policy.",
-     "Not stated whether these findings apply outside the studied river stretch in Chennai."
-    ],
-    "jargon": [
-     {
-      "term": "urban liminal spaces",
-      "definition": "Transitional zones between formal and informal land uses, like riverbanks or underbridge areas."
-     },
-     {
-      "term": "ecosystem services",
-      "definition": "The benefits people get from nature, such as climate regulation and flood mitigation."
-     },
-     {
-      "term": "geographically weighted regression",
-      "definition": "A spatial analysis tool used to understand how relationships change across different locations."
-     }
-    ],
-    "fit": "Examines ecosystem services and planning for transitional urban spaces in the Global South, offering methods to evaluate overlooked areas."
-   },
-   "thesis": {
-    "why": "It addresses ecosystem service supply, valuation, and planning integration in the Global South, directly aligning with urban environmental planning goals.",
-    "action": "Check how the study handles spatial modeling and valuation of urban nature access.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "Are the monetized ecosystem service values and benefit clusters driven entirely by underlying land values rather than vegetation quality?",
-    "evidence": "The abstract notes that geographically weighted regression showed vegetation quality rapidly outperforming plot size while benefits clustered in higher-land-value areas.",
-    "limit": "It cannot be established from the abstract whether these economic monetization methods can be directly transferred to data-scarce, conflict-affected cities like Kabul.",
-    "check": "Verify how the choice experiments and contingent valuation were administered to avoid bias."
-   },
-   "relevance": 5,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.1061/jupddm.upeng-7038",
-    "doi": "https://doi.org/10.1061/jupddm.upeng-7038",
-    "venue": "Journal of Urban Planning and Development",
-    "date": "2026-11-26",
-    "authors": [
-     "Yaazhini Pachaiyappan Ramadevi",
-     "Kiranmayi Raparthi"
-    ],
-    "n_authors": 2,
-    "open_access": false,
-    "basis": "abstract"
-   }
-  },
-  {
-   "id": "W7240062352",
-   "title": "Thirty years of bare soil exposure and thermal stress contribute to urban ecological degradation in Delhi",
-   "headline": "Bare soil and heat drive Delhi's ecological decline",
-   "bullets": [
-    "Used remote sensing and machine learning to create an Urban Eco-Stress Resilience Index",
-    "Found bare soil and heat became main drivers of stress after 2011 as the core saturated",
-    "Helps prioritize ecological restoration in rapidly urbanizing Global South cities"
-   ],
-   "plain": {
-    "question": "What drives ecosystem loss in big cities when simple satellite measures are not enough?",
-    "method": "They built a new index combining satellite data, landscape resistance, and smart computer learning for Delhi.",
-    "finding": "Bare soil and high heat became the main causes of ecological damage after 2011, dropping value heavily.",
-    "why": "It gives cities a clear tool to fix and restore nature before damage becomes permanent."
-   },
-   "full": {
-    "explainer": "As cities grow, they often lose important natural areas like parks and lakes. Traditional satellite tools cannot always explain what causes this loss. To understand this better, researchers looked at Delhi, India, from 1991 to 2023. They created a special tool called the Urban Eco-Stress Resilience Index, which mixes satellite data with computer learning. They found that up to 2011, the spread of hard buildings caused most of the environmental damage. However, after 2011, bare soil and rising surface heat became the biggest problems as the city center filled up. During this time, surface temperatures jumped by about 10 degrees Celsius, and the value of nature dropped by over 40 percent. Field surveys of 38 natural spaces confirmed these trends. This new index gives growing cities in the Global South a practical way to find and fix damaged ecosystems early.",
-    "caveats": [
-     "The study focuses specifically on Delhi, India, from 1991 to 2023.",
-     "Not stated whether field surveys covered all types of urban areas equally."
-    ],
-    "jargon": [
-     {
-      "term": "Land surface temperature",
-      "definition": "How hot the ground feels when measured from satellites."
-     },
-     {
-      "term": "Ecosystem service value",
-      "definition": "The estimated money value of benefits nature gives to people."
-     },
-     {
-      "term": "Urban Eco-Stress Resilience Index",
-      "definition": "A combined tool using satellite data and machine learning to track ecological stress."
-     },
-     {
-      "term": "Landscape resistance",
-      "definition": "How hard it is for species to move across a modified landscape."
-     }
-    ],
-    "fit": "It shares methods like remote sensing and machine learning, and tackles urban ecological degradation in the Global South."
-   },
-   "thesis": {
-    "why": "It connects to urban ecosystem services and land-cover change in the Global South, showing shifts from building expansion to heat and bare soil stress.",
-    "action": "Check how they measured ecosystem service value and validated their machine learning model.",
-    "relationship": "context"
-   },
-   "critical": {
-    "question": "How do you separate the effects of bare soil from other land-cover changes in dense urban cores?",
-    "evidence": "The abstract states that drivers shifted to bare soil and surface heating after 2011 as the urban core approached saturation.",
-    "limit": "The abstract does not detail the exact mathematical formulas used in the machine learning model.",
-    "check": "Verify how field surveys of the 38 blue-green spaces were sampled and weighted against satellite data."
-   },
-   "relevance": 5,
-   "watch": null,
-   "source": {
-    "url": "https://doi.org/10.17863/cam.137369",
-    "doi": "https://doi.org/10.17863/cam.137369",
-    "venue": "Apollo",
-    "date": "2026-11-26",
-    "authors": [
-     "Priyanka Jha",
-     "Pawan Kumar Yadav",
-     "Joy, Saharik",
-     "Taruna Bansal",
-     "Ramit Debnath"
-    ],
-    "n_authors": 5,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7240038862",
-   "title": "ECOSYSTEM SERVICES VALUATION AS MOTIVATION IN FAVOR OF CREATING A PROTECTED AREA IN AN ATLANTIC RAINFOREST REMNANT IN BRAZIL",
-   "headline": "Ecosystem valuation supports new protected area in Brazil",
+   "id": "W7238838956",
+   "title": "Ecosystem-Centred Accounting: An Accountability Framework for Collective Nature Stewardship",
+   "headline": "Ecosystem-Centred Accounting Framework Proposed",
    "bullets": [
-    "Used surveys and economic methods to value 15 ecosystem services in a Brazilian rainforest.",
-    "Found total economic value exceeded US$ 14 million, with high sociocultural contributions.",
-    "Shows economic valuation can successfully motivate and support the creation of a protected area."
+    "Created an ecosystem-centred accounting framework for collective nature stewardship.",
+    "Showed current accounting tools fail to manage shared ecological concerns.",
+    "Provides tools for inter-organisational dialogue, negotiation, and restoration."
    ],
    "plain": {
-    "question": "Can putting a money value on nature help create a new protected wildlife area?",
-    "method": "Surveys and economic pricing methods were used to find the value of nature benefits.",
-    "finding": "The nature benefits were worth over 14 million dollars, especially cultural values.",
-    "why": "It shows that showing nature's money value helps protect natural places."
+    "question": "How can interdependent groups coordinate to manage and restore shared natural ecosystems effectively?",
+    "method": "Built a theoretical synthesis and an accounting framework with eight accounts, tested in four French field experiments.",
+    "finding": "Standard business and government accounting tools fail to drive positive ecological outcomes for shared nature.",
+    "why": "It helps diverse groups negotiate, govern, and take action together to restore nature."
    },
    "full": {
-    "explainer": "This paper looks at how putting a money value on nature can help create a new protected wildlife area. The researchers studied a subtropical rainforest remnant in Brazil called the Saí Springs Wildlife Refuge. Because of pandemic social isolation, they used online surveys to let people participate. They identified 15 different benefits that nature provides to people, and they calculated the economic value for eight of those benefits using two economic methods: market pricing and benefit transfer. The total estimated economic value was over 14 million dollars, with cultural benefits being very important. Through local interviews, they also measured how much importance people gave to these service categories and their money values. They found that the process increased the perceived importance of all categories, especially cultural ones. Ultimately, the results show a link between economic value and how much interested people care, suggesting that valuing nature economically is a useful tool to help establish protected areas.",
+    "explainer": "As nature recovery becomes a major priority, current tools used by businesses and governments to assess impacts or account for natural capital are not working. They fail to address the core problem: how to organize collective stewardship for shared environmental concerns at the social-ecosystem level. This book introduces an actionable framework for collective, ecosystem-centred accounting. Based on a decade of research, the author reframes this as a management accounting issue to support inter-organisational strategic action. The book builds theoretical foundations called strategic compositionism, presents an Ecosystem-Centred Accounting Framework with eight interconnected accounts, and tests these ideas across four field experiments in France. Finally, it discusses scaling up these methods and connecting them with other biodiversity initiatives. The book targets researchers, students, practitioners, and policymakers dealing with collective ecosystem governance.",
     "caveats": [
-     "The study relies on online surveys and interviews conducted during pandemic social isolation.",
-     "Economic values were estimated for only eight of the 15 identified ecosystem services.",
-     "Not stated whether these economic valuation methods directly transfer to urban environments."
+     "Field experiments were limited to France.",
+     "Specific numerical results of the field experiments are not stated in the abstract."
     ],
     "jargon": [
      {
-      "term": "ecosystem services",
-      "definition": "The benefits that human life and activities receive freely from natural ecosystems."
+      "term": "Natural capital accounting",
+      "definition": "Methods to measure and report on stocks and flows of natural resources and ecosystem services."
      },
      {
-      "term": "benefit transfer",
-      "definition": "An economic valuation method that applies existing values from past studies to a new site."
-     },
-     {
-      "term": "salience indices",
-      "definition": "Measures of how prominent or important a category appears to the surveyed people."
+      "term": "Strategic compositionism",
+      "definition": "A theoretical synthesis developed in the book as the foundation for the accounting approach."
      }
     ],
-    "fit": "Demonstrates how valuing ecosystem services and stakeholder surveys can motivate environmental management and protected area creation."
+    "fit": "Offers governance and accounting tools for collective ecosystem stewardship, relevant to environmental planning and stakeholder management."
    },
    "thesis": {
-    "why": "It connects to your focus on environmental planning and ecosystem service values, showing how non-material and economic values influence conservation decisions.",
-    "action": "Check how they handled benefit transfer and if it can apply to urban or data-scarce settings.",
+    "why": "It focuses on governance and collective stewardship of shared ecosystems, which relates to environmental planning and stakeholder coordination.",
+    "action": "Check if the accounting framework can be adapted for urban green-blue infrastructure governance in data-scarce settings.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does stated economic value truly drive environmental policy, or is it just a post-hoc justification?",
-    "evidence": "The abstract claims the results point to the useful potential of economic valuation as an instrument to support creating a protected area based on correlation.",
-    "limit": "The abstract does not establish direct policy outcomes or long-term conservation success resulting from the valuation.",
-    "check": "Verify how the online stakeholder surveys were controlled for sample bias during pandemic isolation."
+    "question": "How transferable is an accounting framework tested primarily in France to data-scarce and conflict-affected settings in the Global South?",
+    "evidence": "The abstract notes the framework was tested across four contrasting field experiments in France, but does not mention testing elsewhere.",
+    "limit": "It is not established whether the framework works in informal settlements or conflict-affected cities like Kabul.",
+    "check": "Review the details of the four French field experiments to see what socio-political conditions were assumed."
    },
-   "relevance": 3,
-   "watch": null,
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
    "source": {
-    "url": "https://doi.org/10.56238/revgeov17n11-136",
-    "doi": "https://doi.org/10.56238/revgeov17n11-136",
-    "venue": "Revista de Geopolítica",
+    "url": "https://doi.org/10.4324/9781003591184",
+    "doi": "https://doi.org/10.4324/9781003591184",
+    "venue": "Routledge eBooks",
+    "date": "2026-11-23",
+    "authors": [
+     "Clément Feger"
+    ],
+    "n_authors": 1,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7239374419",
+   "title": "Drought sensitivity in rangelands dominated by perennial plants is linked to forage aptitude",
+   "headline": "Drought sensitivity linked to forage aptitude in rangelands",
+   "bullets": [
+    "Studied how droughts affect rangelands dominated by perennial plants.",
+    "Found that vegetation sensitivity to drought increases with aridity.",
+    "Helps understand how water limitation impacts key ecosystem processes."
+   ],
+   "plain": {
+    "question": "How does drought affect rangeland plants in dry areas?",
+    "method": "Controlled experiments and reviewing plant traits.",
+    "finding": "Plants in drier places are actually more sensitive to drought.",
+    "why": "It helps us see how dry places handle water shortages."
+   },
+   "full": {
+    "explainer": "As droughts become more common and severe, scientists want to know how vegetation responds to water shortages. This paper looks at rangelands dominated by perennial plants, which are plants that live for more than one year. Controlled experiments show that plants in very dry places become more sensitive to drought as aridity increases. This might seem surprising because plants in dry regions usually have traits that help them resist dry conditions. However, the study explains that drought simply makes the harsh conditions that already limit plant growth even worse. Additionally, these dry ecosystems feature different types of plants living together that use resources in contrasting ways. Understanding this helps us see how droughts reduce the ability of rangelands to provide forage, keep biodiversity alive, and sustain important ecosystem processes.",
+    "caveats": [
+     "Controlled experiments show patterns, but full geographic scope is not stated.",
+     "Exact plant species are not stated beyond perennial plants."
+    ],
+    "jargon": [
+     {
+      "term": "rangelands",
+      "definition": "Land with native vegetation grazed by domestic animals or wildlife."
+     },
+     {
+      "term": "perennial plants",
+      "definition": "Plants that live for more than two years."
+     },
+     {
+      "term": "aridity",
+      "definition": "A severe lack of available water in a region's climate."
+     },
+     {
+      "term": "ecosystem processes",
+      "definition": "The physical, chemical, and biological actions that happen within an ecosystem."
+     }
+    ],
+    "fit": "Connects to rangeland vegetation, ecosystem processes, and plant resource use, though it focuses on dry rangelands rather than urban Kabul."
+   },
+   "thesis": {
+    "why": "Provides baseline knowledge on vegetation sensitivity to water limitation, which relates broadly to water and plant health in semi-arid environments.",
+    "action": "Check if the controlled experiment methods or plant resource-use ideas apply to urban fringe rangelands.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How do controlled experiments on rangeland plants translate to complex urban or semi-arid environments?",
+    "evidence": "The abstract relies on controlled experiments to show that drought sensitivity increases with aridity in perennial rangelands.",
+    "limit": "The abstract does not mention urban areas, human settlements, or specific spatial planning applications.",
+    "check": "Verify if the full paper discusses scaling these plant responses up to broader regional environments."
+   },
+   "relevance": 2,
+   "watch": "Cites your reference doi:10.1126/science.aap8826",
+   "source": {
+    "url": "https://doi.org/10.1017/dry.2026.10063",
+    "doi": "https://doi.org/10.1017/dry.2026.10063",
+    "venue": "Cambridge Prisms Drylands",
     "date": "2026-11-24",
     "authors": [
-     "Matheus Morganti Baldim",
-     "Luís Carlos Iuñes de Oliveira Filho",
-     "Nelson Libardi Júnior",
-     "Rodrigo de Almeida Mohedano"
+     "Viviana F. Bondaruk",
+     "Roberto Fernández",
+     "Gastón R. Oñatibia",
+     "Laura Yahdjian"
     ],
     "n_authors": 4,
     "open_access": true,
@@ -400,63 +208,131 @@
    }
   },
   {
-   "id": "W7240042250",
-   "title": "The rapid growth of research on global urban and periurban agrobiodiversity: systematic review of geographic-spatial and social-ecological characteristics",
-   "headline": "Global urban agrobiodiversity research is growing rapidly",
+   "id": "W7240220133",
+   "title": "Urban Expansion and Peri-urban Farmland and Livelihood Sustainability in Sheger City Ethiopia",
+   "headline": "Urban expansion destroys farmland in Sheger City",
    "bullets": [
-    "Reviewed 33 publications using a combined framework and PRISMA approach",
-    "Found publication numbers doubled in 2020-2026 compared to 2015-2019",
-    "Highlights links to sustainability, environmental justice, and food systems"
+    "Used satellite images and surveys of 393 households from 2003 to 2023.",
+    "Found built-up areas grew massively while cropland dropped by 13.4% recently.",
+    "Shows urban growth harms food security and livelihood stability in the Global South."
    ],
    "plain": {
-    "question": "How are plants and farming managed in cities and nearby areas worldwide?",
-    "method": "Reviewed 33 published research papers using a structured tracking tool.",
-    "finding": "Research doubled recently, with a focus on nearby areas in poorer countries.",
-    "why": "It helps build sustainable cities and fair food systems."
+    "question": "How does rapid city growth affect farms and livelihoods near cities?",
+    "method": "Looked at satellite pictures from 2003 to 2023 and asked 393 households questions.",
+    "finding": "City buildings grew hugely while farm land shrank, hurting food and farming.",
+    "why": "It shows farming is no longer safe for making a living near expanding cities."
    },
    "full": {
-    "explainer": "During our current urban century, growing and using a wide variety of crops and farm plants—known as agrobiodiversity—in city centers and nearby peri-urban areas is vital for sustainable development, affordable food, and environmental justice. This paper looks at how global research on this topic has grown. The authors used a structured review method to analyze 33 peer-reviewed studies. They found that research output doubled between 2020 and mid-2026 compared to the 2015-2019 period. The results show that studies are split evenly between city-only and peri-urban-only areas, but peri-urban studies are heavily concentrated in low- and middle-income countries. While many characteristics are shared, like plant-based foods and local knowledge, governance and labor arrangements show sharp differences between city centers and peri-urban zones. The study highlights key research gaps and offers recommendations for future policies supporting urban sustainability and justice.",
+    "explainer": "This paper looks at how fast-growing cities in developing countries change the land around them and affect the people who live there. The researchers studied Sheger City, which sits on the edge of Addis Ababa in Ethiopia. By looking at satellite pictures taken between 2003 and 2023, along with surveys from 393 local households, interviews, and group talks, they tracked how the landscape changed over time. The results show massive growth in city buildings, which grew more than forty times larger, mostly by taking over farm land and grass land. Cropland alone dropped significantly in recent years. The authors found that both planned and unplanned settlements, combined with weak land rules, caused these shifts. As farm lands shrink, local people face major problems producing crops and keeping livestock, which makes them much more vulnerable to running out of food. Overall, the study proves that farming on the edge of growing cities is becoming a very shaky way to survive, pointing to an urgent need for better land rules and protection for rural communities.",
     "caveats": [
-     "The review is based on a filtered evidence base of 33 publications.",
-     "Not stated whether findings apply equally to all cities without local context."
+     "Household surveys rely on self-reported data which has inherent limits.",
+     "Exact causal mechanisms between governance and land change are not fully detailed."
     ],
     "jargon": [
      {
-      "term": "agrobiodiversity",
-      "definition": "The variety and variability of animals, plants, and micro-organisms used for food and agriculture."
+      "term": "Peri-urban",
+      "definition": "The transition zone where urban and rural areas meet and mix."
      },
      {
-      "term": "PRISMA approach",
-      "definition": "A structured method used for conducting systematic reviews and literature searches."
+      "term": "LULC dynamics",
+      "definition": "Changes in how land is covered and used over a period of time."
      },
      {
-      "term": "periurban",
-      "definition": "The transition zone or interaction zone where urban and rural areas mix."
+      "term": "Tenure protection",
+      "definition": "Legal safeguards that secure people's rights to land and property."
      }
     ],
-    "fit": "Connects to peri-urban agriculture and food-environment planning in developing urban contexts."
+    "fit": "It connects by examining peri-urban land-cover change, informal settlements, and livelihood vulnerabilities in the Global South."
    },
    "thesis": {
-    "why": "It addresses peri-urban agriculture, linking urban food systems with environmental planning in developing regions.",
-    "action": "Check how peri-urban agricultural characteristics are defined and mapped.",
+    "why": "It connects to urban expansion, land-cover change, and peri-urban agriculture in the Global South, offering insights into livelihood vulnerabilities.",
+    "action": "Check how they integrated household survey data with multi-temporal remote sensing.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does a sample of 33 papers adequately represent global trends?",
-    "evidence": "The study relies on an evidence base comprising 33 publications extracted through a specific search strategy.",
-    "limit": "The abstract does not detail the specific geographic spread beyond noting a concentration in low- and middle-income countries.",
-    "check": "Verify the search terms and inclusion criteria used in the full paper to ensure no key regions were missed."
+    "question": "Does the study prove that formal versus informal settlement expansion drives different livelihood outcomes?",
+    "evidence": "The abstract mentions that changes are associated with formal and informal settlement expansion and weak land governance, but does not separate their specific effects.",
+    "limit": "It cannot be established from the abstract whether formal or informal settlements caused greater farmland loss or livelihood vulnerability.",
+    "check": "Verify if the full text separates the impacts of formal versus informal expansion on specific types of agricultural losses."
    },
-   "relevance": 3,
+   "relevance": 4,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.3389/fsufs.2026.2026434",
-    "doi": "https://doi.org/10.3389/fsufs.2026.2026434",
-    "venue": "Frontiers in Sustainable Food Systems",
+    "url": "https://doi.org/10.21203/rs.3.rs-11443882/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11443882/v1",
+    "venue": "Research Square",
+    "date": "2026-11-27",
+    "authors": [
+     "Faris Edris Lemma"
+    ],
+    "n_authors": 1,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7240088759",
+   "title": "Beyond the luxury effect: Scale-dependent associations between socioeconomic inequality and urban bird diversity across six global cities",
+   "headline": "Wealth and inequality affect bird diversity differently",
+   "bullets": [
+    "Analyzed wealth, inequality, and bird diversity in six global cities using spatial models",
+    "Found luxury effects in some cities, and that high inequality can weaken the luxury effect",
+    "Shows city-social links vary by scale and are not universal across the globe"
+   ],
+   "plain": {
+    "question": "How do money and income gaps relate to bird variety in big cities?",
+    "method": "They looked at bird records from people and maps in six cities at four different grid sizes.",
+    "finding": "Richer areas had more birds in some cities, but income gaps changed this pattern in others.",
+    "why": "It proves that city nature and social inequality link up in complex, non-universal ways."
+   },
+   "full": {
+    "explainer": "Biodiversity in cities is often tied to human wealth, a pattern known as the luxury effect. Most studies on this come from the Global North, leaving it unclear how wealth and income inequality shape nature elsewhere. To test this, researchers looked at six large cities, including three in the Global South: Bogota, Cape Town, Sydney, Mexico City, London, and Los Angeles. They used bird records gathered by citizens alongside spatial models across four different spatial resolutions, ranging from 250 to 2000 meters, to see how absolute wealth and the Gini coefficient of inequality relate to bird diversity. The results showed that a luxury effect exists in London and Cape Town, as well as through neighboring wealth in Los Angeles. However, in London, this effect gets weaker as inequality rises. Meanwhile, in Bogota and Mexico City, inequality stayed in the best models at fine scales, sometimes showing nonlinear links. Sydney showed no clear pattern at all. Ultimately, the ties between wealth, inequality, and birds are not universal or fixed by scale, meaning multi-city studies depend heavily on the scale of social data used.",
+    "caveats": [
+     "Sydney showed no consistent pattern",
+     "Results depend on the granularity of socioeconomic data used",
+     "Not stated how other ecosystem services besides bird diversity are affected"
+    ],
+    "jargon": [
+     {
+      "term": "Luxury effect",
+      "definition": "The pattern where higher biodiversity is found in wealthier neighborhoods."
+     },
+     {
+      "term": "Gini coefficient",
+      "definition": "A standard statistical measure of economic inequality."
+     },
+     {
+      "term": "Spatial regression models",
+      "definition": "Statistical tools that analyze data while accounting for geographic locations and distances."
+     },
+     {
+      "term": "Granularity",
+      "definition": "The level of detail or scale at which data is gathered and analyzed."
+     }
+    ],
+    "fit": "Connects to Global South urban research, habitat quality, and social-ecological systems by testing how social inequality shapes urban nature."
+   },
+   "thesis": {
+    "why": "Connects to habitat quality and social-ecological systems in the Global South, showing how social metrics relate to urban biodiversity outcomes across diverse contexts.",
+    "action": "Check how the authors handled spatial resolution differences between Global North and South cities.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "Does income inequality directly cause changes in bird diversity, or are other underlying factors responsible?",
+    "evidence": "The abstract notes that inequality was retained in models at fine resolutions and that inequality can weaken the luxury effect, but it relies on spatial regression without proving direct causation.",
+    "limit": "Causal effects of settlement status, wealth, or inequality on bird diversity cannot be established from this abstract.",
+    "check": "Verify if the full paper tests for confounding physical habitat variables or if the spatial models only show correlations."
+   },
+   "relevance": 4,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.32942/x2bm4f",
+    "doi": "https://doi.org/10.32942/x2bm4f",
+    "venue": "EcoEvoRxiv",
     "date": "2026-11-26",
     "authors": [
-     "Karl S. Zimmerer",
-     "Felipe Bravo-Peña"
+     "Rodrigo Mutis",
+     "Juan Rocha"
     ],
     "n_authors": 2,
     "open_access": true,
@@ -464,138 +340,260 @@
    }
   },
   {
-   "id": "W7237617397",
-   "title": "Understanding people-nature relationships through ethnobotanical knowledge and plant resource utilization in peri-urban Punjab, Pakistan",
-   "headline": "Local plant knowledge in peri-urban Pakistan",
+   "id": "W7239786784",
+   "title": "THE INFLUENCE OF URBAN FORESTS ON URBAN PROPERTY VALUES: A SYSTEMATIC REVIEW",
+   "headline": "Urban forests usually raise property values",
    "bullets": [
-    "Surveyed traditional plant knowledge in six peri-urban villages in Lahore, Pakistan.",
-    "Documented uses for 27 plant species spanning medicine, food, fodder, and culture.",
-    "Highlights how local communities depend on multipurpose plants for daily needs."
+    "Reviewed research on how urban green spaces affect property sale or rental values.",
+    "Found mostly positive effects, though some effects were negative or mixed.",
+    "Shows green spaces influence real estate based on local conditions and management."
    ],
    "plain": {
-    "question": "How do people in peri-urban areas use local plants?",
-    "method": "Interviews with local people in six villages using snowball sampling.",
-    "finding": "People use 27 plant types mostly for medicine, food, and animal feed.",
-    "why": "It shows how local communities rely on plants for survival and culture."
+    "question": "How do urban trees and green spaces affect the sale and rental prices of city properties?",
+    "method": "A systematic review searching databases like Scopus and Web of Science for studies from 2007 to 2025.",
+    "finding": "Green spaces mostly increase property values, but results can sometimes be negative or mixed.",
+    "why": "It helps planners understand the economic impacts of adding nature into cities."
    },
    "full": {
-    "explainer": "This paper looks at traditional plant knowledge in six villages near Lahore, Pakistan, to see how people use local plant resources. Researchers used interviews to gather information from local people. They found that the community uses 27 different plant species for many purposes, including traditional medicine, food, animal feed, culture, and fuel. Most medicinal plants treat digestive problems, muscle issues, and skin conditions, while leaves, fruits, and seeds are the most common parts used. Many plants serve multiple roles, such as providing both food and animal feed. Certain species like Morus serrata and Morus nigra had high value scores among locals, showing they are very important. Overall, the study highlights how peri-urban communities depend heavily on local plants for their everyday health, livelihoods, and traditions.",
+    "explainer": "This paper looks at how urban forests, trees, and green spaces change the prices of homes and rentals in cities. The authors searched major scientific databases for studies published between 2007 and 2025. They followed a structured review process to analyze past research. Most of the studies they found took place in the United States, China, and Australia, meaning there is less research from the Global South. Researchers in these studies mostly used property valuation models alongside tools like geographic data and satellite images. The overall results show that urban green spaces usually increase property values. However, the effects are not always positive. Sometimes, green spaces can lead to negative or mixed results due to issues like safety, maintenance, pests, and green gentrification, which is when new green areas make housing too expensive for local residents. The paper concludes that nature boosts property prices when people see it as safe, useful, and well-connected to the city, but the exact outcome depends heavily on local context and city planning.",
     "caveats": [
-     "Findings are based on a specific sample from six villages in Pakistan.",
-     "Not stated whether these plant uses can be generalized to other regions."
+     "Most analyzed studies are concentrated in the United States, China, and Australia, with fewer from the Global South.",
+     "Effects on property values can be negative, ambiguous, or context-dependent rather than universally positive."
     ],
     "jargon": [
      {
-      "term": "Ethnobotanical knowledge",
-      "definition": "Traditional knowledge held by a group of people about how plants are used."
+      "term": "Hedonic pricing models",
+      "definition": "A statistical method used to estimate the value of specific environmental traits on property prices."
      },
      {
-      "term": "Snowball sampling",
-      "definition": "A recruitment method where existing study participants help find future participants."
+      "term": "Green gentrification",
+      "definition": "When adding green spaces raises living costs and pushes out lower-income residents."
      },
      {
-      "term": "Two-way cluster analysis",
-      "definition": "A statistical method that groups species and uses together based on similarities."
+      "term": "NDVI",
+      "definition": "A satellite-based index used to measure the amount of green vegetation in an area."
      }
     ],
-    "fit": "Connects to Global South urban contexts and human benefits from nature, focusing on peri-urban plant resource use and local dependence."
+    "fit": "Connects economic valuation of urban green spaces to planning, noting a lack of studies in the Global South."
    },
    "thesis": {
-    "why": "It provides context on human-nature relationships and plant resource utilization in a Global South peri-urban setting, relevant to ecosystem service benefits.",
-    "action": "Check how the study measures actual plant use versus mapped spatial distribution of green spaces.",
+    "why": "It connects urban nature to human economic benefits, highlighting socio-spatial inequality and green gentrification in data-scarce settings.",
+    "action": "Check if the review discusses property value impacts in semi-arid or conflict-affected regions.",
     "relationship": "context"
    },
    "critical": {
-    "question": "How do interview-based plant uses translate into measurable ecosystem service flows?",
-    "evidence": "The study documents traditional knowledge and uses through interviews but does not measure spatial service delivery or biophysical supply.",
-    "limit": "It cannot establish the actual ecological sustainability or spatial mapping of these plant resources.",
-    "check": "Verify if the full paper links interview findings to spatial land-cover data or ecological assessments."
+    "question": "How can property value findings from wealthy nations apply to data-scarce cities in the Global South?",
+    "evidence": "The abstract notes a geographic concentration of studies in the US, China, and Australia, with a lower presence in the Global South.",
+    "limit": "The abstract does not provide specific data or examples from cities like Kabul or similar contexts.",
+    "check": "Verify whether any studies from the Global South were included in the final review pool."
    },
    "relevance": 3,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.32859/era.36.40.1-21",
-    "doi": "https://doi.org/10.32859/era.36.40.1-21",
-    "venue": "Ethnobotany Research and Applications",
-    "date": "2026-11-22",
+    "url": "https://doi.org/10.54899/dcs.v23i101.124",
+    "doi": "https://doi.org/10.54899/dcs.v23i101.124",
+    "venue": "Derecho y cambio social.",
+    "date": "2026-11-24",
     "authors": [
-     "Hafeeza Amna Saleem",
-     "Awais Ali",
-     "Muhammad Azhar Jameel",
-     "Tashbaev Sherzodbek",
-     "Muydinov Nurillo Tukhtarovich",
-     "Omonbayev Oybek"
+     "Pedro Paulo Novaes de Mendonça",
+     "Álvaro Nogueira de Souza",
+     "Maria de Fátima de Brito Lima",
+     "Maísa Santos Joaquim",
+     "Éder Pereira Miguel",
+     "Ricardo de Oliveira Gaspar"
     ],
-    "n_authors": 9,
+    "n_authors": 6,
     "open_access": true,
     "basis": "abstract"
    }
   },
   {
-   "id": "W7239719577",
-   "title": "Aedes aegypti breeding patterns and arboviral risks influenced by complex social-climate dynamics in the semi-arid areas of Bouaké, central Côte d’Ivoire (West Africa)",
-   "headline": "Mosquito breeding and disease risk in Bouaké, Côte d'Ivoire",
+   "id": "W7240043493",
+   "title": "Keel-flowered legumes as pollinator resources and providers of ecosystem services in agricultural landscapes",
+   "headline": "Legumes support pollinators in farm landscapes",
    "bullets": [
-    "Sampled mosquito larvae across 3,600 households and surveyed community habits",
-    "Found Aedes aegypti dominated and disease risks exceeded WHO safety thresholds",
-    "Shows how seasons and water habits drive mosquito risks across urban areas"
+    "Synthesized knowledge on legume floral traits and pollinator diversity",
+    "Found specialized keel flowers need specific bees for pollination",
+    "Helps integrate pollinator support with agricultural productivity"
    ],
    "plain": {
-    "question": "How do weather and human habits affect disease-carrying mosquitoes in different urban areas?",
-    "method": "Checked water containers for mosquito larvae in 3,600 homes and surveyed residents about waste and water.",
-    "finding": "Mosquitoes thrive everywhere, especially in cities, and disease risks exceed safety limits year-round.",
-    "why": "Human water habits and seasonal rains keep mosquito disease risks high despite community awareness."
+    "question": "How do specialized legume flowers affect bees and ecosystem services in farms?",
+    "method": "A literature review synthesizing current knowledge on plant traits and pollinators.",
+    "finding": "Legumes provide vital resources for specific bees, depending on traits and timing.",
+    "why": "It shows how to use legumes in farming systems to support pollinators."
    },
    "full": {
-    "explainer": "Researchers studied how weather and social habits influence mosquitoes that spread dengue and yellow fever in Bouaké, Côte d'Ivoire. Between September 2023 and August 2024, they inspected water containers in 3,600 homes across urban, peri-urban, and rural areas during both dry and rainy seasons. They also asked residents about their water storage, waste management, and disease knowledge. The results showed that Aedes aegypti mosquitoes made up over 99 percent of the samples. Disease risks surpassed standard World Health Organization thresholds everywhere, with urban areas showing the highest numbers. Tires were the main breeding grounds in cities, while medium-sized containers mattered most in rural and peri-urban zones. Rainy seasons caused more outdoor and discarded containers to get infested, whereas dry seasons led to water storage problems that bred mosquitoes indoors. Surprisingly, even when people knew about the risks, their habits did not change to protect them.",
+    "explainer": "Intensive farming and habitat loss are causing pollinators to decline around the world. Many important agricultural plants, such as alfalfa and clovers, have specialized flowers called keel flowers. These flowers require mechanical force to open, meaning only medium- to large-bodied bees, like certain wild bees, can access their pollen and nectar. This review paper looks at how these unique flower structures connect to pollinator variety, numbers, and effectiveness. It explores how the value of these plants depends on traits, timing, and resource abundance. The paper also discusses ways to use legumes in farming through pastures, cover crops, and crop rotations to boost pollinator resources and support pollination services. Additionally, it considers natural enemies and pest control within these systems. Finally, the authors point out key knowledge gaps in legume pollination ecology and suggest ways to mix pollinator support with crop production.",
     "caveats": [
-     "The abstract ends abruptly and does not provide a full conclusion sentence.",
-     "Not stated whether actual disease cases were measured alongside vector presence.",
-     "Not stated how community education levels were precisely quantified."
+     "Specific quantitative results are not stated.",
+     "Exact geographical locations of studies are not stated."
     ],
     "jargon": [
      {
-      "term": "Arboviral risks",
-      "definition": "Risks of contracting viruses spread by arthropods like mosquitoes and ticks."
+      "term": "keel-flowered legumes",
+      "definition": "Legume plants with specialized flower petals that enclose reproductive parts and require force to open."
      },
      {
-      "term": "Peri-urban",
-      "definition": "The transition zone where urban and rural areas meet and mix."
+      "term": "flowering phenology",
+      "definition": "The timing of biological events in plants, specifically when flowers bloom over time."
      },
      {
-      "term": "Larval and pupal indices",
-      "definition": "Measurements used to estimate the density of mosquito larvae and pupae in an area."
+      "term": "habitat fragmentation",
+      "definition": "The breaking up of large natural habitats into smaller, isolated patches."
      }
     ],
-    "fit": "Connects to Global South urban environments, settlement types, and water-related infrastructure planning and risks."
+    "fit": "Provides context on how specific plant traits support beneficial organisms in managed landscapes, relevant to habitat quality."
    },
    "thesis": {
-    "why": "It offers insight into urban settlement types and water storage practices in a Global South context, paralleling infrastructure and health planning challenges.",
-    "action": "Check how urban form and informal water storage are linked in the full text.",
+    "why": "It offers broader context on how floral resources and landscape management affect ecosystem services like pollination.",
+    "action": "Check if the review discusses metrics or spatial configurations applicable to urban nature access.",
     "relationship": "context"
    },
    "critical": {
-    "question": "Does knowing about mosquito risks actually fail to change behavior, or is lack of infrastructure the real driver?",
-    "evidence": "The abstract states that community education and awareness did not translate into behavioural change for a protective effect.",
-    "limit": "The abstract does not explain why behavior failed to change or what structural constraints residents face.",
-    "check": "Verify what underlying water supply constraints prevent residents from altering their water storage habits."
+    "question": "How do specific agricultural management practices directly alter pollinator access to floral resources across different spatial scales?",
+    "evidence": "The abstract mentions integrating legumes into agricultural systems via pastures, cover crops, and semi-natural habitats.",
+    "limit": "The abstract does not provide empirical data or measurable effect sizes for these agricultural integration methods.",
+    "check": "Verify if the full paper provides spatial or landscape-level metrics that could inform urban green infrastructure design."
    },
    "relevance": 2,
    "watch": null,
    "source": {
-    "url": "https://doi.org/10.1371/journal.pntd.0014190",
-    "doi": "https://doi.org/10.1371/journal.pntd.0014190",
-    "venue": "PLoS neglected tropical diseases",
+    "url": "https://doi.org/10.3389/fevo.2026.1974258",
+    "doi": "https://doi.org/10.3389/fevo.2026.1974258",
+    "venue": "Frontiers in Ecology and Evolution",
+    "date": "2026-11-26",
+    "authors": [
+     "Deniz Aygören Uluer"
+    ],
+    "n_authors": 1,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7239729457",
+   "title": "Geodiversity Ecosystem Services in the Chapada Do Araripe, UNESCO World Heritage Tentative Site",
+   "headline": "Geodiversity units shape abiotic ecosystem service supply",
+   "bullets": [
+    "Identified Homogeneous Units of Geodiversity and assessed abiotic ecosystem services.",
+    "Found exceptional units under sub-humid climate and relief offer greater service supply.",
+    "Shows how landscape variables and relief determine regulation and support services."
+   ],
+   "plain": {
+    "question": "How do physical landscape types provide nature benefits in a special region?",
+    "method": "Used maps, literature, and field questionnaires to study the area.",
+    "finding": "Certain landscape units with specific climate and relief offer more benefits.",
+    "why": "It helps us understand how physical features support vital ecological services."
+   },
+   "full": {
+    "explainer": "This paper looks at how the physical features of the earth—such as rocks, land shape, and climate—provide benefits to society. These benefits are known as ecosystem services. The researchers studied a special place called Chapada do Araripe, which is a UNESCO World Heritage tentative site. They grouped similar physical landscape features together into what they call Homogeneous Units of Geodiversity. By using existing maps, previous studies, and a field questionnaire, they measured the abiotic (non-living) ecosystem services provided by each of these units. Their results show that the exceptional units, especially those influenced by a sub-humid climate and the shape of the land, provide a much greater supply of these benefits. Specifically, the relationship between the shape of the land and the local climate controls how many services are supplied, particularly those related to regulation and support. This helps us see how the physical foundation of a landscape supports human well-being.",
+    "caveats": [
+     "Study focuses on abiotic ecosystem services in a specific protected tentative site.",
+     "Relies on a field questionnaire and cartographic survey for assessment."
+    ],
+    "jargon": [
+     {
+      "term": "Geodiversity",
+      "definition": "The natural variety of geological, geomorphological, and physical features in the environment."
+     },
+     {
+      "term": "Homogeneous Units of Geodiversity (HUGs)",
+      "definition": "Areas sharing similar physical landscape variables from geological and climatic perspectives."
+     },
+     {
+      "term": "Abiotic ecosystem services",
+      "definition": "Benefits to society provided by non-living natural elements like geology, relief, and climate."
+     }
+    ],
+    "fit": "Connects to environmental planning and ecosystem service supply by evaluating how physical landscape units drive regulation and support services."
+   },
+   "thesis": {
+    "why": "It shows how physical landscape units and climate determine abiotic ecosystem service supply, offering a perspective on non-living natural benefits that can inform planning.",
+    "action": "Check how the study defines and measures abiotic ecosystem services using questionnaires.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How reliable is a questionnaire-based assessment for quantifying physical ecosystem services?",
+    "evidence": "The abstract states that a field questionnaire was used to assess the abiotic ecosystem services using the proposed method.",
+    "limit": "The abstract does not explain the exact metrics, criteria, or numerical values used in the questionnaire to quantify the services.",
+    "check": "Verify the exact questions and scoring system used in the field questionnaire to measure service supply."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.21203/rs.3.rs-11677482/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-11677482/v1",
+    "venue": "Research Square",
     "date": "2026-11-25",
     "authors": [
-     "Jean-Denis Dibo",
-     "Mahama Touré",
-     "Pierre N. Coulibaly",
-     "Yasmine N. Bire",
-     "Luc Djogbénou",
-     "Jacques François Mavoungou"
+     "Francisco Hermínio Ramalho de Araújo",
+     "Marco Túlio Mendonça Diniz",
+     "Marcelo Alves Souza",
+     "Carlito Alves do Nascimento",
+     "Allysson Pontes Pinheiro",
+     "Marcelo Martins de Moura-Fé"
     ],
-    "n_authors": 12,
+    "n_authors": 6,
+    "open_access": true,
+    "basis": "abstract"
+   }
+  },
+  {
+   "id": "W7240263325",
+   "title": "Diverse waste services in urban India: materiality, value and risk",
+   "headline": "Non-state waste services in urban India",
+   "bullets": [
+    "Examined non-state waste practices in urban India handling low-value and risky waste.",
+    "Found that waste practices driven by necessity, care, and responsibility fill gaps.",
+    "Highlights diverse economies and hybrid models combating urban waste crises."
+   ],
+   "plain": {
+    "question": "How do non-state actors handle difficult waste in fast-growing Indian cities?",
+    "method": "Studied non-state delivered services and practices tackling waste with low economic value.",
+    "finding": "Waste practices driven by necessity, care, and responsibility fill infrastructural gaps.",
+    "why": "It shows how diverse economies help combat urban waste crises when public bodies fail."
+   },
+   "full": {
+    "explainer": "In fast-growing cities across the Global South, urban waste management systems are under heavy strain because cities generate large volumes of waste. Officially, local public bodies or municipalities are supposed to manage waste, provide infrastructure, and enforce rules. However, in practice, these official bodies are often limited or failing. This failure has caused a fast-growing and diversifying waste service sector. This sector includes informal waste pickers, non-governmental organisations, and entrepreneurs trying to extract value from waste. However, not all waste is easily recycled or reformed. This paper focuses on non-state services and practices in urban India that deal with waste that does not yield much economic value and may involve risks. It highlights how heterogeneous infrastructure configurations and diverse economies help fight the waste crisis. The findings show that waste practices driven by necessity, care, and responsibility step in to fill infrastructural gaps. These practices form an important part of basic urban services and often rely on hybrid organisational models.",
+    "caveats": [
+     "Geographic scope is limited to urban India.",
+     "Focuses specifically on waste that does not yield much economic value and involves risks."
+    ],
+    "jargon": [
+     {
+      "term": "heterogeneous infrastructure configurations",
+      "definition": "Mixed or varied systems of physical structures and facilities providing public services."
+     },
+     {
+      "term": "hybrid organisational models",
+      "definition": "Organisational structures that combine different types of entities, such as public and non-state actors."
+     }
+    ],
+    "fit": "Connects to Global South urban contexts, infrastructural gaps, and diverse economies relevant to urban basic services."
+   },
+   "thesis": {
+    "why": "It provides context on non-state basic service delivery and infrastructural gaps in the Global South, expanding understanding of urban management beyond ecosystem services.",
+    "action": "Check if the paper discusses connections between urban waste practices and environmental quality or green infrastructure.",
+    "relationship": "context"
+   },
+   "critical": {
+    "question": "How do these non-state waste practices quantitatively impact local environmental quality or ecosystem services?",
+    "evidence": "The abstract discusses how non-state actors handle low-value, risky waste and fill infrastructural gaps using diverse economies and hybrid models.",
+    "limit": "The abstract does not provide measurable data on environmental outcomes, ecosystem services, or spatial land-cover changes.",
+    "check": "Verify whether the full text links waste management practices to specific environmental planning outcomes or spatial indicators."
+   },
+   "relevance": 2,
+   "watch": null,
+   "source": {
+    "url": "https://doi.org/10.1080/23792949.2026.2757225",
+    "doi": "https://doi.org/10.1080/23792949.2026.2757225",
+    "venue": "Area Development and Policy",
+    "date": "2026-11-27",
+    "authors": [
+     "Trisanki Saikia",
+     "Julia Affolderbach"
+    ],
+    "n_authors": 2,
     "open_access": true,
     "basis": "abstract"
    }
@@ -603,64 +601,40 @@
  ],
  "more": [
   {
-   "title": "Integrated assessment of urban heat island and thermal ecological stress in a rapidly expanding coastal…",
-   "url": "https://doi.org/10.1007/s10098-026-03643-0",
-   "venue": "Clean Technologies and Environmental Policy",
-   "date": "2026-11-25"
+   "title": "A landscape-based cultural ecosystem service analytical framework (L-CESAF) for mediterranean agricultural…",
+   "url": "https://doi.org/10.3389/fenvs.2026.1924570",
+   "venue": "Frontiers in Environmental Science",
+   "date": "2026-11-27"
   },
   {
-   "title": "Mitigating Lahore's Urban Heat Island: Satellite Derived Thermal Stress Assessment, Priority Urban Forestry…",
-   "url": "https://doi.org/10.31223/x5q23r",
-   "venue": "EarthArXiv (California Digital Library)",
-   "date": "2026-11-25"
+   "title": "Water-Sensitive Urban Design in Sub-Saharan African Secondary Cities: Institutional Barriers, Informality,…",
+   "url": "https://doi.org/10.53941/ubs.2027.100001",
+   "venue": "Urban and Building Science",
+   "date": "2026-11-27"
   },
   {
-   "title": "Connecting Lives: Bridging Information and Services Through Kapwa Ko Mahal Ko sa Radyo: An Autoethnographic…",
-   "url": "https://doi.org/10.64388/ire1725472",
-   "venue": "Iconic Research and Engineering Journals",
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Food Processing Innovation, Productive Employment, and Poverty Reduction in Afghanistan: An Integrative…",
-   "url": "https://doi.org/10.65101/sinebis.v2i2.477",
-   "venue": "Journal of Strategic Innovation in Economics and Business",
+   "title": "A transferable framework for integrating shared socioeconomic pathways into hybrid urban growth models:…",
+   "url": "https://doi.org/10.1016/j.landusepol.2026.108431",
+   "venue": "Land Use Policy",
    "date": "2026-11-24"
   },
   {
-   "title": "Ethnobotanical heritage of Kafir Kot, Dera Ismail Khan, Pakistan: Ethnobioinformatics and conservation",
-   "url": "https://doi.org/10.32859/era.36.20.1-19",
-   "venue": "Ethnobotany Research and Applications",
-   "date": "2026-11-22"
+   "title": "The aridity niche of eucalypt species is strongly predicted by petiole xylem area to leaf area ratio and…",
+   "url": "https://doi.org/10.1111/nph.71780",
+   "venue": "New Phytologist",
+   "date": "2026-11-26"
   },
   {
-   "title": "Morphometrics and body condition of Indian House Crows (Corvus splendens) in a semi-arid environment of…",
-   "url": "https://doi.org/10.1007/s44338-026-00274-z",
-   "venue": "Discover Animals",
-   "date": "2026-11-20"
+   "title": "Algal and Cyanobacterial Regrowth in Household Rooftop Water Storage Tanks under Hot-Arid Conditions:…",
+   "url": "https://doi.org/10.67499/jcls.v9i2.256",
+   "venue": "UPI Journal of Chemical and Life Sciences",
+   "date": "2026-11-21"
   },
   {
-   "title": "Event-driven changes in surface-soil hydraulic properties in semi-arid regions may drive shifts in surface…",
-   "url": "https://doi.org/10.5194/egusphere-2026-6995",
-   "venue": "",
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Innovative alkalinity neutralization approaches improve tomato yield, quality and influence soil properties…",
-   "url": "https://doi.org/10.3389/frfst.2026.1976109",
-   "venue": "Frontiers in Food Science and Technology",
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Uncovering depth and spatial patterns of soil environmental DNA in arid regions",
-   "url": "https://doi.org/10.21203/rs.3.rs-11651412/v1",
-   "venue": "Research Square",
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Seasonal Variation of Irrigation Water Quality and Evaluation of Hydrochemical Facies in Selected Urban…",
-   "url": "https://doi.org/10.17474/artvinofd.2037268",
-   "venue": "Artvin Çoruh Üniversitesi Orman Fakültesi Dergisi",
-   "date": "2026-11-24"
+   "title": "Leaf trait variations reveal contrasting resource use strategies of Persian oak across five climatic zones",
+   "url": "https://doi.org/10.1016/j.gecco.2026.e04525",
+   "venue": "Global Ecology and Conservation",
+   "date": "2026-11-21"
   }
  ]
 }

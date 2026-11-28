@@ -1,31 +1,4 @@
 {
- "2026-11-13": {
-  "papers": [
-   "Local knowledge as a living infrastructure",
-   "Mapping and modelling urban gullies across Africa",
-   "South Asia forest greening shows regrowth, not recovery",
-   "Mapping urban heat islands in Francistown, Botswana",
-   "Five criteria for urban biodiversity indicators",
-   "Climate change shrinks tree habitats in China",
-   "Moths are vital nocturnal pollinators often neglected",
-   "Hybrid governance shapes payments for ecosystem services",
-   "Land use mitigation is essential to meet climate goals"
-  ],
-  "radar": [
-   "Cities Rise Up on Climate Agenda at COP31 Leaders' Meeting",
-   "C40 Warns of Extreme Heat Risks at COP Conference",
-   "BfN Expert Meeting on New Regulations for Renewable Energy",
-   "Ho Chi Minh City Master Plan 2025–2050",
-   "Crematorium Plan at Nairobi City Park Draws Public Opposition"
-  ],
-  "tools": [
-   "qgis/QGIS final-3_44_15"
-  ],
-  "lessons": [
-   "Conditional cash transfers in conservation",
-   "Multimodal mobility"
-  ]
- },
  "2026-11-14": {
   "papers": [
    "Ecosystem service trade-offs and optimization in basins",
@@ -325,6 +298,35 @@
   "lessons": [
    "Extractivism and agrarian change",
    "Diameter at breast height"
+  ]
+ },
+ "2026-11-28": {
+  "papers": [
+   "Ecosystem services and shifts in China from 2001 to 2024",
+   "Ecosystem-Centred Accounting Framework Proposed",
+   "Drought sensitivity linked to forage aptitude in rangelands",
+   "Urban expansion destroys farmland in Sheger City",
+   "Wealth and inequality affect bird diversity differently",
+   "Urban forests usually raise property values",
+   "Legumes support pollinators in farm landscapes",
+   "Geodiversity units shape abiotic ecosystem service supply",
+   "Non-state waste services in urban India"
+  ],
+  "radar": [
+   "Mahalaxmi Racecourse makeover: Architects moot urban wetland park",
+   "Researchers call to understand who benefits from green space",
+   "Green space and health: more than a single exposure",
+   "Rome Study Reveals Monitoring Station Selection Alters Estimates",
+   "Busan pushes for Nakdong River estuary national urban park"
+  ],
+  "tools": [
+   "qgis/QGIS final-3_44_16",
+   "natcap/invest 3.21.0",
+   "qgis/QGIS final-3_44_15"
+  ],
+  "lessons": [
+   "Relational values of nature",
+   "Spatial multicriteria decision analysis"
   ]
  }
 }

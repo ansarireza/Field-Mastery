@@ -1,5 +1,22 @@
 {
- "date": "2026-11-27",
- "successful": 15,
- "failed": []
+ "date": "2026-11-28",
+ "successful": 11,
+ "failed": [
+  {
+   "url": "https://news.google.com/rss/search?q=European%20Union%20urban%20nature%20biodiversity%20regulation%20funding%20when%3A7d&hl=en&gl=US&ceid=US:en",
+   "error": "RuntimeError"
+  },
+  {
+   "url": "https://news.google.com/rss/search?q=urban%20ecosystem%20services%20Global%20South%20planning%20policy%20when%3A7d&hl=en&gl=US&ceid=US:en",
+   "error": "RuntimeError"
+  },
+  {
+   "url": "https://news.google.com/rss/search?q=climate%20adaptation%20funding%20cities%20when%3A7d&hl=en&gl=US&ceid=US:en",
+   "error": "RuntimeError"
+  },
+  {
+   "url": "https://news.google.com/rss/search?q=ecosystem%20services%20symposium%202024%20when%3A7d&hl=en&gl=US&ceid=US:en",
+   "error": "RuntimeError"
+  }
+ ]
 }

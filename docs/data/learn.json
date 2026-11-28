@@ -1,64 +1,64 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "lessons": [
   {
-   "id": "786fbe1f8f",
-   "date": "2026-11-27",
-   "term": "Extractivism and agrarian change",
-   "area": "Global South development",
-   "kind": "classic_idea",
-   "definition": "Extractivism is the large-scale removal of natural resources for export, driving deep shifts in farming and land use.",
-   "plain": "Extractivism means pulling raw resources out of the earth for outside markets. This changes local farming and land use. In the Global South, it often pushes small farmers off their lands or alters water and soil, disrupting traditional rural and peri-urban life.",
-   "example": "Large-scale mining or intensive commercial farming in a developing region draws water away from local agriculture, changing rural landscapes.",
-   "connects": "It links to land-cover change, peri-urban agriculture, and how natural resources are managed.",
-   "why_phd": "It helps explain the root causes of rural land shifts and peri-urban pressures impacting Kabul's environment.",
+   "id": "fb1da06f22",
+   "date": "2026-11-28",
+   "term": "Relational values of nature",
+   "area": "Nature contributions to people",
+   "kind": "concept",
+   "definition": "Relational values are the meaningful bonds and responsibilities that people have with nature, beyond mere usefulness or monetary worth.",
+   "plain": "Instead of just looking at nature as a resource that provides goods, or something with an intrinsic right to exist, relational values focus on the cultural identity, shared meaning, and deep connections people form with their local environment.",
+   "example": "In an urban neighborhood of Kabul, residents may deeply value a local garden not just for cooling the air, but as a sacred space for community gatherings and family history.",
+   "connects": "It connects plural valuation and environmental justice to how different communities experience and benefit from urban nature.",
+   "why_phd": "It helps explain why formal urban plans often fail if they ignore local cultural attachments and community bonds to the land.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "What is extractivism?",
-     "a": "The large-scale removal of natural resources, mostly for export."
+     "q": "What are relational values of nature?",
+     "a": "The meaningful bonds, cultural identity, and responsibilities people share with nature."
     },
     {
-     "q": "How does it affect agrarian change?",
-     "a": "It alters traditional farming, land use, and local water or soil conditions."
+     "q": "How do they differ from material benefits?",
+     "a": "They focus on relationships and cultural meaning rather than physical goods or money."
     }
    ],
-   "search": "extractivism and agrarian change Global South"
+   "search": "relational values urban nature"
   },
   {
-   "id": "4655d25c08",
-   "date": "2026-11-27",
-   "term": "Diameter at breast height",
+   "id": "0a7d3861d6",
+   "date": "2026-11-28",
+   "term": "Spatial multicriteria decision analysis",
    "area": "From today's papers",
    "kind": "concept",
-   "definition": "Diameter at breast height is the standard measure of a tree's stem diameter, typically taken at 1.3 meters above the ground.",
-   "plain": "Imagine wrapping a measuring tape around a tree trunk at chest height. That measurement is diameter at breast height. Researchers use it to quickly estimate a tree's size, age, and overall health without needing to cut it down.",
-   "example": "In a Kabul urban park project, researchers measure the diameter at breast height of mature street trees to calculate how much shade and cooling they provide.",
-   "connects": "It connects to estimating urban carbon storage, cooling capacity, and habitat quality in green infrastructure assessments.",
-   "why_phd": "It provides the essential baseline data needed to model tree growth, urban cooling benefits, and habitat quality in data-scarce cities.",
+   "definition": "Spatial multicriteria decision analysis combines geographic data with values to rank land-use options for planning.",
+   "plain": "Imagine you have a map and several competing ideas for a city, like building parks or houses. Spatial multicriteria decision analysis helps planners combine different types of data—like environmental needs and social values—to score and rank which areas are best suited for each use.",
+   "example": "In a dry Global South city, planners use this method to rank where new green spaces should go to cool the city and protect water.",
+   "connects": "It connects scenario comparison, environmental planning, and mapping urban ecosystem service supply and demand.",
+   "why_phd": "It helps you turn complex environmental and social trade-offs into clear, transparent spatial options for decision-makers.",
    "basis": "AI teaching explanation; verify using the linked source search",
    "quiz": [
     {
-     "q": "At what standard height above the ground is the tree stem measured?",
-     "a": "1.3 meters above the ground."
+     "q": "What two main elements does this spatial analysis combine?",
+     "a": "Geographic data and stakeholder values or criteria."
     },
     {
-     "q": "Why is this measurement useful for urban ecosystem studies?",
-     "a": "It helps estimate tree size, age, and ecological benefits like cooling without cutting the tree."
+     "q": "Why is this method useful in environmental planning?",
+     "a": "It helps rank and choose the best land-use options when facing competing demands."
     }
    ],
-   "search": "tree diameter breast height urban forestry"
+   "search": "spatial multicriteria decision analysis urban planning"
   }
  ],
- "total_learned": 54,
+ "total_learned": 56,
  "path": {
   "stage": "Developing",
   "next_topics": [
-   "Relational values of nature",
    "Mainstreaming biodiversity in policy",
    "Panaceas and institutional diversity",
    "Common pool resource management",
-   "Stated preference valuation techniques"
+   "Stated preference valuation techniques",
+   "Environmental justice movements"
   ],
   "stages": [
    "Foundation: understand concepts",
